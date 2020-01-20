@@ -1,0 +1,22 @@
+! xterm*font: ShareTechMono-Regular.ttf
+xterm*faceName: ShareTechMono-Regular.ttf
+xterm*faceSize: 22
+xterm*loginshell: true
+xterm*savelines: 5000
+
+! colouring
+xterm*foreground: rgb:00/ff/00
+xterm*background: rgb:00/00/00
+
+xterm*fullscreen: true
+xterm*cursorBlink: true
+xterm*cursorOffTime: 600
+xterm*selectToClipboard: true
+
+! Fonts {{{
+Xft.antialias: true
+Xft.hinting:   true
+Xft.rgba:      rgb
+Xft.hintstyle: hintfull
+Xft.dpi:       200
+! }}}

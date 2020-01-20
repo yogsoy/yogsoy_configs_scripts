@@ -1,0 +1,8 @@
+split -v
+focus
+screen nload -d wlp60s0
+
+focus
+resize 60%
+startup_message off
+screen htop

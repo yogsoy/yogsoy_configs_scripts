@@ -1,0 +1,1 @@
+xrandr --output DP1-1 --auto --scale 2x2 --right-of eDP1

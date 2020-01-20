@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/elyshea/Documents'
+let g:netrw_dirhist_2='/home/elyshea/Documents/c++'
+let g:netrw_dirhist_3='/home/elyshea/Documents'
+let g:netrw_dirhist_4='/home/elyshea/Documents/smbshare-copy/smbshare/website/.git'
