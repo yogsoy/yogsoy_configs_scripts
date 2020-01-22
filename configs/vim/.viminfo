@@ -11,7 +11,7 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~Msle0~/\<title\>
+~MSle0~/sensible
 
 # Last Substitute Search Pattern:
 ~MSle0&\\
@@ -21,17 +21,17 @@ $\\033
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1579525797,,"wq"
+|2,0,1579691929,,"wq"
 :q
-|2,0,1579525684,,"q"
+|2,0,1579670480,,"q"
 :w
-|2,0,1579525556,,"w"
+|2,0,1579668781,,"w"
+:W
+|2,0,1579668018,,"W"
+:nohl
+|2,0,1579602144,,"nohl"
 :Wq
 |2,0,1579465183,,"Wq"
-:W
-|2,0,1579463061,,"W"
-:nohl
-|2,0,1579462951,,"nohl"
 :q!
 |2,0,1579437730,,"q!"
 :WQ
@@ -122,6 +122,12 @@ $\\033
 |2,0,1561683478,,"vsp empty"
 
 # Search String History (newest to oldest):
+?/sensible
+|2,1,1579668802,47,"sensible"
+?/flameshot
+|2,1,1579667890,47,"flameshot"
+?/focus
+|2,1,1579602038,47,"focus"
 ? \<title\>
 |2,1,1579462948,,"\\<title\\>"
 ?/debi
@@ -216,12 +222,6 @@ $\\033
 |2,1,1565043845,47,"REOL"
 ?/Reol
 |2,1,1565043844,47,"Reol"
-?/reol
-|2,1,1565043842,47,"reol"
-?/alias
-|2,1,1564929924,47,"alias"
-?/\~
-|2,1,1564929688,47,"\\~"
 
 # Expression History (newest to oldest):
 
@@ -231,326 +231,276 @@ $\\033
 
 # Registers:
 "0	LINE	0
-	def track_name(info):
-	    return "%s - %s" % (info["artist"], info["title"])
-	def track_position(info):
-	    return "%s/%s" % (info["position"], info["duration"])
-|3,0,0,1,4,0,1579280332,"def track_name(info):","    return \"%s - %s\" % (info[\"artist\"], info[\"title\"])","def track_position(info):","    return \"%s/%s\" % (info[\"position\"], info[\"duration\"])"
-""1	LINE	0
-	
-|3,1,1,1,1,0,1579525758,""
+	if [ ! $(echo $artist | egrep -q '^\s*$') ]
+|3,0,0,1,1,0,1579536887,"if [ ! $(echo $artist | egrep -q '^\\s*$') ]"
+"1	LINE	0
+	export TERMINAL=urxvt
+|3,0,1,1,1,0,1579668708,"export TERMINAL=urxvt"
 "2	LINE	0
-	alias c="cp -r"
-|3,0,2,1,1,0,1579525757,"alias c=\"cp -r\""
+	urxvt*selectToClipboard: true
+|3,0,2,1,1,0,1579667150,"urxvt*selectToClipboard: true"
 "3	LINE	0
-	exec gnome-terminal -- ~/scripts/bash_figlet_startup.sh
-|3,0,3,1,1,0,1579510103,"exec gnome-terminal -- ~/scripts/bash_figlet_startup.sh"
+	
+|3,0,3,1,1,0,1579667139,""
 "4	LINE	0
-	
-|3,0,4,1,1,0,1579510065,""
+	!urxvt*cursorOffTime: 600
+|3,0,4,1,1,0,1579667136,"!urxvt*cursorOffTime: 600"
 "5	LINE	0
-	focus_on_window_activation focus
-|3,0,5,1,1,0,1579510065,"focus_on_window_activation focus"
+	!urxvt*cursorBlink: true
+|3,0,5,1,1,0,1579667135,"!urxvt*cursorBlink: true"
 "6	LINE	0
-	[volume]
-	interval=once
-	color=#00eeff
-	signal=2
-	
-|3,0,6,1,5,0,1579471526,"[volume]","interval=once","color=#00eeff","signal=2",""
+	urxvt*boldFont: xft:ShareTechMono:style=Bold
+|3,0,6,1,1,0,1579667087,"urxvt*boldFont: xft:ShareTechMono:style=Bold"
 "7	LINE	0
-	[volume]
-|3,0,7,1,1,0,1579471521,"[volume]"
+	urxvt*instensityStyles: true
+|3,0,7,1,1,0,1579667049,"urxvt*instensityStyles: true"
 "8	LINE	0
-	[volume]
-	interval=once
-	color=#00eeff
-	signal=2
-	
-|3,0,8,1,5,0,1579471477,"[volume]","interval=once","color=#00eeff","signal=2",""
+	urxvt*urgentOnBell: true
+|3,0,8,1,1,0,1579665956,"urxvt*urgentOnBell: true"
 "9	LINE	0
-	
-|3,0,9,1,1,0,1579464949,""
+	! xterm*font: ShareTechMono-Regular.ttf
+|3,0,9,1,1,0,1579664758,"! xterm*font: ShareTechMono-Regular.ttf"
 "a	CHAR	0
 	sed 's/<[^>]*>//g'
 |3,0,10,0,1,0,1571990603,"sed 's/<[^>]*>//g'"
 "l	CHAR	0
 	sed 's/<[^>]*>//g'
 |3,0,21,0,1,0,1571991734,"sed 's/<[^>]*>//g'"
-"-	CHAR	0
-	"
-|3,0,36,0,1,0,1579461772,"\""
+""-	CHAR	0
+	#
+|3,1,36,0,1,0,1579667954,"#"
 
 # File marks:
-'0  17  81  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
-|4,48,17,81,1579525797,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
-'1  26  0  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
-|4,49,26,0,1579525766,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
-'2  26  0  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
-|4,50,26,0,1579525766,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
-'3  4  6  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
-|4,51,4,6,1579525708,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
-'4  4  6  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
-|4,52,4,6,1579525708,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
-'5  4  6  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
-|4,53,4,6,1579525708,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
-'6  4  6  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
-|4,54,4,6,1579525708,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
-'7  1  0  ~/.bash_aliases
-|4,55,1,0,1579525684,"~/.bash_aliases"
-'8  24  19  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
-|4,56,24,19,1579525657,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
-'9  24  19  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
-|4,57,24,19,1579525657,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
+'0  33  30  ~/.bash_aliases
+|4,48,33,30,1579691929,"~/.bash_aliases"
+'1  126  9  ~/.config/i3/config
+|4,49,126,9,1579670497,"~/.config/i3/config"
+'2  1  0  ~/scripts/bash_figlet_startup.sh
+|4,50,1,0,1579670480,"~/scripts/bash_figlet_startup.sh"
+'3  126  13  ~/.config/i3/config
+|4,51,126,13,1579669769,"~/.config/i3/config"
+'4  1  36  ~/.Xresources
+|4,52,1,36,1579669617,"~/.Xresources"
+'5  93  0  ~/.config/i3/config
+|4,53,93,0,1579668805,"~/.config/i3/config"
+'6  93  0  ~/.config/i3/config
+|4,54,93,0,1579668805,"~/.config/i3/config"
+'7  93  0  ~/.config/i3/config
+|4,55,93,0,1579668805,"~/.config/i3/config"
+'8  93  0  ~/.config/i3/config
+|4,56,93,0,1579668805,"~/.config/i3/config"
+'9  35  0  ~/.profile
+|4,57,35,0,1579668709,"~/.profile"
 
 # Jumplist (newest first):
--'  17  81  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
-|4,39,17,81,1579525797,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
--'  1  0  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
-|4,39,1,0,1579525775,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
--'  26  0  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
-|4,39,26,0,1579525766,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
--'  26  0  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
-|4,39,26,0,1579525766,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
--'  1  0  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
-|4,39,1,0,1579525755,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
--'  4  6  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
-|4,39,4,6,1579525708,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
--'  4  6  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
-|4,39,4,6,1579525708,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
--'  4  6  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
-|4,39,4,6,1579525708,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
+-'  33  30  ~/.bash_aliases
+|4,39,33,30,1579691929,"~/.bash_aliases"
 -'  1  0  ~/.bash_aliases
-|4,39,1,0,1579525684,"~/.bash_aliases"
--'  1  0  ~/.bash_aliases
-|4,39,1,0,1579525684,"~/.bash_aliases"
--'  1  0  ~/.bash_aliases
-|4,39,1,0,1579525684,"~/.bash_aliases"
--'  1  0  ~/.bash_aliases
-|4,39,1,0,1579525684,"~/.bash_aliases"
--'  1  0  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
-|4,39,1,0,1579525665,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
--'  24  19  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
-|4,39,24,19,1579525657,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
--'  24  19  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
-|4,39,24,19,1579525657,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
--'  26  19  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
-|4,39,26,19,1579525657,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
--'  26  19  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
-|4,39,26,19,1579525657,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
--'  26  19  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
-|4,39,26,19,1579525657,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
--'  11  0  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
-|4,39,11,0,1579524959,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
--'  13  0  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
-|4,39,13,0,1579524959,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
--'  11  0  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
-|4,39,11,0,1579524959,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
--'  13  0  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
-|4,39,13,0,1579524959,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
--'  13  0  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
-|4,39,13,0,1579524959,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
--'  13  0  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
-|4,39,13,0,1579524959,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
--'  1  0  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
-|4,39,1,0,1579524730,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
--'  1  0  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
-|4,39,1,0,1579524730,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
--'  1  0  ~/.fehbg
-|4,39,1,0,1579524692,"~/.fehbg"
--'  1  0  ~/.fehbg
-|4,39,1,0,1579524692,"~/.fehbg"
--'  1  0  ~/.fehbg
-|4,39,1,0,1579524692,"~/.fehbg"
--'  1  0  ~/.fehbg
-|4,39,1,0,1579524692,"~/.fehbg"
--'  1  0  ~/.fehbg
-|4,39,1,0,1579524692,"~/.fehbg"
--'  1  0  ~/.fehbg
-|4,39,1,0,1579524692,"~/.fehbg"
--'  1  0  ~/.fehbg
-|4,39,1,0,1579524692,"~/.fehbg"
--'  1  0  ~/.fehbg
-|4,39,1,0,1579524692,"~/.fehbg"
--'  1  0  ~/.fehbg
-|4,39,1,0,1579524692,"~/.fehbg"
--'  1  0  ~/.fehbg
-|4,39,1,0,1579524692,"~/.fehbg"
--'  1  0  ~/.fehbg
-|4,39,1,0,1579524692,"~/.fehbg"
--'  1  0  ~/.fehbg
-|4,39,1,0,1579524692,"~/.fehbg"
--'  1  0  ~/.fehbg
-|4,39,1,0,1579524692,"~/.fehbg"
--'  1  0  ~/.fehbg
-|4,39,1,0,1579524692,"~/.fehbg"
--'  1  0  ~/.fehbg
-|4,39,1,0,1579524692,"~/.fehbg"
--'  1  0  ~/.fehbg
-|4,39,1,0,1579524692,"~/.fehbg"
--'  1  0  ~/.fehbg
-|4,39,1,0,1579524692,"~/.fehbg"
--'  1  0  ~/.fehbg
-|4,39,1,0,1579524692,"~/.fehbg"
--'  1  0  ~/.fehbg
-|4,39,1,0,1579524692,"~/.fehbg"
--'  1  0  ~/.fehbg
-|4,39,1,0,1579524692,"~/.fehbg"
--'  1  0  ~/.fehbg
-|4,39,1,0,1579524692,"~/.fehbg"
--'  1  0  ~/.fehbg
-|4,39,1,0,1579524692,"~/.fehbg"
--'  1  0  ~/.fehbg
-|4,39,1,0,1579524692,"~/.fehbg"
--'  1  0  ~/.fehbg
-|4,39,1,0,1579524692,"~/.fehbg"
--'  33  27  ~/.bash_aliases
-|4,39,33,27,1579524639,"~/.bash_aliases"
--'  33  27  ~/.bash_aliases
-|4,39,33,27,1579524639,"~/.bash_aliases"
--'  33  27  ~/.bash_aliases
-|4,39,33,27,1579524639,"~/.bash_aliases"
--'  33  27  ~/.bash_aliases
-|4,39,33,27,1579524639,"~/.bash_aliases"
--'  33  27  ~/.bash_aliases
-|4,39,33,27,1579524639,"~/.bash_aliases"
--'  33  27  ~/.bash_aliases
-|4,39,33,27,1579524639,"~/.bash_aliases"
--'  33  27  ~/.bash_aliases
-|4,39,33,27,1579524639,"~/.bash_aliases"
--'  33  27  ~/.bash_aliases
-|4,39,33,27,1579524639,"~/.bash_aliases"
--'  33  27  ~/.bash_aliases
-|4,39,33,27,1579524639,"~/.bash_aliases"
--'  33  27  ~/.bash_aliases
-|4,39,33,27,1579524639,"~/.bash_aliases"
--'  33  27  ~/.bash_aliases
-|4,39,33,27,1579524639,"~/.bash_aliases"
--'  33  27  ~/.bash_aliases
-|4,39,33,27,1579524639,"~/.bash_aliases"
--'  33  27  ~/.bash_aliases
-|4,39,33,27,1579524639,"~/.bash_aliases"
--'  33  27  ~/.bash_aliases
-|4,39,33,27,1579524639,"~/.bash_aliases"
--'  33  27  ~/.bash_aliases
-|4,39,33,27,1579524639,"~/.bash_aliases"
--'  33  27  ~/.bash_aliases
-|4,39,33,27,1579524639,"~/.bash_aliases"
--'  33  27  ~/.bash_aliases
-|4,39,33,27,1579524639,"~/.bash_aliases"
--'  33  27  ~/.bash_aliases
-|4,39,33,27,1579524639,"~/.bash_aliases"
--'  33  27  ~/.bash_aliases
-|4,39,33,27,1579524639,"~/.bash_aliases"
--'  33  27  ~/.bash_aliases
-|4,39,33,27,1579524639,"~/.bash_aliases"
--'  33  27  ~/.bash_aliases
-|4,39,33,27,1579524639,"~/.bash_aliases"
--'  33  27  ~/.bash_aliases
-|4,39,33,27,1579524639,"~/.bash_aliases"
--'  33  27  ~/.bash_aliases
-|4,39,33,27,1579524639,"~/.bash_aliases"
--'  33  27  ~/.bash_aliases
-|4,39,33,27,1579524639,"~/.bash_aliases"
--'  33  27  ~/.bash_aliases
-|4,39,33,27,1579524639,"~/.bash_aliases"
--'  33  27  ~/.bash_aliases
-|4,39,33,27,1579524639,"~/.bash_aliases"
--'  33  27  ~/.bash_aliases
-|4,39,33,27,1579524639,"~/.bash_aliases"
--'  33  27  ~/.bash_aliases
-|4,39,33,27,1579524639,"~/.bash_aliases"
--'  33  27  ~/.bash_aliases
-|4,39,33,27,1579524639,"~/.bash_aliases"
--'  33  27  ~/.bash_aliases
-|4,39,33,27,1579524639,"~/.bash_aliases"
--'  33  27  ~/.bash_aliases
-|4,39,33,27,1579524639,"~/.bash_aliases"
--'  33  27  ~/.bash_aliases
-|4,39,33,27,1579524639,"~/.bash_aliases"
--'  33  27  ~/.bash_aliases
-|4,39,33,27,1579524639,"~/.bash_aliases"
--'  33  27  ~/.bash_aliases
-|4,39,33,27,1579524639,"~/.bash_aliases"
--'  33  27  ~/.bash_aliases
-|4,39,33,27,1579524639,"~/.bash_aliases"
--'  33  27  ~/.bash_aliases
-|4,39,33,27,1579524639,"~/.bash_aliases"
--'  1  0  ~/.bash_aliases
-|4,39,1,0,1579524629,"~/.bash_aliases"
--'  1  0  ~/.bash_aliases
-|4,39,1,0,1579524629,"~/.bash_aliases"
--'  1  0  ~/.bash_aliases
-|4,39,1,0,1579524629,"~/.bash_aliases"
--'  1  0  ~/.bash_aliases
-|4,39,1,0,1579524629,"~/.bash_aliases"
--'  1  0  ~/.bash_aliases
-|4,39,1,0,1579524629,"~/.bash_aliases"
--'  1  0  ~/.bash_aliases
-|4,39,1,0,1579524629,"~/.bash_aliases"
--'  1  0  ~/.bash_aliases
-|4,39,1,0,1579524629,"~/.bash_aliases"
--'  1  0  ~/.bash_aliases
-|4,39,1,0,1579524629,"~/.bash_aliases"
--'  1  0  ~/.bash_aliases
-|4,39,1,0,1579524629,"~/.bash_aliases"
--'  1  0  ~/.bash_aliases
-|4,39,1,0,1579524629,"~/.bash_aliases"
--'  1  0  ~/.bash_aliases
-|4,39,1,0,1579524629,"~/.bash_aliases"
--'  1  0  ~/.bash_aliases
-|4,39,1,0,1579524629,"~/.bash_aliases"
--'  1  0  ~/.bash_aliases
-|4,39,1,0,1579524629,"~/.bash_aliases"
--'  1  0  ~/.bash_aliases
-|4,39,1,0,1579524629,"~/.bash_aliases"
+|4,39,1,0,1579691922,"~/.bash_aliases"
+-'  126  9  ~/.config/i3/config
+|4,39,126,9,1579670497,"~/.config/i3/config"
+-'  126  9  ~/.config/i3/config
+|4,39,126,9,1579670497,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1579670489,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1579670489,"~/.config/i3/config"
+-'  1  0  ~/scripts/bash_figlet_startup.sh
+|4,39,1,0,1579670480,"~/scripts/bash_figlet_startup.sh"
+-'  1  0  ~/scripts/bash_figlet_startup.sh
+|4,39,1,0,1579670480,"~/scripts/bash_figlet_startup.sh"
+-'  1  0  ~/scripts/bash_figlet_startup.sh
+|4,39,1,0,1579670480,"~/scripts/bash_figlet_startup.sh"
+-'  1  0  ~/scripts/bash_figlet_startup.sh
+|4,39,1,0,1579670480,"~/scripts/bash_figlet_startup.sh"
+-'  126  13  ~/.config/i3/config
+|4,39,126,13,1579669769,"~/.config/i3/config"
+-'  126  13  ~/.config/i3/config
+|4,39,126,13,1579669769,"~/.config/i3/config"
+-'  126  13  ~/.config/i3/config
+|4,39,126,13,1579669769,"~/.config/i3/config"
+-'  126  13  ~/.config/i3/config
+|4,39,126,13,1579669769,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1579669747,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1579669747,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1579669747,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1579669747,"~/.config/i3/config"
+-'  1  36  ~/.Xresources
+|4,39,1,36,1579669617,"~/.Xresources"
+-'  1  36  ~/.Xresources
+|4,39,1,36,1579669617,"~/.Xresources"
+-'  1  36  ~/.Xresources
+|4,39,1,36,1579669617,"~/.Xresources"
+-'  1  36  ~/.Xresources
+|4,39,1,36,1579669617,"~/.Xresources"
+-'  1  36  ~/.Xresources
+|4,39,1,36,1579669617,"~/.Xresources"
+-'  1  36  ~/.Xresources
+|4,39,1,36,1579669617,"~/.Xresources"
+-'  1  36  ~/.Xresources
+|4,39,1,36,1579669617,"~/.Xresources"
+-'  1  36  ~/.Xresources
+|4,39,1,36,1579669617,"~/.Xresources"
+-'  1  36  ~/.Xresources
+|4,39,1,36,1579669617,"~/.Xresources"
+-'  1  36  ~/.Xresources
+|4,39,1,36,1579669617,"~/.Xresources"
+-'  1  36  ~/.Xresources
+|4,39,1,36,1579669617,"~/.Xresources"
+-'  1  36  ~/.Xresources
+|4,39,1,36,1579669617,"~/.Xresources"
+-'  1  36  ~/.Xresources
+|4,39,1,36,1579669617,"~/.Xresources"
+-'  1  36  ~/.Xresources
+|4,39,1,36,1579669617,"~/.Xresources"
+-'  1  36  ~/.Xresources
+|4,39,1,36,1579669617,"~/.Xresources"
+-'  1  36  ~/.Xresources
+|4,39,1,36,1579669617,"~/.Xresources"
+-'  20  0  ~/.Xresources
+|4,39,20,0,1579669611,"~/.Xresources"
+-'  20  0  ~/.Xresources
+|4,39,20,0,1579669611,"~/.Xresources"
+-'  20  0  ~/.Xresources
+|4,39,20,0,1579669611,"~/.Xresources"
+-'  20  0  ~/.Xresources
+|4,39,20,0,1579669611,"~/.Xresources"
+-'  20  0  ~/.Xresources
+|4,39,20,0,1579669611,"~/.Xresources"
+-'  20  0  ~/.Xresources
+|4,39,20,0,1579669611,"~/.Xresources"
+-'  20  0  ~/.Xresources
+|4,39,20,0,1579669611,"~/.Xresources"
+-'  20  0  ~/.Xresources
+|4,39,20,0,1579669611,"~/.Xresources"
+-'  20  0  ~/.Xresources
+|4,39,20,0,1579669611,"~/.Xresources"
+-'  20  0  ~/.Xresources
+|4,39,20,0,1579669611,"~/.Xresources"
+-'  20  0  ~/.Xresources
+|4,39,20,0,1579669611,"~/.Xresources"
+-'  20  0  ~/.Xresources
+|4,39,20,0,1579669611,"~/.Xresources"
+-'  20  0  ~/.Xresources
+|4,39,20,0,1579669611,"~/.Xresources"
+-'  20  0  ~/.Xresources
+|4,39,20,0,1579669611,"~/.Xresources"
+-'  20  0  ~/.Xresources
+|4,39,20,0,1579669611,"~/.Xresources"
+-'  20  0  ~/.Xresources
+|4,39,20,0,1579669611,"~/.Xresources"
+-'  93  0  ~/.config/i3/config
+|4,39,93,0,1579668805,"~/.config/i3/config"
+-'  93  0  ~/.config/i3/config
+|4,39,93,0,1579668805,"~/.config/i3/config"
+-'  93  0  ~/.config/i3/config
+|4,39,93,0,1579668805,"~/.config/i3/config"
+-'  93  0  ~/.config/i3/config
+|4,39,93,0,1579668805,"~/.config/i3/config"
+-'  93  0  ~/.config/i3/config
+|4,39,93,0,1579668805,"~/.config/i3/config"
+-'  93  0  ~/.config/i3/config
+|4,39,93,0,1579668805,"~/.config/i3/config"
+-'  93  0  ~/.config/i3/config
+|4,39,93,0,1579668805,"~/.config/i3/config"
+-'  93  0  ~/.config/i3/config
+|4,39,93,0,1579668805,"~/.config/i3/config"
+-'  93  0  ~/.config/i3/config
+|4,39,93,0,1579668805,"~/.config/i3/config"
+-'  93  0  ~/.config/i3/config
+|4,39,93,0,1579668805,"~/.config/i3/config"
+-'  93  0  ~/.config/i3/config
+|4,39,93,0,1579668805,"~/.config/i3/config"
+-'  93  0  ~/.config/i3/config
+|4,39,93,0,1579668805,"~/.config/i3/config"
+-'  93  0  ~/.config/i3/config
+|4,39,93,0,1579668805,"~/.config/i3/config"
+-'  93  0  ~/.config/i3/config
+|4,39,93,0,1579668805,"~/.config/i3/config"
+-'  35  0  ~/.profile
+|4,39,35,0,1579668709,"~/.profile"
+-'  35  0  ~/.profile
+|4,39,35,0,1579668709,"~/.profile"
+-'  35  0  ~/.profile
+|4,39,35,0,1579668709,"~/.profile"
+-'  35  0  ~/.profile
+|4,39,35,0,1579668709,"~/.profile"
+-'  35  0  ~/.profile
+|4,39,35,0,1579668709,"~/.profile"
+-'  35  0  ~/.profile
+|4,39,35,0,1579668709,"~/.profile"
+-'  35  0  ~/.profile
+|4,39,35,0,1579668709,"~/.profile"
+-'  35  0  ~/.profile
+|4,39,35,0,1579668709,"~/.profile"
+-'  35  0  ~/.profile
+|4,39,35,0,1579668709,"~/.profile"
+-'  35  0  ~/.profile
+|4,39,35,0,1579668709,"~/.profile"
+-'  35  0  ~/.profile
+|4,39,35,0,1579668709,"~/.profile"
+-'  35  0  ~/.profile
+|4,39,35,0,1579668709,"~/.profile"
+-'  35  0  ~/.profile
+|4,39,35,0,1579668709,"~/.profile"
+-'  35  0  ~/.profile
+|4,39,35,0,1579668709,"~/.profile"
+-'  35  0  ~/.profile
+|4,39,35,0,1579668709,"~/.profile"
+-'  35  0  ~/.profile
+|4,39,35,0,1579668709,"~/.profile"
+-'  35  0  ~/.profile
+|4,39,35,0,1579668709,"~/.profile"
+-'  35  0  ~/.profile
+|4,39,35,0,1579668709,"~/.profile"
+-'  35  0  ~/.profile
+|4,39,35,0,1579668709,"~/.profile"
+-'  35  0  ~/.profile
+|4,39,35,0,1579668709,"~/.profile"
+-'  35  0  ~/.profile
+|4,39,35,0,1579668709,"~/.profile"
+-'  35  0  ~/.profile
+|4,39,35,0,1579668709,"~/.profile"
+-'  35  0  ~/.profile
+|4,39,35,0,1579668709,"~/.profile"
+-'  35  0  ~/.profile
+|4,39,35,0,1579668709,"~/.profile"
+-'  35  0  ~/.profile
+|4,39,35,0,1579668709,"~/.profile"
+-'  35  0  ~/.profile
+|4,39,35,0,1579668709,"~/.profile"
+-'  35  0  ~/.profile
+|4,39,35,0,1579668709,"~/.profile"
+-'  35  0  ~/.profile
+|4,39,35,0,1579668709,"~/.profile"
+-'  35  0  ~/.profile
+|4,39,35,0,1579668709,"~/.profile"
+-'  35  0  ~/.profile
+|4,39,35,0,1579668709,"~/.profile"
+-'  35  0  ~/.profile
+|4,39,35,0,1579668709,"~/.profile"
+-'  35  0  ~/.profile
+|4,39,35,0,1579668709,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1579668707,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1579668707,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1579668707,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1579668707,"~/.profile"
 
 # History of marks within files (newest to oldest):
 
-> ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
-	*	1579525796	0
-	"	17	81
-	^	17	82
-	.	17	81
-	+	1	11
-	+	2	95
-	+	7	30
-	+	17	0
-	+	3	0
-	+	4	14
-	+	7	0
-	+	11	41
-	+	17	66
-	+	6	27
-	+	8	11
-	+	10	17
-	+	11	0
-	+	16	13
-	+	18	0
-	+	13	92
-	+	4	10
-	+	16	0
-	+	12	0
-	+	10	0
-	+	8	0
-	+	26	25
-	+	17	62
-	+	14	26
-	+	6	36
-	+	14	16
-	+	15	23
-	+	23	19
-	+	26	20
-	+	4	0
-	+	17	81
-
 > ~/.bash_aliases
-	*	1579525675	0
-	"	1	0
-	^	33	28
-	.	33	27
-	+	20	10
-	+	20	6
+	*	1579691929	0
+	"	33	30
+	^	33	31
+	.	33	30
 	+	20	7
 	+	22	7
 	+	22	25
@@ -649,7 +599,333 @@ $\\033
 	+	63	15
 	+	64	10
 	+	33	27
+	+	65	0
+	+	33	30
 	e	1	0
+
+> ~/.config/i3/config
+	*	1579670496	0
+	"	126	9
+	^	126	10
+	.	126	10
+	+	143	25
+	+	144	0
+	+	175	26
+	+	180	0
+	+	158	1
+	+	159	27
+	+	160	28
+	+	160	27
+	+	161	27
+	+	159	42
+	+	160	44
+	+	160	42
+	+	161	46
+	+	160	60
+	+	159	57
+	+	160	0
+	+	159	40
+	+	160	40
+	+	161	40
+	+	159	76
+	+	161	0
+	+	160	0
+	+	161	0
+	+	114	0
+	+	99	0
+	+	98	42
+	+	99	41
+	+	100	41
+	+	101	41
+	+	98	41
+	+	99	40
+	+	100	40
+	+	101	40
+	+	114	20
+	+	115	14
+	+	117	31
+	+	134	28
+	+	135	0
+	+	134	28
+	+	135	0
+	+	134	0
+	+	136	24
+	+	134	83
+	+	136	0
+	+	134	58
+	+	132	64
+	+	133	0
+	+	132	31
+	+	136	0
+	+	180	0
+	+	128	19
+	+	132	0
+	+	180	0
+	+	128	0
+	+	164	28
+	+	128	19
+	+	6	36
+	+	148	53
+	+	150	53
+	+	148	82
+	+	150	0
+	+	149	0
+	+	150	0
+	+	151	0
+	+	149	60
+	+	151	13
+	+	149	8
+	+	151	8
+	+	153	0
+	+	182	25
+	+	128	54
+	+	144	13
+	+	143	13
+	+	144	90
+	+	144	0
+	+	145	0
+	+	128	0
+	+	126	0
+	+	123	0
+	+	120	16
+	+	121	26
+	+	134	58
+	+	122	31
+	+	123	31
+	+	48	0
+	+	1	40
+	+	6	0
+	+	8	0
+	+	19	0
+	+	17	33
+	+	42	0
+	+	41	51
+	+	48	0
+	+	47	0
+	+	48	0
+	+	47	16
+	+	165	0
+	+	4	14
+	+	12	29
+	+	126	10
+
+> ~/scripts/bash_figlet_startup.sh
+	*	1579670478	0
+	"	1	0
+	.	2	0
+	+	2	0
+
+> ~/.Xresources
+	*	1579669615	0
+	"	1	36
+	^	1	37
+	.	1	36
+	+	2	0
+	+	1	9
+	+	2	0
+	+	5	0
+	+	6	0
+	+	14	0
+	+	1	36
+	+	7	22
+	+	8	14
+	+	9	21
+	+	14	0
+	+	2	0
+	+	2	43
+	+	10	26
+	+	11	22
+	+	14	0
+	+	2	0
+	+	14	0
+	+	12	0
+	+	13	31
+	+	20	0
+	+	1	36
+
+> ~/.profile
+	*	1579668708	0
+	"	35	0
+	.	36	0
+	+	35	26
+	+	36	0
+
+> ~/.bashrc
+	*	1579668651	0
+	"	93	0
+	^	24	24
+	.	24	23
+	+	153	36
+	+	16	22
+	+	23	14
+	+	22	10
+	+	24	23
+
+> /usr/share/fonts/X11/misc/fonts.alias
+	*	1579665403	0
+	"	41	0
+
+> /usr/share/fonts/misc/fonts.alias
+	*	1579665292	0
+	"	1	0
+
+> ~/Documents/propersize.sh
+	*	1579600006	0
+	"	1	0
+
+> ~/Downloads/programs/android-studio/Install-Linux-tar.txt
+	*	1579597791	0
+	"	1	2
+
+> ~/.config/i3blocks/blocks/music.sh
+	*	1579536900	0
+	"	10	19
+	^	10	20
+	.	10	19
+	+	21	11
+	+	3	0
+	+	33	0
+	+	3	8
+	+	17	9
+	+	33	7
+	+	17	0
+	+	33	22
+	+	1	10
+	+	33	21
+	+	17	11
+	+	33	5
+	+	17	0
+	+	33	0
+	+	32	0
+	+	33	0
+	+	17	22
+	+	32	0
+	+	17	0
+	+	3	0
+	+	32	19
+	+	17	22
+	+	12	21
+	+	15	34
+	+	17	25
+	+	3	20
+	+	12	22
+	+	15	35
+	+	21	103
+	+	15	47
+	+	21	102
+	+	15	0
+	+	21	95
+	+	21	33
+	+	21	0
+	+	21	24
+	+	21	30
+	+	21	97
+	+	21	105
+	+	21	0
+	+	24	1
+	+	21	30
+	+	21	97
+	+	21	98
+	+	29	0
+	+	26	1
+	+	26	91
+	+	21	0
+	+	24	0
+	+	26	0
+	+	30	0
+	+	17	0
+	+	14	0
+	+	1	0
+	+	11	0
+	+	3	0
+	+	9	0
+	+	12	67
+	+	15	61
+	+	18	12
+	+	22	50
+	+	27	96
+	+	26	88
+	+	28	18
+	+	26	1
+	+	28	57
+	+	3	0
+	+	4	19
+	+	6	27
+	+	13	37
+	+	15	50
+	+	23	41
+	+	28	105
+	+	26	1
+	+	6	27
+	+	26	1
+	+	4	18
+	+	19	27
+	+	15	2
+	+	16	47
+	+	23	1
+	+	24	54
+	+	1	0
+	+	15	0
+	+	12	48
+	+	22	51
+	+	26	0
+	+	27	52
+	+	15	64
+	+	9	42
+	+	19	41
+	+	8	94
+	+	18	101
+	+	20	0
+	+	19	1
+	+	20	1
+	+	19	0
+	+	10	0
+	+	9	0
+	+	10	19
+
+> ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+	*	1579525915	0
+	"	1	31
+	^	1	32
+	.	1	31
+	+	1	31
+
+> ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
+	*	1579525796	0
+	"	17	81
+	^	17	82
+	.	17	81
+	+	1	11
+	+	2	95
+	+	7	30
+	+	17	0
+	+	3	0
+	+	4	14
+	+	7	0
+	+	11	41
+	+	17	66
+	+	6	27
+	+	8	11
+	+	10	17
+	+	11	0
+	+	16	13
+	+	18	0
+	+	13	92
+	+	4	10
+	+	16	0
+	+	12	0
+	+	10	0
+	+	8	0
+	+	26	25
+	+	17	62
+	+	14	26
+	+	6	36
+	+	14	16
+	+	15	23
+	+	23	19
+	+	26	20
+	+	4	0
+	+	17	81
 
 > ~/.fehbg
 	*	1579524689	0
@@ -673,217 +949,6 @@ $\\033
 	^	4	151
 	.	4	150
 	+	4	150
-
-> ~/.config/i3blocks/blocks/music.sh
-	*	1579523110	0
-	"	17	101
-	^	17	102
-	.	17	101
-	+	31	11
-	+	3	16
-	+	19	0
-	+	3	0
-	+	16	0
-	+	31	0
-	+	19	0
-	+	19	11
-	+	3	0
-	+	31	0
-	+	3	8
-	+	16	9
-	+	31	7
-	+	16	0
-	+	31	22
-	+	1	10
-	+	31	21
-	+	16	11
-	+	31	5
-	+	16	0
-	+	31	0
-	+	30	0
-	+	31	0
-	+	16	22
-	+	30	0
-	+	16	0
-	+	3	0
-	+	30	19
-	+	16	22
-	+	11	21
-	+	14	34
-	+	16	25
-	+	3	20
-	+	11	22
-	+	14	35
-	+	19	103
-	+	14	47
-	+	19	102
-	+	14	0
-	+	19	95
-	+	19	33
-	+	19	0
-	+	19	24
-	+	19	30
-	+	19	97
-	+	19	105
-	+	19	0
-	+	22	1
-	+	19	30
-	+	19	97
-	+	19	98
-	+	27	0
-	+	24	1
-	+	24	91
-	+	19	0
-	+	22	0
-	+	24	0
-	+	28	0
-	+	16	0
-	+	13	0
-	+	1	0
-	+	10	0
-	+	3	0
-	+	9	0
-	+	11	67
-	+	14	61
-	+	17	12
-	+	20	50
-	+	25	96
-	+	24	88
-	+	26	18
-	+	24	1
-	+	26	57
-	+	3	0
-	+	4	19
-	+	6	27
-	+	12	37
-	+	14	50
-	+	21	41
-	+	26	105
-	+	24	1
-	+	6	27
-	+	24	1
-	+	4	18
-	+	18	27
-	+	14	2
-	+	15	47
-	+	21	1
-	+	22	54
-	+	1	0
-	+	14	0
-	+	11	48
-	+	20	51
-	+	24	0
-	+	25	52
-	+	14	64
-	+	9	42
-	+	18	41
-	+	8	94
-	+	17	101
-
-> ~/.config/i3/config
-	*	1579520031	0
-	"	209	0
-	.	158	0
-	+	204	33
-	+	205	0
-	+	204	33
-	+	210	28
-	+	211	21
-	+	206	27
-	+	211	48
-	+	208	0
-	+	207	60
-	+	137	0
-	+	135	49
-	+	137	0
-	+	135	49
-	+	136	48
-	+	137	48
-	+	138	40
-	+	137	40
-	+	136	40
-	+	135	41
-	+	174	47
-	+	175	50
-	+	174	0
-	+	175	25
-	+	176	0
-	+	207	26
-	+	212	0
-	+	190	1
-	+	191	27
-	+	192	28
-	+	192	27
-	+	193	27
-	+	191	42
-	+	192	44
-	+	192	42
-	+	193	46
-	+	192	60
-	+	191	57
-	+	192	0
-	+	191	40
-	+	192	40
-	+	193	40
-	+	191	76
-	+	193	0
-	+	192	0
-	+	193	0
-	+	151	0
-	+	136	0
-	+	135	42
-	+	136	41
-	+	137	41
-	+	138	41
-	+	135	41
-	+	136	40
-	+	137	40
-	+	138	40
-	+	151	20
-	+	152	14
-	+	154	31
-	+	166	28
-	+	167	0
-	+	166	28
-	+	167	0
-	+	166	0
-	+	168	24
-	+	166	83
-	+	168	0
-	+	166	58
-	+	164	64
-	+	165	0
-	+	164	31
-	+	168	0
-	+	212	0
-	+	160	19
-	+	164	0
-	+	212	0
-	+	160	0
-	+	196	28
-	+	160	19
-	+	16	36
-	+	180	53
-	+	182	53
-	+	180	82
-	+	182	0
-	+	181	0
-	+	182	0
-	+	183	0
-	+	181	60
-	+	183	13
-	+	181	8
-	+	183	8
-	+	185	0
-	+	214	25
-	+	160	54
-	+	176	13
-	+	175	13
-	+	176	90
-	+	176	0
-	+	177	0
-	+	160	0
-	+	158	0
 
 > ~/.config/i3blocks/config
 	*	1579471752	0
@@ -1142,24 +1207,6 @@ $\\033
 	+	1	70
 	+	1	61
 	+	1	54
-
-> ~/.bashrc
-	*	1579380537	0
-	"	24	23
-	^	24	24
-	.	24	23
-	+	153	36
-	+	16	22
-	+	23	14
-	+	22	10
-	+	24	23
-
-> ~/.profile
-	*	1579378868	0
-	"	35	0
-	.	36	0
-	+	35	26
-	+	36	0
 
 > ~/Documents/testing/projects/opencellid/index.html
 	*	1579378262	0
@@ -2215,10 +2262,6 @@ $\\033
 	*	1578220289	0
 	"	1	0
 
-> ~/Downloads/programs/android-studio/Install-Linux-tar.txt
-	*	1578143191	0
-	"	16	0
-
 > ~/Documents/repositories/lucia/README.md
 	*	1578142031	0
 	"	1	0
@@ -2383,33 +2426,3 @@ $\\033
 	+	2	2
 	+	4	16
 	+	1	58
-
-> ~/.Xmodmap
-	*	1578046770	0
-	"	2	23
-	^	2	24
-	.	3	0
-	+	3	0
-
-> ~/.devilspie/discord.ds
-	*	1578030228	0
-	"	1	8
-	^	1	34
-	.	1	34
-	+	1	34
-
-> ~/Downloads/shrek/Shrek - Dreamworks ~ Map by KingPeuche/info.dat
-	*	1578023302	0
-	"	44	0
-
-> ~/Downloads/shrek/Shrek - Dreamworks ~ Map by KingPeuche/Easy.dat
-	*	1578023292	0
-	"	1	0
-
-> ~/time.js
-	*	1577897823	0
-	"	116	2
-
-> ~/cuneiform-out.txt
-	*	1577869953	0
-	"	1	0

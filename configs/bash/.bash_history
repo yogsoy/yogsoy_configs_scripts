@@ -2680,3 +2680,636 @@ mkdir scripts/scripts
 mkdir scripts/misc
 mkdir configs/vim
 exit
+exit
+exit
+exit
+htop
+kill
+htop
+exit
+cp ~/.bash_aliases configs/bash/
+vim backup.sh
+chx backup.sh 
+./backup.sh 
+vim backup.sh
+cat backup.sh | sed 's/^c /cp -r /'
+sed 's/^c /cp -r /' backup.sh 
+sed -i 's/^c /cp -r /' backup.sh 
+vim backup.sh 
+./backup.sh 
+vim backup.sh 
+./backup.sh 
+./backup.sh 
+cd ~/.vim/plugged/
+ls
+cd v-vim/
+ls
+la
+rf .git*
+ls
+la
+cd ~/Documents/repositories/yogsoy_configs_scripts/
+./backup.sh 
+./backup.sh 
+gitgo
+gitgo
+gitgo
+gitgo
+gitgo
+cdl
+cd Documents/testing/
+ls
+ls data/
+cat data/canvas\ shit.txt 
+cls
+ls data
+fs data/*
+fs data/
+fs data/* | sort
+fs data/* | sort -r
+fs data/* | sort -i
+fs data/* | sort
+man sort
+fs data/* | sort -h
+fs data/* | sort -h -r
+rf data/ipscanresults-school*
+fs data/* | sort -h -r
+rf data/full_japanese_dictionary.txt 
+fs data/* | sort -h -r
+fs data
+cat data/primes.txt 
+cat data/primes.txt | tr ', ' '\n'
+cat data/primes.txt | tr ', ' '\n' | cel
+cat data/primes.txt | tr ', ' '\n' | cel > data/primes.csv
+mv data/primes.csv data/primes.txt 
+fs data/* | sort -h -r
+fs data
+tar cvf data/
+tar cvf data data/
+man tar
+tar cvf data/*
+ls
+tar cvf data/* data.tar
+tar cvf data/*
+ls
+man tar
+tar cvf data.tar data/*
+ls
+fs data.tar 
+fs data
+ls data
+fs data/*
+rf data/ACs_format.json 
+tar cvf data.tar data/*
+ls
+fs data.tar 
+pavucontrol 
+cdl
+ls /mnt
+ls /dev
+mkdir /mnt/shoppe
+sudo mkdir /mnt/shoppe
+mount /dev/sdc1 /mnt/shoppe/
+suod mount /dev/sdc1 /mnt/shoppe/
+suod mount /dev/sdc2 /mnt/shoppe/
+cd /mnt/shoppe/
+ls
+vim ~/.config/i3blocks/blocks/music.sh 
+baobab 
+baobab /mnt/shoppe
+fs *
+df
+df -h
+cdl
+umount /mnt/shoppe 
+sudo umount /mnt/shoppe 
+pavucontrol 
+cheese 
+cd Videos/
+youtube-dl https://www.youtube.com/watch?v=-FszeHoK2Ck&t=684s
+youtucl
+ls
+ls youtube/
+mv EEVblog\ #1279\ -\ Best\ Dumpster\ PC\ Find\ Yet\!--FszeHoK2Ck.mp4 My\ NEW\ Roommate\ Has\ More\ Subscribers\ Than\ Me-N2GBrbXOn7U.mkv youtube/
+cls
+rf My\ NEW\ Roommate\ Has\ More\ Subscribers\ Than\ Me-N2GBrbXOn7U.m4a 
+cls
+mpv steven\ please.mp4 
+fs steven\ please.mp4 
+weather
+cdl
+baobab 
+bg
+cd Downloads/
+cd images
+ls
+cd ..
+cd トレント
+ls
+cd ..
+rf トレント
+sudo apt remove android-* --purge
+ls
+cd programs/
+ls
+cd android-studio/
+ls
+vim Install-Linux-tar.txt 
+cd ..
+ls
+rf android-studio*
+cdl
+rf .android .AndroidStudio3.5/
+cd Downloads/
+ls android/
+ls images/
+rf images/
+cdl
+cd Documents/repositories/creeperkeeper/
+ls
+rf vines/
+cdl
+cd Downloads/programs/
+fs *
+fs * | sort -q
+fs * | sort -h
+fs * | sort -h -r
+fs * | sort -h
+mkdir compress
+mv arduino-1.8* code7* iTunesSetup.exe brailleblaster-stable-linux.zip VMware-Player-15.0.* matlab* mongodb-linux-x86_64-ubuntu1804-4.0.4.tgz webcamoid-installer-8.7.1-x86_64.run compress/
+fs * | sort -h
+ls bb
+fs * | sort -h
+mv bb/ TINspireCXStudentSoftware-4.5.0.1180.exe kiwix-desktop_x86_64_2.0-rc2.appimage virtualbox-6.0_6.0.6-130049_Ubuntu_bionic_amd64.deb compress/
+fs * | sort -h
+tar cvf compressed.tar compress/*
+ls
+ls compressed.tar 
+fs compressed.tar 
+rf compressed.tar 
+ls
+ls compress/
+mv compress/* ./
+ls compress/
+rf compress/
+ls
+cdl
+cd Documents/repositories/
+cd ..
+ls zim/
+rf zim/
+cdl
+man dmenu
+sudo baobab &
+cd .config/
+fs google-chrome
+cd google-chrome
+ls
+fs *
+fs * | sort -h
+fs Default/*
+fs Default/* | sort -h
+cdl
+apts playonlinux
+sudo apt remove playonlinux --purge
+rf PlayOnLinux\'s\ virtual\ drives
+rf .PlayOnLinux/
+rf .wine/
+apts wine --installed
+apts wine
+rf .wine
+rf .wine
+rf Android
+sudo apt remove steam*
+steam
+sudo apt remove steam
+rf .local/share/Steam/
+sudo apt remove steam*
+rf .gradle
+gpartedbin
+sudo gpartedbin
+gnome-disks
+ls scripts/
+cd Documents/testing/
+ls
+ls code
+cd ..
+ls
+. propersize.sh 
+sudo ./propersize.sh 
+vim propersize.sh 
+lvresize /dev/ubuntu-vg/root /dev/nvme0n1p2
+sudo lvresize /dev/ubuntu-vg/root /dev/nvme0n1p2
+cat gendered_words.txt 
+ls
+fs *
+fs * | sort -h
+tar cvf ds_games.tar NDS\ Games/*
+fs ds_games.tar 
+rf ds_games.tar 
+ls
+man du
+man -Tpdf du
+man -Tpdf du | lp
+man -Tpdf du | lp
+htop
+cdl
+vim .config/i3/config 
+srv
+cdl
+cd Documents/
+ls
+ls phonebackup.tar 
+man tar
+tar -t phonebackup.tar
+tar -tf phonebackup.tar
+fs phonebackup.tar 
+man tar
+tar -xvf phonebackup.tar phone\ backup\ 2019-04-25/internal/primary/Pictures/baconreader/
+ls
+ls phone\ backup\ 2019-04-25/
+cd phone\ backup\ 2019-04-25/
+ls
+cd internal/primary/Pictures/baconreader/
+ls
+cp * ~/Pictures/memes
+ls ~/Pictures/
+ls ~/Pictures/memes/
+cdl
+fs Pictures/memes/
+ls Pictures/memes/ | shuf -n 1
+ls Pictures/memes/ | shuf -n 1
+iv Pictures/memes/i_wonder.png
+ls Pictures/memes/ | shuf -n 1
+ls Pictures/memes/ | shuf -n 1
+cd Pictures/memes/
+fs * | sort -hr
+fs * | sort -hr | head
+mpv a_nice_relaxing_slom.gif 
+mpv how_it_feels_when_i.gif 
+mpv here_we_are_350000_s.mp4 
+ls | shuf -n 1
+iv handdrawn_by_yours_t.png 
+ls | shuff
+ls | shuf
+ls | shuf | iv
+ls | shuf | iv -
+cl
+ls
+cl
+cdl
+fs /var/log/mail.log
+fs /var/log/mail*
+cl
+gpartedbin
+sudo gpartedbin
+swapoff
+swapoff --help
+swapoff -a
+sudo su
+vim scripts/bash_figlet_startup.sh 
+exit
+exit
+weather
+sudo su
+cdl
+cdl; ./scripts/bash_figlet_startup.sh 
+cdl; ./scripts/bash_figlet_startup.sh 
+cdl
+vim scripts/bash_figlet_startup.sh 
+exit
+xargs -I '{}' 'cat <(man -Tpdf {})' yes
+exit
+man xargs
+man alias
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+yes
+cl
+cdl
+exit
+exit
+urxvt --help
+urxvt
+xrdb --help
+xrdb
+xrdb .Xresources
+urxvt
+xrdb .Xresources
+urxvt
+xrdb .Xresources
+urxvt
+xrdb .Xresources
+urxvt
+urxvt -fn ShareTechMono-Regular
+urxvt -fn ShareTechMono
+fc-list
+fc-list | grep -i share
+fc-list | grep -i sharetech
+xrdb .Xresources
+urxvt
+xrdb .Xresources
+urxvt
+xrdb .Xresources
+urxvt
+xfontsel 
+xfontsel 
+xrdb .Xresources
+urxvt
+xfontsel 
+urxvt -fn "Share Tech Mono"
+vim /usr/share/fonts/misc/
+ls /usr/share/fonts/X11/misc/fonts.alias 
+vim /usr/share/fonts/X11/misc/fonts.alias 
+update-fonts-alias 
+update-fonts-alias /usr/share/fonts/X11/
+sudo update-fonts-alias /usr/share/fonts/X11/
+sudo update-fonts-alias /usr/share/fonts/X11/misc
+vim /usr/share/fonts/X11/misc/fonts.alias 
+xft
+urxvt
+xrdb .Xresources
+urxvt
+urxvt
+urxvt
+urxvt
+xrdb .Xresources
+urxvt
+xrdb .Xresources
+urxvt
+urxvt --help
+xrdb .Xresources
+urxvt
+xrdb .Xresources
+urxvt
+urxvt --help | grep -i scroll
+urxvt --help 2>./urxvt_help.log
+grep -i scroll urxvt_help.log 
+xrdb .Xresources
+urxvt
+grep -i bold urxvt_help.log 
+less urxvt_help.log 
+cl
+cl
+exit
+xrdb .Xresources
+urxvt
+xrdb .Xresources
+urxvt
+fc-list | grep -i sharetech
+xrdb .Xresources
+urxvt
+exit
+exit
+exit
+cat scripts/shutdown_with_timeout.sh 
+lpr
+echo test | lpr
+man lpr
+man urxvt 7
+man 7 urxvt
+exit
+less urxvt_help.log 
+exit
+exit
+exit
+exit
+exit
+echo $TERMINAL
+exit
+exit
+it
+exit
+xrdb .Xresources
+urxvt
+xrdb .Xresources
+urxvt
+xrdb .Xresources
+urxvt
+xrdb .Xresources
+urxvt
+xrdb .Xresources
+urxvt
+urxvt
+xrdb .Xresources
+urxvt
+xrdb .Xresources
+urxvt
+apts urxvt
+man urxvt-extensions
+urxvt -pe
+urxvt -pe resize-font
+man urxvt-extensions
+xrdb .Xresources
+urxvt
+i3-sensible-terminal 
+man i3-sensible-terminal 
+cat .* | grep -i terminal
+cat .* 2>/dev/null | grep -i terminal
+cat .* 2>/dev/null
+cat .* 2>/dev/null | grep -i terminal
+la
+vim .bashrc
+vim .profile 
+vim .profile 
+man i3-sensible-terminal 
+x-terminal-emulator 
+man x-terminal-emulator 
+i3-input 
+man i3-input
+i3-sensible-pager 
+man i3-sensible-pager 
+exit
+man -Tpdf gnome-terminal | lp
+vim .bash_aliases 
+cdl
+urxvt
+urxvt --help
+urxvt -transparent=true
+urxvt
+vim .Xresources 
+vim .config/i3/config 
+vim .Xresources 
+vim .config/i3/config 
+exit
+exit
+vim .Xresources 
+xrdb .Xresources 
+exit
+man urxvt
+urxvt --help
+urxvt -help
+vim .config/i3/config 
+figlet -f alligatoritalic radical
+cat scripts/bash_figlet_startup.sh 
+figlet -f alligatoritalic -W radical
+figlet -f alligatoritalic -W -w 160 radical
+cdl; figlet -f alligatoritalic -W -w 160 radical
+exit
+vim scripts/bash_figlet_startup.sh 
+vim .config/i3/config 
+man lpr
+man lp
+man lpr
+extdisp
+ls /dev/
+sudo mount /dev/sda1 /mnt/sd
+ls /mnt/sd
+cd /mnt/sd
+ls
+cd Documents/
+ls
+cd ..
+fd *
+fs *
+ls games
+ls
+cls
+ls 21\ Oct\ 19\ Meeting\ Docs/
+fs 21\ Oct\ 19\ Meeting\ Docs/
+ls 21\ Oct\ 19\ Meeting\ Docs/
+rf 21\ Oct\ 19\ Meeting\ Docs/
+ls
+cls
+ls
+rf 21\ Oct\ 19\ Meeting\ Docs/
+sudo rm -rf 21\ Oct\ 19\ Meeting\ Docs/
+cd ..
+sudo chown elyshea *
+sudo su
+ls
+cd sd
+cls
+mkdir audio
+sudo su
+cd ..
+sudo umount sd 
+gpartedbin 
+sudo gpartedbin 
+ls
+mount /dev/sda1 /mnt/sd
+sudo mount /dev/sda1 /mnt/sd
+cd sd/
+ls
+mkdir audio
+cd ..
+sudo chown elyshea sd/
+ls -lha
+sudo su
+cd sd
+mkdir audio
+cd ..
+sudo su
+groups
+sudo su
+cd sd
+mkdir audio
+exit
+cd /mnt
+sudo su
+cd sd
+mkdir audio
+cd ..
+ls -a
+ls -l
+ls -lh
+ls -lha
+umount sd 
+sudo umount sd 
+sudo chown elyshea sd/
+ls -lha
+sudo mount /dev/sda1 /mnt/sd
+ls -lha
+sudo chmod a+w sd/
+ls -lha
+sudo chown elyshea sd/
+cd sd
+mkdir audio
+cd ..
+sudo chmod 777 .
+ls -la
+ls -lha
+sudo chown elyshea:users sd/
+sudo umount /mnt/sd
+sudo chown elyshea:users sd/
+ls -lha
+man mount
+sudo su
+cd sd/
+ls
+mkdir audio
+ls
+ls
+cls
+ls -la
+cd ..
+sudo chown elyshea sd/
+cd sd
+ls
+ls -la
+cd ..
+sudo chown elyshea sd/ -R
+cd sd
+ls
+la
+ls -la
+rf audio/
+cd ..
+ls
+sudo umount sd 
+ls
+sudo chown elyshea:users sd/
+sudo mount /dev/sda1 sd/
+ls
+cd sd
+ls
+mkdir audio
+ls
+nautilus .
+ls
+cd ..
+umount sd 
+sudo umount sd 
+ls
+ls sd
+cd ..
+sudo chown elyshea:users mnt
+cd mnt
+cd ..
+sudo chown elyshea:users mnt -R
+cd mnt
+ls
+ls -lha
+sudo mount /dev/sda1 sd/
+ls
+ls -lha
+cp sd/* ~/temp123
+ls
+sudo fdisk /dev/sda
+sudo fdisk /dev/sda
+ls
+fuzer sd/
+fuser sd/
+fuser -va sd/
+umount /mnt/sd
+sudo umount /mnt/sd
+sudo fdisk /dev/sda
+sudo fdisk /dev/sda
+mount /dev/sda1 /mnt/sd
+sudo mount /dev/sda1 /mnt/sd
+reboot
+man rsync
+vim .bash_aliases 
+rl

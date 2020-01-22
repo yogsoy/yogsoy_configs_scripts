@@ -30,7 +30,7 @@ a st=speedtest-cli
 a apts="apt search"
 a ety=etymology
 a weather="curl wttr.in 2>/dev/null | sed 7q"
-a cp="rsync --progress -s -r"
+a cp="rsync --progress -s -r -h"
 a gelemental="export GTK2_RC_FILES=/usr/share/themes/Industrial/gtk-2.0/gtkrc && gelemental"
 a srv="ssh -X 192.168.1.51"
 # format json so it's readable

@@ -6,7 +6,8 @@ TITLE_W_ARTIST_MAXLENGTH=30
 TITLE_NO_ARTIST_MAXLENGTH=55
 
 # this may look super inefficient, but it matches any whitespace string: e.g. "  ", "", "     "
-if [ ! $(echo $artist | egrep -q '^\s*$') ]
+#if [ ! $(echo $artist | egrep -q '^\s*$') ]
+if [ "$artist" != "" ]
 then
 	# if the artist length is over $ARTIST_MAXLENGTH cut it down and add some ellipses
 	if [ ${#artist} -gt $ARTIST_MAXLENGTH ]
@@ -16,6 +17,7 @@ then
 
 	# formatting - add bold to the artist, and if a title exists (same match as before), insert the " - "
 	artist="<b>$artist</b>$([ ! $(echo $title | egrep -q '^\s*$') ] && printf ' - ')"
+	#artist="<b>$artist</b>$([ ! $(echo $title | egrep -q '^\s*$') ] && printf ' - ')"
 
 	# if title length is over $TITLE_W_ARTIST_MAXLENGTH cut it down the same
 	[ ${#title} -gt $TITLE_W_ARTIST_MAXLENGTH ] && title="$(echo $title | head -c $TITLE_W_ARTIST_MAXLENGTH | iconv -c | sed 's/\s*$/…/')"
