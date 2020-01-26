@@ -3313,3 +3313,1988 @@ reboot
 man rsync
 vim .bash_aliases 
 rl
+cd /mnt
+mount /dev/sda1 /mnt/sd
+sudo mount /dev/sda1 /mnt/sd
+sudo fdisk /dev/sda1
+sudo fdisk /dev/sda1
+sudo fdisk /dev/sda1
+sudo gpartedbin
+ls -la
+sudo mount /dev/sda1 /mnt/sd
+ls
+ls -la
+mkdir sd/audio
+sudo su
+cd Documents/
+ls
+ls *pdf
+mupdf Braille\ Sense\ U2\ MINI\ User\ Manual\ \(Ver\ 8.6\).pdf 
+yes
+mupdf Braille\ Sense\ U2\ MINI\ User\ Manual\ \(Ver\ 8.6\).pdf 
+exit
+brltty
+brltty -d bluetooth:
+brltty -d bluetooth:
+brltty -d bluetooth:
+brltty -d bluetooth:
+brltty -d bluetooth:
+brltty -d bluetooth:
+man brltty
+brltty -d bluetooth:00:18:9A:25:2B:D7
+man brltty
+man brltty
+brltty -d bluetooth:00:18:9A:25:2B:D7 -b hm
+brltty -d bluetooth:00:18:9A:25:2B:D7 -b hm
+ls /dev
+man brltty
+brltty -d bluetooth:00:18:9A:25:2B:D7 -b hw
+brltty -d bluetooth:00:18:9A:25:2B:D7 -b hm
+brltty -d bluetooth:00:18:9A:25:2B:D7 -b hm
+brltty -d bluetooth:00:18:9A:25:2B:D7 -b hm
+brltty -d bluetooth:00:18:9A:25:2B:D7 -b hm
+brltty -d bluetooth:00:18:9A:25:2B:D7 -b hm
+killall brltty
+sudo killall brltty
+brltty -d bluetooth:00:18:9A:25:2B:D7 -b hm
+sudo killall brltty
+brltty -d bluetooth:00:18:9A:25:2B:D7 -b hm
+orca
+sudo killall brltty
+brltty -d bluetooth:00:18:9A:25:2B:D7 -b hm
+orca
+cl
+orca -s
+orca
+exit
+echo hello there
+cl
+ls
+exit
+cd Documents/repositories/yogsoy_configs_scripts/
+./backup.sh 
+gitgo
+vim ~/.bashrc 
+echo $TERM
+sudo umount /mnt/sd
+cdl
+apts apple music
+apts "apple music"
+pavucontrol 
+apts espeak
+apt show brltty-espeak
+apti brtty-espeak
+apti brltty-espeak
+apts brltty
+brltty
+man brltty
+brltty
+man brltty
+brltty -device usb:
+man brltty
+brltty -d usb:
+man brltty
+ls /dev
+ls /dev
+ls /dev
+ls /dev
+ls /dev
+ls /dev
+ls /dev
+ls /dev
+ls /dev
+ls /dev
+ls /dev
+man brltty
+brltty -d usb:
+brltty -d usb:
+man brltty
+brltty -d bluetooth:
+brltty -d usb:/
+ls /dev
+ls /dev
+bluetoothctl
+bluetoothctl
+bluemoon
+bluetoothd
+gnome-control-center bluetooth
+apti blueman
+blueman
+blueman-browse
+blueman-applet
+blueman-applet &
+cl
+echo no
+man orca
+vim .local/share/orca/orca-customizations.py 
+vim .local/share/orca/app-settings/
+man orca
+killall orca
+killall orca
+sudo killall brltty
+brltty
+sudo killall brltty
+vim .config/i3/config 
+cdl
+curl wttr.in
+curl wttr.in | cat
+curl wttr.in 2>/dev/null
+exit
+exit
+vim .config/i3blocks/blocks/temp.sh 
+cdl
+vim .config/i3/config 
+htop
+acpi -b
+cl
+vim .config/i3/config 
+killall  vim
+vim .config/i3/config 
+killall vim
+vim .config/i3/config 
+killall urxvt
+vim .config/i3/config 
+exit
+man i3
+cl
+man discord-canary
+discord-canary --help
+cl
+exit
+vim .config/i3/config 
+vim .config/i3/config 
+exit
+cat *
+cat * | grep gnome-terminal
+cat scripts/* | grep gnome-terminal
+g
+vim .bash_aliases 
+exit
+vim .config/i3/config 
+vim .config/i3/config.old
+less .config/i3/config.old 
+less .config/i3/config.old 
+vim .config/i3/config.new
+cp .config/i3/config .config/i3/config.old
+mv .config/i3/config.new .config/i3/config
+vim .config/i3/config
+mv .config/i3/config .config/i3/config.new
+mv .config/i3/config.old .config/i3/config
+vimtutor 
+exit
+vim .config/i3/config
+less .config/i3/config
+vim .config/i3/config.new 
+mv .config/i3/config .config/i3/config.olg
+mv .config/i3/config.olg .config/i3/config.old
+mv .config/i3/config.new .config/i3/config
+vim .config/i3/config
+less .config/i3/config.old 
+man vim
+man vimdiff
+man vimtutor
+vim .bash_aliases 
+vim .bash_aliases 
+less .vimrc
+rl
+ifconfig
+ifconfig
+sudo dhclient wlp60s0
+sudo su
+exit
+wifi-status
+widl
+apt list --installed
+apt list --installed | grep wifi
+apt list --installed | grep wi
+apt list --installed | grep wif
+apt list --installed | grep wire
+wireless-tools
+apt info wireless-tools
+iwconfig 
+vim /etc/network/interfaces
+sudo vim /etc/network/interfaces
+ifconfig
+iwconfig
+dhclient
+sudo dhclient wlp60s0
+iwlist wlp60s0 scan
+iwlist wlp60s0 scan
+sudo iwlist wlp60s0 scan
+sudo iwlist wlp60s0 scan
+iwconfig wlp60s0 essid NETGEAR-Guest key Family@3666
+sudo iwconfig wlp60s0 essid NETGEAR-Guest key Family@3666
+sudo iwconfig wlp60s0 essid NETGEAR-Guest key s:Family@3666
+sudo iwconfig wlp60s0 essid NETGEAR-Guest key s:Family\@3666
+sudo iwconfig wlp60s0 "essid NETGEAR-Guest key s:Family@3666"
+sudo iwconfig wlp60s0 essid NETGEAR-Guest "key s:Family@3666"
+sudo iwconfig wlp60s0 essid NETGEAR-Guest key "s:Family@3666"
+sudo vim /etc/network/interfaces
+sudo dhclient wlp60s0
+sudo dhclient -v wlp60s0
+sudo vim /etc/network/interfaces
+sudo dhclient -v wlp60s0
+sudo iwconfig wlp60s0 essid NETGEAR-Guest key "s:Family@3666"
+sudo iwconfig wlp60s0 essid NETGEAR-Guest key s:Family@3666
+sudo iwconfig wlp60s0 essid NETGEAR-Guest key Family@3666
+sudo iwconfig wlp60s0 essid NETGEAR-Guest key "Family@3666"
+sudo iwconfig wlp60s0 essid NETGEAR-Guest key s:"Family@3666"
+sudo iwconfig wlp60s0 essid NETGEAR-Guest key s:Family@3666
+wpa_passphrase NETGEAR-Guest Family@3666
+vim /etc/wpa_supplicant.conf
+sudo vim /etc/wpa_supplicant.conf
+sudo iwconfig wlp60s0 essid NETGEAR-Guest key df3b1a08da4e63068d31a4f2ae3f6ec18b0004990f6854ea4681122aeab56574
+wpa_supplicant 
+wpa_supplicant  -B -i wlp60s0 -DWext -c /etc/wpa_supplicant.conf 
+cl
+man iwconfig
+nmcli 
+man nmcli
+nmcli -a
+man nmcli
+nmcli c
+man nmcli
+nmcli c up NETGEAR-Guest
+nmcli
+nmcli dev wifi
+nmcli dev wifi connect NETGEAR-Guest
+nmcli dev wifi connect NETGEAR-Guest password Family@3666
+nmcli dev wifi connect NETGEAR-Guest password "Family@3666"
+cl
+nmcli con up id NETGEAR-Guest
+nmcli con up id NETGEAR-Guest -a
+nmcli con up -a
+echo "nmcli con up -a" > scripts/wifi_connect.sh
+cl
+ls Downloads/
+ls Downloads/bluetooth/
+find / bluetooth_content_share.html
+find / | g bluetooth_content_share.html
+find . 2>/dev/null | g bluetooth_content_share.html
+exit
+less .vimrc
+less .config/i3/config
+vim .bash_aliases 
+vimdot
+dot
+cl
+ls
+vim .config/i3/config
+vim .config/i3/config
+sudo vim .config/i3/config
+vim .config/i3/config
+vim .config/i3/config
+vim .config/i3/config
+exit
+vim .vimrc 
+less .vimrc
+mkdir .vim/ftplugin/
+less .vimrc
+rf .vim/ftplugin/
+cl
+cdl
+vim .config/i3blocks/blocks/temp.sh 
+weather
+screen
+exit
+ls
+exit
+killall screen
+cl
+vim .config/i3status/config 
+cd Documents/repositories/
+git clone https://github.com/altdesktop/i3-style
+cd ~/Downloads/programs/
+wget https://github.com/altdesktop/i3-style/releases/download/v1.0.2/i3-style.x86_64
+ls
+chx i3-style.x86_64 
+./i3-style.x86_64 
+./i3-style.x86_64 ubuntu -o ~/.config/i3/config
+mv i3-style.x86_64 ~/Documents/repositories/i3-style/
+cd ~/Documents/repositories/i3
+cd ~/Documents/repositories/i3-style/
+cls
+ls themes
+./i3-style.x86_64 deep-purple ~/.config/i3/config
+./i3-style.x86_64 deep-purple -o ~/.config/i3/config
+./i3-style.x86_64 solarized -o ~/.config/i3/config
+./i3-style.x86_64 mate -o ~/.config/i3/config
+./i3-style.x86_64 gruvbox -o ~/.config/i3/config
+./i3-style.x86_64 icelines -o ~/.config/i3/config
+./i3-style.x86_64 tomorrow-night-80s -o ~/.config/i3/config
+./i3-style.x86_64 seti -o ~/.config/i3/config
+./i3-style.x86_64 seti -o ~/.config/i3/config --reload
+./i3-style.x86_64 alphare -o ~/.config/i3/config --reload
+./i3-style.x86_64 archlinux -o ~/.config/i3/config --reload
+./i3-style.x86_64 debian -o ~/.config/i3/config --reload
+./i3-style.x86_64 lime -o ~/.config/i3/config --reload
+./i3-style.x86_64 oceanic-next -o ~/.config/i3/config --reload
+./i3-style.x86_64 okraits -o ~/.config/i3/config --reload
+./i3-style.x86_64 oceanic-next -o ~/.config/i3/config --reload
+./i3-style.x86_64 flat-gray -o ~/.config/i3/config --reload
+./i3-style.x86_64 slate -o ~/.config/i3/config --reload
+./i3-style.x86_64 oceanic-next -o ~/.config/i3/config --reload
+./i3-style.x86_64 archlinux -o ~/.config/i3/config --reload
+./i3-style.x86_64 seti -o ~/.config/i3/config --reload
+./i3-style.x86_64 tomorrow-night-80s -o ~/.config/i3/config
+ls themes
+./i3-style.x86_64 purple -o ~/.config/i3/config
+./i3-style.x86_64 purple -o ~/.config/i3/config --reload
+./i3-style.x86_64 ubuntu -o ~/.config/i3/config --reload
+./i3-style.x86_64 base16-tomorrow -o ~/.config/i3/config --reload
+./i3-style.x86_64  -o ~/.config/i3/config --reload
+cd
+vim .config/i3/config
+vim .Xresources 
+xrdb .Xresources 
+ls
+ls
+exit
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+la
+cls
+cd Documents/repositories/
+ls
+la
+la -r
+la -R
+cl
+exit
+ls
+vim .Xresources 
+xrdb .Xresources 
+mkdir .vim/ftplugin
+vim .vim/ftplugin/Xresources
+ls .vim/ftplugin/
+vim .vimrc
+vim .vimrc
+vim .Xresources 
+xrdb .Xresources 
+vim .Xresources 
+xrdb .Xresources 
+xrdb .Xresources 
+vim .Xresources 
+xrdb .Xresources 
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+cl
+exit
+dumpkeys -l
+exit
+man keysym
+exit
+xclip
+xclip -o
+xclip -o -selection clipboard
+xclip -o -selection primary
+exit
+exit
+exit
+exit
+exit
+exi
+exit
+URxvt.keysym.Control-Meta-c: builtin-string:
+xrdb -load .Xresources
+exit
+ls
+vim .Xresources 
+vim .Xresources 
+vim .Xresources 
+xrdb .Xresources 
+vim .Xresources 
+xrdb .Xresources 
+vim .vimrc
+vim .Xresources 
+xrdb .Xresources 
+vim .Xresources 
+xrdb .Xresources 
+vim .Xresources 
+exit
+ls
+exit
+ls
+exit
+ls
+exit
+ls
+exit
+ls
+exit
+ls
+exit
+ls
+exit
+ls
+exit
+ls
+exit
+exit
+ls
+exit
+exit
+ls
+exit
+ls
+exit
+exit
+ls
+vim .config/i3/config
+vim .Xresources 
+xrdb .Xresources 
+vim .Xresources 
+ls
+vim .Xresources 
+exit
+exit
+exit
+ls
+vim .Xresources 
+cl
+echo $PATH
+exit
+vim scripts/go.sh 
+exit
+vim .config/i3/config
+exit
+man stest
+exit
+nload
+ls
+exit
+vim .bashrc
+rl
+ls
+vim .bashrc
+rl
+cl
+cls
+vim .bashrc
+rl
+cls
+exit
+cls
+cl
+exit
+google-chrome
+bg
+cl
+exit
+ls Music/sounds/
+ls Music/
+cd music
+cd Music/
+cls
+ls *wav
+aplay bink.wav 
+aplay 200012012092090123910930912031901293092309182.wav 
+aplay nicemessage.wav 
+aplay nicemessage.wav 
+es -w bell.wav "terminal bell"
+aplay bell.wav 
+aplay bell.wav 
+cd Music/
+es -w bell.wav "ding"
+cl
+cl
+;
+cl
+canberra-gtk-play 
+canberra-gtk-play -i bell
+canberra-gtk-play -i 
+man canberra-gtk-play 
+canberra-gtk-play -i -l 10
+canberra-gtk-play -i bell -l 10
+man canberra-gtk-play 
+lxappearance 
+exit
+cd Documents/repositories/i3-style/
+ls
+vim themes/ubuntu 
+man dmenu
+cl
+cdl
+dmenu_path
+ls
+man dmenu_path
+vim /usr/bin/dmenu_path
+dmenu_path
+vim .config/i3/config
+cat .config/i3/config | cb
+cdl
+vim .vimrc
+cd Downloads/programs/
+man tar
+tar xvf tsetup.1.9.7.tar.xz 
+cd Telegram/
+ls
+cd tele
+ls
+ls -l
+./Telegram 
+./Telegram yes
+./Updater 
+./Telegram mmmmm
+./Telegram --help
+./Telegram -h
+vim Telegram 
+cd ..
+rf Telegram/
+cdl
+apts telegram
+apti telegram-desktop telegram-cli
+telegram-dektop
+telegram-dektop
+telegram-desktop
+telegram-cli 
+telegram-cli 
+cdl
+telegram-desktop 
+telegram-desktop 
+telegram-desktop &
+curl https://api.telegram.org/bot1082673320:AAEfTAYTomkvTISIpoWcc1LzP87tAhLdUYI/getMe
+curl https://api.telegram.org/bot1082673320:AAEfTAYTomkvTISIpoWcc1LzP87tAhLdUYI/msg
+curl https://api.telegram.org/bot1082673320:AAEfTAYTomkvTISIpoWcc1LzP87tAhLdUYI/getGroups
+curl https://api.telegram.org/bot1082673320:AAEfTAYTomkvTISIpoWcc1LzP87tAhLdUYI/getUpdate
+curl https://api.telegram.org/bot1082673320:AAEfTAYTomkvTISIpoWcc1LzP87tAhLdUYI/getUpdates
+cl
+curl "https://api.telegram.org/bot1082673320:AAEfTAYTomkvTISIpoWcc1LzP87tAhLdUYI/sendMessage?chat_id=-252495892&text=racism"
+curl "https://api.telegram.org/bot1082673320:AAEfTAYTomkvTISIpoWcc1LzP87tAhLdUYI/sendMessage?chat_id=-252495892&text=thanks daddy"
+curl "https://api.telegram.org/bot1082673320:AAEfTAYTomkvTISIpoWcc1LzP87tAhLdUYI/sendMessage?chat_id=-252495892&text=dont mention her around me again"
+curl "https://api.telegram.org/bot1082673320:AAEfTAYTomkvTISIpoWcc1LzP87tAhLdUYI/sendMessage?chat_id=-252495892&text=/yes"
+curl "https://api.telegram.org/bot1082673320:AAEfTAYTomkvTISIpoWcc1LzP87tAhLdUYI/sendMessage?chat_id=-252495892&text=[text](https://fuck)"
+cl
+cd Documents/repositories/
+cls
+cd dotmatrix/
+ls
+cd ..
+cdl
+vim .Xresources 
+vim .Xresources 
+cl
+uptime
+uptime
+cl
+free
+free -h
+weather
+kasumi 
+google-chrome &
+cl
+gsettings
+gsettings list-schemas
+gsettings
+lxappearance 
+man lxappearance 
+cl
+cl
+vim .Xresources 
+exit
+exit
+ls
+exit
+exit
+ls
+exit
+ls
+exit
+ls
+exit
+i3lock-fancy -d
+i3lock-fancy
+i3lock-fancy -p
+i3lock-fancy -p 2>/dev/null
+cd /lib/security/howdy/dlib-data/
+sudo cd /lib/security/howdy/dlib-data/
+sudo su
+i3lock
+ls
+exit
+vim .Xresources 
+vim .config/i3/config
+apts "i3 vim"
+apts i3
+apts ^i3
+gnome-screensaver
+apts i3lock
+man i3lock
+i3lock -b
+man i3lock
+apti i3lock-fancy
+i3lock-fancy 
+man i3lock-fancy 
+gdm
+gdm3
+lightdm
+lightdm --test-mode
+loginctl 
+loginctl show-session 2
+lightdm
+sudo systemctl enable lightdm
+sudo systemctl enable lightdm --force
+apts lightdm
+apti lightdm-gtk-greeter
+sudo vim /etc/lightdm/lightdm.conf
+sudo systemctl enable lightdm --force
+ls /usr/share/xgreeters/
+sudo systemctl enable lightdm.service
+sudo systemctl enable lightdm.service
+sudo dpkg-reconfigure gdm
+sudo dpkg-reconfigure gdm3 
+sudo dpkg --configure lightdm
+rebooot
+reboot
+exit
+dm-tool lock
+exit
+light-locker
+man light-locker
+exit
+man light-locker
+man xscreensave
+man xscreensaver
+exit
+lightdm-gtk-greeter 
+man lightdm
+dm-tool 
+dm-tool --help
+dm-tool lock
+vim .config/i3/config
+dm-tool list-seats
+dm-tool switch-to-greeter
+vim .config/i3/config
+loginctl 
+loginctl --help
+loginctl lock-session
+loginctl list-sessions
+loginctl lock-session c2
+login
+sudo login
+ls
+cl
+loginctl 
+loginctl --help
+loginctl lock-sessions
+sudo loginctl lock-sessions
+apts locker
+apti light-locker
+light-locker
+man light-locker
+xssstate
+xssstate --help
+xssstate -h
+xssstate -istv
+man xssstate 
+xss-lock
+apti xss-lock
+xss-lock 
+xss-lock light-locker
+xss-lock light-locker
+xss-lock light-locker
+light-locker --help
+xss-lock light-locker --no-late-locking
+man xss-lock
+xss-lock light-locker --lock-on-lid
+xss-lock 
+man xss-lock
+xss-lock -- light-locker --no-late-locking
+xss-lock -- light-locker --lock-on-lid
+xss-lock -- light-locker --no-late-locking
+xautolock
+apti xautolock
+xautolock 
+man xauto
+man xautolock
+lightlocker
+light-locker --lock-on-suspend
+man light-locker
+man light-locker
+light-locker --no-late-locking --lock-on-suspend --lock-on-lid
+physlock
+apt show physlock
+vlock
+apt show vlock
+xscreensaver
+xscreensaver-demo
+gnome-screensaver
+man gnome-screensaver
+gnome-screensaver --no-daemon
+slock
+dm-tool lock
+i3lock-fancy
+man i3lock-fancy
+i3lock-fancy -t
+i3lock-fancy -t ""
+i3lock-fancy -t " "
+i3lock-fancy -t "no"
+i3lock-fancy
+man i3lock-fancy
+apts lock
+apts "screen lock"
+cd Documents/repositories/
+git clone https://github.com/benruijl/sflock
+vim ~/.bash_aliases 
+cd sflock/
+ls
+make clean install
+sudo make clean install
+sflock 
+man sflock
+man sflock -h
+sflock -h
+sflock -f 
+ls
+vim config.mk 
+vim sflock.c
+slock
+sflock
+test
+sflock
+Share Tech Mono Regular
+Share Tech Mono Regular
+sflock
+yes
+test
+ls
+./sflock 
+sudo ./sflock 
+sudo sflock
+sflock 
+sflock -f "Share Tech Mono"
+sflock -f "Xft:Share Tech Mono"
+sflock -f "Share Tech Mono Regular"
+cd ..
+rl
+gitc https://github.com/lahwaacz/sxlock
+cd sxlock/
+ls
+make
+sudo make
+ls
+apts PAM
+apts "PAM"
+sudo make
+apts pam_appl
+apts pam-devel
+cd ..
+apts deepin
+apts ^deepin
+apts mate-screensaver
+apti mate-screensaver
+mate-screensaver
+man mate-screensaver
+mate-screensaver
+mate-open
+mate-screensaver-command
+mate-screensaver &
+mate-screensaver-command
+cl
+mate-screensaver-command
+mate-screensaver-command lock
+man mate-screensaver-command 
+mate-screensaver-command -l
+man mate-screensaver
+mate-screensaver --help
+mate-screensaver-command --help
+mate-screensaver-command -q
+mate-screensaver-command -t
+mate-screensaver-command -u
+vim ~/.config/i3/config
+killall mate-screensaver 
+gitc https://github.com/epoptes/epoptes
+cd epoptes/
+ls
+cd epoptes-client/
+ls
+vim message.py 
+cd ..
+ls
+ls epoptes
+ls epoptes/common/
+vim epoptes/common/config.py 
+cdl
+apti epoptes*
+epoptes
+sudo groupadd
+sudo usermod -aG elyshea epoptes
+sudo usermod -aG epoptes elyshea
+epoptes
+cl
+vim .config/i3/config
+vim .config/i3/config
+vim .config/i3/config
+vim .config/i3/config
+vim .config/i3/config
+vim .config/i3/config
+vim .config/i3/config
+qrencode
+xclip -o
+xclip -o | qrencode 
+xclip -o | qrencode -
+xclip -o | qrencode -o test.png
+iv test.png 
+xclip -o | qrencode -o test.png -d 200
+iv test.png 
+xclip -o | qrencode -o test.png -d 20
+iv test.png 
+xclip -o | qrencode -o test.png -s 1
+iv test.png 
+xclip -o | qrencode -o test.png -s 4
+iv test.png 
+xclip -o | qrencode -o test.png -s 10
+iv test.png 
+xclip -o | qrencode -o test.png -s 100
+iv test.png 
+xclip -o | qrencode -o test.png -s 10
+iv test.png 
+cd Documents/repositories/
+gitc https://github.com/LukeSmithxyz/voidrice
+cd voidrice/
+cat -R *
+cat -r *
+cat *
+cat * 1>/dev/null
+cat * | grep i3
+ls -R
+ls -r
+ls
+la
+ls -a
+ls -ar
+ls -aR
+ls -aR | cat
+ls -aR | cat | cat
+ls -aRl
+ls -aRl | cel
+ls -aRl | cel | awk '{print $5}'
+ls -aRl | cel | awk '{print $6}'
+ls -aRl | cel | awk '{print $7}'
+ls -aRl | cel | awk '{print $9}'
+ls -aRl | cel | awk '{print $9}' | cat
+cat
+cat *
+man cat
+cat -A *
+cat -A * | lc
+cat * | lc
+cat .config/*
+cd Documents/repositories/voidrice/
+ls
+la
+cd .config/
+ls
+la
+cls
+cat wall.png 
+vim fake
+vim .vimrc
+exit
+vim .vimrc
+cd Documents/repositories/
+gitc https://github.com/PotatoesMaster/i3-vim-syntax
+cd i3-vim-syntax/
+ls
+ls *
+cat ftdetect/i3.vim 
+cat ftplugin/i3.vim 
+cp */* ~/.vim/
+ls ~/.vim
+mv ~/.vim/i3.vim ~/.vim/syntax/
+ls
+cp ftdetect/i3.vim  ~/.vim/ftdetect/
+cp ftplugin/i3.vim  ~/.vim/ftplugin/
+vim
+ls
+cd
+cd .vim
+ls
+ls plug
+ls plugged/
+ls plugin
+ls syntax/
+vim syntax/i3.vim 
+rf syntax/i3.vim 
+cdl
+cd Documents/repositories/i3-vim-syntax/
+ls
+cp syntax/i3.vim ~/.vim/syntax/
+cp ftplugin/i3.vim  ~/.vim/ftplugin/
+cp ftdetect/i3.vim ~/.vim/ftdetect
+vim
+cdl
+vim .vimrc
+vim
+vim
+vim .vimrc
+vim .vimrc
+exit
+man date
+vim .config/i3blocks/blocks/bar_time.sh 
+apts lightdm
+apti lightdm-gtk-greeter-settings
+lightdm-gtk-greeter-settings
+sudo lightdm-gtk-greeter-settings
+apts lightdm-*-greeter
+apts "lightdm-*-greeter"
+apts "lightdm-.*-greeter"
+vim .config/i3blocks/blocks/timezones.sh 
+sudo lightdm-gtk-greeter-settings
+sudo lightdm-gtk-greeter-settings
+sudo lightdm-gtk-greeter-settings
+cd ..
+ls
+rf gdqstatus/
+sudo su
+cdl
+exit
+cd Documents/repositories/voidrice/
+cd .config/
+ls
+cd nvim
+la
+vim init.vim 
+cat $RANDOM
+echo $RANDOM
+echo $RANDOM
+echo $RANDOM
+echo $RANDOM
+echo $RANDOM
+echo $RANDOM
+echo $RANDOM
+echo $RANDOM
+cdl
+vim .config/i3/config
+vim .config/i3/config
+vim .config/i3/config
+vim .config/i3/config
+vim .config/i3/config
+vim
+vim .config/i3/config
+vim .config/i3/config
+vim .config/i3/config
+vim .config/i3/config
+vim .config/i3/config
+vim .config/i3/config
+vim .config/i3/config
+vim .config/i3/config
+apts barcode
+apt show barcode
+apti barcode
+barcode
+man barcode
+echo "barcode" | barcode
+echo "barcode" | barcode -o barcode.pdf
+mupdf barcode.pdf 
+rf barcode.pdf 
+echo "barcode" | barcode
+echo "barcode" | barcode > barcode.ps
+mupdf barcode.ps 
+rf barcode.ps 
+echo "barcode" | barcode
+man barcode
+barcode -h
+apts "mupdf ps"
+apts mupdf
+apti mupdf-tools
+echo "barcode" | barcode
+echo "barcode" | barcode > barcode.ps
+mupdf barcode.ps 
+man mupdf
+mv barcode.ps barcode.xps
+mupdf barcode.xps 
+rf barcode.xps 
+apti zathura
+echo "barcode" | barcode > barcode.ps
+zathura barcode.ps
+man zathura
+echo "barcode" | barcode
+echo "barcode" | barcode | zathura -
+apts "^zathura-"
+apti zathura-ps
+echo "barcode" | barcode
+echo "barcode" | barcode > barcode.ps
+zathura barcode.ps 
+echo "e" | barcode > barcode.ps 
+zathura barcode.ps 
+echo "0" | barcode > barcode.ps 
+zathura barcode.ps 
+echo " " | barcode > barcode.ps 
+zathura barcode.ps 
+cd Documents/repositories/shamir_scavengerhunt/
+ls
+cd test1_2020-01/
+ls
+cat objectives 
+cat objectives | head -1
+cat objectives | head -1 | barcode
+cat objectives | head -1 | barcode | zathura -
+man barcode
+cd ..
+cd test2_2020-01/
+ls
+cat objectives 
+cat objectives | ssss-combine -n 10
+cat objectives | ssss-combine -n 10
+cat objectives | ssss-combine -t 10
+cat objectives | head -1
+cat objectives | head -1 | barcode
+cat objectives | head -1 | barcode | zathura -
+cdl
+apts zathura
+figlet -f univers 899
+figlet -f universe 899
+figlet -f universe $899
+figlet -f universe \$899
+figlet -f universe \$899 | cb
+bc
+node
+cd Documents/
+ls *pdf
+mupdf ueb_braille_chart.pdf 
+cdl
+apts ci-edit
+apts ci_edit
+cd Documents/repositories/
+gitc https://github.com/google/ci_edit
+cd ci_edit/
+cls
+p3 ci.py 
+cd ..
+cl
+node --version
+sudo apt upgrade node
+sudo apt upgrade nodejs
+gitc https://github.com/google/chicago-brick
+cd chicago-brick/
+ls
+npm install
+./bin/run_1x1.sh -m gears
+node --version
+npm upgrade
+npm install -g npm
+sudo npm install -g npm
+sudo npm install -g node
+sudo chown -R 65534:1000 /root/.npm
+sudo npm install -g node
+sudo su
+ls
+apts dart
+sudo apt-get install apt-transport-https
+cdl
+sudo sh -c 'wget -qO- https://dl-ssl.google.com/linux/linux_signing_key.pub | apt-key add -'
+cl
+apti dart
+sudo apt update
+apts dart
+apti dart
+cd Downloads/programs/
+tar xvf flutter_linux_v1.12.13+hotfix.5-stable.tar.xz 
+cd flutter/
+ls
+ls bin/
+cd ..
+cd ~/Documents/testing/projects/
+mkdir flutter
+cd flutter/
+ls
+cd ..
+rf flutter/
+cd ~/Downloads/programs/
+fs flutter*
+rf flutter_linux_v1.12.13+hotfix.5-stable.tar.xz 
+rf flutter/
+sensors
+cdl
+sudo systemctl disable gmd
+sudo systemctl disable gdm
+sudo systemctl enable lightdm
+sudo dpkg-reconfigure lightdm
+cd /etc/lightdm/
+ls
+vim lightdm.conf
+sudo systemctl restart lightdm
+cd Pictures/
+iv blindofficial\ logo*
+iv blindofficial\ logo\ bg.jpg 
+exit
+vim .config/i3/config
+exit
+sudo lightdm-gtk-greeter-settings
+sudo systemctl restart lightdm
+sudo lightdm-gtk-greeter-settings
+sudo systemctl restart lightdm
+vim /etc/lightdm/lightdm.conf
+sudo vim /etc/lightdm/lightdm.conf
+sudo systemctl restart lightdm
+exit
+sudo vim /etc/lightdm/lightdm.conf
+apts lightdm
+apts webkit2
+apts webkit
+apts lightdm
+apt show lightdm-autologin-greeter
+apt
+apt upgrade
+sudo apt upgrade
+sudo apt update
+apt
+man 8 apt
+cl
+apts pacman
+apts pacapt
+apts arch
+apts ^arch
+apts ^arch | head -20
+cd Downloads/programs/
+ls
+debi lightdm-webkit2-greeter_2.2.5-1+15.31_amd64.deb 
+lightdm-webkit2-greeter 
+cdl
+vim /etc/lightdm/lightdm.conf
+sudo vim /etc/lightdm/lightdm.conf
+sudo systemctl restart lightdm
+sudo vim /etc/lightdm/lightdm.conf
+lightdm-gtk-greeter
+sudo systemctl restart lightdm
+apts lightdm
+apts lightdm-.*-greeter
+apti slick-greeter
+slick-greeter
+sudo vim /etc/lightdm/lightdm.conf
+sudo systemctl restart lightdm
+ls Pictures/blindofficial\ logo
+ls Pictures/blindofficial\ logo*
+exit
+ls Pictures/blindofficial\ logo*
+exit
+man slick-greeter
+man slick-greeter
+cl
+man slick-greeter
+cd Downloads/programs/
+debi lightdm-mini-greeter_0.3.4-1_amd64_debian-9-stretch.deb 
+lightdm-mini-greeter 
+man lightdm-mini-greeter
+lightdm --test-mode -d
+vim /etc/lightdm/slick-greeter.conf
+sudo vim /etc/lightdm/slick-greeter.conf
+sudo vim /etc/lightdm/lightdm.confg
+sudo vim /etc/lightdm/lightdm.conf
+cl
+sudo vim /etc/lightdm/lightdm.conf
+sudo systemctl restart lightdm
+exit
+sudo vim /etc/lightdm/lightdm-mini-greeter.conf 
+sudo vim /etc/lightdm/lightdm.conf
+sudo vim /etc/lightdm/lightdm.conf
+vim .Xresources 
+vim .config/i3/config
+lightdm --test-mode -d
+sudo vim /etc/lightdm/lightdm.conf
+lightdm --test-mode -d
+lightdm --test-mode -d
+lightdm --test-mode -d
+lightdm --test-mode -d
+sudo lightdm --test-mode -d
+sudo systemctl restart lightdm
+sudo vim /etc/lightdm/lightdm-mini-greeter.conf 
+lightdm --test-mode -d
+sudo vim /etc/lightdm/lightdm-mini-greeter.conf 
+sudo vim /etc/lightdm/lightdm.conf
+lightdm --test-mode -d
+sudo vim /etc/lightdm/lightdm.conf
+sudo vim /etc/lightdm/lightdm.conf
+sudo vim /etc/lightdm/lightdm.conf
+lightdm --test-mode -d
+rf /etc/lightdm/lightdm-mini-greeter.conf 
+sudo rf /etc/lightdm/lightdm-mini-greeter.conf 
+sudo rm /etc/lightdm/lightdm-mini-greeter.conf 
+cd Downloads/programs/
+debi lightdm-mini-greeter_0.3.4-1_amd64_debian-9-stretch.deb 
+ls /etc/lightdm
+ls /etc/lightdm/lightdm.conf.d/
+apt purge lightdm-mini-greeter
+sudo apt purge lightdm-mini-greeter
+debi lightdm-mini-greeter_0.3.4-1_amd64_debian-9-stretch.deb 
+ls /etc/lightdm
+sudo vim /etc/lightdm/lightdm-mini-greeter.conf 
+lightdm --test-mode -d
+cp /etc/lightdm/lightdm-mini-greeter.conf /etc/lightdm/lightdm-mini-greeter.conf.bak
+suod cp /etc/lightdm/lightdm-mini-greeter.conf /etc/lightdm/lightdm-mini-greeter.conf.bak
+sudo vim /etc/lightdm/lightdm-mini-greeter.conf
+lightdm --test-mode -d
+lightdm --test-mode -d
+lightdm --test-mode -d
+lightdm --test-mode -d
+lightdm --test-mode -d
+lightdm --test-mode -d
+lightdm --test-mode -d
+lightdm --test-mode -d
+lightdm --test-mode -d
+lightdm --test-mode -d
+lightdm --test-mode -d
+lightdm --test-mode -d
+lightdm --test-mode -d
+lightdm --test-mode -d
+lightdm --test-mode -d
+lightdm --test-mode -d
+vim .config/i3/config
+sudo systemctl restart lightdm
+sudo vim /etc/lightdm/lightdm-mini-greeter.conf
+sudo systemctl restart lightdm
+sudo vim /etc/lightdm/lightdm-mini-greeter.conf
+sudo systemctl restart lightdm
+sudo vim /etc/lightdm/lightdm-mini-greeter.conf
+sudo systemctl restart lightdm
+sudo vim /etc/lightdm/lightdm-mini-greeter.conf
+sudo systemctl restart lightdm
+sudo vim /etc/lightdm/lightdm-mini-greeter.conf
+sudo systemctl restart lightdm
+beep
+exit
+sudo vim /etc/default/grub
+info -f grub -n 'Simple configuration'
+sudo update-grub
+reboot
+quiet
+spllash
+splash
+exit
+lsb_release 
+lsb_release -i
+lsb_release -i -s
+exit
+sudo vim /etc/default/grub
+cdl
+sudo vim /etc/default/grub
+cl
+ls
+la
+cls
+cls | cb
+cls
+rf AndroidStudioProjects/ ApkProjects/ apt_* barcode.ps 
+cls
+ls Arduino/
+ls Arduino/libraries/
+cls
+cat examples.desktop 
+cls
+ls Desktop/
+rf examples.desktop 
+ls
+cls
+cls Desktop/
+cp Desktop/*txt Documents/
+ls Desktop/
+cat Desktop/pleasehelp 
+rf Desktop/discord_backup_codes.txt Desktop/npmbackupcodes.txt Desktop/pleasehelp Desktop/*desktop Desktop/VisCon.lnk 
+ls Desktop/
+iv Desktop/5a483ff7-82b8-44e4-9b04-9c4fce5f7e0c_opt.jpg 
+rf Desktop/
+cls
+cat nmap.log 
+rf nmap.log 
+cls
+iv test.png 
+rf test.png 
+rf VisualBoyAdvance.cfg 
+ls temp
+ls Templates/
+rf Templates/
+ls temp123/
+ls temp123/audio/
+rf temp123/
+cls
+ls ibus-uniemoji/
+ls lpg/
+ls lpg/tilp/
+rf lpg/
+ls mail
+ls Mail/
+rf Mail/
+ls mso/
+rf mso/
+cls
+cat noname.gv 
+rf noname.gv 
+ls Public/
+rf Public/
+mv scrabble_2020-01-09.csv Documents/
+cls
+ls search/
+rf search/
+cls
+ls sharenix/
+rf sharenix/
+cls
+ls snap/
+ls snap/discord/
+cls
+ls tmp/
+sudo apt remove webcamoid
+apts webcamoid
+rf webcamoid/
+cls
+cat winetricks 
+rf winetricks 
+cls
+cat urxvt_help.log 
+rf urxvt_help.log 
+cls
+cls | cb
+cls
+cat core
+cls
+./core 
+fs core
+ulimit -c
+file core
+rf core
+cls
+cat font.gksm 
+cl
+ls
+rf font.gksm 
+cls
+fs clipboard_history 
+fs .bash_history 
+vim .bashrc
+du .bash_history 
+man du
+du -b .bash_history 
+du -b .bash_history 
+du -b .bash_history 
+du -b .bash_history 
+rl
+du -b .bash_history 
+cdl
+cls
+ls tmp
+ls tmp/gpg-keyring/
+ls tmp/debian-cd/
+ls tmp/log/
+la -a tmp/
+la -a tmp/debian-cd/
+la -a tmp/gpg-keyring/
+la -a tmp/mirror/
+cat tmp/mirror/extrafiles 
+cat tmp/mirror/extrafiles | head
+rf tmp
+cls
+ls ibus-uniemoji/
+mv ibus-uniemoji/ Documents/
+ls Documents/
+cls
+cat sudo
+cdl
+vim sudo
+./sudo 
+./sudo ee
+./sudo yes
+./sudo rng
+mv sudo smmm
+sudo yes
+cls
+mv smmm .sudo
+cls
+ls | lc
+cat npm-debug.log 
+rf npm-debug.log 
+cls
+cat package-lock.json 
+cls
+cd Documents/
+cls
+cat after 
+cl
+ls
+rf before after 
+cat ahhimdying.log 
+rf ahhimdying.log 
+ls apps
+mkdir manuals
+mv Braille* manuals/
+cls
+ls 2019-06-04/
+mkdir school
+mv 2019-06-04/ camp\ planning.xcf doe\ stuff/ dt2019t3* school/
+cls
+mupdf fuck\ off.docx 
+vim fuck\ off.docx 
+mupdf fuck_off.pdf 
+mv fuck* school/
+cls
+cat help
+cat helpme*
+cls
+cat helpme.log
+rf helpme.log 
+cls
+aplay help.wav 
+aplay help.wav 
+aplay help.wav 
+aplay help.wav 
+aplay help.wav 
+cat helpmepls.txt 
+cls
+mupdf hexagonal.pdf 
+mv history\ * school/
+cls
+mv IPA_Kiel_2015.pdf manuals/
+mupdf map\ print\ output.pdf 
+mupdf map\ print\ output.pdf 
+cls
+mv ReceiptPrintView.pdf school/
+cls
+mv ueb_braille_chart.pdf manuals/
+cls
+mupdf Resonance.pdf 
+cls
+mkdir pdf
+mv Premium\ nbn\ plan\ month-to-month\ CIS\ -\ August\ 16\ 2018\ FINAL* Vodafone\ nbn\ Consumer\ Key\ Fact\ Sheet\ 0918.pdf UK-US-Ireland-Australia-school-years-and-grades.pdf pdf/
+cls
+ls *pdf
+mv hexagonal.pdf map\ print\ output.pdf Resonance.pdf pdf/
+ls
+cls
+pavucontrol 
+man pavucontrol 
+cd repositories/
+ls
+gitc https://github.com/cdemoulins/pamixer
+cd pamixer/
+ls
+make
+apti boost-program_options
+apts boost-program
+apti libboost-program-options-dev
+make
+sudo make
+ls
+apts boost
+apts libboost
+apts libboost --installed
+apts libboost
+apts boost-program
+apti libboost-program-options1.67-dev
+make
+./pamixer 
+./pamixer  -d 5
+./pamixer  -d 5
+./pamixer  -d5
+./pamixer  -d5
+pavucontrol &
+./pamixer  -d5
+./pamixer  -d5
+./pamixer  -i 5
+./pamixer  -i 5
+./pamixer  -i 5
+./pamixer  -i 5
+./pamixer  -i 5
+./pamixer --get-volume
+./pamixer --get-volume
+./pamixer --get-volume
+./pamixer  -i 5
+./pamixer  -i 5
+./pamixer  -i 5
+./pamixer  -i 5
+./pamixer  -i 5
+./pamixer --get-volume
+ls
+ls
+cp pamixer /usr/bin/
+sudo cp pamixer /usr/bin/
+rl
+pamixer 
+pamixer --set-volume 20
+exit
+pamixer
+pamixer -t
+pamixer --get-volume
+pamixer --get-volume
+pamixer --get-mute
+amixer
+amixer set
+amixer set Master
+amixer set Master 100%
+exit
+vim .config/i3blocks/blocks/volume.sh 
+vim .config/i3/config
+vim .config/i3blocks/blocks/volume.sh 
+vim .config/i3blocks/blocks/volume.sh 
+cl
+vim .config/i3blocks/blocks/mem.sh 
+cl
+vim .config/i3/config
+uptime 
+shutdown -h now
+man lolcatt
+man lolcat
+exit
+cd Documents/testing/code/
+node convertcolours.js 
+node convertcolours.js 
+node convertcolours.js 
+node convertcolours.js 
+node convertcolours.js 
+node convertcolours.js 
+node convertcolours.js 
+node convertcolours.js 
+node convertcolours.js 
+node convertcolours.js 
+node convertcolours.js 
+node convertcolours.js 
+node convertcolours.js 
+node convertcolours.js | cb
+xclip -o | lc
+cdl
+cd .config/i3blocks/blocks/
+xclip -o > battery_colours.txt
+./battery.sh 
+./battery.sh 
+./battery.sh 
+./battery.sh 
+./battery.sh 
+./battery.sh 
+colours=$(cat battery_colours.txt)
+echo $colours
+xclip -o > battery_colours.txt 
+cat battery_colours.txt 
+colours=$(cat battery_colours.txt)
+echo $colours
+echo $colours | sed '2q;d'
+echo $colours | tr ' ' '\n' | sed '2q;d'
+./battery.sh 
+./battery.sh 
+xclip -o > battery_colours.txt 
+cl
+ls
+./battery.sh 
+./battery.sh 
+./battery.sh 
+cat battery_colours.txt 
+cat battery_colours.txt  | tr '\n' ' '
+cat battery_colours.txt  | tr '\n' ' ' | cb
+./battery.sh 
+exit
+xclip -o
+cl
+xclip -o > Documents/testing/data/colours.txt
+cd Documents/testing/code/
+vim convertcolours.js
+node convertcolours.js 
+vim convertcolours.js
+node convertcolours.js 
+vim convertcolours.js
+node convertcolours.js 
+cat ../data/colours.txt 
+vim convertcolours.js
+node convertcolours.js 
+vim convertcolours.js
+node convertcolours.js 
+vim convertcolours.js
+node convertcolours.js 
+vim convertcolours.js
+mv ../data/colours.txt ../data/colours.json
+node convertcolours.js 
+vim ../data/colours.json 
+node convertcolours.js 
+vim ../data/colours.json 
+node convertcolours.js 
+vim convertcolours.js 
+node convertcolours.js 
+node convertcolours.js | cb
+xclip -o
+node convertcolours.js
+vim convertcolours.js 
+node convertcolours.js
+vim convertcolours.js 
+node convertcolours.js
+exit
+free -h
+free -h --si
+man free
+exit
+cd Music/sounds/
+ffmpeg -c
+ffmpeg -c bell_computerbeep_4.mp3 bell_computerbeep_4.wav
+ls
+man ffmpeg
+ffmpeg bell_computerbeep_4.mp3 bell_computerbeep_4.wav
+ffmpeg -i bell_computerbeep_4.mp3 bell_computerbeep_4.wav
+aplay bell_computerbeep_4.wav 
+aplay bell_computerbeep_4.wav 
+exit
+xclip -o
+xclip -o | lc
+vim Documents/testing/code/htmlColours.js
+cd Documents/testing/code/
+node htmlColours.js 
+vim htmlColours.js
+node htmlColours.js 
+vim htmlColours.js
+node htmlColours.js 
+vim htmlColours.js
+vim htmlColours.js
+vim htmlColours.js
+node htmlColours.js 
+vim htmlColours.js
+node htmlColours.js 
+xclip -o | lc
+xclip -o | lc
+xclip -o | lc
+cdl
+vim .config/i3blocks/blocks/battery.sh 
+vim .config/i3blocks/blocks/battery.sh 
+man free
+vim .config/i3blocks/blocks/mem.sh 
+vim .Xresources 
+mv Music/sounds/bell_computerbeep_4.wav Music/sounds/bell2.wav
+cd Music/sounds/
+ls
+mv bell_computerbeep_4.mp3 bell2.mp3
+mkdir bell
+mv bell* bell/
+ls
+cd bell/
+ls
+ffmpeg -i bell.mp3 bell.wav
+aplay bell.wav 
+vim ~/.Xresources 
+exit
+cd Music/sounds/bell/
+ls
+mv bell.wav bell3.wav
+mv bell.mp3 bell3.mp3
+aplay *wav
+mv bell2.wav bell.wav
+ls
+rf *mp3
+ls
+vim ~/.config/i3/config
+ls
+cd ..
+ls
+rf vol_up.mp3 
+cls
+cdl
+vim .config/i3blocks/blocks/battery.sh 
+cdl
+weather
+vim .config/i3blocks/config 
+cd Music/sounds/
+ls
+cd bell
+ls
+aplay bell3.wav 
+bluetoothctl 
+cdl
+bluetoothctl power on
+vim .config/i3/config
+dm-tool lock
+exit
+exit
+bluetoothctl devices
+bluetoothctl devices | awk '{print $2}'
+bluetoothctl devices | awk '{print $2}' | head -1
+bluetoothctl devices | awk '{print $2}' | head -1 | bluetoothctl info
+bluetoothctl devices | awk '{print $2}' | head -1 | bluetoothctl info | grep Connected
+bluetoothctl devices | awk '{print $2}' | sed '2q;d' | bluetoothctl info | grep Connected
+bluetoothctl devices | awk '{print $2}' | sed '3q;d' | bluetoothctl info | grep Connected
+exit
+light-locker --lock-on-lid
+ls
+la
+vim .xinitrc 
+vim .xinitrc 
+la
+cls
+cl
+crontab -e
+sudo crontab -e
+cat clipboard_history 
+file clipboard_history 
+man file
+cl
+fs clipboard_history 
+fs clipboard_history 
+du clipboard_history 
+du -b clipboard_history 
+du -b clipboard_history 
+du -b clipboard_history 
+cl
+vim clipboard_history 
+mv clipboard_history Documents/
+cls
+cls -a
+cmatrix
+cl
+bluetooth
+bluetoothctl 
+bluetoothctl 
+bluetoothctl
+bluetoothctl devices
+bluetoothctl paired-devices
+bluetoothctl list
+bluetoothctl
+lsw
+rfkill list
+bluetoothctl
+cl
+bluetoothctl
+bluetoothctl
+bluetoothctl info
+bluetoothctl info | g '^Device'
+bluetoothctl info | g '^Device' | lc
+bluetoothctl info | g '^Device' | wc -l
+bluetoothctl info
+exit
+xss-lock 
+man xss-lock
+light-locker
+light-locker -l
+man light-locker
+vim .config/i3blocks/blocks/bluetooth.sh
+cdl
+lxappearance 
+cl
+bluetoothctl info
+bluetoothctl info
+exit
+vim .config/i3blocks/blocks/battery.sh 
+time .config/i3blocks/blocks/battery.sh 
+ls .config/i3blocks/blocks/
+rf .config/i3blocks/blocks/battery_colours.txt 
+exit
+vim .config/i3blocks/blocks/battery.sh 
+exit
+vim .config/i3blocks/blocks/bluetooth.sh 
+cl
+crontab -e
+cl
+vim .config/i3blocks/blocks/battery
+vim .config/i3blocks/blocks/battery.sh 
+cdl
+vim scripts/always_copy.sh 
+vim scripts/force_paste.sh 
+scripts/force_paste.sh 
+scripts/force_paste.sh 
+scripts/force_paste.sh 
+scripts/force_paste.sh 
+scripts/force_paste.sh 
+scripts/force_paste.sh 
+scripts/force_paste.sh 
+scripts/force_paste.sh 
+scripts/force_paste.sh 
+scriptscdl
+cdl
+acpi -b
+man acpi
+sensors
+upower 
+man upower
+upower --dump
+man upower
+upower --monitor
+man upower
+upower --help
+upower -i /org/freedesktop/UPower/devices/DisplayDevice
+upower -i /org/freedesktop/UPower/devices/DisplayDevice | grep energy
+bc
+upower -i /org/freedesktop/UPower/devices/DisplayDevice | grep energy | head -2
+upower -i /org/freedesktop/UPower/devices/DisplayDevice | grep energy | head -2 | awk '{print $2}'
+echo 'scale=3;9*2' | bc
+bc
+current=$(upower -i /org/freedesktop/UPower/devices/DisplayDevice | grep energy | se    d '1q;d' | awk '{print $2}')
+current=$(upower -i /org/freedesktop/UPower/devices/DisplayDevice | grep energy | sed '1q;d' | awk '{print $2}')
+full=$(upower -i /org/freedesktop/UPower/devices/DisplayDevice | grep energy | sed '2q;d' | awk '{print $2}'
+)
+full=$(upower -i /org/freedesktop/UPower/devices/DisplayDevice | grep energy | sed '2q;d' | awk '{print $2}')
+echo "scale=3; $current / $full" | bc
+battery=$(echo "scale=3; $current / $full" | bc)
+echo $battery
+echo "scale=0; $battery/1" | bc
+echo "scale=0; $battery/1"
+echo "scale=0; ($battery*100)/1"
+echo "scale=0; ($battery*100)/1" | bc
+echo $battery
+echo $level
+level=$(echo "scale=0; ($battery*100)/1" | bc)
+echo $level
+echo "scale=1; $battery * 100" | bc
+echo "scale=2; $battery * 100" | bc
+echo "scale=0; $battery * 100" | bc
+echo $battery
+bc
+cdl
+.config/i3blocks/blocks/battery.sh 
+.config/i3blocks/blocks/battery.sh 
+.config/i3blocks/blocks/battery.sh 
+.config/i3blocks/blocks/battery.sh 
+.config/i3blocks/blocks/battery.sh 
+.config/i3blocks/blocks/battery.sh 
+.config/i3blocks/blocks/battery.sh 
+.config/i3blocks/blocks/battery.sh 
+.config/i3blocks/blocks/battery.sh 
+.config/i3blocks/blocks/battery.sh 
+.config/i3blocks/blocks/battery.sh 
+.config/i3blocks/blocks/battery.sh 
+.config/i3blocks/blocks/battery.sh 
+.config/i3blocks/blocks/battery.sh 
+.config/i3blocks/blocks/battery.sh 
+.config/i3blocks/blocks/battery.sh 
+.config/i3blocks/blocks/battery.sh 
+.config/i3blocks/blocks/battery.sh 
+.config/i3blocks/blocks/battery.sh 
+.config/i3blocks/blocks/battery.sh 
+.config/i3blocks/blocks/battery.sh 
+.config/i3blocks/blocks/battery.sh 
+.config/i3blocks/blocks/battery.sh 
+.config/i3blocks/blocks/battery.sh 
+.config/i3blocks/blocks/battery.sh 
+.config/i3blocks/blocks/battery.sh 
+.config/i3blocks/blocks/battery.sh 
+.config/i3blocks/blocks/battery.sh 
+.config/i3blocks/blocks/battery.sh 
+cl
+watch .config/i3blocks/blocks/battery.sh 
+man flameshot
+flameshot config
+flameshot config
+flameshot config
+la
+cls
+cl
+man flameshot
+flameshot config -h
+flameshot config
+flameshot config
+flameshot config
+vim .config/i3blocks/blocks/battery.sh 
+vim .config/i3blocks/config 
+systemd-cat
+lsblk
+ls /snap
+cdl
+free -h
+free -h --si
+free -h --si
+free -h --si
+free -h --si
+free -h --si
+free -h --si
+free -h --si
+free -h --si
+free -h --si
+watch free -h --si
+shutdown -h now
+vim .config/i3blocks/blocks/battery.sh 
+exit
+.config/i3blocks/blocks/battery.sh 
+.config/i3blocks/blocks/battery.sh 
+.config/i3blocks/blocks/battery.sh 
+.config/i3blocks/blocks/battery.sh 
+vim .config/i3blocks/config 
+cd Downloads/
+file winmail.dat 
+vim winmail.dat 
+cdl
+htop
+cl
+free
+free -h
+free --si
+free --si -h
+cl
+htop
+man splash
+cl
+plymouth
+man plymouth
+man plymouth
+plymouth --get-splash-plugin-path
+ls /usr/lib/x86_64-linux-gnu/plymouth/
+dire=/usr/lib/x86_64-linux-gnu/plymouth
+cd $dire
+ls
+ls
+vim ubuntu-text.so
+cd /usr/share/plymouth/
+ls
+iv ubuntu-logo.png 
+ls themes
+cd themes
+ls
+ls text
+vim text/text.plymouth 
+apts plymouth
+apti plymouth-themes
+ls
+plymouth
+man plymouth
+ls
+ls glow
+ls script
+ls solar
+iv solar/box.png 
+iv solar/star.png 
+ls text
+ls tribar/
+vim tribar/tribar.plymouth 
+ls ubuntu-logo/
+iv ubuntu-logo/ubuntu-logo.png 
+ls ubuntu-text/
+ls fade-in/
+iv fade-in/star.png 
+ls bgrt
+vim bgrt/bgrt.plymouth 
+sudo update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/plymouth/themes/"path/to-your-plymouth.plymouth" 100
+sudo update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/plymouth/themes/bgrt/bgrt.plymouth 100
+sudo update-initramfs -u
+reboot
+cd /usr/share/plymouth/
+ls
+cd themes
+ls
+ls script/
+vim script/script.plymouth 
+vim script/script.script 
+vim spinfinity/spinfinity.plymouth 
+vim solar/solar.plymouth 
+vim glow/glow.plymouth 
+sudo update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/plymouth/themes/glow/glow.plymouth 100
+sudo update-initramfs -u
+reboot
+cd /usr/share/plymouth/themes/
+ls
+ls details/
+vim details/details.plymouth 
+sudo update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/plymouth/themes/details/details.plymouth 100
+sudo update-initramfs -u
+reboot
+vifm
+exit
+apts libcaca
+img2txt
+apti caca-utils
+img2txt
+img2txt Pictures/Crookes_tube_xray_experiment.jpg 
+man img2txt
+img2txt Pictures/Crookes_tube_xray_experiment.jpg -f svg
+cl
+exit

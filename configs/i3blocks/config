@@ -6,7 +6,7 @@ markup=pango
 interval=5
 
 [music]
-interval=5
+interval=3
 color=#ff00ff
 signal=4
 
@@ -15,7 +15,7 @@ interval=10
 color=#ff6800
 
 [mem]
-interval=15
+interval=10
 color=#ffff00
 
 [network]
@@ -26,7 +26,7 @@ interval=7200
 color=#ff3399
 
 [volume]
-interval=once
+interval=20
 color=#00eeff
 signal=2
 

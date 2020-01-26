@@ -19,8 +19,13 @@ set number relativenumber
 " plugg
 call plug#begin()
 Plug 'ollykel/v-vim'
+Plug 'mboughaba/i3config.vim'
 call plug#end()
 
-"commands
+" commands
 command W w
 command Q q
+
+command! -nargs=? Ftedit execute "tabe ~/.vim/ftplugin/" . ("<args>" == "" ? &filetype : "<args>") . ".vim"
+
+au BufWritePost .Xresources !xrdb %

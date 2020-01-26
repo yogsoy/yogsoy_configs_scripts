@@ -1,16 +1,23 @@
-urxvt*font: xft:ShareTechMono:size=12
+!! URXVT
+urxvt.font: xft:ShareTechMono:size=12
 
-! colouring
-urxvt*foreground: rgb:00/ff/00
-urxvt*background: rgb:00/00/00
+urxvt.transparent: true
+urxvt.scrollBar: false
+urxvt.visualBell: true
+urxvt.cursorUnderline: true
+urxvt.cursorBlink: true
+urxvt.letterSpace: -1
 
-urxvt*transparent: true
-urxvt*scrollBar: false
-urxvt*visualBell: true
-urxvt*cursorUnderline: true
-urxvt*cursorBlink: true
-!urxvt*letterSpace: -1
-URxvt.perl-ext-common: font-size
+urxvt.perl-ext-common: default,font-size,bell-command
+
+URxvt.iso14755: false
+URxvt.iso14755_52: false
+
+URxvt.keysym.Shift-Control-V: eval:paste_clipboard
+URxvt.keysym.Shift-Control-C: eval:selection_to_clipboard
+
+! command that runs upon a bell
+urxvt.bell-command: aplay /home/elyshea/Music/sounds/bell/bell.wav
 
 ! Fonts {{{
 Xft.antialias: true
@@ -19,3 +26,41 @@ Xft.rgba:      rgb
 Xft.hintstyle: hintfull
 Xft.dpi:       200
 ! }}}
+
+!! This theme is Shapeshifter (Dark) from the base16 collection (from terminal.sexy)
+! special
+*.foreground:   #00ff00
+*.background:   #000000
+*.cursorColor:  #ababab
+
+! black
+*.color0:       #000000
+*.color8:       #343434
+
+! red
+*.color1:       #e92f2f
+*.color9:       #e92f2f
+
+! green
+*.color2:       #0ed839
+*.color10:      #0ed839
+
+! yellow
+*.color3:       #dddd13
+*.color11:      #dddd13
+
+! blue
+*.color4:       #3b48e3
+*.color12:      #3b48e3
+
+! magenta
+*.color5:       #f996e2
+*.color13:      #f996e2
+
+! cyan
+*.color6:       #23edda
+*.color14:      #23edda
+
+! white
+*.color7:       #ababab
+*.color15:      #f9f9f9

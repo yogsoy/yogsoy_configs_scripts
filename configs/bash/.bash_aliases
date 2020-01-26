@@ -62,3 +62,5 @@ a sxiv="sxiv -a"
 a sc=sc-im
 a chx="chmod +x"
 a :q="exit"
+a g=egrep
+a gitc="git clone"
