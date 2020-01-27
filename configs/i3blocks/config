@@ -5,10 +5,17 @@ markup=pango
 [timezones]
 interval=5
 
+[temp]
+interval=7200
+color=#ff3399
+
 [music]
 interval=3
 color=#ff00ff
 signal=4
+
+[network]
+interval=5
 
 [cpu]
 interval=10
@@ -17,13 +24,6 @@ color=#ff6800
 [mem]
 interval=10
 color=#ffff00
-
-[network]
-interval=5
-
-[temp]
-interval=7200
-color=#ff3399
 
 [volume]
 interval=20

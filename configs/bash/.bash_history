@@ -5298,3 +5298,411 @@ man img2txt
 img2txt Pictures/Crookes_tube_xray_experiment.jpg -f svg
 cl
 exit
+man dunst
+man dunst
+notify-send yes
+notify-send "<b>yes</b>"
+exit
+free
+htop
+cd Documents/testing/code
+vim test
+vim bashtopython
+. ./bashtopython 
+chx bashtopython 
+./bashtopython 
+cdl
+vim scripts/go.sh 
+vim .config/i3blocks/blocks/battery.sh 
+man i3msg
+man i3-msg
+apti vifm
+vifm
+man vifm
+vifm
+vifm
+w3m
+apts w3m
+la *rc
+la '*rc'
+ls *rc
+ls rc
+ls
+la
+la .rc
+ls .config
+la .config
+ls .config/vifm/
+vim .config/vifm/vifmrc 
+apts ueberzug
+apts berzug
+apts überzug
+cd Documents/repositories/
+gitc https://github.com/seebye/ueberzug
+cd ueberzug/
+ls
+sudo pip3 install ueberzug
+sudo pip install --upgrade pip
+sudo pip3 install --upgrade pip3
+sudo pip3 install --upgrade pip
+cdl
+ueberzug 
+ueberzug library
+cdl
+cd Documents/repositories/yogsoy_configs_scripts/
+./backup.sh 
+./backup.sh 
+./backup.sh 
+./backup.sh 
+cl
+gitgo
+cdl
+cd Documents/testing/projects/
+mkdir hornpub
+rf hornpub/
+cd ..
+cd code
+vim hornpub.html
+google-chrome hornpub.html 
+vim hornpub.html
+cdl
+man dunst
+notify-send <b>bold</b>
+notify-send "<b>bold</b>"
+vim .config/i3/config
+playerctl metadata
+exit
+txt2regex 
+cl
+txt2regex 
+cl
+exi
+exit
+acpi -b
+acpi -b | awk '{print $4}'
+acpi -b | awk '/\d+/{print $0}'
+acpi -b | awk '/\d\d/{print $0}'
+acpi -b | awk '//{print $0}'
+acpi -b | awk '/e/{print $0}'
+acpi -b | awk '{print $4}'
+acpi -b | awk '{print $4}' | egrep -o '\d\d'
+acpi -b | awk '{print $4}' | egrep -o '[1-90]'
+acpi -b | awk '{print $4}' | egrep -o '[1-90]+'
+acpi -b
+acpi -b | awk '{print $3}'
+acpi -b | awk '{print $4}' | egrep -o '[0-9]+'
+acpi -b | awk '{print $4}' | egrep -o '[0-9]+'
+man egrep
+acpi -b | awk '{print $4}' | egrep -Z -o '[0-9]+'
+man egrep
+acpi -b | awk '{print $4}' | egrep -z -o '[0-9]+'
+acpi -b | awk '{print $3}'
+acpi -b | awk '{print $3}' | tr -d "\n"
+cd .config/i3blocks/blocks/
+./battery.sh
+acpi -b | awk '{print $3}' | tr -d "\n"
+cl
+acpi -b | awk '{print $3}' | tr -d "\n"
+acpi -b | awk '{print $4}' | egrep -z -o '[0-9]+'
+acpi -b | awk '{print $4}' | egrep -z-o '[0-9]+'
+acpi -b | awk '{print $4}' | egrep -o '[0-9]+'
+./battery.sh
+cl
+./battery.sh
+./battery.sh
+./battery.sh
+./battery.sh
+./battery.sh
+./battery.sh
+./battery.sh
+./battery.sh
+./battery.sh
+./battery.sh
+./battery.sh
+./battery.sh
+./battery.sh
+cdl
+exit
+ls Documents/repositories/
+exit
+cd Videos/youtube/
+ls
+youtube-dl https://www.youtube.com/watch?v=JslxPjrMzqY
+ls
+mpv Going\ supercritical.-JslxPjrMzqY.mkv 
+cdl
+cd Documents/repositories/
+gitc https://github.com/hoyon/mpv-mpris
+cdl
+cp Downloads/programs/mpris.so .config/mpv/scripts/
+mpv Videos/youtube/Going\ supercritical.-JslxPjrMzqY.mkv 
+cdl
+mpv Videos/gfd.mov 
+mpv Videos/gfd.mov 
+cl
+man xbacklight
+xbacklight -get
+xbacklight -get
+xbacklight -get
+xbacklight -get
+xbacklight -get
+xbacklight -get
+xbacklight -get
+xbacklight -get
+xbacklight -get
+xbacklight -get
+xbacklight -get
+xbacklight -get
+xbacklight -get
+xbacklight -get
+xbacklight -get | sed 's/\.0*//'
+xbacklight -get | sed 's/\.0*//'
+xbacklight -get | sed 's/\.0*//'
+cd Music/
+ls
+mpv bell.wav 
+mpv bell.wav 
+mpv bell.wav 
+mpv bell.wav 
+mpv bell.wav 
+mpv bell.wav 
+mpv bell.wav 
+mpv bink.wav 
+ls
+mpv cry.wav 
+mpv doublefart_long.wav 
+mpv im\ so\ sad\ adriennes\ gonna\ hate\ me.wav 
+mpc
+mpv merry\ hrriismtas\,\ bithiti\ ih.mp3 
+ls
+mpv merry\ hrriismtas\,\ bithiti\ ih.mp3 
+mpv goauld.wav 
+mpv full-shrek1.mp3 
+ls
+mpv 200012012092090123910930912031901293092309182.wav 
+mpv 200012012092090123910930912031901293092309182.wav 
+mpv 200012012092090123910930912031901293092309182.wav 
+ls
+mpv 2019.mp3 
+ls
+mpv nicemessage.wav 
+mpv padowo\ padowo.mp3 
+mpv i\ did\ it\ again\ help\ me\ please.wav 
+ls
+mpv the_song.mod 
+ls
+cd ..
+cd Downloads/
+cd
+cd Videos/
+mpv full-shrek1.webm 
+ls
+mpv Julian\ brushing\ his\ teeth.mp4 
+mpv VID_20181112_215541.mp4 
+mpc GOPR0564.MP4 
+mpv GOPR0564.MP4 
+mpv HDV_0018.MP4 
+cls
+mpv SM-N960F_20200118-013529.mp4 
+mpv 20190105_2115492.mp4 
+mpv MOV_7145.3gp.3gpp 
+cdl
+cd .config/i3blocks/blocks/
+ls
+cp battery.sh battery.sh.bak
+vim battery.sh
+cdl
+vifm
+iv -a Pictures/GravityFallsWTF.gif 
+cl
+vpn
+exit
+playerctl metadata
+exit
+man howdy
+howdy config
+sudo howdy config
+exit
+vim .config/i3/config
+vim .config/i3/config
+cl
+srv
+srv
+cl
+whereis rgb.txt
+vim .config/i3blocks/config 
+vim .config/i3blocks/blocks/bar_time.sh 
+cl
+cd Documents/repositories/
+gitc https://github.com/tgpethan/webmc
+cd webmc/
+ls
+la
+vim README.md
+gitgo
+man git
+git commit
+git push
+git push
+man git
+git branch
+git branch add
+git push
+git branch
+git branch remove
+git branch
+git remove-branch
+git --help
+git branch
+git branch --help
+git branch -r add
+a | grep git
+gitgo
+cdl
+htop
+ps aux
+ps aux | grep i3
+ps auxh | grep i3
+ps aux -h | grep i3
+man ps
+cl
+apts lbry
+apts brave
+sudo apt install apt-transport-https curl
+curl -s https://brave-browser-apt-release.s3.brave.com/brave-core.asc | sudo apt-key --keyring /etc/apt/trusted.gpg.d/brave-browser-release.gpg add -
+echo "deb [arch=amd64] https://brave-browser-apt-release.s3.brave.com/ stable main" | sudo tee /etc/apt/sources.list.d/brave-browser-release.list
+sudo apt update
+sudo apt install brave-browser
+xdg-open 
+man xdg-open 
+cl
+mutt
+ls .config/
+evince
+man evince
+apts google-chrome
+apti google-chrome-beta
+man nano
+xrandr
+exit
+vim scripts/extdisp.sh 
+exit
+vim scripts/extdisp.sh 
+vim scripts/extdisp.sh 
+htop
+exit
+vim scripts/extdisp.sh 
+vim scripts/extdisp.sh 
+apts lcars
+apts lcars
+htop
+htop
+st
+pavucontrol 
+vim .config/i3/config
+cl
+playerctl metadata
+vim .config/i3/config
+vim .config/i3blocks/config 
+vim .config/i3/config
+vim .config/i3/config
+cl
+fzf
+apti fzf
+vimcl
+cl
+fzf
+man fzf
+sc
+a | grep sc
+sr
+vim .bash_aliases 
+rl
+vim .bash_aliases 
+rl
+vim .bash_aliases 
+rl
+sr
+vim .bash_aliases 
+rl
+ls -R
+du -a
+exit
+sr
+vim .bash_aliases 
+rl
+sr
+vim .bash_aliases 
+rl
+sr
+rlcl
+cl
+cl
+exit
+du -a scripts/
+du -a scripts/ | awk '{print $2}'
+du -a scripts/* | awk '{print $2}' |
+du -a scripts/* | awk '{print $2}'
+du -a ~/scripts/* | awk '{print $2}'
+du -a ~/scripts/ | awk '{print $2}'
+du -a ~/scripts/* | awk '{print $2}'
+du -a ~/scripts/ | awk '{print $2}'
+du -a ~/scripts/* | awk '{print $2}'
+du -a ~/scripts/* | awk '{print $2}' | fzf
+man xargs
+du -a ~/scripts/* | awk '{print $2}' | fzf | xargs -r vim
+clexit
+exit
+du -a ~/scripts/* | awk '{print $2}' | fzf | xargs -r vim -
+du -a ~/scripts/* | awk '{print $2}' | fzf | vim -
+du -a ~/scripts/* | awk '{print $2}' | fzf | xargs -r -o vim -
+du -a ~/scripts/* | awk '{print $2}' | fzf | xargs -r -o vim
+du -a ~/scripts/* | awk '{print $2}' | fzf | xargs -ro vim
+exit
+cl
+vim .bash_aliases 
+rl
+sr
+vim .bash_aliases 
+vim .bash_aliases 
+rl
+sr
+vim .bash_aliases 
+sr
+vim .bash_aliases 
+du -a
+vim .bash_aliases 
+rl
+sr
+a | grep sr
+vim .bash_aliases 
+rl
+du -a ~/scripts//*
+du -a ~/scripts/*
+du -a ~/scripts/* | awk '{$print $2}'
+du -a ~/scripts/* | awk '{print $2}'
+du -a ~/scripts/* | awk '{print $2}' | fzf
+exit
+sr
+vim .bash_aliases 
+man du
+du -a
+du -a .config/*
+man du
+du .config/*
+l
+cl
+man du
+du -s .config/*
+du -as .config/*
+du -s .config/*
+du -s .config/*/
+du -s .config/*
+cl
+Documents/repositories/yogsoy_configs_scripts/backup.sh 
+./Documents/repositories/yogsoy_configs_scripts/backup.sh 
+echo $PWD
+PWD=~/Documents/repositories/yogsoy_configs_scripts/
+ls
+cls
+rl

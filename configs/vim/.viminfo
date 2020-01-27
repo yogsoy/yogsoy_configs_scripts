@@ -11,7 +11,7 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~MSle0~/filevie
+~MSle0~/tray
 
 # Last Substitute Search Pattern:
 ~MSle0&\\
@@ -20,20 +20,22 @@
 $\\033
 
 # Command Line History (newest to oldest):
+:q!
+|2,0,1580135459,,"q!"
 :q
-|2,0,1580032151,,"q"
+|2,0,1580135457,,"q"
 :wq
-|2,0,1580031160,,"wq"
+|2,0,1580135454,,"wq"
 :w
-|2,0,1580031095,,"w"
+|2,0,1580134712,,"w"
+:W
+|2,0,1580133642,,"W"
+:nohl
+|2,0,1580131409,,"nohl"
 :q:q
 |2,0,1580025319,,"q:q"
-:W
-|2,0,1579989162,,"W"
 :Wq
 |2,0,1579987224,,"Wq"
-:q!
-|2,0,1579925373,,"q!"
 :set foldmethod=syntax
 |2,0,1579834629,,"set foldmethod=syntax"
 :PlugInstall
@@ -88,8 +90,6 @@ $\\033
 |2,0,1579753137,,"vsplit .config/i3/config.new"
 :split .config/i3/config.new
 |2,0,1579753122,,"split .config/i3/config.new"
-:nohl
-|2,0,1579602144,,"nohl"
 :WQ
 |2,0,1579378842,,"WQ"
 :w orni.txt
@@ -122,6 +122,12 @@ $\\033
 |2,0,1569551353,,"wq!"
 
 # Search String History (newest to oldest):
+?/tray
+|2,1,1580131403,47,"tray"
+?/$mod+Shift
+|2,1,1580086668,47,"$mod+Shift"
+?/float
+|2,1,1580086627,47,"float"
 ?/filevie
 |2,1,1580031901,47,"filevie"
 ?/file
@@ -216,12 +222,6 @@ $\\033
 |2,1,1571985894,47,"Pre-Show"
 ?/Pre-show
 |2,1,1571985889,47,"Pre-show"
-?/pre-show
-|2,1,1571985886,47,"pre-show"
-?/pre
-|2,1,1571985883,47,"pre"
-?/Article
-|2,1,1571091505,47,"Article"
 
 # Expression History (newest to oldest):
 
@@ -233,85 +233,52 @@ $\\033
 
 # Registers:
 "0	LINE	0
-		var red = colours[colour][0].toString(16);
-|3,0,0,1,1,0,1579988122,"	var red = colours[colour][0].toString(16);"
-""1	LINE	0
-	fi
-|3,1,1,1,1,0,1580031086,"fi"
-"2	LINE	0
-	else
-|3,0,2,1,1,0,1580031080,"else"
-"3	LINE	0
-	level=$(echo $battery | awk '{print $4}' | sed 's/%//;s/,//')
-|3,0,3,1,1,0,1580011724,"level=$(echo $battery | awk '{print $4}' | sed 's/%//;s/,//')"
-"4	LINE	0
-	battery=$(acpi -b)
-|3,0,4,1,1,0,1580011722,"battery=$(acpi -b)"
-"5	LINE	0
-	*/5 * * * * ~/aws-scripts-mon/mon-put-instance-data.pl --mem-used-incl-cache-buff --mem-util --disk-space-util --disk-space-avail --disk-space-used --disk-path=/ --from-cron
-|3,0,5,1,1,0,1580009045,"*/5 * * * * ~/aws-scripts-mon/mon-put-instance-data.pl --mem-used-incl-cache-buff --mem-util --disk-space-util --disk-space-avail --disk-space-used --disk-path=/ --from-cron"
-"6	LINE	0
-	echo "$DEVICE_COUNT"
-|3,0,6,1,1,0,1579999554,"echo \"$DEVICE_COUNT\""
-"7	LINE	0
+	[temp]
+	interval=7200
+	color=#ff3399
 	
-	#ff0000
-	#fc0300
-	#fa0500
-	#f70800
-	#f50a00
-	#f20d00
-	#f00f00
-	#ed1200
-	#eb1400
-	#e81700
-	#e61a00
-	#e31c00
-	#e01f00
-	#de2100
-	#db2400
-	#d92600
-	#d62900
-	#d42b00
-	#d12e00
-	#cf3000
-	#cc3300
-	#c93600
-	#c73800
-	#c43b00
-	#c23d00
-	#bf4000
-	#bd4200
-	#ba4500
-	#b84700
-	#b54a00
-	#b34d00
-	#b04f00
-	#ad5200
-	#ab5400
-	#a85700
-	#a65900
-	#a35c00
-	#a15e00
-	#9e6100
-	#9c6300
-	#996600
-	#966900
-	#946b00
-	#916e00
-	#8f7000
-	#8c7300
-	#8a7500
-	#877800
-	#857a00
-|3,0,7,1,50,0,1579988292,"","#ff0000","#fc0300","#fa0500","#f70800","#f50a00","#f20d00","#f00f00","#ed1200","#eb1400","#e81700","#e61a00","#e31c00","#e01f00","#de2100","#db2400","#d92600","#d62900","#d42b00","#d12e00","#cf3000","#cc3300","#c93600","#c73800","#c43b00","#c23d00","#bf4000","#bd4200","#ba4500","#b84700","#b54a00","#b34d00","#b04f00","#ad5200","#ab5400","#a85700","#a65900","#a35c00","#a15e00","#9e6100","#9c6300","#996600","#966900","#946b00",>9
-|<"#916e00","#8f7000","#8c7300","#8a7500","#877800","#857a00"
+|3,0,0,1,4,0,1580132716,"[temp]","interval=7200","color=#ff3399",""
+""1	BLOCK	2
+	"1"
+	"2"
+	"3"
+|3,1,1,2,3,2,1580132928,"\"1\"","\"2\"","\"3\""
+"2	BLOCK	3
+	: P1
+	: P2
+	: P3
+|3,0,2,2,3,3,1580132913,": P1",": P2",": P3"
+"3	LINE	0
+	
+	[cpu]
+	interval=10
+	color=#ff6800
+	
+	[mem]
+	interval=10
+	color=#ffff00
+|3,0,3,1,8,0,1580132739,"","[cpu]","interval=10","color=#ff6800","","[mem]","interval=10","color=#ffff00"
+"4	LINE	0
+	[temp]
+	interval=7200
+	color=#ff3399
+	
+|3,0,4,1,4,0,1580132721,"[temp]","interval=7200","color=#ff3399",""
+"5	LINE	0
+	#bindsym XF86AudioMute exec "amixer set Master 0%; pkill i3blocks -RTMIN+2"
+|3,0,5,1,1,0,1580132466,"#bindsym XF86AudioMute exec \"amixer set Master 0%; pkill i3blocks -RTMIN+2\""
+"6	LINE	0
+	#bindsym shift+XF86AudioLowerVolume exec "amixer set Master 10%-; pkill i3blocks -RTMIN+2"
+|3,0,6,1,1,0,1580132465,"#bindsym shift+XF86AudioLowerVolume exec \"amixer set Master 10%-; pkill i3blocks -RTMIN+2\""
+"7	LINE	0
+	#bindsym XF86AudioLowerVolume exec "amixer set Master 1%-; pkill i3blocks -RTMIN+2"
+|3,0,7,1,1,0,1580132464,"#bindsym XF86AudioLowerVolume exec \"amixer set Master 1%-; pkill i3blocks -RTMIN+2\""
 "8	LINE	0
-		printf "yellow'>"
-|3,0,8,1,1,0,1579988237,"	printf \"yellow'>\""
+	#bindsym XF86AudioRaiseVolume exec "amixer set Master 1%+; pkill i3blocks -RTMIN+2"
+|3,0,8,1,1,0,1580132463,"#bindsym XF86AudioRaiseVolume exec \"amixer set Master 1%+; pkill i3blocks -RTMIN+2\""
 "9	LINE	0
-	then
-|3,0,9,1,1,0,1579988237,"then"
+	#bindsym shift+XF86AudioRaiseVolume exec "amixer set Master 10%+; pkill i3blocks -RTMIN+2"
+|3,0,9,1,1,0,1580132462,"#bindsym shift+XF86AudioRaiseVolume exec \"amixer set Master 10%+; pkill i3blocks -RTMIN+2\""
 "a	CHAR	0
 	sed 's/<[^>]*>//g'
 |3,0,10,0,1,0,1571990603,"sed 's/<[^>]*>//g'"
@@ -319,234 +286,709 @@ $\\033
 	sed 's/<[^>]*>//g'
 |3,0,21,0,1,0,1571991734,"sed 's/<[^>]*>//g'"
 "-	CHAR	0
-	0
-|3,0,36,0,1,0,1579988130,"0"
+	echo "scale=1; $battery * 100" | b | sed 's/\.*0*$//g'
+|3,0,36,0,1,0,1580083378,"echo \"scale=1; $battery * 100\" | b | sed 's/\\.*0*$//g'"
 
 # File marks:
-'0  241  11  ~/.config/vifm/vifmrc
-|4,48,241,11,1580032151,"~/.config/vifm/vifmrc"
-'1  18  22  ~/.config/i3blocks/blocks/battery.sh
-|4,49,18,22,1580031160,"~/.config/i3blocks/blocks/battery.sh"
-'2  4  103  ~/scripts/go.sh
-|4,50,4,103,1580031037,"~/scripts/go.sh"
-'3  2  17  ~/Documents/testing/code/bashtopython
-|4,51,2,17,1580026243,"~/Documents/testing/code/bashtopython"
-'4  1  0  ~/Documents/testing/code/test
-|4,52,1,0,1580026217,"~/Documents/testing/code/test"
-'5  1  0  /usr/share/plymouth/themes/details/details.plymouth
-|4,53,1,0,1580026044,"/usr/share/plymouth/themes/details/details.plymouth"
-'6  3  0  /usr/share/plymouth/themes/glow/glow.plymouth
-|4,54,3,0,1580025889,"/usr/share/plymouth/themes/glow/glow.plymouth"
-'7  1  0  /usr/share/plymouth/themes/solar/solar.plymouth
-|4,55,1,0,1580025796,"/usr/share/plymouth/themes/solar/solar.plymouth"
-'8  1  0  /usr/share/plymouth/themes/spinfinity/spinfinity.plymouth
-|4,56,1,0,1580025783,"/usr/share/plymouth/themes/spinfinity/spinfinity.plymouth"
-'9  134  0  /usr/share/plymouth/themes/script/script.script
-|4,57,134,0,1580025739,"/usr/share/plymouth/themes/script/script.script"
+'0  1  2  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,48,1,2,1580135459,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+'1  67  23  ~/.bash_aliases
+|4,49,67,23,1580134809,"~/.bash_aliases"
+'2  67  65  ~/.bash_aliases
+|4,50,67,65,1580134748,"~/.bash_aliases"
+'3  67  26  ~/.bash_aliases
+|4,51,67,26,1580134723,"~/.bash_aliases"
+'4  67  26  ~/.bash_aliases
+|4,52,67,26,1580134723,"~/.bash_aliases"
+'5  1  0  ~/.bash_aliases
+|4,53,1,0,1580134677,"~/.bash_aliases"
+'6  1  0  ~/.bash_aliases
+|4,54,1,0,1580134677,"~/.bash_aliases"
+'7  1  0  ~/.bash_aliases
+|4,55,1,0,1580134677,"~/.bash_aliases"
+'8  1  0  ~/.bash_aliases
+|4,56,1,0,1580134677,"~/.bash_aliases"
+'9  1  0  ~/.bash_aliases
+|4,57,1,0,1580134677,"~/.bash_aliases"
 
 # Jumplist (newest first):
--'  241  11  ~/.config/vifm/vifmrc
-|4,39,241,11,1580032151,"~/.config/vifm/vifmrc"
--'  230  0  ~/.config/vifm/vifmrc
-|4,39,230,0,1580031919,"~/.config/vifm/vifmrc"
--'  210  0  ~/.config/vifm/vifmrc
-|4,39,210,0,1580031916,"~/.config/vifm/vifmrc"
--'  198  0  ~/.config/vifm/vifmrc
-|4,39,198,0,1580031915,"~/.config/vifm/vifmrc"
--'  197  0  ~/.config/vifm/vifmrc
-|4,39,197,0,1580031914,"~/.config/vifm/vifmrc"
--'  175  0  ~/.config/vifm/vifmrc
-|4,39,175,0,1580031909,"~/.config/vifm/vifmrc"
--'  150  3  ~/.config/vifm/vifmrc
-|4,39,150,3,1580031906,"~/.config/vifm/vifmrc"
--'  18  26  ~/.config/vifm/vifmrc
-|4,39,18,26,1580031901,"~/.config/vifm/vifmrc"
--'  13  0  ~/.config/vifm/vifmrc
-|4,39,13,0,1580031898,"~/.config/vifm/vifmrc"
--'  1  0  ~/.config/vifm/vifmrc
-|4,39,1,0,1580031887,"~/.config/vifm/vifmrc"
--'  18  22  ~/.config/i3blocks/blocks/battery.sh
-|4,39,18,22,1580031160,"~/.config/i3blocks/blocks/battery.sh"
--'  18  22  ~/.config/i3blocks/blocks/battery.sh
-|4,39,18,22,1580031160,"~/.config/i3blocks/blocks/battery.sh"
--'  1  0  ~/.config/i3blocks/blocks/battery.sh
-|4,39,1,0,1580031052,"~/.config/i3blocks/blocks/battery.sh"
--'  1  0  ~/.config/i3blocks/blocks/battery.sh
-|4,39,1,0,1580031052,"~/.config/i3blocks/blocks/battery.sh"
--'  4  103  ~/scripts/go.sh
-|4,39,4,103,1580031037,"~/scripts/go.sh"
--'  4  103  ~/scripts/go.sh
-|4,39,4,103,1580031037,"~/scripts/go.sh"
--'  4  103  ~/scripts/go.sh
-|4,39,4,103,1580031037,"~/scripts/go.sh"
--'  4  103  ~/scripts/go.sh
-|4,39,4,103,1580031037,"~/scripts/go.sh"
--'  1  0  ~/scripts/go.sh
-|4,39,1,0,1580031023,"~/scripts/go.sh"
--'  1  0  ~/scripts/go.sh
-|4,39,1,0,1580031023,"~/scripts/go.sh"
--'  1  0  ~/scripts/go.sh
-|4,39,1,0,1580031023,"~/scripts/go.sh"
--'  1  0  ~/scripts/go.sh
-|4,39,1,0,1580031023,"~/scripts/go.sh"
--'  2  17  ~/Documents/testing/code/bashtopython
-|4,39,2,17,1580026243,"~/Documents/testing/code/bashtopython"
--'  2  17  ~/Documents/testing/code/bashtopython
-|4,39,2,17,1580026243,"~/Documents/testing/code/bashtopython"
--'  2  17  ~/Documents/testing/code/bashtopython
-|4,39,2,17,1580026243,"~/Documents/testing/code/bashtopython"
--'  2  17  ~/Documents/testing/code/bashtopython
-|4,39,2,17,1580026243,"~/Documents/testing/code/bashtopython"
--'  2  17  ~/Documents/testing/code/bashtopython
-|4,39,2,17,1580026243,"~/Documents/testing/code/bashtopython"
--'  2  17  ~/Documents/testing/code/bashtopython
-|4,39,2,17,1580026243,"~/Documents/testing/code/bashtopython"
--'  2  17  ~/Documents/testing/code/bashtopython
-|4,39,2,17,1580026243,"~/Documents/testing/code/bashtopython"
--'  2  17  ~/Documents/testing/code/bashtopython
-|4,39,2,17,1580026243,"~/Documents/testing/code/bashtopython"
--'  1  0  ~/Documents/testing/code/bashtopython
-|4,39,1,0,1580026226,"~/Documents/testing/code/bashtopython"
--'  1  0  ~/Documents/testing/code/bashtopython
-|4,39,1,0,1580026226,"~/Documents/testing/code/bashtopython"
--'  1  0  ~/Documents/testing/code/bashtopython
-|4,39,1,0,1580026226,"~/Documents/testing/code/bashtopython"
--'  1  0  ~/Documents/testing/code/bashtopython
-|4,39,1,0,1580026226,"~/Documents/testing/code/bashtopython"
--'  1  0  ~/Documents/testing/code/bashtopython
-|4,39,1,0,1580026226,"~/Documents/testing/code/bashtopython"
--'  1  0  ~/Documents/testing/code/bashtopython
-|4,39,1,0,1580026226,"~/Documents/testing/code/bashtopython"
--'  1  0  ~/Documents/testing/code/bashtopython
-|4,39,1,0,1580026226,"~/Documents/testing/code/bashtopython"
--'  1  0  ~/Documents/testing/code/bashtopython
-|4,39,1,0,1580026226,"~/Documents/testing/code/bashtopython"
--'  1  0  ~/Documents/testing/code/test
-|4,39,1,0,1580026217,"~/Documents/testing/code/test"
--'  1  0  ~/Documents/testing/code/test
-|4,39,1,0,1580026217,"~/Documents/testing/code/test"
--'  1  0  ~/Documents/testing/code/test
-|4,39,1,0,1580026217,"~/Documents/testing/code/test"
--'  1  0  ~/Documents/testing/code/test
-|4,39,1,0,1580026217,"~/Documents/testing/code/test"
--'  1  0  ~/Documents/testing/code/test
-|4,39,1,0,1580026217,"~/Documents/testing/code/test"
--'  1  0  ~/Documents/testing/code/test
-|4,39,1,0,1580026217,"~/Documents/testing/code/test"
--'  1  0  ~/Documents/testing/code/test
-|4,39,1,0,1580026217,"~/Documents/testing/code/test"
--'  1  0  ~/Documents/testing/code/test
-|4,39,1,0,1580026217,"~/Documents/testing/code/test"
--'  1  0  ~/Documents/testing/code/test
-|4,39,1,0,1580026217,"~/Documents/testing/code/test"
--'  1  0  ~/Documents/testing/code/test
-|4,39,1,0,1580026217,"~/Documents/testing/code/test"
--'  1  0  ~/Documents/testing/code/test
-|4,39,1,0,1580026217,"~/Documents/testing/code/test"
--'  1  0  ~/Documents/testing/code/test
-|4,39,1,0,1580026217,"~/Documents/testing/code/test"
--'  1  0  ~/Documents/testing/code/test
-|4,39,1,0,1580026217,"~/Documents/testing/code/test"
--'  1  0  ~/Documents/testing/code/test
-|4,39,1,0,1580026217,"~/Documents/testing/code/test"
--'  1  0  ~/Documents/testing/code/test
-|4,39,1,0,1580026217,"~/Documents/testing/code/test"
--'  1  0  ~/Documents/testing/code/test
-|4,39,1,0,1580026217,"~/Documents/testing/code/test"
--'  1  0  /usr/share/plymouth/themes/details/details.plymouth
-|4,39,1,0,1580026044,"/usr/share/plymouth/themes/details/details.plymouth"
--'  1  0  /usr/share/plymouth/themes/details/details.plymouth
-|4,39,1,0,1580026044,"/usr/share/plymouth/themes/details/details.plymouth"
--'  1  0  /usr/share/plymouth/themes/details/details.plymouth
-|4,39,1,0,1580026044,"/usr/share/plymouth/themes/details/details.plymouth"
--'  1  0  /usr/share/plymouth/themes/details/details.plymouth
-|4,39,1,0,1580026044,"/usr/share/plymouth/themes/details/details.plymouth"
--'  1  0  /usr/share/plymouth/themes/details/details.plymouth
-|4,39,1,0,1580026044,"/usr/share/plymouth/themes/details/details.plymouth"
--'  1  0  /usr/share/plymouth/themes/details/details.plymouth
-|4,39,1,0,1580026044,"/usr/share/plymouth/themes/details/details.plymouth"
--'  1  0  /usr/share/plymouth/themes/details/details.plymouth
-|4,39,1,0,1580026044,"/usr/share/plymouth/themes/details/details.plymouth"
--'  1  0  /usr/share/plymouth/themes/details/details.plymouth
-|4,39,1,0,1580026044,"/usr/share/plymouth/themes/details/details.plymouth"
--'  1  0  /usr/share/plymouth/themes/details/details.plymouth
-|4,39,1,0,1580026044,"/usr/share/plymouth/themes/details/details.plymouth"
--'  1  0  /usr/share/plymouth/themes/details/details.plymouth
-|4,39,1,0,1580026044,"/usr/share/plymouth/themes/details/details.plymouth"
--'  1  0  /usr/share/plymouth/themes/details/details.plymouth
-|4,39,1,0,1580026044,"/usr/share/plymouth/themes/details/details.plymouth"
--'  1  0  /usr/share/plymouth/themes/details/details.plymouth
-|4,39,1,0,1580026044,"/usr/share/plymouth/themes/details/details.plymouth"
--'  1  0  /usr/share/plymouth/themes/details/details.plymouth
-|4,39,1,0,1580026044,"/usr/share/plymouth/themes/details/details.plymouth"
--'  1  0  /usr/share/plymouth/themes/details/details.plymouth
-|4,39,1,0,1580026044,"/usr/share/plymouth/themes/details/details.plymouth"
--'  1  0  /usr/share/plymouth/themes/details/details.plymouth
-|4,39,1,0,1580026044,"/usr/share/plymouth/themes/details/details.plymouth"
--'  1  0  /usr/share/plymouth/themes/details/details.plymouth
-|4,39,1,0,1580026044,"/usr/share/plymouth/themes/details/details.plymouth"
--'  1  0  /usr/share/plymouth/themes/details/details.plymouth
-|4,39,1,0,1580026044,"/usr/share/plymouth/themes/details/details.plymouth"
--'  1  0  /usr/share/plymouth/themes/details/details.plymouth
-|4,39,1,0,1580026044,"/usr/share/plymouth/themes/details/details.plymouth"
--'  1  0  /usr/share/plymouth/themes/details/details.plymouth
-|4,39,1,0,1580026044,"/usr/share/plymouth/themes/details/details.plymouth"
--'  1  0  /usr/share/plymouth/themes/details/details.plymouth
-|4,39,1,0,1580026044,"/usr/share/plymouth/themes/details/details.plymouth"
--'  1  0  /usr/share/plymouth/themes/details/details.plymouth
-|4,39,1,0,1580026044,"/usr/share/plymouth/themes/details/details.plymouth"
--'  1  0  /usr/share/plymouth/themes/details/details.plymouth
-|4,39,1,0,1580026044,"/usr/share/plymouth/themes/details/details.plymouth"
--'  1  0  /usr/share/plymouth/themes/details/details.plymouth
-|4,39,1,0,1580026044,"/usr/share/plymouth/themes/details/details.plymouth"
--'  1  0  /usr/share/plymouth/themes/details/details.plymouth
-|4,39,1,0,1580026044,"/usr/share/plymouth/themes/details/details.plymouth"
--'  1  0  /usr/share/plymouth/themes/details/details.plymouth
-|4,39,1,0,1580026044,"/usr/share/plymouth/themes/details/details.plymouth"
--'  1  0  /usr/share/plymouth/themes/details/details.plymouth
-|4,39,1,0,1580026044,"/usr/share/plymouth/themes/details/details.plymouth"
--'  1  0  /usr/share/plymouth/themes/details/details.plymouth
-|4,39,1,0,1580026044,"/usr/share/plymouth/themes/details/details.plymouth"
--'  1  0  /usr/share/plymouth/themes/details/details.plymouth
-|4,39,1,0,1580026044,"/usr/share/plymouth/themes/details/details.plymouth"
--'  1  0  /usr/share/plymouth/themes/details/details.plymouth
-|4,39,1,0,1580026044,"/usr/share/plymouth/themes/details/details.plymouth"
--'  1  0  /usr/share/plymouth/themes/details/details.plymouth
-|4,39,1,0,1580026044,"/usr/share/plymouth/themes/details/details.plymouth"
--'  1  0  /usr/share/plymouth/themes/details/details.plymouth
-|4,39,1,0,1580026044,"/usr/share/plymouth/themes/details/details.plymouth"
--'  1  0  /usr/share/plymouth/themes/details/details.plymouth
-|4,39,1,0,1580026044,"/usr/share/plymouth/themes/details/details.plymouth"
--'  3  0  /usr/share/plymouth/themes/glow/glow.plymouth
-|4,39,3,0,1580025889,"/usr/share/plymouth/themes/glow/glow.plymouth"
--'  3  0  /usr/share/plymouth/themes/glow/glow.plymouth
-|4,39,3,0,1580025889,"/usr/share/plymouth/themes/glow/glow.plymouth"
--'  3  0  /usr/share/plymouth/themes/glow/glow.plymouth
-|4,39,3,0,1580025889,"/usr/share/plymouth/themes/glow/glow.plymouth"
--'  3  0  /usr/share/plymouth/themes/glow/glow.plymouth
-|4,39,3,0,1580025889,"/usr/share/plymouth/themes/glow/glow.plymouth"
--'  3  0  /usr/share/plymouth/themes/glow/glow.plymouth
-|4,39,3,0,1580025889,"/usr/share/plymouth/themes/glow/glow.plymouth"
--'  3  0  /usr/share/plymouth/themes/glow/glow.plymouth
-|4,39,3,0,1580025889,"/usr/share/plymouth/themes/glow/glow.plymouth"
--'  3  0  /usr/share/plymouth/themes/glow/glow.plymouth
-|4,39,3,0,1580025889,"/usr/share/plymouth/themes/glow/glow.plymouth"
--'  3  0  /usr/share/plymouth/themes/glow/glow.plymouth
-|4,39,3,0,1580025889,"/usr/share/plymouth/themes/glow/glow.plymouth"
--'  3  0  /usr/share/plymouth/themes/glow/glow.plymouth
-|4,39,3,0,1580025889,"/usr/share/plymouth/themes/glow/glow.plymouth"
--'  3  0  /usr/share/plymouth/themes/glow/glow.plymouth
-|4,39,3,0,1580025889,"/usr/share/plymouth/themes/glow/glow.plymouth"
--'  3  0  /usr/share/plymouth/themes/glow/glow.plymouth
-|4,39,3,0,1580025889,"/usr/share/plymouth/themes/glow/glow.plymouth"
--'  3  0  /usr/share/plymouth/themes/glow/glow.plymouth
-|4,39,3,0,1580025889,"/usr/share/plymouth/themes/glow/glow.plymouth"
--'  3  0  /usr/share/plymouth/themes/glow/glow.plymouth
-|4,39,3,0,1580025889,"/usr/share/plymouth/themes/glow/glow.plymouth"
--'  3  0  /usr/share/plymouth/themes/glow/glow.plymouth
-|4,39,3,0,1580025889,"/usr/share/plymouth/themes/glow/glow.plymouth"
+-'  1  2  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,2,1580135459,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  67  23  ~/.bash_aliases
+|4,39,67,23,1580134809,"~/.bash_aliases"
+-'  67  23  ~/.bash_aliases
+|4,39,67,23,1580134809,"~/.bash_aliases"
+-'  1  0  ~/.bash_aliases
+|4,39,1,0,1580134795,"~/.bash_aliases"
+-'  1  0  ~/.bash_aliases
+|4,39,1,0,1580134795,"~/.bash_aliases"
+-'  67  65  ~/.bash_aliases
+|4,39,67,65,1580134748,"~/.bash_aliases"
+-'  67  65  ~/.bash_aliases
+|4,39,67,65,1580134748,"~/.bash_aliases"
+-'  1  0  ~/.bash_aliases
+|4,39,1,0,1580134741,"~/.bash_aliases"
+-'  1  0  ~/.bash_aliases
+|4,39,1,0,1580134741,"~/.bash_aliases"
+-'  67  26  ~/.bash_aliases
+|4,39,67,26,1580134723,"~/.bash_aliases"
+-'  67  26  ~/.bash_aliases
+|4,39,67,26,1580134723,"~/.bash_aliases"
+-'  1  0  ~/.bash_aliases
+|4,39,1,0,1580134683,"~/.bash_aliases"
+-'  1  0  ~/.bash_aliases
+|4,39,1,0,1580134683,"~/.bash_aliases"
+-'  1  0  ~/.bash_aliases
+|4,39,1,0,1580134677,"~/.bash_aliases"
+-'  1  0  ~/.bash_aliases
+|4,39,1,0,1580134677,"~/.bash_aliases"
+-'  67  49  ~/.bash_aliases
+|4,39,67,49,1580134641,"~/.bash_aliases"
+-'  67  49  ~/.bash_aliases
+|4,39,67,49,1580134641,"~/.bash_aliases"
+-'  67  49  ~/.bash_aliases
+|4,39,67,49,1580134641,"~/.bash_aliases"
+-'  67  49  ~/.bash_aliases
+|4,39,67,49,1580134641,"~/.bash_aliases"
+-'  2  0  ~/.bash_aliases
+|4,39,2,0,1580134634,"~/.bash_aliases"
+-'  2  0  ~/.bash_aliases
+|4,39,2,0,1580134634,"~/.bash_aliases"
+-'  2  0  ~/.bash_aliases
+|4,39,2,0,1580134634,"~/.bash_aliases"
+-'  2  0  ~/.bash_aliases
+|4,39,2,0,1580134634,"~/.bash_aliases"
+-'  2  0  ~/.bash_aliases
+|4,39,2,0,1580134634,"~/.bash_aliases"
+-'  2  0  ~/.bash_aliases
+|4,39,2,0,1580134634,"~/.bash_aliases"
+-'  2  0  ~/.bash_aliases
+|4,39,2,0,1580134634,"~/.bash_aliases"
+-'  2  0  ~/.bash_aliases
+|4,39,2,0,1580134634,"~/.bash_aliases"
+-'  2  0  ~/.bash_aliases
+|4,39,2,0,1580134634,"~/.bash_aliases"
+-'  2  0  ~/.bash_aliases
+|4,39,2,0,1580134634,"~/.bash_aliases"
+-'  1  0  ~/.bash_aliases
+|4,39,1,0,1580134633,"~/.bash_aliases"
+-'  1  0  ~/.bash_aliases
+|4,39,1,0,1580134633,"~/.bash_aliases"
+-'  67  47  ~/.bash_aliases
+|4,39,67,47,1580134616,"~/.bash_aliases"
+-'  67  47  ~/.bash_aliases
+|4,39,67,47,1580134616,"~/.bash_aliases"
+-'  1  0  ~/.bash_aliases
+|4,39,1,0,1580134597,"~/.bash_aliases"
+-'  1  0  ~/.bash_aliases
+|4,39,1,0,1580134597,"~/.bash_aliases"
+-'  67  45  ~/.bash_aliases
+|4,39,67,45,1580134595,"~/.bash_aliases"
+-'  67  45  ~/.bash_aliases
+|4,39,67,45,1580134595,"~/.bash_aliases"
+-'  1  0  ~/.bash_aliases
+|4,39,1,0,1580134583,"~/.bash_aliases"
+-'  1  0  ~/.bash_aliases
+|4,39,1,0,1580134583,"~/.bash_aliases"
+-'  67  56  ~/.bash_aliases
+|4,39,67,56,1580134573,"~/.bash_aliases"
+-'  67  56  ~/.bash_aliases
+|4,39,67,56,1580134573,"~/.bash_aliases"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/scripts/always_copy.sh
+|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+	*	1580135457	0
+	"	1	2
+	^	1	3
+	.	1	2
+	+	1	2
+
+> ~/.bash_aliases
+	*	1580134808	0
+	"	67	23
+	^	67	24
+	.	67	23
+	+	151	0
+	+	149	30
+	+	151	26
+	+	152	21
+	+	153	33
+	+	146	0
+	+	153	22
+	+	154	21
+	+	154	101
+	+	154	21
+	+	154	129
+	+	157	0
+	+	154	40
+	+	157	28
+	+	157	12
+	+	158	18
+	+	159	19
+	+	160	17
+	+	161	43
+	+	148	6
+	+	152	19
+	+	160	6
+	+	162	23
+	+	163	90
+	+	163	91
+	+	162	24
+	+	164	27
+	+	165	13
+	+	167	3
+	+	167	0
+	+	167	16
+	+	164	12
+	+	167	28
+	+	167	13
+	+	169	62
+	+	167	0
+	+	140	12
+	+	170	8
+	+	167	0
+	+	171	10
+	+	170	4
+	+	172	17
+	+	146	11
+	+	173	35
+	+	146	0
+	+	173	17
+	+	173	41
+	+	173	17
+	+	176	32
+	+	177	18
+	+	178	7
+	+	136	18
+	+	141	12
+	+	142	13
+	+	145	0
+	+	142	5
+	+	144	16
+	+	151	0
+	+	149	18
+	+	154	21
+	+	155	9
+	+	167	1
+	+	167	14
+	+	176	0
+	+	173	22
+	+	175	26
+	+	177	1
+	+	165	20
+	+	139	7
+	+	179	10
+	+	180	8
+	+	181	11
+	+	182	12
+	+	183	13
+	+	184	9
+	+	185	26
+	+	186	7
+	+	187	40
+	+	188	66
+	+	189	12
+	+	190	16
+	+	191	10
+	+	192	17
+	+	188	29
+	+	193	0
+	+	149	0
+	+	153	0
+	+	157	0
+	+	173	0
+	+	192	15
+	+	193	10
+	+	162	27
+	+	194	0
+	+	162	30
+	+	194	4
+	+	2	0
+	+	3	0
+	+	66	0
+	+	66	17
+	+	67	23
+	e	1	0
+
+> ~/scripts/always_copy.sh
+	*	1580134561	0
+	"	1	0
+
+> ~/4
+	*	1580134232	0
+	"	1	0
+
+> ~/scripts/extdisp.sh
+	*	1580133892	0
+	"	1	8
+	^	1	9
+	.	1	8
+	+	1	8
+	+	2	51
+	+	1	8
+
+> ~/.config/i3/config
+	*	1580133642	0
+	"	30	13
+	^	35	14
+	.	35	13
+	+	53	0
+	+	59	0
+	+	65	0
+	+	69	0
+	+	72	0
+	+	71	0
+	+	76	0
+	+	88	0
+	+	97	0
+	+	99	0
+	+	177	0
+	+	184	0
+	+	163	0
+	+	151	0
+	+	152	13
+	+	153	0
+	+	141	0
+	+	129	0
+	+	119	9
+	+	120	0
+	+	114	0
+	+	106	0
+	+	194	0
+	+	195	0
+	+	202	0
+	+	207	0
+	+	211	0
+	+	10	0
+	+	11	0
+	+	2	0
+	+	1	0
+	+	9	0
+	+	8	0
+	+	5	0
+	+	40	0
+	+	5	0
+	+	3	0
+	+	4	0
+	+	44	0
+	+	167	0
+	+	1	7
+	+	3	21
+	+	3	0
+	+	101	12
+	+	196	0
+	+	197	0
+	+	198	0
+	+	199	0
+	+	200	0
+	+	196	0
+	+	197	0
+	+	198	0
+	+	199	0
+	+	200	0
+	+	196	35
+	+	197	41
+	+	196	46
+	+	197	53
+	+	198	35
+	+	199	53
+	+	200	37
+	+	208	50
+	+	209	52
+	+	161	31
+	+	86	38
+	+	115	37
+	+	116	37
+	+	117	33
+	+	118	37
+	+	117	31
+	+	116	35
+	+	115	35
+	+	40	17
+	+	40	16
+	+	40	0
+	+	40	17
+	+	39	0
+	+	39	16
+	+	40	0
+	+	39	19
+	+	197	0
+	+	196	0
+	+	198	0
+	+	199	0
+	+	200	0
+	+	199	52
+	+	197	52
+	+	32	20
+	+	35	28
+	+	34	29
+	+	35	29
+	+	33	13
+	+	34	0
+	+	191	45
+	+	33	12
+	+	34	12
+	+	35	0
+	+	33	0
+	+	34	13
+	+	35	13
+	g	191	45
+
+> ~/.config/i3blocks/config
+	*	1580132745	0
+	"	19	0
+	^	29	11
+	.	19	0
+	+	1	14
+	+	1	13
+	+	1	0
+	+	1	6
+	+	1	9
+	+	1	19
+	+	18	52
+	+	18	10
+	+	18	59
+	+	1	0
+	+	27	0
+	+	33	0
+	+	35	0
+	+	3	0
+	+	1	23
+	+	17	6
+	+	17	34
+	+	17	12
+	+	16	0
+	+	16	4
+	+	5	4
+	+	16	0
+	+	16	10
+	+	16	17
+	+	16	41
+	+	16	10
+	+	16	29
+	+	39	14
+	+	34	17
+	+	18	17
+	+	17	14
+	+	1	1
+	+	3	0
+	+	1	47
+	+	17	0
+	+	18	0
+	+	34	0
+	+	39	0
+	+	16	0
+	+	17	0
+	+	35	8
+	+	17	8
+	+	17	13
+	+	17	12
+	+	17	7
+	+	17	10
+	+	16	12
+	+	7	0
+	+	17	12
+	+	39	9
+	+	36	7
+	+	16	0
+	+	12	7
+	+	14	12
+	+	15	7
+	+	3	0
+	+	16	0
+	+	3	0
+	+	16	0
+	+	3	11
+	+	34	10
+	+	16	10
+	+	39	15
+	+	18	10
+	+	16	10
+	+	18	9
+	+	16	10
+	+	16	5
+	+	16	11
+	+	16	12
+	+	34	9
+	+	38	4
+	+	28	6
+	+	28	12
+	+	16	12
+	+	28	12
+	+	16	12
+	+	17	0
+	+	28	0
+	+	13	9
+	+	16	10
+	+	29	10
+	+	28	0
+	+	8	0
+	+	16	0
+	+	19	0
+
+> ~/Documents/repositories/webmc/.git/COMMIT_EDITMSG
+	*	1580089794	0
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1	1
+
+> ~/Documents/repositories/webmc/README.md
+	*	1580089790	0
+	"	2	17
+	^	2	18
+	.	2	17
+	+	2	17
+
+> ~/.config/i3blocks/blocks/bar_time.sh
+	*	1580089619	0
+	"	2	35
+	^	2	36
+	.	2	35
+	+	2	35
+
+> /tmp/vifm.cmdline_205317041_00
+	*	1580086049	0
+	"	1	0
+
+> ~/.config/i3blocks/blocks/battery.sh
+	*	1580084250	0
+	"	9	14
+	^	11	7
+	.	7	0
+	+	7	49
+	+	11	0
+	+	11	31
+	+	12	31
+	+	13	0
+	+	12	63
+	+	21	1
+	+	29	18
+	+	11	5
+	+	29	5
+	+	7	49
+	+	29	14
+	+	12	75
+	+	30	0
+	+	13	21
+	+	11	17
+	+	13	3
+	+	13	2
+	+	13	35
+	+	13	6
+	+	13	9
+	+	12	40
+	+	9	26
+	+	11	17
+	+	13	36
+	+	13	17
+	+	13	14
+	+	13	12
+	+	7	58
+	+	29	0
+	+	30	6
+	+	30	0
+	+	30	7
+	+	30	0
+	+	13	0
+	+	13	9
+	+	12	40
+	+	30	0
+	+	8	33
+	+	10	36
+	+	8	816
+	+	1	13
+	+	11	27
+	+	1	13
+	+	5	0
+	+	5	98
+	+	5	9
+	+	5	91
+	+	5	89
+	+	5	7
+	+	5	15
+	+	6	30
+	+	7	15
+	+	6	31
+	+	5	108
+	+	6	41
+	+	29	57
+	+	11	14
+	+	30	0
+	+	29	57
+	+	13	0
+	+	20	0
+	+	21	0
+	+	13	0
+	+	12	54
+	+	5	16
+	+	6	59
+	+	7	24
+	+	29	13
+	+	12	31
+	+	12	30
+	+	15	0
+	+	13	16
+	+	11	14
+	+	13	17
+	+	2	18
+	+	3	13
+	+	13	41
+	+	11	31
+	+	14	30
+	+	15	38
+	+	16	31
+	+	18	30
+	+	6	49
+	+	5	19
+	+	6	48
+	+	13	32
+	+	15	37
+	+	8	0
+	+	10	0
+	+	9	13
+	+	10	0
+	+	9	13
+	+	12	9
+	+	14	9
+	+	16	9
+	+	18	9
+	+	15	7
+	+	13	7
+	+	7	0
+
+> ~/Documents/testing/code/hornpub.html
+	*	1580035952	0
+	"	14	23
+	^	14	24
+	.	14	23
+	+	16	0
+	+	13	0
+	+	12	0
+	+	7	0
+	+	10	0
+	+	6	23
+	+	9	14
+	+	14	23
 
 > ~/.config/vifm/vifmrc
 	*	1580031928	0
@@ -554,110 +996,6 @@ $\\033
 	^	241	11
 	.	241	0
 	+	241	0
-
-> ~/.config/i3blocks/blocks/battery.sh
-	*	1580031095	0
-	"	18	22
-	^	18	23
-	.	18	23
-	+	21	0
-	+	18	0
-	+	18	72
-	+	17	0
-	+	24	96
-	+	21	0
-	+	24	0
-	+	9	41
-	+	24	0
-	+	24	4
-	+	25	4
-	+	29	7
-	+	24	12
-	+	26	0
-	+	25	3
-	+	26	13
-	+	28	0
-	+	27	0
-	+	30	0
-	+	9	31
-	+	23	0
-	+	22	5
-	+	9	61
-	+	22	5
-	+	2	0
-	+	22	13
-	+	29	14
-	+	2	10
-	+	29	13
-	+	9	49
-	+	29	12
-	+	2	0
-	+	29	12
-	+	9	49
-	+	16	0
-	+	17	0
-	+	18	0
-	+	19	0
-	+	18	32
-	+	21	1
-	+	29	18
-	+	16	5
-	+	29	5
-	+	9	49
-	+	29	14
-	+	18	44
-	+	30	0
-	+	19	21
-	+	16	17
-	+	19	3
-	+	19	2
-	+	19	35
-	+	19	6
-	+	19	9
-	+	18	9
-	+	12	26
-	+	16	17
-	+	19	36
-	+	19	17
-	+	19	14
-	+	19	12
-	+	9	58
-	+	29	0
-	+	30	6
-	+	30	0
-	+	30	7
-	+	30	0
-	+	19	0
-	+	19	9
-	+	18	9
-	+	30	0
-	+	10	33
-	+	14	36
-	+	10	816
-	+	1	13
-	+	16	27
-	+	1	13
-	+	6	0
-	+	3	98
-	+	3	9
-	+	3	91
-	+	4	89
-	+	4	7
-	+	6	15
-	+	7	30
-	+	9	15
-	+	7	31
-	+	4	108
-	+	7	41
-	+	29	57
-	+	16	14
-	+	30	0
-	+	29	57
-	+	19	0
-	+	20	0
-	+	21	0
-	+	19	0
-	+	18	23
 
 > ~/scripts/go.sh
 	*	1580031035	0
@@ -723,103 +1061,9 @@ $\\033
 	*	1580022529	0
 	"	611	0
 
-> ~/.config/i3blocks/config
-	*	1580014174	0
-	"	29	10
-	^	29	11
-	.	29	10
-	+	1	14
-	+	1	13
-	+	1	0
-	+	1	6
-	+	1	9
-	+	1	19
-	+	22	52
-	+	22	10
-	+	22	59
-	+	1	0
-	+	23	0
-	+	33	0
-	+	35	0
-	+	3	0
-	+	1	23
-	+	21	6
-	+	21	34
-	+	21	12
-	+	17	0
-	+	17	4
-	+	5	4
-	+	14	0
-	+	18	0
-	+	14	10
-	+	14	17
-	+	18	41
-	+	18	10
-	+	18	29
-	+	39	14
-	+	34	17
-	+	22	17
-	+	21	14
-	+	1	1
-	+	3	0
-	+	1	47
-	+	21	0
-	+	22	0
-	+	34	0
-	+	39	0
-	+	18	0
-	+	14	0
-	+	21	0
-	+	35	8
-	+	21	8
-	+	21	13
-	+	21	12
-	+	21	7
-	+	21	10
-	+	15	12
-	+	7	0
-	+	21	12
-	+	39	9
-	+	36	7
-	+	17	0
-	+	8	7
-	+	10	12
-	+	11	7
-	+	3	0
-	+	12	0
-	+	3	0
-	+	12	0
-	+	3	11
-	+	34	10
-	+	14	10
-	+	39	15
-	+	22	10
-	+	18	10
-	+	22	9
-	+	15	10
-	+	19	5
-	+	15	11
-	+	19	12
-	+	34	9
-	+	38	4
-	+	24	6
-	+	26	12
-	+	19	12
-	+	26	12
-	+	19	12
-	+	21	0
-	+	28	0
-	+	9	9
-	+	18	10
-	+	29	10
-
 > ~/scripts/force_paste.sh
 	*	1580010899	0
 	"	3	0
-
-> ~/scripts/always_copy.sh
-	*	1580010890	0
-	"	11	0
 
 > ~/.config/i3blocks/blocks/battery
 	*	1580010804	0
@@ -853,112 +1097,6 @@ $\\033
 	^	3	64
 	.	3	63
 	+	3	63
-
-> ~/.config/i3/config
-	*	1579996272	0
-	"	156	31
-	^	156	32
-	.	156	31
-	+	35	26
-	+	57	27
-	+	58	32
-	+	62	27
-	+	42	0
-	+	46	27
-	+	45	66
-	+	47	18
-	+	87	0
-	+	86	0
-	+	5	0
-	+	10	0
-	+	5	0
-	+	1	21
-	+	2	0
-	+	39	22
-	+	212	0
-	+	13	8
-	+	19	0
-	+	14	0
-	+	36	0
-	+	37	0
-	+	44	1
-	+	36	0
-	+	38	0
-	+	151	28
-	+	152	0
-	+	157	13
-	+	157	0
-	+	14	0
-	+	5	0
-	+	3	0
-	+	10	0
-	+	11	0
-	+	20	0
-	+	32	0
-	+	48	0
-	+	54	0
-	+	60	0
-	+	64	0
-	+	67	0
-	+	66	0
-	+	71	0
-	+	83	0
-	+	92	0
-	+	94	0
-	+	172	0
-	+	179	0
-	+	158	0
-	+	146	0
-	+	147	13
-	+	148	0
-	+	136	0
-	+	124	0
-	+	114	9
-	+	115	0
-	+	109	0
-	+	101	0
-	+	188	0
-	+	189	0
-	+	201	0
-	+	206	0
-	+	210	0
-	+	10	0
-	+	11	0
-	+	2	0
-	+	1	0
-	+	9	0
-	+	8	0
-	+	5	0
-	+	35	0
-	+	5	0
-	+	3	0
-	+	4	0
-	+	39	0
-	+	162	0
-	+	1	7
-	+	3	21
-	+	3	0
-	+	96	12
-	+	191	0
-	+	193	0
-	+	195	0
-	+	197	0
-	+	199	0
-	+	190	0
-	+	192	0
-	+	194	0
-	+	196	0
-	+	198	0
-	+	191	35
-	+	193	41
-	+	191	46
-	+	193	53
-	+	195	35
-	+	197	53
-	+	199	37
-	+	207	50
-	+	208	52
-	+	156	31
 
 > ~/.Xresources
 	*	1579989764	0
@@ -1299,13 +1437,6 @@ $\\033
 	+	8	0
 	+	9	0
 
-> ~/.config/i3blocks/blocks/bar_time.sh
-	*	1579919711	0
-	"	1	0
-	^	2	41
-	.	2	40
-	+	2	40
-
 > ~/.vimrc
 	*	1579834554	0
 	"	1	0
@@ -1371,113 +1502,6 @@ $\\033
 > ~/Documents/repositories/sflock/config.mk
 	*	1579825953	0
 	"	18	0
-
-> ~/.bash_aliases
-	*	1579825882	0
-	"	66	17
-	^	66	18
-	.	66	17
-	+	146	11
-	+	151	0
-	+	149	30
-	+	151	26
-	+	152	21
-	+	153	33
-	+	146	0
-	+	153	22
-	+	154	21
-	+	154	101
-	+	154	21
-	+	154	129
-	+	157	0
-	+	154	40
-	+	157	28
-	+	157	12
-	+	158	18
-	+	159	19
-	+	160	17
-	+	161	43
-	+	148	6
-	+	152	19
-	+	160	6
-	+	162	23
-	+	163	90
-	+	163	91
-	+	162	24
-	+	164	27
-	+	165	13
-	+	167	3
-	+	167	0
-	+	167	16
-	+	164	12
-	+	167	28
-	+	167	13
-	+	169	62
-	+	167	0
-	+	140	12
-	+	170	8
-	+	167	0
-	+	171	10
-	+	170	4
-	+	172	17
-	+	146	11
-	+	173	35
-	+	146	0
-	+	173	17
-	+	173	41
-	+	173	17
-	+	176	32
-	+	177	18
-	+	178	7
-	+	136	18
-	+	141	12
-	+	142	13
-	+	145	0
-	+	142	5
-	+	144	16
-	+	151	0
-	+	149	18
-	+	154	21
-	+	155	9
-	+	167	1
-	+	167	14
-	+	176	0
-	+	173	22
-	+	175	26
-	+	177	1
-	+	165	20
-	+	139	7
-	+	179	10
-	+	180	8
-	+	181	11
-	+	182	12
-	+	183	13
-	+	184	9
-	+	185	26
-	+	186	7
-	+	187	40
-	+	188	66
-	+	189	12
-	+	190	16
-	+	191	10
-	+	192	17
-	+	188	29
-	+	193	0
-	+	149	0
-	+	153	0
-	+	157	0
-	+	173	0
-	+	192	15
-	+	193	10
-	+	162	27
-	+	194	0
-	+	162	30
-	+	194	4
-	+	2	0
-	+	3	0
-	+	66	0
-	+	66	17
-	e	1	0
 
 > ~/Downloads/programs/Telegram/Telegram
 	*	1579818275	0
@@ -1633,13 +1657,6 @@ $\\033
 > ~/.local/share/orca/orca-customizations.py
 	*	1579701858	0
 	"	1	0
-
-> ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-	*	1579691951	0
-	"	1	28
-	^	1	29
-	.	1	28
-	+	1	28
 
 > ~/scripts/bash_figlet_startup.sh
 	*	1579670478	0
@@ -2244,53 +2261,4 @@ $\\033
 
 > ~/scripts/date_to_clipboard.sh
 	*	1579255099	0
-	"	1	0
-
-> ~/Documents/testing/projects/toktik/NERD_tree_1
-	*	1579253728	0
-	"	1	0
-	.	1	0
-	+	1	0
-
-> ~/Documents/testing/projects/toktik/parts
-	*	1579252535	0
-	"	1	0
-	^	34	3
-	.	34	2
-	+	39	4
-	+	10	4
-	+	12	0
-	+	8	0
-	+	15	4
-	+	17	4
-	+	12	3
-	+	20	0
-	+	26	4
-	+	28	3
-	+	36	9
-	+	1	9
-	+	29	0
-	+	20	4
-	+	22	3
-	+	41	5
-	+	42	5
-	+	34	2
-
-> ~/Downloads/eleanor/settings.xml
-	*	1579249705	0
-	"	1	0
-
-> ~/scripts/bash_figlet_starup.sh
-	*	1579194470	0
-	"	2	11
-	^	2	12
-	.	2	11
-	+	2	11
-
-> /usr/share/figlet/cosmic.flf
-	*	1579192631	0
-	"	1	0
-
-> ~/.config/dunst/dunstrc
-	*	1579191503	0
 	"	1	0
