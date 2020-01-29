@@ -3,23 +3,26 @@ MED_LOW_BATTERY=40
 MED_BATTERY=60
 
 battery="$(acpi -b)"
-level=$(echo $battery | awk '{print $4}' | egrep -o '[0-9]+')
-status=$(echo $battery | awk '{print $3}' | tr -d "\n")
+#level=$(echo $battery | awk '{print $4}' | egrep -o '[0-9]+')
+level=$(echo "scale=1;$(cat /sys/class/power_supply/BAT0/charge_now) / 100000" | bc)
+#status=$(echo $battery | awk '{print $3}' | tr -d "\n")
+status=$(cat /sys/class/power_supply/BAT0/status)
 
 printf "<span "
 
-if [ $level -le $LOW_BATTERY ]; then
+leveltest=$(echo $level | sed 's/\..//')
+if [ $leveltest -le $LOW_BATTERY ]; then
 	printf "foreground='#FF0000' weight='bold'"
-elif [ $level -le $MED_LOW_BATTERY ]; then
+elif [ $leveltest -le $MED_LOW_BATTERY ]; then
 	printf "foreground='#FFA500'"
-elif [ $level -le $MED_BATTERY ]; then
+elif [ $leveltest -le $MED_BATTERY ]; then
 	printf "foreground='#FFFF00'"
 else
 	printf "foreground='#00FF00'"
 fi
 printf ">"
 
-if [ $status = "Discharging," ];
+if [ $status = "Discharging" ];
 then
 	printf "↓"
 else

@@ -11,7 +11,7 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~MSle0~/tray
+~MSle0~/smoothing
 
 # Last Substitute Search Pattern:
 ~MSle0&\\
@@ -20,28 +20,28 @@
 $\\033
 
 # Command Line History (newest to oldest):
+:wq
+|2,0,1580297805,,"wq"
+:w
+|2,0,1580297733,,"w"
+:W
+|2,0,1580286085,,"W"
+:q
+|2,0,1580281121,,"q"
+:Q
+|2,0,1580275102,,"Q"
+:Wq
+|2,0,1580136038,,"Wq"
 :q!
 |2,0,1580135459,,"q!"
-:q
-|2,0,1580135457,,"q"
-:wq
-|2,0,1580135454,,"wq"
-:w
-|2,0,1580134712,,"w"
-:W
-|2,0,1580133642,,"W"
 :nohl
 |2,0,1580131409,,"nohl"
 :q:q
 |2,0,1580025319,,"q:q"
-:Wq
-|2,0,1579987224,,"Wq"
 :set foldmethod=syntax
 |2,0,1579834629,,"set foldmethod=syntax"
 :PlugInstall
 |2,0,1579834550,,"PlugInstall"
-:Q
-|2,0,1579834397,,"Q"
 :PlugClean
 |2,0,1579834352,,"PlugClean"
 :set list
@@ -122,6 +122,8 @@ $\\033
 |2,0,1569551353,,"wq!"
 
 # Search String History (newest to oldest):
+?/smoothing
+|2,1,1580169251,47,"smoothing"
 ?/tray
 |2,1,1580131403,47,"tray"
 ?/$mod+Shift
@@ -220,8 +222,6 @@ $\\033
 |2,1,1571986993,47,"Pre-Sho"
 ?/Pre-Show
 |2,1,1571985894,47,"Pre-Show"
-?/Pre-show
-|2,1,1571985889,47,"Pre-show"
 
 # Expression History (newest to oldest):
 
@@ -232,23 +232,26 @@ $\\033
 # Debug Line History (newest to oldest):
 
 # Registers:
-"0	LINE	0
-	[temp]
-	interval=7200
-	color=#ff3399
-	
-|3,0,0,1,4,0,1580132716,"[temp]","interval=7200","color=#ff3399",""
-""1	BLOCK	2
+""0	BLOCK	3
+	test
+|3,1,0,2,1,3,1580297728,"test"
+"1	LINE	0
+		console.log(j);
+|3,0,1,1,1,0,1580174724,"	console.log(j);"
+"2	LINE	0
+	command wQ wq
+|3,0,2,1,1,0,1580136095,"command wQ wq"
+"3	BLOCK	2
 	"1"
 	"2"
 	"3"
-|3,1,1,2,3,2,1580132928,"\"1\"","\"2\"","\"3\""
-"2	BLOCK	3
+|3,0,3,2,3,2,1580132928,"\"1\"","\"2\"","\"3\""
+"4	BLOCK	3
 	: P1
 	: P2
 	: P3
-|3,0,2,2,3,3,1580132913,": P1",": P2",": P3"
-"3	LINE	0
+|3,0,4,2,3,3,1580132913,": P1",": P2",": P3"
+"5	LINE	0
 	
 	[cpu]
 	interval=10
@@ -257,28 +260,22 @@ $\\033
 	[mem]
 	interval=10
 	color=#ffff00
-|3,0,3,1,8,0,1580132739,"","[cpu]","interval=10","color=#ff6800","","[mem]","interval=10","color=#ffff00"
-"4	LINE	0
+|3,0,5,1,8,0,1580132739,"","[cpu]","interval=10","color=#ff6800","","[mem]","interval=10","color=#ffff00"
+"6	LINE	0
 	[temp]
 	interval=7200
 	color=#ff3399
 	
-|3,0,4,1,4,0,1580132721,"[temp]","interval=7200","color=#ff3399",""
-"5	LINE	0
-	#bindsym XF86AudioMute exec "amixer set Master 0%; pkill i3blocks -RTMIN+2"
-|3,0,5,1,1,0,1580132466,"#bindsym XF86AudioMute exec \"amixer set Master 0%; pkill i3blocks -RTMIN+2\""
-"6	LINE	0
-	#bindsym shift+XF86AudioLowerVolume exec "amixer set Master 10%-; pkill i3blocks -RTMIN+2"
-|3,0,6,1,1,0,1580132465,"#bindsym shift+XF86AudioLowerVolume exec \"amixer set Master 10%-; pkill i3blocks -RTMIN+2\""
+|3,0,6,1,4,0,1580132721,"[temp]","interval=7200","color=#ff3399",""
 "7	LINE	0
-	#bindsym XF86AudioLowerVolume exec "amixer set Master 1%-; pkill i3blocks -RTMIN+2"
-|3,0,7,1,1,0,1580132464,"#bindsym XF86AudioLowerVolume exec \"amixer set Master 1%-; pkill i3blocks -RTMIN+2\""
+	#bindsym XF86AudioMute exec "amixer set Master 0%; pkill i3blocks -RTMIN+2"
+|3,0,7,1,1,0,1580132466,"#bindsym XF86AudioMute exec \"amixer set Master 0%; pkill i3blocks -RTMIN+2\""
 "8	LINE	0
-	#bindsym XF86AudioRaiseVolume exec "amixer set Master 1%+; pkill i3blocks -RTMIN+2"
-|3,0,8,1,1,0,1580132463,"#bindsym XF86AudioRaiseVolume exec \"amixer set Master 1%+; pkill i3blocks -RTMIN+2\""
+	#bindsym shift+XF86AudioLowerVolume exec "amixer set Master 10%-; pkill i3blocks -RTMIN+2"
+|3,0,8,1,1,0,1580132465,"#bindsym shift+XF86AudioLowerVolume exec \"amixer set Master 10%-; pkill i3blocks -RTMIN+2\""
 "9	LINE	0
-	#bindsym shift+XF86AudioRaiseVolume exec "amixer set Master 10%+; pkill i3blocks -RTMIN+2"
-|3,0,9,1,1,0,1580132462,"#bindsym shift+XF86AudioRaiseVolume exec \"amixer set Master 10%+; pkill i3blocks -RTMIN+2\""
+	#bindsym XF86AudioLowerVolume exec "amixer set Master 1%-; pkill i3blocks -RTMIN+2"
+|3,0,9,1,1,0,1580132464,"#bindsym XF86AudioLowerVolume exec \"amixer set Master 1%-; pkill i3blocks -RTMIN+2\""
 "a	CHAR	0
 	sed 's/<[^>]*>//g'
 |3,0,10,0,1,0,1571990603,"sed 's/<[^>]*>//g'"
@@ -286,248 +283,506 @@ $\\033
 	sed 's/<[^>]*>//g'
 |3,0,21,0,1,0,1571991734,"sed 's/<[^>]*>//g'"
 "-	CHAR	0
-	echo "scale=1; $battery * 100" | b | sed 's/\.*0*$//g'
-|3,0,36,0,1,0,1580083378,"echo \"scale=1; $battery * 100\" | b | sed 's/\\.*0*$//g'"
+	S
+|3,0,36,0,1,0,1580286084,"S"
 
 # File marks:
-'0  1  2  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,48,1,2,1580135459,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
-'1  67  23  ~/.bash_aliases
-|4,49,67,23,1580134809,"~/.bash_aliases"
-'2  67  65  ~/.bash_aliases
-|4,50,67,65,1580134748,"~/.bash_aliases"
-'3  67  26  ~/.bash_aliases
-|4,51,67,26,1580134723,"~/.bash_aliases"
-'4  67  26  ~/.bash_aliases
-|4,52,67,26,1580134723,"~/.bash_aliases"
-'5  1  0  ~/.bash_aliases
-|4,53,1,0,1580134677,"~/.bash_aliases"
-'6  1  0  ~/.bash_aliases
-|4,54,1,0,1580134677,"~/.bash_aliases"
-'7  1  0  ~/.bash_aliases
-|4,55,1,0,1580134677,"~/.bash_aliases"
-'8  1  0  ~/.bash_aliases
-|4,56,1,0,1580134677,"~/.bash_aliases"
-'9  1  0  ~/.bash_aliases
-|4,57,1,0,1580134677,"~/.bash_aliases"
+'0  1  0  ~/.config/i3blocks/blocks/battery.sh
+|4,48,1,0,1580297805,"~/.config/i3blocks/blocks/battery.sh"
+'1  18  13  ~/.config/i3blocks/blocks/battery.sh
+|4,49,18,13,1580297736,"~/.config/i3blocks/blocks/battery.sh"
+'2  18  13  ~/.config/i3blocks/blocks/battery.sh
+|4,50,18,13,1580297736,"~/.config/i3blocks/blocks/battery.sh"
+'3  183  0  ~/.config/i3/config
+|4,51,183,0,1580286246,"~/.config/i3/config"
+'4  79  0  ~/.config/i3/config
+|4,52,79,0,1580281121,"~/.config/i3/config"
+'5  79  0  ~/.config/i3/config
+|4,53,79,0,1580281121,"~/.config/i3/config"
+'6  2  0  ~/scripts/wifi_connect.sh
+|4,54,2,0,1580280326,"~/scripts/wifi_connect.sh"
+'7  4  0  /etc/lightdm/lightdm.conf
+|4,55,4,0,1580275210,"/etc/lightdm/lightdm.conf"
+'8  72  16  ~/.bashrc
+|4,56,72,16,1580275102,"~/.bashrc"
+'9  5  16  ~/Documents/testing/code/pi_baker.js
+|4,57,5,16,1580175188,"~/Documents/testing/code/pi_baker.js"
 
 # Jumplist (newest first):
--'  1  2  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,39,1,2,1580135459,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
--'  67  23  ~/.bash_aliases
-|4,39,67,23,1580134809,"~/.bash_aliases"
--'  67  23  ~/.bash_aliases
-|4,39,67,23,1580134809,"~/.bash_aliases"
--'  1  0  ~/.bash_aliases
-|4,39,1,0,1580134795,"~/.bash_aliases"
--'  1  0  ~/.bash_aliases
-|4,39,1,0,1580134795,"~/.bash_aliases"
--'  67  65  ~/.bash_aliases
-|4,39,67,65,1580134748,"~/.bash_aliases"
--'  67  65  ~/.bash_aliases
-|4,39,67,65,1580134748,"~/.bash_aliases"
--'  1  0  ~/.bash_aliases
-|4,39,1,0,1580134741,"~/.bash_aliases"
--'  1  0  ~/.bash_aliases
-|4,39,1,0,1580134741,"~/.bash_aliases"
--'  67  26  ~/.bash_aliases
-|4,39,67,26,1580134723,"~/.bash_aliases"
--'  67  26  ~/.bash_aliases
-|4,39,67,26,1580134723,"~/.bash_aliases"
--'  1  0  ~/.bash_aliases
-|4,39,1,0,1580134683,"~/.bash_aliases"
--'  1  0  ~/.bash_aliases
-|4,39,1,0,1580134683,"~/.bash_aliases"
--'  1  0  ~/.bash_aliases
-|4,39,1,0,1580134677,"~/.bash_aliases"
--'  1  0  ~/.bash_aliases
-|4,39,1,0,1580134677,"~/.bash_aliases"
--'  67  49  ~/.bash_aliases
-|4,39,67,49,1580134641,"~/.bash_aliases"
--'  67  49  ~/.bash_aliases
-|4,39,67,49,1580134641,"~/.bash_aliases"
--'  67  49  ~/.bash_aliases
-|4,39,67,49,1580134641,"~/.bash_aliases"
--'  67  49  ~/.bash_aliases
-|4,39,67,49,1580134641,"~/.bash_aliases"
--'  2  0  ~/.bash_aliases
-|4,39,2,0,1580134634,"~/.bash_aliases"
--'  2  0  ~/.bash_aliases
-|4,39,2,0,1580134634,"~/.bash_aliases"
--'  2  0  ~/.bash_aliases
-|4,39,2,0,1580134634,"~/.bash_aliases"
--'  2  0  ~/.bash_aliases
-|4,39,2,0,1580134634,"~/.bash_aliases"
--'  2  0  ~/.bash_aliases
-|4,39,2,0,1580134634,"~/.bash_aliases"
--'  2  0  ~/.bash_aliases
-|4,39,2,0,1580134634,"~/.bash_aliases"
--'  2  0  ~/.bash_aliases
-|4,39,2,0,1580134634,"~/.bash_aliases"
--'  2  0  ~/.bash_aliases
-|4,39,2,0,1580134634,"~/.bash_aliases"
--'  2  0  ~/.bash_aliases
-|4,39,2,0,1580134634,"~/.bash_aliases"
--'  2  0  ~/.bash_aliases
-|4,39,2,0,1580134634,"~/.bash_aliases"
--'  1  0  ~/.bash_aliases
-|4,39,1,0,1580134633,"~/.bash_aliases"
--'  1  0  ~/.bash_aliases
-|4,39,1,0,1580134633,"~/.bash_aliases"
--'  67  47  ~/.bash_aliases
-|4,39,67,47,1580134616,"~/.bash_aliases"
--'  67  47  ~/.bash_aliases
-|4,39,67,47,1580134616,"~/.bash_aliases"
--'  1  0  ~/.bash_aliases
-|4,39,1,0,1580134597,"~/.bash_aliases"
--'  1  0  ~/.bash_aliases
-|4,39,1,0,1580134597,"~/.bash_aliases"
--'  67  45  ~/.bash_aliases
-|4,39,67,45,1580134595,"~/.bash_aliases"
--'  67  45  ~/.bash_aliases
-|4,39,67,45,1580134595,"~/.bash_aliases"
--'  1  0  ~/.bash_aliases
-|4,39,1,0,1580134583,"~/.bash_aliases"
--'  1  0  ~/.bash_aliases
-|4,39,1,0,1580134583,"~/.bash_aliases"
--'  67  56  ~/.bash_aliases
-|4,39,67,56,1580134573,"~/.bash_aliases"
--'  67  56  ~/.bash_aliases
-|4,39,67,56,1580134573,"~/.bash_aliases"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
--'  1  0  ~/scripts/always_copy.sh
-|4,39,1,0,1580134562,"~/scripts/always_copy.sh"
+-'  1  0  ~/.config/i3blocks/blocks/battery.sh
+|4,39,1,0,1580297805,"~/.config/i3blocks/blocks/battery.sh"
+-'  18  13  ~/.config/i3blocks/blocks/battery.sh
+|4,39,18,13,1580297736,"~/.config/i3blocks/blocks/battery.sh"
+-'  18  13  ~/.config/i3blocks/blocks/battery.sh
+|4,39,18,13,1580297736,"~/.config/i3blocks/blocks/battery.sh"
+-'  8  73  ~/.config/i3blocks/blocks/battery.sh
+|4,39,8,73,1580297375,"~/.config/i3blocks/blocks/battery.sh"
+-'  8  73  ~/.config/i3blocks/blocks/battery.sh
+|4,39,8,73,1580297375,"~/.config/i3blocks/blocks/battery.sh"
+-'  31  0  ~/.config/i3blocks/blocks/battery.sh
+|4,39,31,0,1580297064,"~/.config/i3blocks/blocks/battery.sh"
+-'  31  0  ~/.config/i3blocks/blocks/battery.sh
+|4,39,31,0,1580297064,"~/.config/i3blocks/blocks/battery.sh"
+-'  1  0  ~/.config/i3blocks/blocks/battery.sh
+|4,39,1,0,1580296983,"~/.config/i3blocks/blocks/battery.sh"
+-'  183  0  ~/.config/i3/config
+|4,39,183,0,1580286246,"~/.config/i3/config"
+-'  183  0  ~/.config/i3/config
+|4,39,183,0,1580286246,"~/.config/i3/config"
+-'  183  0  ~/.config/i3/config
+|4,39,183,0,1580286246,"~/.config/i3/config"
+-'  183  0  ~/.config/i3/config
+|4,39,183,0,1580286246,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1580286041,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1580286041,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1580286041,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1580286041,"~/.config/i3/config"
+-'  79  0  ~/.config/i3/config
+|4,39,79,0,1580281121,"~/.config/i3/config"
+-'  79  0  ~/.config/i3/config
+|4,39,79,0,1580281121,"~/.config/i3/config"
+-'  79  0  ~/.config/i3/config
+|4,39,79,0,1580281121,"~/.config/i3/config"
+-'  79  0  ~/.config/i3/config
+|4,39,79,0,1580281121,"~/.config/i3/config"
+-'  79  0  ~/.config/i3/config
+|4,39,79,0,1580281121,"~/.config/i3/config"
+-'  79  0  ~/.config/i3/config
+|4,39,79,0,1580281121,"~/.config/i3/config"
+-'  79  0  ~/.config/i3/config
+|4,39,79,0,1580281121,"~/.config/i3/config"
+-'  79  0  ~/.config/i3/config
+|4,39,79,0,1580281121,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1580281065,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1580281065,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1580281065,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1580281065,"~/.config/i3/config"
+-'  2  0  ~/scripts/wifi_connect.sh
+|4,39,2,0,1580280326,"~/scripts/wifi_connect.sh"
+-'  2  0  ~/scripts/wifi_connect.sh
+|4,39,2,0,1580280326,"~/scripts/wifi_connect.sh"
+-'  2  0  ~/scripts/wifi_connect.sh
+|4,39,2,0,1580280326,"~/scripts/wifi_connect.sh"
+-'  2  0  ~/scripts/wifi_connect.sh
+|4,39,2,0,1580280326,"~/scripts/wifi_connect.sh"
+-'  2  0  ~/scripts/wifi_connect.sh
+|4,39,2,0,1580280326,"~/scripts/wifi_connect.sh"
+-'  2  0  ~/scripts/wifi_connect.sh
+|4,39,2,0,1580280326,"~/scripts/wifi_connect.sh"
+-'  2  0  ~/scripts/wifi_connect.sh
+|4,39,2,0,1580280326,"~/scripts/wifi_connect.sh"
+-'  2  0  ~/scripts/wifi_connect.sh
+|4,39,2,0,1580280326,"~/scripts/wifi_connect.sh"
+-'  2  0  ~/scripts/wifi_connect.sh
+|4,39,2,0,1580280326,"~/scripts/wifi_connect.sh"
+-'  2  0  ~/scripts/wifi_connect.sh
+|4,39,2,0,1580280326,"~/scripts/wifi_connect.sh"
+-'  2  0  ~/scripts/wifi_connect.sh
+|4,39,2,0,1580280326,"~/scripts/wifi_connect.sh"
+-'  2  0  ~/scripts/wifi_connect.sh
+|4,39,2,0,1580280326,"~/scripts/wifi_connect.sh"
+-'  2  0  ~/scripts/wifi_connect.sh
+|4,39,2,0,1580280326,"~/scripts/wifi_connect.sh"
+-'  2  0  ~/scripts/wifi_connect.sh
+|4,39,2,0,1580280326,"~/scripts/wifi_connect.sh"
+-'  2  0  ~/scripts/wifi_connect.sh
+|4,39,2,0,1580280326,"~/scripts/wifi_connect.sh"
+-'  2  0  ~/scripts/wifi_connect.sh
+|4,39,2,0,1580280326,"~/scripts/wifi_connect.sh"
+-'  1  0  ~/scripts/wifi_connect.sh
+|4,39,1,0,1580280303,"~/scripts/wifi_connect.sh"
+-'  1  0  ~/scripts/wifi_connect.sh
+|4,39,1,0,1580280303,"~/scripts/wifi_connect.sh"
+-'  1  0  ~/scripts/wifi_connect.sh
+|4,39,1,0,1580280303,"~/scripts/wifi_connect.sh"
+-'  1  0  ~/scripts/wifi_connect.sh
+|4,39,1,0,1580280303,"~/scripts/wifi_connect.sh"
+-'  1  0  ~/scripts/wifi_connect.sh
+|4,39,1,0,1580280303,"~/scripts/wifi_connect.sh"
+-'  1  0  ~/scripts/wifi_connect.sh
+|4,39,1,0,1580280303,"~/scripts/wifi_connect.sh"
+-'  1  0  ~/scripts/wifi_connect.sh
+|4,39,1,0,1580280303,"~/scripts/wifi_connect.sh"
+-'  1  0  ~/scripts/wifi_connect.sh
+|4,39,1,0,1580280303,"~/scripts/wifi_connect.sh"
+-'  1  0  ~/scripts/wifi_connect.sh
+|4,39,1,0,1580280303,"~/scripts/wifi_connect.sh"
+-'  1  0  ~/scripts/wifi_connect.sh
+|4,39,1,0,1580280303,"~/scripts/wifi_connect.sh"
+-'  1  0  ~/scripts/wifi_connect.sh
+|4,39,1,0,1580280303,"~/scripts/wifi_connect.sh"
+-'  1  0  ~/scripts/wifi_connect.sh
+|4,39,1,0,1580280303,"~/scripts/wifi_connect.sh"
+-'  1  0  ~/scripts/wifi_connect.sh
+|4,39,1,0,1580280303,"~/scripts/wifi_connect.sh"
+-'  1  0  ~/scripts/wifi_connect.sh
+|4,39,1,0,1580280303,"~/scripts/wifi_connect.sh"
+-'  1  0  ~/scripts/wifi_connect.sh
+|4,39,1,0,1580280303,"~/scripts/wifi_connect.sh"
+-'  1  0  ~/scripts/wifi_connect.sh
+|4,39,1,0,1580280303,"~/scripts/wifi_connect.sh"
+-'  4  0  /etc/lightdm/lightdm.conf
+|4,39,4,0,1580275210,"/etc/lightdm/lightdm.conf"
+-'  4  0  /etc/lightdm/lightdm.conf
+|4,39,4,0,1580275210,"/etc/lightdm/lightdm.conf"
+-'  4  0  /etc/lightdm/lightdm.conf
+|4,39,4,0,1580275210,"/etc/lightdm/lightdm.conf"
+-'  4  0  /etc/lightdm/lightdm.conf
+|4,39,4,0,1580275210,"/etc/lightdm/lightdm.conf"
+-'  4  0  /etc/lightdm/lightdm.conf
+|4,39,4,0,1580275210,"/etc/lightdm/lightdm.conf"
+-'  4  0  /etc/lightdm/lightdm.conf
+|4,39,4,0,1580275210,"/etc/lightdm/lightdm.conf"
+-'  4  0  /etc/lightdm/lightdm.conf
+|4,39,4,0,1580275210,"/etc/lightdm/lightdm.conf"
+-'  4  0  /etc/lightdm/lightdm.conf
+|4,39,4,0,1580275210,"/etc/lightdm/lightdm.conf"
+-'  4  0  /etc/lightdm/lightdm.conf
+|4,39,4,0,1580275210,"/etc/lightdm/lightdm.conf"
+-'  4  0  /etc/lightdm/lightdm.conf
+|4,39,4,0,1580275210,"/etc/lightdm/lightdm.conf"
+-'  4  0  /etc/lightdm/lightdm.conf
+|4,39,4,0,1580275210,"/etc/lightdm/lightdm.conf"
+-'  4  0  /etc/lightdm/lightdm.conf
+|4,39,4,0,1580275210,"/etc/lightdm/lightdm.conf"
+-'  4  0  /etc/lightdm/lightdm.conf
+|4,39,4,0,1580275210,"/etc/lightdm/lightdm.conf"
+-'  4  0  /etc/lightdm/lightdm.conf
+|4,39,4,0,1580275210,"/etc/lightdm/lightdm.conf"
+-'  4  0  /etc/lightdm/lightdm.conf
+|4,39,4,0,1580275210,"/etc/lightdm/lightdm.conf"
+-'  4  0  /etc/lightdm/lightdm.conf
+|4,39,4,0,1580275210,"/etc/lightdm/lightdm.conf"
+-'  4  0  /etc/lightdm/lightdm.conf
+|4,39,4,0,1580275210,"/etc/lightdm/lightdm.conf"
+-'  4  0  /etc/lightdm/lightdm.conf
+|4,39,4,0,1580275210,"/etc/lightdm/lightdm.conf"
+-'  4  0  /etc/lightdm/lightdm.conf
+|4,39,4,0,1580275210,"/etc/lightdm/lightdm.conf"
+-'  4  0  /etc/lightdm/lightdm.conf
+|4,39,4,0,1580275210,"/etc/lightdm/lightdm.conf"
+-'  4  0  /etc/lightdm/lightdm.conf
+|4,39,4,0,1580275210,"/etc/lightdm/lightdm.conf"
+-'  4  0  /etc/lightdm/lightdm.conf
+|4,39,4,0,1580275210,"/etc/lightdm/lightdm.conf"
+-'  4  0  /etc/lightdm/lightdm.conf
+|4,39,4,0,1580275210,"/etc/lightdm/lightdm.conf"
+-'  4  0  /etc/lightdm/lightdm.conf
+|4,39,4,0,1580275210,"/etc/lightdm/lightdm.conf"
+-'  4  0  /etc/lightdm/lightdm.conf
+|4,39,4,0,1580275210,"/etc/lightdm/lightdm.conf"
+-'  4  0  /etc/lightdm/lightdm.conf
+|4,39,4,0,1580275210,"/etc/lightdm/lightdm.conf"
+-'  4  0  /etc/lightdm/lightdm.conf
+|4,39,4,0,1580275210,"/etc/lightdm/lightdm.conf"
+-'  4  0  /etc/lightdm/lightdm.conf
+|4,39,4,0,1580275210,"/etc/lightdm/lightdm.conf"
+-'  4  0  /etc/lightdm/lightdm.conf
+|4,39,4,0,1580275210,"/etc/lightdm/lightdm.conf"
+-'  4  0  /etc/lightdm/lightdm.conf
+|4,39,4,0,1580275210,"/etc/lightdm/lightdm.conf"
+-'  4  0  /etc/lightdm/lightdm.conf
+|4,39,4,0,1580275210,"/etc/lightdm/lightdm.conf"
+-'  4  0  /etc/lightdm/lightdm.conf
+|4,39,4,0,1580275210,"/etc/lightdm/lightdm.conf"
+-'  1  0  /etc/lightdm/lightdm.conf
+|4,39,1,0,1580275114,"/etc/lightdm/lightdm.conf"
+-'  1  0  /etc/lightdm/lightdm.conf
+|4,39,1,0,1580275114,"/etc/lightdm/lightdm.conf"
+-'  1  0  /etc/lightdm/lightdm.conf
+|4,39,1,0,1580275114,"/etc/lightdm/lightdm.conf"
+-'  1  0  /etc/lightdm/lightdm.conf
+|4,39,1,0,1580275114,"/etc/lightdm/lightdm.conf"
+-'  1  0  /etc/lightdm/lightdm.conf
+|4,39,1,0,1580275114,"/etc/lightdm/lightdm.conf"
+-'  1  0  /etc/lightdm/lightdm.conf
+|4,39,1,0,1580275114,"/etc/lightdm/lightdm.conf"
+-'  1  0  /etc/lightdm/lightdm.conf
+|4,39,1,0,1580275114,"/etc/lightdm/lightdm.conf"
+-'  1  0  /etc/lightdm/lightdm.conf
+|4,39,1,0,1580275114,"/etc/lightdm/lightdm.conf"
 
 # History of marks within files (newest to oldest):
 
-> ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-	*	1580135457	0
-	"	1	2
-	^	1	3
-	.	1	2
-	+	1	2
+> ~/.config/i3blocks/blocks/battery.sh
+	*	1580297738	0
+	"	1	0
+	^	14	15
+	.	18	0
+	+	8	49
+	+	32	14
+	+	15	75
+	+	33	0
+	+	16	21
+	+	14	17
+	+	16	3
+	+	16	2
+	+	16	35
+	+	16	6
+	+	16	9
+	+	15	40
+	+	11	26
+	+	14	17
+	+	16	36
+	+	16	17
+	+	16	14
+	+	16	12
+	+	8	58
+	+	32	0
+	+	33	6
+	+	33	0
+	+	33	7
+	+	33	0
+	+	16	0
+	+	16	9
+	+	15	40
+	+	33	0
+	+	10	33
+	+	12	36
+	+	10	816
+	+	1	13
+	+	14	27
+	+	1	13
+	+	5	0
+	+	5	98
+	+	5	9
+	+	5	91
+	+	5	89
+	+	5	7
+	+	5	15
+	+	6	30
+	+	8	15
+	+	6	31
+	+	5	108
+	+	6	41
+	+	32	57
+	+	14	14
+	+	33	0
+	+	32	57
+	+	16	0
+	+	23	0
+	+	24	0
+	+	16	0
+	+	15	54
+	+	5	16
+	+	6	59
+	+	8	24
+	+	32	13
+	+	15	31
+	+	15	30
+	+	18	0
+	+	16	16
+	+	14	14
+	+	16	17
+	+	2	18
+	+	3	13
+	+	16	41
+	+	14	31
+	+	17	30
+	+	18	38
+	+	19	31
+	+	21	30
+	+	6	49
+	+	5	19
+	+	6	48
+	+	16	32
+	+	18	37
+	+	10	0
+	+	12	0
+	+	11	13
+	+	12	0
+	+	11	13
+	+	15	9
+	+	17	9
+	+	19	9
+	+	21	9
+	+	18	7
+	+	16	7
+	+	8	0
+	+	7	83
+	+	8	1
+	+	9	48
+	+	25	27
+	+	13	39
+	+	14	14
+	+	16	0
+	+	18	0
+
+> ~/.config/i3/config
+	*	1580286179	0
+	"	183	0
+	^	182	21
+	.	182	20
+	+	72	0
+	+	71	0
+	+	76	0
+	+	88	0
+	+	97	0
+	+	99	0
+	+	177	0
+	+	184	0
+	+	163	0
+	+	151	0
+	+	152	13
+	+	153	0
+	+	141	0
+	+	129	0
+	+	119	9
+	+	120	0
+	+	114	0
+	+	106	0
+	+	194	0
+	+	195	0
+	+	202	0
+	+	207	0
+	+	211	0
+	+	10	0
+	+	11	0
+	+	2	0
+	+	1	0
+	+	9	0
+	+	8	0
+	+	5	0
+	+	40	0
+	+	5	0
+	+	3	0
+	+	4	0
+	+	44	0
+	+	167	0
+	+	1	7
+	+	3	21
+	+	3	0
+	+	101	12
+	+	196	0
+	+	197	0
+	+	198	0
+	+	199	0
+	+	200	0
+	+	196	0
+	+	197	0
+	+	198	0
+	+	199	0
+	+	200	0
+	+	196	35
+	+	197	41
+	+	196	46
+	+	197	53
+	+	198	35
+	+	199	53
+	+	200	37
+	+	208	50
+	+	209	52
+	+	161	31
+	+	86	38
+	+	115	37
+	+	116	37
+	+	117	33
+	+	118	37
+	+	117	31
+	+	116	35
+	+	115	35
+	+	40	17
+	+	40	16
+	+	40	0
+	+	40	17
+	+	39	0
+	+	39	16
+	+	40	0
+	+	39	19
+	+	197	0
+	+	196	0
+	+	198	0
+	+	199	0
+	+	200	0
+	+	199	52
+	+	197	52
+	+	32	20
+	+	35	28
+	+	34	29
+	+	35	29
+	+	33	13
+	+	34	0
+	+	191	45
+	+	33	12
+	+	34	12
+	+	35	0
+	+	33	0
+	+	34	13
+	+	35	13
+	+	208	50
+	+	209	52
+	+	186	13
+	+	182	20
+	g	191	45
+
+> ~/scripts/wifi_connect.sh
+	*	1580280304	0
+	"	2	0
+	^	2	28
+	.	2	27
+	+	1	0
+	+	2	27
+
+> /etc/lightdm/lightdm.conf
+	*	1580275116	0
+	"	4	0
+	^	3	36
+	.	3	35
+	+	3	35
+
+> ~/.bashrc
+	*	1580272971	0
+	"	72	16
+	^	66	5
+	.	66	4
+	+	153	36
+	+	16	22
+	+	23	14
+	+	22	10
+	+	24	23
+	+	66	4
+	+	67	0
+	+	72	15
+	+	67	0
+	+	66	4
+
+> ~/Documents/testing/code/pi_baker.js
+	*	1580175188	0
+	"	5	16
+	^	5	17
+	.	5	16
+	+	7	21
+	+	12	0
+	+	6	0
+	+	6	15
+	+	14	14
+	+	4	0
+	+	15	6
+	+	14	14
+	+	1	15
+	+	11	17
+	+	6	0
+	+	11	20
+	+	4	1
+	+	5	16
+
+> ~/Documents/testing/projects/sonos/now_playing.py
+	*	1580175079	0
+	"	27	0
 
 > ~/.bash_aliases
-	*	1580134808	0
-	"	67	23
-	^	67	24
-	.	67	23
-	+	151	0
+	*	1580169686	0
+	"	68	15
+	^	68	16
+	.	68	15
 	+	149	30
 	+	151	26
 	+	152	21
@@ -627,7 +882,126 @@ $\\033
 	+	66	0
 	+	66	17
 	+	67	23
+	+	68	15
 	e	1	0
+
+> /tmp/bash-fc.MwHRd7
+	*	1580169607	0
+	"	1	0
+
+> ~/.config/cava/config
+	*	1580169273	0
+	"	134	12
+	^	134	13
+	.	134	12
+	+	59	0
+	+	60	0
+	+	59	0
+	+	90	16
+	+	59	1
+	+	60	1
+	+	90	0
+	+	91	0
+	+	123	0
+	+	125	0
+	+	126	0
+	+	124	0
+	+	134	12
+
+> ~/Documents/repositories/cava/NERD_tree_1
+	*	1580169043	0
+	"	5	0
+	.	1	0
+	+	1	0
+
+> ~/Documents/repositories/cava/config.h
+	*	1580168866	0
+	"	33	0
+
+> ~/Documents/repositories/cava/config
+	*	1580168838	0
+	"	1	0
+
+> ~/scripts/extdisp.sh
+	*	1580166626	0
+	"	1	0
+	^	1	9
+	.	1	8
+	+	1	8
+	+	2	51
+	+	1	8
+
+> /etc/NetworkManager/NetworkManager.conf
+	*	1580136834	0
+	"	6	0
+
+> /etc/networks
+	*	1580136812	0
+	"	1	0
+
+> /etc/network/interfaces
+	*	1580136803	0
+	"	1	0
+
+> ~/scripts/shutdown.sh
+	*	1580136115	0
+	"	1	0
+	^	1	15
+	.	1	14
+	+	1	14
+
+> ~/.vimrc
+	*	1580136095	0
+	"	29	0
+	^	29	13
+	.	29	0
+	+	23	14
+	+	23	15
+	+	24	0
+	+	13	0
+	+	26	11
+	+	27	10
+	+	32	4
+	+	25	1
+	+	32	0
+	+	17	0
+	+	18	0
+	+	32	43
+	+	32	14
+	+	32	50
+	+	32	41
+	+	32	20
+	+	32	16
+	+	32	17
+	+	31	0
+	+	31	107
+	+	32	0
+	+	33	42
+	+	32	0
+	+	33	34
+	+	22	28
+	+	21	0
+	+	22	0
+	+	21	0
+	+	22	14
+	+	29	0
+
+> ~/scripts/go.sh
+	*	1580136038	0
+	"	3	53
+	^	3	53
+	.	3	52
+	+	4	100
+	+	4	1
+	+	4	103
+	+	3	52
+
+> ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+	*	1580135494	0
+	"	1	24
+	^	1	25
+	.	1	24
+	+	1	24
 
 > ~/scripts/always_copy.sh
 	*	1580134561	0
@@ -636,122 +1010,6 @@ $\\033
 > ~/4
 	*	1580134232	0
 	"	1	0
-
-> ~/scripts/extdisp.sh
-	*	1580133892	0
-	"	1	8
-	^	1	9
-	.	1	8
-	+	1	8
-	+	2	51
-	+	1	8
-
-> ~/.config/i3/config
-	*	1580133642	0
-	"	30	13
-	^	35	14
-	.	35	13
-	+	53	0
-	+	59	0
-	+	65	0
-	+	69	0
-	+	72	0
-	+	71	0
-	+	76	0
-	+	88	0
-	+	97	0
-	+	99	0
-	+	177	0
-	+	184	0
-	+	163	0
-	+	151	0
-	+	152	13
-	+	153	0
-	+	141	0
-	+	129	0
-	+	119	9
-	+	120	0
-	+	114	0
-	+	106	0
-	+	194	0
-	+	195	0
-	+	202	0
-	+	207	0
-	+	211	0
-	+	10	0
-	+	11	0
-	+	2	0
-	+	1	0
-	+	9	0
-	+	8	0
-	+	5	0
-	+	40	0
-	+	5	0
-	+	3	0
-	+	4	0
-	+	44	0
-	+	167	0
-	+	1	7
-	+	3	21
-	+	3	0
-	+	101	12
-	+	196	0
-	+	197	0
-	+	198	0
-	+	199	0
-	+	200	0
-	+	196	0
-	+	197	0
-	+	198	0
-	+	199	0
-	+	200	0
-	+	196	35
-	+	197	41
-	+	196	46
-	+	197	53
-	+	198	35
-	+	199	53
-	+	200	37
-	+	208	50
-	+	209	52
-	+	161	31
-	+	86	38
-	+	115	37
-	+	116	37
-	+	117	33
-	+	118	37
-	+	117	31
-	+	116	35
-	+	115	35
-	+	40	17
-	+	40	16
-	+	40	0
-	+	40	17
-	+	39	0
-	+	39	16
-	+	40	0
-	+	39	19
-	+	197	0
-	+	196	0
-	+	198	0
-	+	199	0
-	+	200	0
-	+	199	52
-	+	197	52
-	+	32	20
-	+	35	28
-	+	34	29
-	+	35	29
-	+	33	13
-	+	34	0
-	+	191	45
-	+	33	12
-	+	34	12
-	+	35	0
-	+	33	0
-	+	34	13
-	+	35	13
-	g	191	45
 
 > ~/.config/i3blocks/config
 	*	1580132745	0
@@ -870,112 +1128,6 @@ $\\033
 	*	1580086049	0
 	"	1	0
 
-> ~/.config/i3blocks/blocks/battery.sh
-	*	1580084250	0
-	"	9	14
-	^	11	7
-	.	7	0
-	+	7	49
-	+	11	0
-	+	11	31
-	+	12	31
-	+	13	0
-	+	12	63
-	+	21	1
-	+	29	18
-	+	11	5
-	+	29	5
-	+	7	49
-	+	29	14
-	+	12	75
-	+	30	0
-	+	13	21
-	+	11	17
-	+	13	3
-	+	13	2
-	+	13	35
-	+	13	6
-	+	13	9
-	+	12	40
-	+	9	26
-	+	11	17
-	+	13	36
-	+	13	17
-	+	13	14
-	+	13	12
-	+	7	58
-	+	29	0
-	+	30	6
-	+	30	0
-	+	30	7
-	+	30	0
-	+	13	0
-	+	13	9
-	+	12	40
-	+	30	0
-	+	8	33
-	+	10	36
-	+	8	816
-	+	1	13
-	+	11	27
-	+	1	13
-	+	5	0
-	+	5	98
-	+	5	9
-	+	5	91
-	+	5	89
-	+	5	7
-	+	5	15
-	+	6	30
-	+	7	15
-	+	6	31
-	+	5	108
-	+	6	41
-	+	29	57
-	+	11	14
-	+	30	0
-	+	29	57
-	+	13	0
-	+	20	0
-	+	21	0
-	+	13	0
-	+	12	54
-	+	5	16
-	+	6	59
-	+	7	24
-	+	29	13
-	+	12	31
-	+	12	30
-	+	15	0
-	+	13	16
-	+	11	14
-	+	13	17
-	+	2	18
-	+	3	13
-	+	13	41
-	+	11	31
-	+	14	30
-	+	15	38
-	+	16	31
-	+	18	30
-	+	6	49
-	+	5	19
-	+	6	48
-	+	13	32
-	+	15	37
-	+	8	0
-	+	10	0
-	+	9	13
-	+	10	0
-	+	9	13
-	+	12	9
-	+	14	9
-	+	16	9
-	+	18	9
-	+	15	7
-	+	13	7
-	+	7	0
-
 > ~/Documents/testing/code/hornpub.html
 	*	1580035952	0
 	"	14	23
@@ -996,15 +1148,6 @@ $\\033
 	^	241	11
 	.	241	0
 	+	241	0
-
-> ~/scripts/go.sh
-	*	1580031035	0
-	"	4	103
-	^	4	104
-	.	4	103
-	+	4	100
-	+	4	1
-	+	4	103
 
 > ~/Documents/testing/code/bashtopython
 	*	1580026243	0
@@ -1304,32 +1447,9 @@ $\\033
 	*	1579931222	0
 	"	449	0
 
-> ~/.bashrc
-	*	1579931017	0
-	"	23	0
-	^	66	5
-	.	66	4
-	+	153	36
-	+	16	22
-	+	23	14
-	+	22	10
-	+	24	23
-	+	66	4
-	+	67	0
-	+	72	15
-	+	67	0
-	+	66	4
-
 > /etc/lightdm/slick-greeter.conf
 	*	1579925728	0
 	"	1	0
-
-> /etc/lightdm/lightdm.conf
-	*	1579925372	0
-	"	3	35
-	^	3	36
-	.	3	35
-	+	3	35
 
 > ~/.config/i3blocks/blocks/timezones.sh
 	*	1579920119	0
@@ -1436,41 +1556,6 @@ $\\033
 	+	5	0
 	+	8	0
 	+	9	0
-
-> ~/.vimrc
-	*	1579834554	0
-	"	1	0
-	^	22	15
-	.	22	14
-	+	23	14
-	+	23	15
-	+	24	0
-	+	13	0
-	+	26	11
-	+	27	10
-	+	30	4
-	+	25	1
-	+	30	0
-	+	17	0
-	+	18	0
-	+	30	43
-	+	30	14
-	+	30	50
-	+	30	41
-	+	30	20
-	+	30	16
-	+	30	17
-	+	29	0
-	+	29	107
-	+	30	0
-	+	31	42
-	+	30	0
-	+	31	34
-	+	22	28
-	+	21	0
-	+	22	0
-	+	21	0
-	+	22	14
 
 > ~/.vim/syntax/i3.vim
 	*	1579834292	0
@@ -1589,10 +1674,6 @@ $\\033
 	^	5	1
 	.	6	0
 	+	6	0
-
-> /etc/network/interfaces
-	*	1579755965	0
-	"	1	0
 
 > /usr/share/vim/vim81/doc/options.txt
 	*	1579755564	0
@@ -1849,21 +1930,6 @@ $\\033
 	.	4	150
 	+	4	150
 
-> ~/Documents/testing/code/pi_baker.js
-	*	1579444650	0
-	"	1	15
-	^	1	16
-	.	1	15
-	+	7	21
-	+	11	0
-	+	6	0
-	+	5	15
-	+	13	14
-	+	4	0
-	+	14	6
-	+	13	14
-	+	1	15
-
 > ~/.bash_history
 	*	1579443199	0
 	"	2230	0
@@ -1936,329 +2002,4 @@ $\\033
 
 > ~/Downloads/cell_towers.csv
 	*	1579377015	0
-	"	1	0
-
-> ~/Downloads/bluetooth/505.csv
-	*	1579376159	0
-	"	43	0
-
-> ~/Downloads/bluetooth/505.csv.gz
-	*	1579375937	0
-	"	1	0
-	.	468162	0
-	+	468162	0
-
-> ~/Documents/testing/projects/sonos/gui_now_playing.py
-	*	1579283445	0
-	"	20	44
-	^	20	45
-	.	20	45
-	+	44	14
-	+	44	10
-	+	44	21
-	+	3	0
-	+	30	0
-	+	28	21
-	+	29	14
-	+	44	8
-	+	28	20
-	+	44	8
-	+	23	0
-	+	27	0
-	+	44	8
-	+	44	0
-	+	28	29
-	+	29	0
-	+	44	0
-	+	44	14
-	+	28	11
-	+	38	25
-	+	37	18
-	+	40	0
-	+	38	41
-	+	44	8
-	+	37	10
-	+	44	8
-	+	38	61
-	+	44	8
-	+	44	23
-	+	44	0
-	+	37	11
-	+	38	56
-	+	43	0
-	+	42	50
-	+	44	24
-	+	44	23
-	+	44	8
-	+	44	0
-	+	44	7
-	+	44	35
-	+	42	58
-	+	44	40
-	+	44	0
-	+	24	0
-	+	14	0
-	+	44	50
-	+	20	23
-	+	44	0
-	+	13	0
-	+	14	0
-	+	44	0
-	+	28	0
-	+	8	0
-	+	11	10
-	+	40	13
-	+	16	22
-	+	37	25
-	+	19	30
-	+	37	25
-	+	38	75
-	+	39	7
-	+	37	0
-	+	36	25
-	+	16	27
-	+	18	25
-	+	19	36
-	+	17	39
-	+	18	13
-	+	19	25
-	+	11	8
-	+	20	46
-	+	21	32
-	+	13	0
-	+	12	30
-	+	11	24
-	+	19	0
-	+	22	0
-	+	19	0
-	+	20	61
-	+	21	0
-	+	13	56
-	+	28	36
-	+	39	11
-	+	42	43
-	+	41	15
-	+	41	12
-	+	16	0
-	+	14	15
-	+	19	20
-	+	19	0
-	+	41	16
-	+	7	6
-	+	21	0
-	+	42	56
-	+	26	12
-	+	20	45
-
-> ~/Documents/testing/projects/sonos/now_playing.py
-	*	1579282532	0
-	"	1	0
-	^	26	9
-	.	26	8
-	+	9	53
-	+	5	11
-	+	6	0
-	+	9	35
-	+	9	33
-	+	4	33
-	+	9	36
-	+	10	0
-	+	9	0
-	+	7	9
-	+	14	11
-	+	10	33
-	+	14	0
-	+	16	28
-	+	14	11
-	+	16	47
-	+	17	41
-	+	17	66
-	+	17	41
-	+	17	45
-	+	25	27
-	+	17	0
-	+	25	45
-	+	27	20
-	+	26	18
-	+	26	49
-	+	26	75
-	+	11	0
-	+	7	20
-	+	8	6
-	+	9	7
-	+	15	18
-	+	16	20
-	+	17	24
-	+	10	10
-	+	11	4
-	+	26	113
-	+	26	30
-	+	26	142
-	+	21	0
-	+	13	27
-	+	17	45
-	+	18	0
-	+	21	0
-	+	25	0
-	+	27	0
-	+	26	0
-	+	21	0
-	+	26	0
-	+	25	0
-	+	21	0
-	+	22	9
-	+	27	17
-	+	22	31
-	+	22	11
-	+	21	15
-	+	22	41
-	+	22	13
-	+	30	16
-	+	27	12
-	+	1	0
-	+	1	10
-	+	22	12
-	+	29	19
-	+	1	9
-	+	30	0
-	+	29	22
-	+	29	8
-	+	21	13
-	+	27	15
-	+	22	54
-	+	24	4
-	+	22	0
-	+	29	0
-	+	30	0
-	+	28	0
-	+	29	24
-	+	21	18
-	+	23	22
-	+	29	53
-	+	24	21
-	+	27	0
-	+	29	23
-	+	29	30
-	+	30	17
-	+	20	10
-	+	28	0
-	+	27	0
-	+	28	0
-	+	26	8
-
-> ~/Documents/testing/projects/sonos/sonos.py
-	*	1579278031	0
-	"	8	75
-	^	8	76
-	.	8	75
-	+	8	75
-
-> ~/Documents/testing/projects/sensibo_api/sensibo.sh
-	*	1579275854	0
-	"	11	0
-	^	9	17
-	.	9	16
-	+	1	40
-	+	31	114
-	+	1	37
-	+	7	2
-	+	7	1
-	+	11	7
-	+	11	19
-	+	11	82
-	+	31	84
-	+	11	9
-	+	12	0
-	+	11	0
-	+	16	0
-	+	11	0
-	+	12	0
-	+	31	61
-	+	12	15
-	+	11	0
-	+	11	100
-	+	12	52
-	+	13	55
-	+	18	0
-	+	16	36
-	+	13	88
-	+	1	18
-	+	11	111
-	+	13	91
-	+	31	1
-	+	18	18
-	+	19	0
-	+	18	4
-	+	19	0
-	+	13	14
-	+	13	116
-	+	17	10
-	+	21	36
-	+	12	78
-	+	21	39
-	+	21	0
-	+	12	79
-	+	21	33
-	+	12	92
-	+	12	0
-	+	21	5
-	+	12	86
-	+	21	27
-	+	19	31
-	+	21	11
-	+	22	0
-	+	19	0
-	+	23	30
-	+	26	17
-	+	29	4
-	+	27	9
-	+	31	1
-	+	31	119
-	+	33	0
-	+	33	1
-	+	34	0
-	+	33	120
-	+	34	1
-	+	33	121
-	+	31	130
-	+	33	131
-	+	9	16
-
-> /usr/bin/txt2regex
-	*	1579275614	0
-	"	910	14
-	^	910	15
-	.	910	15
-	+	910	15
-
-> ~/scripts/make_toktik.sh
-	*	1579255484	0
-	"	1	78
-	^	1	63
-	.	1	0
-	+	1	58
-	+	2	0
-	+	1	58
-	+	2	0
-	+	1	90
-	+	2	0
-	+	1	0
-
-> ~/Documents/testing/projects/toktik/generate.sh
-	*	1579255293	0
-	"	2	5
-	^	2	6
-	.	2	5
-	+	1	26
-	+	1	51
-	+	1	32
-	+	1	65
-	+	1	34
-	+	1	35
-	+	2	3
-	+	1	64
-	+	2	5
-
-> ~/scripts/date_to_clipboard.sh
-	*	1579255099	0
 	"	1	0

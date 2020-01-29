@@ -1,1 +1,2 @@
-nmcli con up -a
+#nmcli con up -a
+nmcli device wifi connect -a

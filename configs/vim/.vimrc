@@ -25,6 +25,8 @@ call plug#end()
 " commands
 command W w
 command Q q
+command Wq wq
+command WQ wq
 
 command! -nargs=? Ftedit execute "tabe ~/.vim/ftplugin/" . ("<args>" == "" ? &filetype : "<args>") . ".vim"
 

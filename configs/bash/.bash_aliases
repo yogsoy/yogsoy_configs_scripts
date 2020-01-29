@@ -65,3 +65,4 @@ a :q="exit"
 a g=egrep
 a gitc="git clone"
 a sr="du -a ~/.config/* ~/scripts/* ~/Documents/testing/code/* | awk '{print \$2}' | fzf | xargs -ro $EDITOR"
+a xc="tput reset"

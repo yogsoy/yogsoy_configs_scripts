@@ -179,7 +179,7 @@ mode "resize" {
 bindsym $mod+Return exec $TERM
 
 # dmenu (but good - runs things in bash)
-bindsym $mod+d exec /home/elyshea/scripts/go.sh
+bindsym $mod+d exec ~/scripts/go.sh
 
 # scripts
 bindsym $mod+t exec ~/scripts/speak_time.sh
@@ -205,8 +205,8 @@ bindsym XF86AudioNext exec "playerctl -a next; pkill i3blocks -RTMIN+4"
 bindsym XF86AudioPrev exec "playerctl -a previous; pkill i3blocks -RTMIN+4"
 
 # brightness
-bindsym XF86MonBrightnessUp exec "xbacklight -inc 5"
-bindsym XF86MonBrightnessDown exec "xbacklight -dec 5"
+bindsym XF86MonBrightnessUp exec "xbacklight -inc 7"
+bindsym XF86MonBrightnessDown exec "xbacklight -dec 7"
 
 # screenshots
 bindsym Control+F11 exec "flameshot full -c"

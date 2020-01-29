@@ -5706,3 +5706,261 @@ PWD=~/Documents/repositories/yogsoy_configs_scripts/
 ls
 cls
 rl
+cl
+cd Documents/repositories/yogsoy_configs_scripts/
+./backup.sh 
+sudo ./backup.sh 
+ls
+gitgo
+./backup.sh 
+git pull
+gitgo
+cdl
+vim scripts/go.sh 
+vim .vimrc 
+vim scripts/shutdown.sh
+vim .vimrc 
+vim scripts/shutdown.sh
+vim scripts/shutdown.sh
+cd scripts/
+ls
+chx *
+cat wifi_connect.sh 
+./wifi_connect.sh 
+./wifi_connect.sh 
+./wifi_connect.sh 
+nmcli con up
+nmcli con up -a
+man nmcli
+nmcli con up -a
+man nmcli
+vim wifi_connect.sh 
+./wifi_connect.sh 
+./wifi_connect.sh 
+./wifi_connect.sh 
+./wifi_connect.sh 
+./wifi_connect.sh 
+ls
+mv shutdown.sh nowshut.sh
+ls
+./nowshut.sh 
+nmcli con up ap enterprise
+nmcli con up enterprise
+nmcli con up "Enterprise D"
+nmcli con up 'Enterprise D'
+nmcli con up Enterprise D
+nmcli con up Enterprise\ D
+nmcli con up EnterpriseD
+nmcli device wifi
+nmcli device wifi connect
+nmcli device wifi connect -a
+vim /etc/network/interfaces
+vim /etc/networks
+vim /etc/NetworkManager/NetworkManager.conf 
+vim /etc/NetworkManager/system-connections/Enterprise\ D
+sudo vim /etc/NetworkManager/system-connections/Enterprise\ D
+weather
+vim scripts/extdisp.sh 
+playerctl metadata
+vim .config/i3/config
+playerctl metadata
+apts visualizer
+apts visualiser
+apts cava
+sudo add-apt-repository ppa:tehtotalpwnage/ppa
+sudo apt update
+apti cava
+apts cava
+apt-get search cava
+sudo add-apt-repository ppa:tehtotalpwnage/ppa
+sudo apt-get update
+sudo apt-get install cava
+cd Documents/repositories/
+gitc https://github.com/karlstav/cava#from-pulseaudio-monitor-source-easy-default-if-supported
+gitc https://github.com/karlstav/cava
+cd cava/
+ls
+./autogen.sh 
+./configure 
+sudo apt install libfftw3-dev libasound2-dev libncursesw5-dev libpulse-dev libtool
+./autogen.sh 
+./configure 
+make
+make install
+sudo make install
+rl
+exit
+exit
+cava
+cava
+vim config
+ls
+vim config.h
+cava --help
+vim ~/.config/cava/
+cava
+man cava
+vim ~/.config/cava/
+vim ~/.config/cava/config 
+cava
+vim ~/.config/cava/config 
+cava
+vim ~/.config/cava/config 
+echo -e '\E[32;46m'
+tput init
+cl
+ls
+vim ~/.config/cava/config 
+cava
+cava
+man fc
+fc --help
+fc -l
+exit
+xc
+exit
+ls
+tput 
+tput reset
+tput init
+echo -e '\E[32;46m'
+tput init
+vim .bash_aliases 
+rl
+xc
+xc
+tput init
+tput reset
+vim .bash_aliases 
+rl
+cd Documents/testing/code/
+ls *py
+cd ..
+cd projects/
+ls
+ls sonos
+vim sonos/now_playing.py 
+exit
+htop
+exit
+ls /dev
+fdisk -l
+sudo fdisk -l
+sudo fdisk -lh
+sudo fdisk -l
+man dd
+exit
+exit
+xc
+ranger
+ranger
+apts pi
+cd Documents/testing/code/
+ls
+node pi_baker.js 
+vim pi_baker.js 
+node pi_baker.js 
+vim pi_baker.js 
+node pi_baker.js 
+vim pi_baker.js 
+node pi_baker.js 
+vim pi_baker.js 
+node pi_baker.js 
+vim pi_baker.js 
+node pi_baker.js 
+node pi_baker.js 
+cdl
+cd Downloads/
+dd if=./ubuntu-19.10-desktop-amd64.iso of=/dev/sdc
+sudo dd if=./ubuntu-19.10-desktop-amd64.iso of=/dev/sdc
+sudo dd if=./ubuntu-19.10-desktop-amd64.iso of=/dev/sdc --status=progress
+sudo dd if=./ubuntu-19.10-desktop-amd64.iso of=/dev/sdc status=progress
+cdl
+vim .bashrc
+vim /etc/lightdm/lightdm.conf
+vim scripts/wifi_connect.sh 
+scripts/wifi_connect.sh 
+apts wifi-radar
+sudo apt remove wifi-radar --purge
+sudo apt install wifi-radar
+wifi-radar 
+sudo wifi-radar 
+sudo wifi-radar 
+man reboot
+cd Documents/testing/projects/sensibo_api/
+ls
+./sensibo.sh 
+./sensibo.sh 
+cdl
+vim .config/i3/config
+sudo wifi-radar
+ssh 192.168.1.71
+man systemctl
+sudo systemctl show x11
+cl
+nano bim
+orca -s
+libreoffice 
+libreoffice 
+ssh 192.168.1.71
+man libreoffice 
+lo
+man libreoffice 
+thunderbird 
+ssh 192.168.1.71
+lynx
+orca
+exit
+lynx google.com
+lynx google.com
+cl
+apts reaper
+cd Downloads/
+cd programs/
+tar xvf reaper603_linux_x86_64.tar.xz 
+cd reaper_linux_x86_64/
+ls
+ls
+cd ..
+ls
+cd reaper_linux_x86_64/
+ls
+./install-reaper.sh 
+reaper 
+orca
+exit
+exit
+acpi -b
+man acpi
+ls /proc/acpi/
+ls /proc/acpi/button/
+ls /proc/acpi/button/lid/
+ls /proc/acpi/button/lid/LID0/
+cat /proc/acpi/button/lid/LID0/state 
+cat /proc/acpi/button/lid/LID0/state 
+cat /proc/acpi/wakeup 
+man acpi
+ls /sys/class/
+ls /sys/class/power_supply/
+ls /sys/class/power_supply/hidpp_battery_1
+cat /sys/class/power_supply/hidpp_battery_1/capacity_level 
+cat /sys/class/power_supply/hidpp_battery_1/status 
+cat /sys/class/power_supply/hidpp_battery_1/power/control 
+cat /sys/class/power_supply/hidpp_battery_1/uevent
+cat /sys/class/power_supply/BAT0
+cat /sys/class/power_supply/BAT0/charge_now 
+cat /sys/class/power_supply/BAT0/charge_now 
+cat /sys/class/power_supply/BAT0/charge_now 
+cat /sys/class/power_supply/BAT0/charge_now 
+echo "$(cat /sys/class/power_supply/BAT0/charge_now) / 100000" | bc
+echo "$(cat /sys/class/power_supply/BAT0/charge_now) / 100000" | bc
+echo "$(cat /sys/class/power_supply/BAT0/charge_now) / 100000" | bc
+echo "$(cat /sys/class/power_supply/BAT0/charge_now) / 100000" | bc
+echo "$(cat /sys/class/power_supply/BAT0/charge_now) / 100000" | bc
+echo "$(cat /sys/class/power_supply/BAT0/charge_now) / 100000" | bc
+echo "scale=2;$(cat /sys/class/power_supply/BAT0/charge_now) / 100000" | bc
+echo "scale=1;$(cat /sys/class/power_supply/BAT0/charge_now) / 100000" | bc
+echo "scale=1;$(cat /sys/class/power_supply/BAT0/charge_now) / 100000" | bc
+echo "scale=1;$(cat /sys/class/power_supply/BAT0/charge_now) / 100000" | bc
+cat /sys/class/power_supply/BAT0/status 
+exit
