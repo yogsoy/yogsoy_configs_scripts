@@ -25,6 +25,11 @@ color=#ff6800
 interval=10
 color=#ffff00
 
+[brightness]
+interval=once
+color=#ffffaa
+signal=5
+
 [volume]
 interval=20
 color=#00eeff

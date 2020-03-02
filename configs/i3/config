@@ -84,14 +84,18 @@ exec --no-startup-id compton
 exec --no-startup-id "feh --bg-center ~/Pictures/blindofficial\ logo\ bg.jpg"
 # notifications
 exec --no-startup-id dunst -markup full
+# kdeconnect indicator (remote control, notifications, etc.)
+exec --no-startup-id kdeconnect-indicator
+# bluetooth (GUI)
+exec --no-startup-id blueman-applet
+# wifi (what)
+exec --no-startup-id nm-applet
 
 ## programs
 exec $TERM
 # role=browser is a chrome option, check this if you change browser
 exec $BROWSER --role=browser
 exec discord-canary
-# bluetooth (GUI)
-exec --no-startup-id blueman-applet
 
 ### Keybinds
 
@@ -137,6 +141,17 @@ bindsym $mod+7 workspace $ws7
 bindsym $mod+8 workspace $ws8
 bindsym $mod+9 workspace $ws9
 bindsym $mod+0 workspace $ws10
+bindsym mod2+KP_1 workspace $ws1
+bindsym mod2+KP_2 workspace $ws2
+bindsym mod2+KP_3 workspace $ws3
+bindsym mod2+KP_4 workspace $ws4
+bindsym mod2+KP_5 workspace $ws5
+bindsym mod2+KP_6 workspace $ws6
+bindsym mod2+KP_7 workspace $ws7
+bindsym mod2+KP_8 workspace $ws8
+bindsym mod2+KP_9 workspace $ws9
+bindsym mod2+KP_0 workspace $ws10
+
 
 # move container to workspace
 bindsym $mod+Shift+1 move container to workspace $ws1
@@ -164,9 +179,13 @@ bindsym $mod+l exec dm-tool lock
 bindsym $mod+r mode "resize"
 mode "resize" {
 	bindsym Left resize shrink width 30 px or 2 ppt
+	bindsym Shift+Left resize shrink width 60 px or 4 ppt
 	bindsym Down resize grow height 30 px or 2 ppt
+	bindsym Shift+Down resize grow height 60 px or 4 ppt
 	bindsym Up resize shrink height 30 px or 2 ppt
+	bindsym Shift+Up resize shrink height 60 px or 4 ppt
 	bindsym Right resize grow width 30 px or 2 ppt
+	bindsym Shift+Right resize grow width 60 px or 4 ppt
 
 	bindsym Escape mode "default"
 	bindsym $mod+r mode "default"
@@ -183,21 +202,23 @@ bindsym $mod+d exec ~/scripts/go.sh
 
 # scripts
 bindsym $mod+t exec ~/scripts/speak_time.sh
-bindsym $mod+shift+t exec ~/scripts/speak_date.sh
+#bindsym $mod+Shift+t exec ~/scripts/speak_time_12.sh
+bindsym $mod+Shift+t exec ~/scripts/speak_date.sh
 bindsym $mod+b exec ~/scripts/speak_battery.sh
 bindsym $mod+w exec ~/scripts/wiktionary_selection.sh
 bindsym $mod+s exec ~/scripts/speak_selection.sh
-bindsym $mod+shift+d exec ~/scripts/date_to_clipboard.sh
-bindsym $mod+shift+m exec ~/scripts/extdisp.sh
+bindsym $mod+Shift+d exec ~/scripts/date_to_clipboard.sh
+bindsym $mod+Shift+m exec ~/scripts/extdisp.sh
 
 ## Hotkeys
 
 # volume
-bindsym XF86AudioRaiseVolume exec "pamixer -i 1; pkill i3blocks -RTMIN+2"
-bindsym shift+XF86AudioRaiseVolume exec "pamixer -i 5; pkill i3blocks -RTMIN+2"
-bindsym XF86AudioLowerVolume exec "pamixer -d 1; pkill i3blocks -RTMIN+2"
-bindsym shift+XF86AudioLowerVolume exec "pamixer -d 5; pkill i3blocks -RTMIN+2"
-bindsym XF86AudioMute exec "pamixer -t; pkill i3blocks -RTMIN+2"
+bindsym XF86AudioRaiseVolume exec "pamixer --allow-boost -i 1; pkill i3blocks -RTMIN+2"
+bindsym Shift+XF86AudioRaiseVolume exec "pamixer --allow-boost -i 5; pkill i3blocks -RTMIN+2"
+bindsym XF86AudioLowerVolume exec "pamixer --allow-boost -d 1; pkill i3blocks -RTMIN+2"
+bindsym Shift+XF86AudioLowerVolume exec "pamixer --allow-boost -d 5; pkill i3blocks -RTMIN+2"
+bindsym XF86AudioMute exec "pamixer --allow-boost -t; pkill i3blocks -RTMIN+2"
+bindsym Shift+XF86AudioMute exec "pamixer --set-volume 100; pkill i3blocks -RTMIN+2"
 
 # media
 bindsym XF86AudioPlay exec "playerctl -a play-pause; pkill i3blocks -RTMIN+4"
@@ -205,8 +226,10 @@ bindsym XF86AudioNext exec "playerctl -a next; pkill i3blocks -RTMIN+4"
 bindsym XF86AudioPrev exec "playerctl -a previous; pkill i3blocks -RTMIN+4"
 
 # brightness
-bindsym XF86MonBrightnessUp exec "xbacklight -inc 7"
-bindsym XF86MonBrightnessDown exec "xbacklight -dec 7"
+bindsym XF86MonBrightnessUp exec "xbacklight -inc 5; pkill i3blocks -RTMIN+5"
+bindsym Shift+XF86MonBrightnessUp exec "xbacklight -inc 20; pkill i3blocks -RTMIN+5"
+bindsym XF86MonBrightnessDown exec "xbacklight -dec 5; pkill i3blocks -RTMIN+5"
+bindsym Shift+XF86MonBrightnessDown exec "xbacklight -dec 20; pkill i3blocks -RTMIN+5"
 
 # screenshots
 bindsym Control+F11 exec "flameshot full -c"

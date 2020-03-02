@@ -1,4 +1,6 @@
 DELIM=" "
+printf "$(TZ=":America/Los_Angeles" date +"%H:%M")<span foreground='grey'>-8</span>"
+printf "$DELIM"
 printf "$(TZ=":Etc/UTC" date +"%H:%M")<span foreground='grey'>+0</span>"
 printf "$DELIM"
 #printf "$(TZ=":Europe/Copenhagen" date +"%H:%M")<span foreground='grey'>+1</span>"

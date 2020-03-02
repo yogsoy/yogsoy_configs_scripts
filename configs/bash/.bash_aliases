@@ -32,7 +32,7 @@ a ety=etymology
 a weather="curl wttr.in 2>/dev/null | sed 7q"
 a cp="rsync --progress -s -r -h"
 a gelemental="export GTK2_RC_FILES=/usr/share/themes/Industrial/gtk-2.0/gtkrc && gelemental"
-a srv="ssh -X 192.168.1.51"
+a srv="ssh -X elyshea@192.168.1.51"
 # format json so it's readable
 a json="jq ."
 # get file size
@@ -50,6 +50,7 @@ a cls="cl;ls"
 a pls=sudo
 a no=vim
 a suod=sudo
+a p=python
 a p3=python3
 a cdl="cd;cl"
 a iv=sxiv
@@ -66,3 +67,4 @@ a g=egrep
 a gitc="git clone"
 a sr="du -a ~/.config/* ~/scripts/* ~/Documents/testing/code/* | awk '{print \$2}' | fzf | xargs -ro $EDITOR"
 a xc="tput reset"
+a cdls="cd;cl;ls"
