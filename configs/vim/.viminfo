@@ -11,1869 +11,539 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~MSle0~/pactl
-
-# Last Substitute Search Pattern:
-~MSle0&\\
-
-# Last Substitute String:
-$\\033
+~MSle0~/terminal
 
 # Command Line History (newest to oldest):
-:q
-|2,0,1583107510,,"q"
-:wq
-|2,0,1582976557,,"wq"
-:w
-|2,0,1582976529,,"w"
 :q!
-|2,0,1582885263,,"q!"
-:W
-|2,0,1582683182,,"W"
-:w tabletest.txt
-|2,0,1581671146,,"w tabletest.txt"
-:Wq
-|2,0,1581592272,,"Wq"
-:w toast.txt
-|2,0,1581321409,,"w toast.txt"
-:nohl
-|2,0,1580883071,,"nohl"
+|2,0,1589323833,,"q!"
+:q
+|2,0,1589323831,,"q"
+:w
+|2,0,1589323830,,"w"
+:wq
+|2,0,1589322147,,"wq"
 :Q
-|2,0,1580275102,,"Q"
-:q:q
-|2,0,1580025319,,"q:q"
-:set foldmethod=syntax
-|2,0,1579834629,,"set foldmethod=syntax"
-:PlugInstall
-|2,0,1579834550,,"PlugInstall"
-:PlugClean
-|2,0,1579834352,,"PlugClean"
-:set list
-|2,0,1579833600,,"set list"
-:set foldmethod=indent
-|2,0,1579832898,,"set foldmethod=indent"
-:set foldmethod=none
-|2,0,1579832844,,"set foldmethod=none"
-:set foldmarker=#,\n
-|2,0,1579832656,,"set foldmarker=#,\\n"
-:set foldmarker=# ,n
-|2,0,1579832652,,"set foldmarker=# ,n"
-:set foldmarker=# ,
-|2,0,1579832646,,"set foldmarker=# ,"
-:set foldmarker=# ,\n
-|2,0,1579832639,,"set foldmarker=# ,\\n"
-:set foldmethod=marker
-|2,0,1579832613,,"set foldmethod=marker"
-:set foldmarker={{{,}}}
-|2,0,1579829256,,"set foldmarker={{{,}}}"
-:set foldmarker={\n}
-|2,0,1579829240,,"set foldmarker={\\n}"
-:set foldmarker=\n
-|2,0,1579829231,,"set foldmarker=\\n"
-:setlocal foldmethod=indent
-|2,0,1579829210,,"setlocal foldmethod=indent"
-:Ftedit
-|2,0,1579820213,,"Ftedit"
-:!ls
-|2,0,1579810777,,"!ls"
-:ftedit
-|2,0,1579758019,,"ftedit"
-:help foldexpr
-|2,0,1579755539,,"help foldexpr"
-:setlocal foldmethod=marker
-|2,0,1579755338,,"setlocal foldmethod=marker"
-:setlocal foldmethod=syntax
-|2,0,1579755306,,"setlocal foldmethod=syntax"
-:foldmethod syntax
-|2,0,1579755257,,"foldmethod syntax"
-:fdm syntax
-|2,0,1579755251,,"fdm syntax"
-:r
-|2,0,1579754558,,"r"
-:vsplit .config/i3/config.new
-|2,0,1579753137,,"vsplit .config/i3/config.new"
-:split .config/i3/config.new
-|2,0,1579753122,,"split .config/i3/config.new"
-:WQ
-|2,0,1579378842,,"WQ"
-:w orni.txt
-|2,0,1577272284,,"w orni.txt"
-:e
-|2,0,1576891748,,"e"
-:wn
-|2,0,1576854033,,"wn"
-:n
-|2,0,1576854020,,"n"
-::q
-|2,0,1576620808,,":q"
-:w Documents/racism.txt
-|2,0,1574721151,,"w Documents/racism.txt"
-:'<,'>s/\\/\\033/g
-|2,0,1574684852,,"'<,'>s/\\\\/\\\\033/g"
-:1
-|2,0,1574153899,,"1"
-:w chudnovsky2.py
-|2,0,1572185441,,"w chudnovsky2.py"
-:w gay2.txt
-|2,0,1572011997,,"w gay2.txt"
-:w gay1.txt
-|2,0,1572011980,,"w gay1.txt"
-:w test.text
-|2,0,1571091319,,"w test.text"
+|2,0,1589314817,,"Q"
+:w Documents/school/2020/japanese/2020-05-12.txt
+|2,0,1589237593,,"w Documents/school/2020/japanese/2020-05-12.txt"
+:vsplit generate_bearings.js
+|2,0,1588548751,,"vsplit generate_bearings.js"
 
 # Search String History (newest to oldest):
-?/pactl
-|2,1,1581672275,47,"pactl"
-?/erver
-|2,1,1581663595,47,"erver"
-?/ServerAdmin
-|2,1,1581663586,47,"ServerAdmin"
-?/serveradmin
-|2,1,1581663582,47,"serveradmin"
-?/user
-|2,1,1581663565,47,"user"
-?/blueman
-|2,1,1581389793,47,"blueman"
-?/shift
-|2,1,1580883104,47,"shift"
-?/Shift+s
-|2,1,1580883051,47,"Shift+s"
-?/float
-|2,1,1580813700,47,"float"
-?/daemon
-|2,1,1580719553,47,"daemon"
-?/p3
-|2,1,1580446794,47,"p3"
-?/smoothing
-|2,1,1580169251,47,"smoothing"
-?/tray
-|2,1,1580131403,47,"tray"
-?/$mod+Shift
-|2,1,1580086668,47,"$mod+Shift"
-?/filevie
-|2,1,1580031901,47,"filevie"
-?/file
-|2,1,1580031898,47,"file"
-?/Keybind
-|2,1,1579952350,47,"Keybind"
-?/i3
-|2,1,1579830185,47,"i3"
-?/messa
-|2,1,1579827301,47,"messa"
-?/Keybinds
-|2,1,1579824192,47,"Keybinds"
-?/keybind
-|2,1,1579817139,47,"keybind"
-?/### keybind
-|2,1,1579817136,47,"### keybind"
-?/## keybin
-|2,1,1579817129,47,"## keybin"
-?/SPLIT
-|2,1,1579753190,47,"SPLIT"
-?/Split
-|2,1,1579753158,47,"Split"
-?/split
-|2,1,1579753155,47,"split"
-?/sensible
-|2,1,1579668802,47,"sensible"
-?/flameshot
-|2,1,1579667890,47,"flameshot"
-?/focus
-|2,1,1579602038,47,"focus"
-? \<title\>
-|2,1,1579462948,,"\\<title\\>"
-?/debi
-|2,1,1579433554,47,"debi"
-?/mozc
-|2,1,1579162632,47,"mozc"
-?/Tab
-|2,1,1578389511,47,"Tab"
-?/Sent
-|2,1,1578220298,47,"Sent"
-?/ent
-|2,1,1578220296,47,"ent"
-?/sent
-|2,1,1578220295,47,"sent"
-?/space
-|2,1,1578048633,47,"space"
-?/Space
-|2,1,1578048631,47,"Space"
-?/erminal
-|2,1,1578047934,47,"erminal"
-?/assign
-|2,1,1578047915,47,"assign"
-?/devilspie
-|2,1,1578030173,47,"devilspie"
-?/mod+w
-|2,1,1576888925,47,"mod+w"
-?/rc
-|2,1,1576833210,47,"rc"
-?/SUPRASEGMENTALS
-|2,1,1576755510,47,"SUPRASEGMENTALS"
-?/Suprasegmentals
-|2,1,1576755505,47,"Suprasegmentals"
-?/suprasegmentals
-|2,1,1576755500,47,"suprasegmentals"
-?/copy
-|2,1,1576732569,47,"copy"
-?/m4
-|2,1,1576732530,47,"m4"
-?/dev
-|2,1,1576574011,47,"dev"
-?/inpu
-|2,1,1575516021,47,"inpu"
+?/terminal
+|2,1,1589321142,47,"terminal"
+?/|
+|2,1,1589318988,47,"|"
 
 # Expression History (newest to oldest):
 
 # Input Line History (newest to oldest):
-@y
-|2,3,1579834187,,"y"
 
 # Debug Line History (newest to oldest):
 
 # Registers:
-"0	BLOCK	24
-	; pkill i3blocks -RTMIN+5
-|3,0,0,2,1,24,1582682872,"; pkill i3blocks -RTMIN+5"
-""1	LINE	0
-	[benis]
-|3,1,1,1,1,0,1582976556,"[benis]"
+"0	CHAR	0
+	scrot -s ~/Pictures/screenshots/$(date +%F_%T).png -e 'xclip -selection clipboard -t image/png < $f'
+|3,0,0,0,1,0,1589267224,"scrot -s ~/Pictures/screenshots/$(date +%F_%T).png -e 'xclip -selection clipboard -t image/png < $f'"
+"1	LINE	0
+	bindsym Control+Shift+F11 exec "notify-send 'aaaaaaa'"
+|3,0,1,1,1,0,1589267839,"bindsym Control+Shift+F11 exec \"notify-send 'aaaaaaa'\""
 "2	LINE	0
-	
-|3,0,2,1,1,0,1582976555,""
+	#exec --no-startup-id flameshot
+|3,0,2,1,1,0,1589267369,"#exec --no-startup-id flameshot"
 "3	LINE	0
-	command="echo asdfasdfsadfasdfasdfasdfasdfasdf"
-|3,0,3,1,1,0,1582976552,"command=\"echo asdfasdfsadfasdfasdfasdfasdfasdf\""
+	# screenshots
+|3,0,3,1,1,0,1589267368,"# screenshots"
 "4	LINE	0
-		benis1 = temp;
-|3,0,4,1,1,0,1582178474,"	benis1 = temp;"
+	
+|3,0,4,1,1,0,1589243727,""
 "5	LINE	0
-	benis2.sort();
-|3,0,5,1,1,0,1582178351,"benis2.sort();"
+	好き先生
+|3,0,5,1,1,0,1589243725,"好き先生"
 "6	LINE	0
-	console.log(benis1, benis2);
-|3,0,6,1,1,0,1582178303,"console.log(benis1, benis2);"
+	
+|3,0,6,1,1,0,1589243724,""
 "7	LINE	0
-	console.log
-|3,0,7,1,1,0,1582178272,"console.log"
+	
+|3,0,7,1,1,0,1589237580,""
 "8	LINE	0
-	console.log(benis1 != benis2);
-|3,0,8,1,1,0,1582178263,"console.log(benis1 != benis2);"
+	
+|3,0,8,1,1,0,1589237580,""
 "9	LINE	0
-	console.log(benis1);
-|3,0,9,1,1,0,1582178043,"console.log(benis1);"
-"a	CHAR	0
-	sed 's/<[^>]*>//g'
-|3,0,10,0,1,0,1571990603,"sed 's/<[^>]*>//g'"
-"l	CHAR	0
-	sed 's/<[^>]*>//g'
-|3,0,21,0,1,0,1571991734,"sed 's/<[^>]*>//g'"
-"-	CHAR	0
-	/
-|3,0,36,0,1,0,1582178421,"/"
+	gakkou no owari made kyoushitsu kara denaidekudasai
+|3,0,9,1,1,0,1589237371,"gakkou no owari made kyoushitsu kara denaidekudasai"
+""-	CHAR	0
+	-e 'xclip -selection clipboard -t image/png < $f'"
+|3,1,36,0,1,0,1589268088,"-e 'xclip -selection clipboard -t image/png < $f'\""
 
 # File marks:
-'0  1  0  ~/.config/i3blocks/blocks/battery.sh
-|4,48,1,0,1583107510,"~/.config/i3blocks/blocks/battery.sh"
-'1  7  0  ~/.config/i3blocks/blocks/music.sh
-|4,49,7,0,1583107469,"~/.config/i3blocks/blocks/music.sh"
-'2  15  0  ~/.Xresources
-|4,50,15,0,1583104557,"~/.Xresources"
-'3  1  0  ~/.xpro
-|4,51,1,0,1583104470,"~/.xpro"
-'4  5  0  ~/.config/i3blocks/config
-|4,52,5,0,1582976557,"~/.config/i3blocks/config"
-'5  1  0  ~/.config/i3blocks/blocks/battery.sh
-|4,53,1,0,1582884709,"~/.config/i3blocks/blocks/battery.sh"
-'6  1  0  ~/Documents/nspire/polydumper/polydumper_4.4/readme.txt
-|4,54,1,0,1582688403,"~/Documents/nspire/polydumper/polydumper_4.4/readme.txt"
-'7  30  12  ~/.config/i3blocks/config
-|4,55,30,12,1582686704,"~/.config/i3blocks/config"
-'8  30  12  ~/.config/i3blocks/config
-|4,56,30,12,1582686704,"~/.config/i3blocks/config"
-'9  231  52  ~/.config/i3/config
-|4,57,231,52,1582682914,"~/.config/i3/config"
+'0  1  14  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,48,1,14,1589323833,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+'1  12  0  ~/.config/i3blocks/blocks/battery.sh.bak
+|4,49,12,0,1589322835,"~/.config/i3blocks/blocks/battery.sh.bak"
+'2  249  42  ~/.config/i3/config
+|4,50,249,42,1589322325,"~/.config/i3/config"
+'3  3  22  ~/scripts/cancel_shutdown.sh
+|4,51,3,22,1589322147,"~/scripts/cancel_shutdown.sh"
+'4  2  22  ~/.config/i3blocks/config
+|4,52,2,22,1589321399,"~/.config/i3blocks/config"
+'5  154  20  ~/.bashrc
+|4,53,154,20,1589321157,"~/.bashrc"
+'6  8  0  ~/.config/i3blocks/blocks/music.sh
+|4,54,8,0,1589320679,"~/.config/i3blocks/blocks/music.sh"
+'7  11  0  ~/.config/i3blocks/config
+|4,55,11,0,1589320609,"~/.config/i3blocks/config"
+'8  11  0  ~/.config/i3blocks/config
+|4,56,11,0,1589320609,"~/.config/i3blocks/config"
+'9  1  0  ~/.config/i3blocks/config
+|4,57,1,0,1589320508,"~/.config/i3blocks/config"
 
 # Jumplist (newest first):
--'  1  0  ~/.config/i3blocks/blocks/battery.sh
-|4,39,1,0,1583107510,"~/.config/i3blocks/blocks/battery.sh"
--'  7  0  ~/.config/i3blocks/blocks/music.sh
-|4,39,7,0,1583107469,"~/.config/i3blocks/blocks/music.sh"
--'  7  0  ~/.config/i3blocks/blocks/music.sh
-|4,39,7,0,1583107469,"~/.config/i3blocks/blocks/music.sh"
--'  1  0  ~/.config/i3blocks/blocks/music.sh
-|4,39,1,0,1583107466,"~/.config/i3blocks/blocks/music.sh"
--'  1  0  ~/.config/i3blocks/blocks/music.sh
-|4,39,1,0,1583107466,"~/.config/i3blocks/blocks/music.sh"
--'  15  0  ~/.Xresources
-|4,39,15,0,1583104557,"~/.Xresources"
--'  15  0  ~/.Xresources
-|4,39,15,0,1583104557,"~/.Xresources"
--'  15  0  ~/.Xresources
-|4,39,15,0,1583104557,"~/.Xresources"
--'  15  0  ~/.Xresources
-|4,39,15,0,1583104557,"~/.Xresources"
--'  1  0  ~/.Xresources
-|4,39,1,0,1583104477,"~/.Xresources"
--'  1  0  ~/.Xresources
-|4,39,1,0,1583104477,"~/.Xresources"
--'  1  0  ~/.Xresources
-|4,39,1,0,1583104477,"~/.Xresources"
--'  1  0  ~/.Xresources
-|4,39,1,0,1583104477,"~/.Xresources"
--'  1  0  ~/.xpro
-|4,39,1,0,1583104470,"~/.xpro"
--'  1  0  ~/.xpro
-|4,39,1,0,1583104470,"~/.xpro"
--'  1  0  ~/.xpro
-|4,39,1,0,1583104470,"~/.xpro"
--'  1  0  ~/.xpro
-|4,39,1,0,1583104470,"~/.xpro"
--'  1  0  ~/.xpro
-|4,39,1,0,1583104470,"~/.xpro"
--'  1  0  ~/.xpro
-|4,39,1,0,1583104470,"~/.xpro"
--'  1  0  ~/.xpro
-|4,39,1,0,1583104470,"~/.xpro"
--'  1  0  ~/.xpro
-|4,39,1,0,1583104470,"~/.xpro"
--'  5  0  ~/.config/i3blocks/config
-|4,39,5,0,1582976557,"~/.config/i3blocks/config"
--'  5  0  ~/.config/i3blocks/config
-|4,39,5,0,1582976557,"~/.config/i3blocks/config"
--'  5  0  ~/.config/i3blocks/config
-|4,39,5,0,1582976557,"~/.config/i3blocks/config"
--'  5  0  ~/.config/i3blocks/config
-|4,39,5,0,1582976557,"~/.config/i3blocks/config"
--'  5  0  ~/.config/i3blocks/config
-|4,39,5,0,1582976557,"~/.config/i3blocks/config"
--'  5  0  ~/.config/i3blocks/config
-|4,39,5,0,1582976557,"~/.config/i3blocks/config"
--'  5  0  ~/.config/i3blocks/config
-|4,39,5,0,1582976557,"~/.config/i3blocks/config"
--'  5  0  ~/.config/i3blocks/config
-|4,39,5,0,1582976557,"~/.config/i3blocks/config"
--'  5  0  ~/.config/i3blocks/config
-|4,39,5,0,1582976557,"~/.config/i3blocks/config"
--'  5  0  ~/.config/i3blocks/config
-|4,39,5,0,1582976557,"~/.config/i3blocks/config"
--'  5  0  ~/.config/i3blocks/config
-|4,39,5,0,1582976557,"~/.config/i3blocks/config"
--'  5  0  ~/.config/i3blocks/config
-|4,39,5,0,1582976557,"~/.config/i3blocks/config"
--'  5  0  ~/.config/i3blocks/config
-|4,39,5,0,1582976557,"~/.config/i3blocks/config"
--'  5  0  ~/.config/i3blocks/config
-|4,39,5,0,1582976557,"~/.config/i3blocks/config"
--'  5  0  ~/.config/i3blocks/config
-|4,39,5,0,1582976557,"~/.config/i3blocks/config"
--'  5  0  ~/.config/i3blocks/config
-|4,39,5,0,1582976557,"~/.config/i3blocks/config"
+-'  1  14  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,14,1589323833,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  12  0  ~/.config/i3blocks/blocks/battery.sh.bak
+|4,39,12,0,1589322835,"~/.config/i3blocks/blocks/battery.sh.bak"
+-'  12  0  ~/.config/i3blocks/blocks/battery.sh.bak
+|4,39,12,0,1589322835,"~/.config/i3blocks/blocks/battery.sh.bak"
+-'  1  0  ~/.config/i3blocks/blocks/battery.sh.bak
+|4,39,1,0,1589322818,"~/.config/i3blocks/blocks/battery.sh.bak"
+-'  1  0  ~/.config/i3blocks/blocks/battery.sh.bak
+|4,39,1,0,1589322818,"~/.config/i3blocks/blocks/battery.sh.bak"
+-'  249  42  ~/.config/i3/config
+|4,39,249,42,1589322325,"~/.config/i3/config"
+-'  249  42  ~/.config/i3/config
+|4,39,249,42,1589322325,"~/.config/i3/config"
+-'  249  42  ~/.config/i3/config
+|4,39,249,42,1589322325,"~/.config/i3/config"
+-'  249  42  ~/.config/i3/config
+|4,39,249,42,1589322325,"~/.config/i3/config"
+-'  79  4  ~/.config/i3/config
+|4,39,79,4,1589322218,"~/.config/i3/config"
+-'  79  4  ~/.config/i3/config
+|4,39,79,4,1589322218,"~/.config/i3/config"
+-'  79  4  ~/.config/i3/config
+|4,39,79,4,1589322218,"~/.config/i3/config"
+-'  79  4  ~/.config/i3/config
+|4,39,79,4,1589322218,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1589322178,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1589322178,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1589322178,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1589322178,"~/.config/i3/config"
+-'  3  22  ~/scripts/cancel_shutdown.sh
+|4,39,3,22,1589322147,"~/scripts/cancel_shutdown.sh"
+-'  3  22  ~/scripts/cancel_shutdown.sh
+|4,39,3,22,1589322147,"~/scripts/cancel_shutdown.sh"
+-'  3  22  ~/scripts/cancel_shutdown.sh
+|4,39,3,22,1589322147,"~/scripts/cancel_shutdown.sh"
+-'  3  22  ~/scripts/cancel_shutdown.sh
+|4,39,3,22,1589322147,"~/scripts/cancel_shutdown.sh"
+-'  3  22  ~/scripts/cancel_shutdown.sh
+|4,39,3,22,1589322147,"~/scripts/cancel_shutdown.sh"
+-'  3  22  ~/scripts/cancel_shutdown.sh
+|4,39,3,22,1589322147,"~/scripts/cancel_shutdown.sh"
+-'  3  22  ~/scripts/cancel_shutdown.sh
+|4,39,3,22,1589322147,"~/scripts/cancel_shutdown.sh"
+-'  3  22  ~/scripts/cancel_shutdown.sh
+|4,39,3,22,1589322147,"~/scripts/cancel_shutdown.sh"
+-'  1  0  ~/scripts/cancel_shutdown.sh
+|4,39,1,0,1589322100,"~/scripts/cancel_shutdown.sh"
+-'  1  0  ~/scripts/cancel_shutdown.sh
+|4,39,1,0,1589322100,"~/scripts/cancel_shutdown.sh"
+-'  1  0  ~/scripts/cancel_shutdown.sh
+|4,39,1,0,1589322100,"~/scripts/cancel_shutdown.sh"
+-'  1  0  ~/scripts/cancel_shutdown.sh
+|4,39,1,0,1589322100,"~/scripts/cancel_shutdown.sh"
+-'  1  0  ~/scripts/cancel_shutdown.sh
+|4,39,1,0,1589322100,"~/scripts/cancel_shutdown.sh"
+-'  1  0  ~/scripts/cancel_shutdown.sh
+|4,39,1,0,1589322100,"~/scripts/cancel_shutdown.sh"
+-'  1  0  ~/scripts/cancel_shutdown.sh
+|4,39,1,0,1589322100,"~/scripts/cancel_shutdown.sh"
+-'  1  0  ~/scripts/cancel_shutdown.sh
+|4,39,1,0,1589322100,"~/scripts/cancel_shutdown.sh"
+-'  2  22  ~/.config/i3blocks/config
+|4,39,2,22,1589321399,"~/.config/i3blocks/config"
+-'  2  22  ~/.config/i3blocks/config
+|4,39,2,22,1589321399,"~/.config/i3blocks/config"
+-'  2  22  ~/.config/i3blocks/config
+|4,39,2,22,1589321399,"~/.config/i3blocks/config"
+-'  2  22  ~/.config/i3blocks/config
+|4,39,2,22,1589321399,"~/.config/i3blocks/config"
+-'  2  22  ~/.config/i3blocks/config
+|4,39,2,22,1589321399,"~/.config/i3blocks/config"
+-'  2  22  ~/.config/i3blocks/config
+|4,39,2,22,1589321399,"~/.config/i3blocks/config"
+-'  2  22  ~/.config/i3blocks/config
+|4,39,2,22,1589321399,"~/.config/i3blocks/config"
+-'  2  22  ~/.config/i3blocks/config
+|4,39,2,22,1589321399,"~/.config/i3blocks/config"
+-'  2  22  ~/.config/i3blocks/config
+|4,39,2,22,1589321399,"~/.config/i3blocks/config"
+-'  2  22  ~/.config/i3blocks/config
+|4,39,2,22,1589321399,"~/.config/i3blocks/config"
+-'  2  22  ~/.config/i3blocks/config
+|4,39,2,22,1589321399,"~/.config/i3blocks/config"
+-'  2  22  ~/.config/i3blocks/config
+|4,39,2,22,1589321399,"~/.config/i3blocks/config"
+-'  2  22  ~/.config/i3blocks/config
+|4,39,2,22,1589321399,"~/.config/i3blocks/config"
+-'  2  22  ~/.config/i3blocks/config
+|4,39,2,22,1589321399,"~/.config/i3blocks/config"
+-'  2  22  ~/.config/i3blocks/config
+|4,39,2,22,1589321399,"~/.config/i3blocks/config"
+-'  2  22  ~/.config/i3blocks/config
+|4,39,2,22,1589321399,"~/.config/i3blocks/config"
 -'  1  0  ~/.config/i3blocks/config
-|4,39,1,0,1582976493,"~/.config/i3blocks/config"
+|4,39,1,0,1589321377,"~/.config/i3blocks/config"
 -'  1  0  ~/.config/i3blocks/config
-|4,39,1,0,1582976493,"~/.config/i3blocks/config"
+|4,39,1,0,1589321377,"~/.config/i3blocks/config"
 -'  1  0  ~/.config/i3blocks/config
-|4,39,1,0,1582976493,"~/.config/i3blocks/config"
+|4,39,1,0,1589321377,"~/.config/i3blocks/config"
 -'  1  0  ~/.config/i3blocks/config
-|4,39,1,0,1582976493,"~/.config/i3blocks/config"
+|4,39,1,0,1589321377,"~/.config/i3blocks/config"
 -'  1  0  ~/.config/i3blocks/config
-|4,39,1,0,1582976493,"~/.config/i3blocks/config"
+|4,39,1,0,1589321377,"~/.config/i3blocks/config"
 -'  1  0  ~/.config/i3blocks/config
-|4,39,1,0,1582976493,"~/.config/i3blocks/config"
+|4,39,1,0,1589321377,"~/.config/i3blocks/config"
 -'  1  0  ~/.config/i3blocks/config
-|4,39,1,0,1582976493,"~/.config/i3blocks/config"
+|4,39,1,0,1589321377,"~/.config/i3blocks/config"
 -'  1  0  ~/.config/i3blocks/config
-|4,39,1,0,1582976493,"~/.config/i3blocks/config"
+|4,39,1,0,1589321377,"~/.config/i3blocks/config"
 -'  1  0  ~/.config/i3blocks/config
-|4,39,1,0,1582976493,"~/.config/i3blocks/config"
+|4,39,1,0,1589321377,"~/.config/i3blocks/config"
 -'  1  0  ~/.config/i3blocks/config
-|4,39,1,0,1582976493,"~/.config/i3blocks/config"
+|4,39,1,0,1589321377,"~/.config/i3blocks/config"
 -'  1  0  ~/.config/i3blocks/config
-|4,39,1,0,1582976493,"~/.config/i3blocks/config"
+|4,39,1,0,1589321377,"~/.config/i3blocks/config"
 -'  1  0  ~/.config/i3blocks/config
-|4,39,1,0,1582976493,"~/.config/i3blocks/config"
+|4,39,1,0,1589321377,"~/.config/i3blocks/config"
 -'  1  0  ~/.config/i3blocks/config
-|4,39,1,0,1582976493,"~/.config/i3blocks/config"
+|4,39,1,0,1589321377,"~/.config/i3blocks/config"
 -'  1  0  ~/.config/i3blocks/config
-|4,39,1,0,1582976493,"~/.config/i3blocks/config"
+|4,39,1,0,1589321377,"~/.config/i3blocks/config"
 -'  1  0  ~/.config/i3blocks/config
-|4,39,1,0,1582976493,"~/.config/i3blocks/config"
+|4,39,1,0,1589321377,"~/.config/i3blocks/config"
 -'  1  0  ~/.config/i3blocks/config
-|4,39,1,0,1582976493,"~/.config/i3blocks/config"
--'  1  0  ~/.config/i3blocks/blocks/battery.sh
-|4,39,1,0,1582884709,"~/.config/i3blocks/blocks/battery.sh"
--'  1  0  ~/.config/i3blocks/blocks/battery.sh
-|4,39,1,0,1582884709,"~/.config/i3blocks/blocks/battery.sh"
--'  1  0  ~/.config/i3blocks/blocks/battery.sh
-|4,39,1,0,1582884709,"~/.config/i3blocks/blocks/battery.sh"
--'  1  0  ~/.config/i3blocks/blocks/battery.sh
-|4,39,1,0,1582884709,"~/.config/i3blocks/blocks/battery.sh"
--'  1  0  ~/.config/i3blocks/blocks/battery.sh
-|4,39,1,0,1582884709,"~/.config/i3blocks/blocks/battery.sh"
--'  1  0  ~/.config/i3blocks/blocks/battery.sh
-|4,39,1,0,1582884709,"~/.config/i3blocks/blocks/battery.sh"
--'  1  0  ~/.config/i3blocks/blocks/battery.sh
-|4,39,1,0,1582884709,"~/.config/i3blocks/blocks/battery.sh"
--'  1  0  ~/.config/i3blocks/blocks/battery.sh
-|4,39,1,0,1582884709,"~/.config/i3blocks/blocks/battery.sh"
--'  1  0  ~/.config/i3blocks/blocks/battery.sh
-|4,39,1,0,1582884709,"~/.config/i3blocks/blocks/battery.sh"
--'  1  0  ~/.config/i3blocks/blocks/battery.sh
-|4,39,1,0,1582884709,"~/.config/i3blocks/blocks/battery.sh"
--'  1  0  ~/.config/i3blocks/blocks/battery.sh
-|4,39,1,0,1582884709,"~/.config/i3blocks/blocks/battery.sh"
--'  1  0  ~/.config/i3blocks/blocks/battery.sh
-|4,39,1,0,1582884709,"~/.config/i3blocks/blocks/battery.sh"
--'  1  0  ~/.config/i3blocks/blocks/battery.sh
-|4,39,1,0,1582884709,"~/.config/i3blocks/blocks/battery.sh"
--'  1  0  ~/.config/i3blocks/blocks/battery.sh
-|4,39,1,0,1582884709,"~/.config/i3blocks/blocks/battery.sh"
--'  1  0  ~/.config/i3blocks/blocks/battery.sh
-|4,39,1,0,1582884709,"~/.config/i3blocks/blocks/battery.sh"
--'  1  0  ~/.config/i3blocks/blocks/battery.sh
-|4,39,1,0,1582884709,"~/.config/i3blocks/blocks/battery.sh"
--'  1  0  ~/.config/i3blocks/blocks/battery.sh
-|4,39,1,0,1582884709,"~/.config/i3blocks/blocks/battery.sh"
--'  1  0  ~/.config/i3blocks/blocks/battery.sh
-|4,39,1,0,1582884709,"~/.config/i3blocks/blocks/battery.sh"
--'  1  0  ~/.config/i3blocks/blocks/battery.sh
-|4,39,1,0,1582884709,"~/.config/i3blocks/blocks/battery.sh"
--'  1  0  ~/.config/i3blocks/blocks/battery.sh
-|4,39,1,0,1582884709,"~/.config/i3blocks/blocks/battery.sh"
--'  1  0  ~/.config/i3blocks/blocks/battery.sh
-|4,39,1,0,1582884709,"~/.config/i3blocks/blocks/battery.sh"
--'  1  0  ~/.config/i3blocks/blocks/battery.sh
-|4,39,1,0,1582884709,"~/.config/i3blocks/blocks/battery.sh"
--'  1  0  ~/.config/i3blocks/blocks/battery.sh
-|4,39,1,0,1582884709,"~/.config/i3blocks/blocks/battery.sh"
--'  1  0  ~/.config/i3blocks/blocks/battery.sh
-|4,39,1,0,1582884709,"~/.config/i3blocks/blocks/battery.sh"
--'  1  0  ~/.config/i3blocks/blocks/battery.sh
-|4,39,1,0,1582884709,"~/.config/i3blocks/blocks/battery.sh"
--'  1  0  ~/.config/i3blocks/blocks/battery.sh
-|4,39,1,0,1582884709,"~/.config/i3blocks/blocks/battery.sh"
--'  1  0  ~/.config/i3blocks/blocks/battery.sh
-|4,39,1,0,1582884709,"~/.config/i3blocks/blocks/battery.sh"
--'  1  0  ~/.config/i3blocks/blocks/battery.sh
-|4,39,1,0,1582884709,"~/.config/i3blocks/blocks/battery.sh"
--'  1  0  ~/.config/i3blocks/blocks/battery.sh
-|4,39,1,0,1582884709,"~/.config/i3blocks/blocks/battery.sh"
--'  1  0  ~/.config/i3blocks/blocks/battery.sh
-|4,39,1,0,1582884709,"~/.config/i3blocks/blocks/battery.sh"
--'  1  0  ~/.config/i3blocks/blocks/battery.sh
-|4,39,1,0,1582884709,"~/.config/i3blocks/blocks/battery.sh"
--'  1  0  ~/.config/i3blocks/blocks/battery.sh
-|4,39,1,0,1582884709,"~/.config/i3blocks/blocks/battery.sh"
--'  1  0  ~/Documents/nspire/polydumper/polydumper_4.4/readme.txt
-|4,39,1,0,1582688403,"~/Documents/nspire/polydumper/polydumper_4.4/readme.txt"
--'  1  0  ~/Documents/nspire/polydumper/polydumper_4.4/readme.txt
-|4,39,1,0,1582688403,"~/Documents/nspire/polydumper/polydumper_4.4/readme.txt"
--'  1  0  ~/Documents/nspire/polydumper/polydumper_4.4/readme.txt
-|4,39,1,0,1582688403,"~/Documents/nspire/polydumper/polydumper_4.4/readme.txt"
--'  1  0  ~/Documents/nspire/polydumper/polydumper_4.4/readme.txt
-|4,39,1,0,1582688403,"~/Documents/nspire/polydumper/polydumper_4.4/readme.txt"
--'  1  0  ~/Documents/nspire/polydumper/polydumper_4.4/readme.txt
-|4,39,1,0,1582688403,"~/Documents/nspire/polydumper/polydumper_4.4/readme.txt"
--'  1  0  ~/Documents/nspire/polydumper/polydumper_4.4/readme.txt
-|4,39,1,0,1582688403,"~/Documents/nspire/polydumper/polydumper_4.4/readme.txt"
--'  1  0  ~/Documents/nspire/polydumper/polydumper_4.4/readme.txt
-|4,39,1,0,1582688403,"~/Documents/nspire/polydumper/polydumper_4.4/readme.txt"
--'  1  0  ~/Documents/nspire/polydumper/polydumper_4.4/readme.txt
-|4,39,1,0,1582688403,"~/Documents/nspire/polydumper/polydumper_4.4/readme.txt"
--'  1  0  ~/Documents/nspire/polydumper/polydumper_4.4/readme.txt
-|4,39,1,0,1582688403,"~/Documents/nspire/polydumper/polydumper_4.4/readme.txt"
--'  1  0  ~/Documents/nspire/polydumper/polydumper_4.4/readme.txt
-|4,39,1,0,1582688403,"~/Documents/nspire/polydumper/polydumper_4.4/readme.txt"
--'  1  0  ~/Documents/nspire/polydumper/polydumper_4.4/readme.txt
-|4,39,1,0,1582688403,"~/Documents/nspire/polydumper/polydumper_4.4/readme.txt"
--'  1  0  ~/Documents/nspire/polydumper/polydumper_4.4/readme.txt
-|4,39,1,0,1582688403,"~/Documents/nspire/polydumper/polydumper_4.4/readme.txt"
--'  1  0  ~/Documents/nspire/polydumper/polydumper_4.4/readme.txt
-|4,39,1,0,1582688403,"~/Documents/nspire/polydumper/polydumper_4.4/readme.txt"
--'  1  0  ~/Documents/nspire/polydumper/polydumper_4.4/readme.txt
-|4,39,1,0,1582688403,"~/Documents/nspire/polydumper/polydumper_4.4/readme.txt"
--'  1  0  ~/Documents/nspire/polydumper/polydumper_4.4/readme.txt
-|4,39,1,0,1582688403,"~/Documents/nspire/polydumper/polydumper_4.4/readme.txt"
+|4,39,1,0,1589321377,"~/.config/i3blocks/config"
+-'  154  20  ~/.bashrc
+|4,39,154,20,1589321157,"~/.bashrc"
+-'  154  20  ~/.bashrc
+|4,39,154,20,1589321157,"~/.bashrc"
+-'  154  20  ~/.bashrc
+|4,39,154,20,1589321157,"~/.bashrc"
+-'  154  20  ~/.bashrc
+|4,39,154,20,1589321157,"~/.bashrc"
+-'  154  20  ~/.bashrc
+|4,39,154,20,1589321157,"~/.bashrc"
+-'  154  20  ~/.bashrc
+|4,39,154,20,1589321157,"~/.bashrc"
+-'  154  20  ~/.bashrc
+|4,39,154,20,1589321157,"~/.bashrc"
+-'  154  20  ~/.bashrc
+|4,39,154,20,1589321157,"~/.bashrc"
+-'  154  20  ~/.bashrc
+|4,39,154,20,1589321157,"~/.bashrc"
+-'  154  20  ~/.bashrc
+|4,39,154,20,1589321157,"~/.bashrc"
+-'  154  20  ~/.bashrc
+|4,39,154,20,1589321157,"~/.bashrc"
+-'  154  20  ~/.bashrc
+|4,39,154,20,1589321157,"~/.bashrc"
+-'  154  20  ~/.bashrc
+|4,39,154,20,1589321157,"~/.bashrc"
+-'  154  20  ~/.bashrc
+|4,39,154,20,1589321157,"~/.bashrc"
+-'  154  20  ~/.bashrc
+|4,39,154,20,1589321157,"~/.bashrc"
+-'  154  20  ~/.bashrc
+|4,39,154,20,1589321157,"~/.bashrc"
+-'  154  20  ~/.bashrc
+|4,39,154,20,1589321157,"~/.bashrc"
+-'  154  20  ~/.bashrc
+|4,39,154,20,1589321157,"~/.bashrc"
+-'  154  20  ~/.bashrc
+|4,39,154,20,1589321157,"~/.bashrc"
+-'  154  20  ~/.bashrc
+|4,39,154,20,1589321157,"~/.bashrc"
+-'  154  20  ~/.bashrc
+|4,39,154,20,1589321157,"~/.bashrc"
+-'  154  20  ~/.bashrc
+|4,39,154,20,1589321157,"~/.bashrc"
+-'  154  20  ~/.bashrc
+|4,39,154,20,1589321157,"~/.bashrc"
+-'  154  20  ~/.bashrc
+|4,39,154,20,1589321157,"~/.bashrc"
+-'  154  20  ~/.bashrc
+|4,39,154,20,1589321157,"~/.bashrc"
+-'  154  20  ~/.bashrc
+|4,39,154,20,1589321157,"~/.bashrc"
+-'  154  20  ~/.bashrc
+|4,39,154,20,1589321157,"~/.bashrc"
+-'  154  20  ~/.bashrc
+|4,39,154,20,1589321157,"~/.bashrc"
+-'  154  20  ~/.bashrc
+|4,39,154,20,1589321157,"~/.bashrc"
+-'  154  20  ~/.bashrc
+|4,39,154,20,1589321157,"~/.bashrc"
+-'  154  20  ~/.bashrc
+|4,39,154,20,1589321157,"~/.bashrc"
+-'  154  20  ~/.bashrc
+|4,39,154,20,1589321157,"~/.bashrc"
+-'  47  41  ~/.bashrc
+|4,39,47,41,1589321147,"~/.bashrc"
+-'  47  41  ~/.bashrc
+|4,39,47,41,1589321147,"~/.bashrc"
+-'  47  41  ~/.bashrc
+|4,39,47,41,1589321147,"~/.bashrc"
 
 # History of marks within files (newest to oldest):
 
-> ~/.config/i3blocks/blocks/battery.sh
-	*	1583107476	0
-	"	1	0
-	^	13	23
-	.	13	0
-	+	33	0
-	+	16	21
-	+	14	17
-	+	16	3
-	+	16	2
-	+	16	35
-	+	16	6
-	+	16	9
-	+	15	40
-	+	11	26
-	+	14	17
-	+	16	36
-	+	16	17
-	+	16	14
-	+	16	12
-	+	8	58
-	+	32	0
-	+	33	6
-	+	33	0
-	+	33	7
-	+	33	0
-	+	16	0
-	+	16	9
-	+	15	40
-	+	33	0
-	+	10	33
-	+	12	36
-	+	10	816
-	+	1	13
-	+	14	27
-	+	1	13
-	+	5	0
-	+	5	98
-	+	5	9
-	+	5	91
-	+	5	89
-	+	5	7
-	+	5	15
-	+	6	30
-	+	8	15
-	+	6	31
-	+	5	108
-	+	6	41
-	+	32	57
-	+	14	14
-	+	33	0
-	+	32	57
-	+	16	0
-	+	23	0
-	+	24	0
-	+	16	0
-	+	15	54
-	+	5	16
-	+	6	59
-	+	8	24
-	+	32	13
-	+	15	31
-	+	15	30
-	+	18	0
-	+	16	16
-	+	14	14
-	+	16	17
-	+	2	18
-	+	3	13
-	+	16	41
-	+	14	31
-	+	17	30
-	+	18	38
-	+	19	31
-	+	21	30
-	+	6	49
-	+	5	19
-	+	6	48
-	+	16	32
-	+	18	37
-	+	10	0
-	+	12	0
-	+	11	13
-	+	12	0
-	+	11	13
-	+	15	9
-	+	17	9
-	+	19	9
-	+	21	9
-	+	18	7
-	+	16	7
-	+	8	0
-	+	7	83
-	+	8	1
-	+	9	48
-	+	25	27
-	+	13	39
-	+	14	14
-	+	16	0
-	+	18	0
-	+	5	0
-	+	7	0
-	+	8	0
-	+	7	0
-	+	13	0
-
-> ~/.config/i3blocks/blocks/music.sh
-	*	1583107468	0
-	"	7	0
-
-> ~/.Xresources
-	*	1583104518	0
-	"	15	0
-	.	2	0
-	+	30	0
-	+	30	9
-	+	30	0
-	+	30	36
-	+	30	22
-	+	30	14
-	+	30	21
-	+	30	0
-	+	30	43
-	+	30	26
-	+	30	22
-	+	30	0
-	+	30	31
-	+	30	0
-	+	30	36
-	+	30	23
-	+	30	0
-	+	30	23
-	+	1	0
-	+	30	9
-	+	30	23
-	+	10	0
-	+	12	0
-	+	11	1
-	+	12	0
-	+	11	32
-	+	22	0
-	+	22	57
-	+	22	0
-	+	13	20
-	+	14	23
-	+	13	20
-	+	22	13
-	+	22	15
-	+	22	27
-	+	22	18
-	+	22	0
-	+	11	39
-	+	30	9
-	+	30	0
-	+	29	0
-	+	30	9
-	+	30	93
-	+	30	70
-	+	30	0
-	+	30	69
-	+	30	70
-	+	66	23
-	+	67	0
-	+	30	83
-	+	4	0
-	+	11	52
-	+	20	44
-	+	1	5
-	+	4	0
-	+	9	5
-	+	32	22
-	+	4	0
-	+	1	0
-	+	1	7
-	+	19	30
-	+	20	65
-	+	2	0
-	+	3	0
-	+	2	0
-
-> ~/.xpro
-	*	1583104469	0
-	"	1	0
-
-> ~/.config/i3blocks/config
-	*	1582976556	0
-	"	5	0
-	.	5	0
-	+	1	14
-	+	1	13
-	+	1	0
-	+	1	6
-	+	1	9
-	+	1	19
-	+	18	52
-	+	18	10
-	+	18	59
-	+	1	0
-	+	32	0
-	+	38	0
-	+	40	0
-	+	3	0
-	+	1	23
-	+	17	6
-	+	17	34
-	+	17	12
-	+	16	0
-	+	16	4
-	+	5	4
-	+	16	0
-	+	16	10
-	+	16	17
-	+	16	41
-	+	16	10
-	+	16	29
-	+	44	14
-	+	39	17
-	+	18	17
-	+	17	14
-	+	1	1
-	+	3	0
-	+	1	47
-	+	17	0
-	+	18	0
-	+	39	0
-	+	44	0
-	+	16	0
-	+	17	0
-	+	40	8
-	+	17	8
-	+	17	13
-	+	17	12
-	+	17	7
-	+	17	10
-	+	16	12
-	+	7	0
-	+	17	12
-	+	44	9
-	+	41	7
-	+	16	0
-	+	12	7
-	+	14	12
-	+	15	7
-	+	3	0
-	+	16	0
-	+	3	0
-	+	16	0
-	+	3	11
-	+	39	10
-	+	16	10
-	+	44	15
-	+	18	10
-	+	16	10
-	+	18	9
-	+	16	10
-	+	16	5
-	+	16	11
-	+	16	12
-	+	39	9
-	+	43	4
-	+	33	6
-	+	33	12
-	+	16	12
-	+	33	12
-	+	16	12
-	+	17	0
-	+	33	0
-	+	13	9
-	+	16	10
-	+	34	10
-	+	33	0
-	+	8	0
-	+	16	0
-	+	19	0
-	+	30	12
-	+	31	8
-	+	30	12
-	+	5	7
-	+	5	0
-
-> ~/Documents/nspire/polydumper/polydumper_4.4/readme.txt
-	*	1582688399	0
-	"	1	0
-
-> ~/.config/i3/config
-	*	1582682913	0
-	"	231	52
-	^	231	53
-	.	231	52
-	+	219	53
-	+	220	37
-	+	229	50
-	+	231	52
-	+	176	31
-	+	86	38
-	+	119	37
-	+	120	37
-	+	121	33
-	+	122	37
-	+	121	31
-	+	120	35
-	+	119	35
-	+	40	17
-	+	40	16
-	+	40	0
-	+	40	17
-	+	39	0
-	+	39	16
-	+	40	0
-	+	39	19
-	+	217	0
-	+	216	0
-	+	218	0
-	+	219	0
-	+	220	0
-	+	219	52
-	+	217	52
-	+	32	20
-	+	35	28
-	+	34	29
-	+	35	29
-	+	33	13
-	+	34	0
-	+	211	45
-	+	33	12
-	+	34	12
-	+	35	0
-	+	33	0
-	+	34	13
-	+	35	13
-	+	229	50
-	+	231	52
-	+	205	13
-	+	201	20
-	+	67	26
-	+	205	51
-	+	88	40
-	+	87	22
-	+	182	0
-	+	184	0
-	+	186	0
-	+	188	0
-	+	182	14
-	+	184	0
-	+	186	0
-	+	188	0
-	+	182	49
-	+	184	39
-	+	186	39
-	+	188	48
-	+	186	48
-	+	108	0
-	+	182	9
-	+	184	9
-	+	186	9
-	+	188	9
-	+	182	9
-	+	205	13
-	+	206	14
-	+	210	13
-	+	211	13
-	+	217	8
-	+	219	8
-	+	99	0
-	+	89	0
-	+	92	29
-	+	221	83
-	+	155	10
-	+	155	0
-	+	155	10
-	+	155	12
-	+	155	0
-	+	154	0
-	+	155	0
-	+	144	11
-	+	145	0
-	+	230	0
-	+	232	0
-	+	230	51
-	+	232	13
-	+	230	13
-	+	205	0
-	+	206	0
-	+	229	75
-	+	230	0
-	+	231	0
-	+	232	0
-	+	229	50
-	+	231	52
-	g	211	45
-
-> ~/.config/i3blocks/blocks/brightness.sh
-	*	1582682829	0
-	"	1	41
-	^	1	42
-	.	1	41
-	+	1	41
-
-> ~/Documents/nspire/themeeditor/Theme Editor/README
-	*	1582247250	0
-	"	40	4
-
-> ~/Documents/nspire/liero/README.txt
-	*	1582246221	0
-	"	27	0
-
-> ~/Documents/testing/code/tests/test.js.tns
-	*	1582243596	0
-	"	2	0
-	^	2	0
-	.	1	35
-	+	1	35
-
-> ~/Documents/nspire/duktape/duktape-nspire-0.1.1/examples/mandelbrot.js.tns
-	*	1582243154	0
-	"	15	0
-
-> ~/Documents/nspire/nc-0.4/nc.c
-	*	1582242129	0
-	"	91	0
-
-> ~/Documents/nspire/nc-0.4nc.c
-	*	1582242113	0
-	"	1	0
-
-> ~/Documents/testing/code/processing/bogosort.js
-	*	1582179964	0
-	"	25	1
-	^	25	2
-	.	25	1
-	+	1	25
-	+	23	0
-	+	3	0
-	+	1	28
-	+	2	27
-	+	30	0
-	+	2	10
-	+	1	34
-	+	24	19
-	+	26	19
-	+	26	0
-	+	24	0
-	+	26	14
-	+	26	19
-	+	24	19
-	+	26	13
-	+	26	0
-	+	24	0
-	+	26	0
-	+	25	0
-	+	24	45
-	+	26	1
-	+	29	2
-	+	26	0
-	+	29	0
-	+	26	14
-	+	27	8
-	+	28	0
-	+	27	6
-	+	26	40
-	+	25	1
-
-> ~/Documents/testing/code/maths/numberphile/collatz_conjecture/collatz.js
-	*	1582177911	0
-	"	1	0
-
-> ~/.bash_aliases
-	*	1582175203	0
-	"	70	16
-	^	70	17
-	.	70	16
-	+	147	0
-	+	154	22
-	+	155	21
-	+	155	101
-	+	155	21
-	+	155	129
-	+	158	0
-	+	155	40
-	+	158	28
-	+	158	12
-	+	159	18
-	+	160	19
-	+	161	17
-	+	162	43
-	+	149	6
-	+	153	19
-	+	161	6
-	+	163	23
-	+	164	90
-	+	164	91
-	+	163	24
-	+	165	27
-	+	166	13
-	+	168	3
-	+	168	0
-	+	168	16
-	+	165	12
-	+	168	28
-	+	168	13
-	+	170	62
-	+	168	0
-	+	141	12
-	+	171	8
-	+	168	0
-	+	172	10
-	+	171	4
-	+	173	17
-	+	147	11
-	+	174	35
-	+	147	0
-	+	174	17
-	+	174	41
-	+	174	17
-	+	177	32
-	+	178	18
-	+	179	7
-	+	137	18
-	+	142	12
-	+	143	13
-	+	146	0
-	+	143	5
-	+	145	16
-	+	152	0
-	+	150	18
-	+	155	21
-	+	156	9
-	+	168	1
-	+	168	14
-	+	177	0
-	+	174	22
-	+	176	26
-	+	178	1
-	+	166	20
-	+	140	7
-	+	180	10
-	+	181	8
-	+	182	11
-	+	183	12
-	+	184	13
-	+	185	9
-	+	186	26
-	+	187	7
-	+	188	40
-	+	189	66
-	+	190	12
-	+	191	16
-	+	192	10
-	+	193	17
-	+	189	29
-	+	194	0
-	+	150	0
-	+	154	0
-	+	158	0
-	+	174	0
-	+	193	15
-	+	194	10
-	+	163	27
-	+	195	0
-	+	163	30
-	+	195	4
-	+	2	0
-	+	3	0
-	+	67	0
-	+	67	17
-	+	68	23
-	+	69	15
-	+	55	0
-	+	53	9
-	+	35	21
-	+	70	16
-	e	1	0
-
-> ~/Documents/ti84/games/fruitninja/README.txt
-	*	1582160515	0
-	"	69	0
-
-> ~/scripts/date_to_clipboard.sh
-	*	1582148983	0
-	"	4	19
-
-> ~/Documents/ti84/games/ark2/ReadMe.txt
-	*	1582116107	0
-	"	1	0
-	k	1	0
-
-> ~/Documents/ti84/games/cooppack/programming.txt
-	*	1582115752	0
-	"	4	0
-
-> ~/Documents/ti84/games/cooppack/readme.txt
-	*	1582115480	0
-	"	24	0
-
-> ~/Documents/ti84/games/timer/release.txt
-	*	1582115181	0
-	"	1	0
-
-> ~/Documents/ti84/games/calcutil/readme.txt
-	*	1582115019	0
-	"	86	0
-
-> ~/Documents/ti84/games/axe/ACTUALLY READ ME.txt
-	*	1582114577	0
-	"	1	0
-
-> ~/Documents/ti84/games/desertbus/DesertBusIIReadme.txt
-	*	1582112693	0
-	"	42	0
-
-> ~/Documents/nspire/minecraft2d/read me.txt
-	*	1582110726	0
-	"	14	0
-
-> ~/.config/i3blocks/blocks/volume.sh
-	*	1582071740	0
-	"	5	7
-	^	3	14
-	.	2	0
-	+	1	0
-	+	3	29
-	+	2	44
-	+	3	0
-	+	6	1
-	+	2	14
-	+	3	7
-	+	2	20
-	+	2	0
-
-> ~/Documents/clipboard_history
-	*	1582024773	0
-	"	512	0
-
-> ~/Documents/toast.txt
-	*	1582024573	0
-	"	1	0
-
-> ~/Documents/v
-	*	1582024558	0
-	"	1	0
-
-> ~/.config/i3blocks/blocks/timezones.sh
-	*	1581912790	0
-	"	2	75
-	^	2	76
-	.	2	75
-	+	13	0
-	+	12	0
-	+	6	0
-	+	12	15
-	+	13	0
-	+	10	10
-	+	1	44
-	+	6	54
-	+	1	44
-	+	6	54
-	+	1	46
-	+	6	56
-	+	8	15
-	+	10	54
-	+	8	58
-	+	12	15
-	+	1	43
-	+	6	53
-	+	8	55
-	+	10	0
-	+	1	8
-	+	6	8
-	+	10	8
-	+	1	39
-	+	6	49
-	+	8	51
-	+	10	46
-	+	12	42
-	+	10	43
-	+	8	50
-	+	6	48
-	+	1	39
-	+	6	49
-	+	8	51
-	+	10	44
-	+	1	18
-	+	1	47
-	+	6	48
-	+	8	50
-	+	10	43
-	+	6	5
-	+	10	0
-	+	8	0
-	+	12	0
-	+	1	9
-	+	6	6
-	+	8	0
-	+	10	0
-	+	12	0
-	+	8	0
-	+	10	0
-	+	12	0
-	+	8	0
-	+	10	0
-	+	12	0
-	+	6	0
-	+	8	0
-	+	10	0
-	+	12	0
-	+	1	8
-	+	6	0
-	+	8	0
-	+	10	0
-	+	12	0
-	+	5	14
-	+	7	0
-	+	9	0
-	+	11	0
-	+	1	7
-	+	4	39
-	+	6	49
-	+	8	51
-	+	10	48
-	+	12	43
-	+	10	46
-	+	4	70
-	+	6	48
-	+	8	50
-	+	10	43
-	+	12	42
-	+	7	0
-	+	6	73
-	+	8	75
-	+	10	70
-	+	12	67
-	+	4	65
-	+	6	75
-	+	8	77
-	+	10	72
-	+	12	69
-	+	4	62
-	+	6	74
-	+	8	76
-	+	10	67
-	+	12	68
-	+	6	0
-	+	7	0
-	+	10	0
-	+	11	0
-	+	2	75
-
-> ~/Documents/testing/code/collatz_operations.js
-	*	1581749555	0
-	"	20	10
-	^	20	11
-	.	20	10
-	+	2	0
-	+	19	0
-	+	28	0
-	+	17	1
-	+	19	23
-	+	24	67
-	+	27	10
-	+	24	52
-	+	22	0
-	+	21	21
-	+	24	0
-	+	25	0
-	+	24	8
-	+	21	22
-	+	24	12
-	+	21	83
-	+	20	21
-	+	29	13
-	+	20	10
-	+	29	0
-	+	20	10
-
-> ~/Downloads/V2-user-BASIC_english-3_3.doc
-	*	1581666456	0
-	"	1	0
-
-> /etc/cups/cupsd.conf
-	*	1581663603	0
-	"	20	11
-
-> ~/scripts/extdisp.sh
-	*	1581598857	0
-	"	2	16
-	^	1	9
-	.	2	19
-	+	1	8
-	+	2	51
-	+	1	8
-	+	2	19
-
-> ~/Documents/testing/code/persistence_num.js
-	*	1581592485	0
-	"	18	32
-	^	21	32
-	.	18	32
-	+	2	0
-	+	4	4
-	+	3	19
-	+	4	0
-	+	13	0
-	+	12	20
-	+	8	0
-	+	4	5
-	+	16	18
-	+	16	10
-	+	16	0
-	+	12	18
-	+	16	1
-	+	16	0
-	+	16	19
-	+	16	0
-	+	16	21
-	+	12	7
-	+	3	17
-	+	4	24
-	+	4	23
-	+	7	0
-	+	7	35
-	+	6	35
-	+	4	0
-	+	7	0
-	+	16	23
-	+	23	0
-	+	15	11
-	+	21	21
-	+	19	21
-	+	21	1
-	+	21	0
-	+	20	15
-	+	21	18
-	+	22	0
-	+	23	43
-	+	21	27
-	+	22	0
-	+	21	41
-	+	23	0
-	+	17	0
-	+	23	0
-	+	21	0
-	+	23	23
-	+	21	27
-	+	23	0
-	+	17	0
-	+	21	32
-	+	17	0
-	+	18	38
-	+	21	31
-	+	18	32
-
-> ~/Documents/testing/code/persistence.js
-	*	1581590558	0
-	"	15	50
-	^	15	51
-	.	15	50
-	+	7	5
-	+	2	7
-	+	3	14
-	+	12	0
-	+	10	10
-	+	7	0
-	+	4	0
-	+	5	10
-	+	11	12
-	+	13	0
-	+	7	31
-	+	3	32
-	+	10	37
-	+	13	17
-	+	13	0
-	+	5	22
-	+	8	14
-	+	5	26
-	+	13	56
-	+	1	22
-	+	13	36
-	+	13	0
-	+	15	50
-
-> ~/Documents/testing/code/collatz.js
-	*	1581589837	0
-	"	1	0
-	.	5	0
-	+	15	0
-	+	15	1
-	+	15	16
-	+	15	6
-	+	15	2
-	+	15	14
-	+	15	1
-	+	15	15
-	+	15	9
-	+	15	16
-	+	15	7
-	+	15	8
-	+	15	0
-	+	15	15
-	+	15	14
-	+	15	0
-	+	15	29
-	+	15	28
-	+	15	0
-	+	1	10
-	+	15	0
-	+	1	41
-	+	15	0
-	+	1	38
-	+	4	0
-	+	2	21
-	+	1	2
-	+	15	12
-	+	15	7
-	+	15	15
-	+	15	4
-	+	15	5
-	+	15	18
-	+	15	0
-	+	4	2
-	+	4	1
-	+	5	0
-	+	4	0
-	+	15	0
-	+	5	0
-	+	1	1
-	+	2	1
-	+	4	0
-	+	1	0
-	+	15	1
-	+	15	0
-	+	15	29
-	+	15	0
-	+	15	12
-	+	15	1
-	+	5	0
-
-> ~/.config/dunst/dunstrc
-	*	1581236801	0
-	"	1	0
-	^	1	0
-
-> /mnt/usb/newfont.reg
-	*	1581137708	0
-	"	11	27
-	^	11	28
-	.	11	27
-	+	11	27
-
-> ~/Documents/testing/projects/bulletin_2020/get.sh
-	*	1580897797	0
-	"	2	0
-	^	1	140
-	.	1	142
-	+	1	142
-
-> ~/Documents/testing/code/helpmeeeee.js
-	*	1580880139	0
-	"	1	0
-
-> ~/Documents/repositories/led-name-badge-ls32/badge.sh
-	*	1580816951	0
-	"	8	11
-	^	8	12
-	.	8	11
-	+	9	102
-	+	1	5
-	+	8	6
-	+	3	3
-	+	4	3
-	+	5	3
-	+	6	3
-	+	7	3
-	+	8	3
-	+	8	4
-	+	7	4
-	+	6	4
-	+	5	4
-	+	4	4
-	+	3	4
-	+	2	4
-	+	1	21
-	+	3	20
-	+	4	21
-	+	5	6
-	+	6	6
-	+	7	6
-	+	8	6
-	+	5	11
-	+	4	21
-	+	6	19
-	+	7	15
-	+	8	11
-
-> ~/scripts/make_laptop_dark.sh
-	*	1580719785	0
-	"	1	16
-	^	1	17
-	.	1	16
-	+	1	16
-
-> ~/.XCompose
-	*	1580544718	0
-	"	3	25
-	^	3	26
-	.	3	25
-	+	2	17
-	+	2	26
-	+	3	25
-
-> ~/scripts/speak_time.sh
-	*	1580544048	0
-	"	4	8
-	^	4	9
-	.	4	8
-	+	4	8
-
-> ~/scripts/speak_time
-	*	1580544035	0
-	"	1	0
-
-> ~/scripts/speak_time_12.sh
-	*	1580544024	0
-	"	4	14
-	^	4	15
-	.	4	14
-	+	4	14
-
-> ~/.Xmodmap
-	*	1580543496	0
-	"	1	0
-
-> ~/.profile
-	*	1580542898	0
-	"	35	0
-	.	36	0
-	+	35	26
-	+	36	0
-
-> ~/scripts/make_toktik.sh
-	*	1580519968	0
-	"	1	0
-
-> ~/Documents/repositories/ouimeaux/README.md
-	*	1580466922	0
-	"	81	0
-
-> ~/Documents/repositories/led-name-badge-ls32/images/julian.txt
-	*	1580449622	0
-	"	1	7
-	^	1	8
-	.	1	7
-	+	1	7
-
-> ~/scripts/nowshut.sh
-	*	1580385494	0
-	"	1	0
-
-> ~/Documents/testing/code/capslock.sh
-	*	1580359617	0
-	"	6	40
-	^	6	8
-	.	4	7
-	+	3	9
-	+	4	7
-	+	5	9
-	+	8	3
-	+	2	57
-	+	4	57
-	+	6	0
-	+	2	8
-	+	4	7
-
-> ~/scripts/go.sh
-	*	1580348385	0
-	"	4	103
-	^	4	104
-	.	4	103
-	+	5	100
-	+	5	1
-	+	5	103
-	+	3	52
-	+	5	0
-	+	4	0
-	+	4	86
-	+	4	103
-
-> ~/.config/rofi/config
-	*	1580348050	0
-	"	1	0
-
-> ~/.git-credentials
-	*	1580297887	0
-	"	1	7
-
 > ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-	*	1580297862	0
-	"	2	62
-	^	2	63
-	.	2	62
-	+	1	33
-	+	2	62
-
-> ~/scripts/wifi_connect.sh
-	*	1580280304	0
-	"	2	0
-	^	2	28
-	.	2	27
-	+	1	0
-	+	2	27
-
-> /etc/lightdm/lightdm.conf
-	*	1580275116	0
-	"	4	0
-	^	3	36
-	.	3	35
-	+	3	35
-
-> ~/.bashrc
-	*	1580272971	0
-	"	72	16
-	^	66	5
-	.	66	4
-	+	153	36
-	+	16	22
-	+	23	14
-	+	22	10
-	+	24	23
-	+	66	4
-	+	67	0
-	+	72	15
-	+	67	0
-	+	66	4
-
-> ~/Documents/testing/code/pi_baker.js
-	*	1580175188	0
-	"	5	16
-	^	5	17
-	.	5	16
-	+	7	21
-	+	12	0
-	+	6	0
-	+	6	15
-	+	14	14
-	+	4	0
-	+	15	6
-	+	14	14
-	+	1	15
-	+	11	17
-	+	6	0
-	+	11	20
-	+	4	1
-	+	5	16
-
-> ~/Documents/testing/projects/sonos/now_playing.py
-	*	1580175079	0
-	"	27	0
-
-> /tmp/bash-fc.MwHRd7
-	*	1580169607	0
-	"	1	0
-
-> ~/.config/cava/config
-	*	1580169273	0
-	"	134	12
-	^	134	13
-	.	134	12
-	+	59	0
-	+	60	0
-	+	59	0
-	+	90	16
-	+	59	1
-	+	60	1
-	+	90	0
-	+	91	0
-	+	123	0
-	+	125	0
-	+	126	0
-	+	124	0
-	+	134	12
-
-> ~/Documents/repositories/cava/NERD_tree_1
-	*	1580169043	0
-	"	5	0
-	.	1	0
-	+	1	0
-
-> ~/Documents/repositories/cava/config.h
-	*	1580168866	0
-	"	33	0
-
-> ~/Documents/repositories/cava/config
-	*	1580168838	0
-	"	1	0
-
-> /etc/NetworkManager/NetworkManager.conf
-	*	1580136834	0
-	"	6	0
-
-> /etc/networks
-	*	1580136812	0
-	"	1	0
-
-> /etc/network/interfaces
-	*	1580136803	0
-	"	1	0
-
-> ~/scripts/shutdown.sh
-	*	1580136115	0
-	"	1	0
+	*	1589323831	0
+	"	1	14
 	^	1	15
 	.	1	14
 	+	1	14
 
+> ~/.config/i3blocks/blocks/battery.sh.bak
+	*	1589322821	0
+	"	12	0
+
+> ~/.config/i3/config
+	*	1589322293	0
+	"	249	42
+	^	249	43
+	.	249	42
+	+	138	0
+	+	137	14
+	+	138	29
+	+	139	13
+	+	138	13
+	+	139	23
+	+	138	24
+	+	79	0
+	+	249	0
+	+	252	116
+	+	252	0
+	+	253	0
+	+	252	40
+	+	249	33
+	+	79	0
+	+	252	0
+	+	253	0
+	+	252	0
+	+	249	39
+	+	252	31
+	+	249	25
+	+	252	0
+	+	252	142
+	+	78	29
+	+	249	0
+	+	252	0
+	+	249	40
+	+	250	45
+	+	249	42
+
+> ~/scripts/cancel_shutdown.sh
+	*	1589322136	0
+	"	3	22
+	^	3	23
+	.	3	22
+	+	3	22
+
+> ~/.config/i3blocks/config
+	*	1589321382	0
+	"	2	22
+	^	2	24
+	.	2	23
+	+	2	23
+
+> ~/.bashrc
+	*	1589321156	0
+	"	154	20
+	^	154	21
+	.	154	20
+	+	154	20
+
+> ~/.config/i3blocks/blocks/music.sh
+	*	1589320654	0
+	"	8	0
+	^	12	53
+	.	12	52
+	+	12	52
+
+> ~/.config/i3status/config
+	*	1589319021	0
+	"	13	0
+
+> ~/.config/i3blocks/blocks/temp.sh
+	*	1589314810	0
+	"	2	0
+
+> ~/.config/i3blocks/blocks/timezones.sh
+	*	1589314766	0
+	"	1	0
+
+> ~/scripts/extdisp.sh
+	*	1589314368	0
+	"	1	8
+	^	1	9
+	.	1	8
+	+	1	8
+
+> ~/Documents/school/2020/robot/peer reviews/ben dolliver/2020-05-12/Ben Dollivers perfect A+ Technical Test.pages
+	*	1589263116	0
+	"	741	0
+
+> ~/.xinitrc
+	*	1589262218	0
+	"	4	10
+	^	4	11
+	.	4	10
+	+	7	2
+	+	3	0
+	+	5	9
+	+	4	10
+	a	7	0
+
+> ~/.xscreensaver
+	*	1589261816	0
+	"	16	0
+
+> ~/.Xauthority
+	*	1589261807	0
+	"	1	0
+
+> ~/.Xresources
+	*	1589261796	0
+	"	68	0
+	^	18	46
+	.	18	45
+	+	19	21
+	+	18	45
+
+> ~/.bash_aliases
+	*	1589070707	0
+	"	71	0
+
 > ~/.vimrc
-	*	1580136095	0
-	"	29	0
-	^	29	13
-	.	29	0
-	+	23	14
-	+	23	15
-	+	24	0
-	+	13	0
-	+	26	11
-	+	27	10
-	+	32	4
-	+	25	1
-	+	32	0
-	+	17	0
-	+	18	0
-	+	32	43
-	+	32	14
-	+	32	50
-	+	32	41
-	+	32	20
-	+	32	16
-	+	32	17
-	+	31	0
-	+	31	107
-	+	32	0
-	+	33	42
-	+	32	0
-	+	33	34
-	+	22	28
-	+	21	0
-	+	22	0
-	+	21	0
-	+	22	14
-	+	29	0
+	*	1589044099	0
+	"	24	0
 
-> ~/scripts/always_copy.sh
-	*	1580134561	0
+> ~/Downloads/programs/platform-tools_r28.0.1-linux.zip
+	*	1589043963	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/NERD_tree_1
+	*	1589043919	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/Documents/repositories/AutoReconnector-Fabric/build.gradle
+	*	1589040720	0
+	"	70	0
+
+> ~/Documents/repositories/AutoReconnector-Fabric/autoreconnector-fabric-1.0.0.jar
+	*	1589040007	0
+	"	24	0
+	.	1	0
+	+	1	0
+
+> zipfile:/home/elyshea/Documents/repositories/AutoReconnector-Fabric/autoreconnector-fabric-1.0.0.jar::com/takaranoao/mods/autoreconnector/AutoConnectorMod.class
+	*	1589040005	0
 	"	1	0
 
-> ~/4
-	*	1580134232	0
+> ~/Documents/repositories/AutoReconnector-Fabric/src/main/java/com/takaranoao/mods/autoreconnector/AutoConnectorMod.java
+	*	1589039901	0
+	"	18	39
+	^	18	40
+	.	18	39
+	+	18	39
+
+> ~/Documents/repositories/AutoReconnector-Fabric/src/main/resources/fabric.mod.json
+	*	1589039777	0
 	"	1	0
 
-> ~/Documents/repositories/webmc/.git/COMMIT_EDITMSG
-	*	1580089794	0
-	"	1	1
-	^	1	2
-	.	1	1
-	+	1	1
-
-> ~/Documents/repositories/webmc/README.md
-	*	1580089790	0
-	"	2	17
-	^	2	18
-	.	2	17
-	+	2	17
-
-> ~/.config/i3blocks/blocks/bar_time.sh
-	*	1580089619	0
-	"	2	35
-	^	2	36
-	.	2	35
-	+	2	35
-
-> /tmp/vifm.cmdline_205317041_00
-	*	1580086049	0
+> ~/Documents/repositories/AutoReconnector-Fabric/src/main/java/com/takaranoao/mods/autoreconnector/mixins/MixinDisconnectedScreen.java
+	*	1589039759	0
 	"	1	0
 
-> ~/Documents/testing/code/hornpub.html
-	*	1580035952	0
-	"	14	23
-	^	14	24
-	.	14	23
-	+	16	0
-	+	13	0
-	+	12	0
-	+	7	0
+> ~/android-studio/lib/jna.jar
+	*	1589039686	0
+	"	14	0
+	.	1	0
+	+	1	0
+
+> ~/.XCompose
+	*	1588851235	0
+	"	29	38
+	^	29	39
+	.	29	39
+	+	11	25
+	+	28	0
+	+	28	6
+	+	29	39
+
+> ~/Documents/school/2020/japanese/song_translate.txt
+	*	1588644432	0
+	"	1	18
+	^	1	19
+	.	1	18
+	+	48	15
+	+	1	18
+
+> ~/.config/i3blocks/blocks/brightness.sh
+	*	1588556281	0
+	"	4	3
+	^	4	4
+	.	4	3
+	+	1	21
+	+	3	30
+	+	4	3
+
+> ~/.config/i3blocks/blocks/volume.sh
+	*	1588555909	0
+	"	3	27
+	^	3	28
+	.	3	27
 	+	10	0
-	+	6	23
-	+	9	14
-	+	14	23
+	+	7	0
+	+	4	0
+	+	6	0
+	+	5	2
+	+	4	29
+	+	5	29
+	+	2	28
+	+	1	21
+	+	2	29
+	+	4	31
+	+	5	29
+	+	4	29
+	+	3	27
 
-> ~/.config/vifm/vifmrc
-	*	1580031928	0
-	"	241	11
-	^	241	11
-	.	241	0
-	+	241	0
+> ~/Documents/school/2020/maths/programs/generate_bearings.js
+	*	1588549098	0
+	"	5	0
+	.	5	0
+	+	5	0
+	+	4	29
+	+	3	36
+	+	2	22
+	+	5	0
+	+	4	2
+	+	5	0
 
-> ~/Documents/testing/code/bashtopython
-	*	1580026243	0
-	"	2	17
-	^	2	18
-	.	2	17
-	+	2	17
-
-> ~/Documents/testing/code/test
-	*	1580026216	0
+> ~/Documents/school/2020/maths/programs/generate_bearings_problems.py
+	*	1588548866	0
 	"	1	0
 
-> /usr/share/plymouth/themes/details/details.plymouth
-	*	1580026042	0
+> ~/Downloads/quest/beatsaber/mods/2020-04-11/bmbfmod.json
+	*	1588510480	0
 	"	1	0
-
-> /usr/share/plymouth/themes/glow/glow.plymouth
-	*	1580025877	0
-	"	3	0
-
-> /usr/share/plymouth/themes/solar/solar.plymouth
-	*	1580025792	0
-	"	1	0
-
-> /usr/share/plymouth/themes/spinfinity/spinfinity.plymouth
-	*	1580025769	0
-	"	1	0
-
-> /usr/share/plymouth/themes/script/script.script
-	*	1580025735	0
-	"	134	0
-
-> /usr/share/plymouth/themes/script/script.plymouth
-	*	1580025691	0
-	"	1	0
-
-> /usr/share/plymouth/themes/bgrt/bgrt.plymouth
-	*	1580025391	0
-	"	7	0
-
-> /usr/share/plymouth/themes/tribar/tribar.plymouth
-	*	1580025319	0
-	"	3	0
-
-> /usr/share/plymouth/themes/text/text.plymouth
-	*	1580024917	0
-	"	3	0
-
-> /usr/lib/x86_64-linux-gnu/plymouth/ubuntu-text.so
-	*	1580024836	0
-	"	1	0
-
-> ~/Downloads/winmail.dat
-	*	1580022529	0
-	"	611	0
-
-> ~/scripts/force_paste.sh
-	*	1580010899	0
-	"	3	0
-
-> ~/.config/i3blocks/blocks/battery
-	*	1580010804	0
-	"	1	0
-
-> /tmp/crontab.elbbYV/crontab
-	*	1580009051	0
-	"	25	0
-	^	25	1
-	.	25	0
-	+	25	0
-
-> ~/.config/i3blocks/blocks/bluetooth.sh
-	*	1580008808	0
-	"	1	0
-	.	2	0
-	+	1	11
-	+	2	0

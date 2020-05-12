@@ -10,7 +10,7 @@ cp -r ~/.config/i3/* ./configs/i3/
 # i3blocks configs
 cp -r ~/.config/i3blocks/* ./configs/i3blocks/
 # x configs
-cp -r ~/.Xauthority ~/.xinitrc ~/.xinputrc ~/.Xmodmap ~/.Xresources ~/.xscreensaver ./configs/x/
+cp -r ~/.Xauthority ~/.xinitrc ~/.xinputrc ~/.Xmodmap ~/.Xresources ~/.xscreensaver ~/.XCompose ./configs/x/
 # vim configs (+ plugins)
 cp -r ~/.vim* ./configs/vim/
 # misc configs

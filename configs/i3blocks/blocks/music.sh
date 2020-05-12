@@ -1,9 +1,18 @@
-artist=$(playerctl -a metadata artist)
-title=$(playerctl -a metadata title)
+status=$(playerctl status)
+artist=$(playerctl metadata artist)
+title=$(playerctl metadata title)
 
 ARTIST_MAXLENGTH=25
 TITLE_W_ARTIST_MAXLENGTH=30
 TITLE_NO_ARTIST_MAXLENGTH=55
+
+# check status of player (playing, paused, nothing, etc.)
+if [ "$status" = "Playing" ]; then
+	# adds a symbol for whether there's something playing or not, then adds a space if there is an artist or title
+	status="♫$([ "$artist$title" != "" ] && printf " ")"
+else
+	status=""
+fi
 
 # this may look super inefficient, but it matches any whitespace string: e.g. "  ", "", "     "
 #if [ ! $(echo $artist | egrep -q '^\s*$') ]
@@ -17,7 +26,6 @@ then
 
 	# formatting - add bold to the artist, and if a title exists (same match as before), insert the " - "
 	artist="<b>$artist</b>$([ ! $(echo $title | egrep -q '^\s*$') ] && printf ' - ')"
-	#artist="<b>$artist</b>$([ ! $(echo $title | egrep -q '^\s*$') ] && printf ' - ')"
 
 	# if title length is over $TITLE_W_ARTIST_MAXLENGTH cut it down the same
 	[ ${#title} -gt $TITLE_W_ARTIST_MAXLENGTH ] && title="$(echo $title | head -c $TITLE_W_ARTIST_MAXLENGTH | iconv -c | sed 's/\s*$/…/')"
@@ -29,4 +37,4 @@ else
 
 fi
 
-echo "$artist$title"
+echo "$status$artist$title"

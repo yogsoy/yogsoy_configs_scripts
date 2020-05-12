@@ -31,8 +31,8 @@ set $ws10 "10"
 
 # workspace monitors
 workspace $ws1 output eDP1
-workspace $ws2 output DP1-1
-workspace $ws3 output DP1-1
+workspace $ws2 output DP1
+workspace $ws3 output DP1
 
 # status bar
 bar {
@@ -64,7 +64,7 @@ hide_edge_borders both
 
 # auto-move windows
 for_window [window_role="browser"] move container to workspace $ws2
-for_window [title="Discord"] move container to workspace $ws3
+for_window [title="Discord$"] move container to workspace $ws3
 
 ### Startup
 
@@ -90,6 +90,10 @@ exec --no-startup-id kdeconnect-indicator
 exec --no-startup-id blueman-applet
 # wifi (what)
 exec --no-startup-id nm-applet
+# transmission (torrents)
+#exec --no-startup-id "transmission-gtk -m"
+# syncthing (for music, mainly)
+exec --no-startup-id "syncthing-gtk -m"
 
 ## programs
 exec $TERM
@@ -130,6 +134,10 @@ bindsym $mod+e layout toggle split
 # fullscreen
 bindsym $mod+f fullscreen toggle
 
+# next/previous workspace
+bindsym $mod+bracketright workspace next
+bindsym $mod+bracketleft workspace prev
+
 # switch to workspace
 bindsym $mod+1 workspace $ws1
 bindsym $mod+2 workspace $ws2
@@ -150,7 +158,6 @@ bindsym mod2+KP_6 workspace $ws6
 bindsym mod2+KP_7 workspace $ws7
 bindsym mod2+KP_8 workspace $ws8
 bindsym mod2+KP_9 workspace $ws9
-bindsym mod2+KP_0 workspace $ws10
 
 
 # move container to workspace
@@ -200,12 +207,19 @@ bindsym $mod+Return exec $TERM
 # dmenu (but good - runs things in bash)
 bindsym $mod+d exec ~/scripts/go.sh
 
+# pavucontrol because im bad at typing and dont like my history cluttered with `pavucontrol` every six seconds whenever i plug in my shit
+bindsym $mod+p exec pavucontrol
+
+# yes
+bindsym $mod+c exec $BROWSER
+
 # scripts
 bindsym $mod+t exec ~/scripts/speak_time.sh
 #bindsym $mod+Shift+t exec ~/scripts/speak_time_12.sh
 bindsym $mod+Shift+t exec ~/scripts/speak_date.sh
 bindsym $mod+b exec ~/scripts/speak_battery.sh
 bindsym $mod+w exec ~/scripts/wiktionary_selection.sh
+bindsym $mod+Shift+w exec ~/scripts/browser_selection.sh
 bindsym $mod+s exec ~/scripts/speak_selection.sh
 bindsym $mod+Shift+d exec ~/scripts/date_to_clipboard.sh
 bindsym $mod+Shift+m exec ~/scripts/extdisp.sh
@@ -218,7 +232,7 @@ bindsym Shift+XF86AudioRaiseVolume exec "pamixer --allow-boost -i 5; pkill i3blo
 bindsym XF86AudioLowerVolume exec "pamixer --allow-boost -d 1; pkill i3blocks -RTMIN+2"
 bindsym Shift+XF86AudioLowerVolume exec "pamixer --allow-boost -d 5; pkill i3blocks -RTMIN+2"
 bindsym XF86AudioMute exec "pamixer --allow-boost -t; pkill i3blocks -RTMIN+2"
-bindsym Shift+XF86AudioMute exec "pamixer --set-volume 100; pkill i3blocks -RTMIN+2"
+bindsym Shift+XF86AudioMute exec "pamixer --set-volume 0; pkill i3blocks -RTMIN+2"
 
 # media
 bindsym XF86AudioPlay exec "playerctl -a play-pause; pkill i3blocks -RTMIN+4"
@@ -226,11 +240,16 @@ bindsym XF86AudioNext exec "playerctl -a next; pkill i3blocks -RTMIN+4"
 bindsym XF86AudioPrev exec "playerctl -a previous; pkill i3blocks -RTMIN+4"
 
 # brightness
-bindsym XF86MonBrightnessUp exec "xbacklight -inc 5; pkill i3blocks -RTMIN+5"
-bindsym Shift+XF86MonBrightnessUp exec "xbacklight -inc 20; pkill i3blocks -RTMIN+5"
-bindsym XF86MonBrightnessDown exec "xbacklight -dec 5; pkill i3blocks -RTMIN+5"
-bindsym Shift+XF86MonBrightnessDown exec "xbacklight -dec 20; pkill i3blocks -RTMIN+5"
+bindsym XF86MonBrightnessUp exec "xbacklight -inc 5 -time 0; pkill i3blocks -RTMIN+5"
+bindsym Shift+XF86MonBrightnessUp exec "xbacklight -inc 20 -time 0; pkill i3blocks -RTMIN+5"
+bindsym XF86MonBrightnessDown exec "xbacklight -dec 5 -time 0; pkill i3blocks -RTMIN+5"
+bindsym Shift+XF86MonBrightnessDown exec "xbacklight -dec 20 -time 0; pkill i3blocks -RTMIN+5"
 
 # screenshots
 bindsym Control+F11 exec "flameshot full -c"
 bindsym Control+Shift+F11 exec "flameshot gui"
+#bindsym Control+F11 exec "scrot -m ~/Pictures/screenshots/$(date +%F_%T).png -e 'xclip -selection clipboard -t image/png < $f'"
+#bindsym Control+Shift+F11 --release exec "scrot -sf ~/Pictures/screenshots/$(date +%F_%T).png -e 'xclip -selection clipboard -t image/png < $f'"
+
+# repeat previous command in terminal
+bindsym mod2+KP_0 exec "xdotool key Up Return"

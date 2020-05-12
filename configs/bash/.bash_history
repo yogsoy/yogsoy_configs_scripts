@@ -1297,3 +1297,4547 @@ figlet 'Cock and Ball Torture.' | cb
 cls
 ls BRF/
 bc
+dd if=/dev/nvme0n1p1 | aplay
+sudo dd if=/dev/nvme0n1p1 | aplay
+sudo dd if=/dev/nvme0n1p1 | aplay
+exit
+apts neovim
+apts nvim
+cl
+spongebird 'the benis boys'
+spongebird 'the benis boys'|cb
+dm-tool
+dm-tool --help
+dmsetup
+cl
+sxiv Documents/school/2020/robot/ics/Capture.PNG 
+pavucontrol 
+adb shell
+sudo adb kill-server
+sudo adb start-server
+adb shell
+man adb
+adb install Downloads/android/ytvanced/com.google.android.youtube_14.47.50-1447503000_minAPI21\(arm64-v8a\)\(nodpi\)_apkmirror.com.apk 
+cd Downloads/android/ytvanced/
+cls
+adb install com.aefyr.sai_3.4-45_minAPI21\(nodpi\)_apkmirror.com.apk microg_YouTube_Vanced_0.2.6.17455_28052019.apk 
+adb install com.aefyr.sai_3.4-45_minAPI21\(nodpi\)_apkmirror.com.apk
+adb push YouTube_Vanced-v15.05.54-nonroot-default-black.apks /sdcard/Download/ytvanced.apks
+adb push com.google.android.youtube_14.47.50-1447503000_minAPI21\(arm64-v8a\)\(nodpi\)_apkmirror.com.apk /sdcard/Download/
+adb push microg_YouTube_Vanced_0.2.6.17455_28052019.apk /sdcard/Download/
+adb push racism.apk /sdcard/Download/
+adb push racism.apk /sdcard/Download/
+adb shell
+exit
+cd Videos/
+mkdir quest
+cd quest/
+adb pull /sdcard/Oculus/VideoShots/*
+adb pull /sdcard/Oculus/VideoShots/*.mp4
+man ls
+adb pull /sdcard/Oculus/VideoShots/com.oculus.vrshell-20200224-172712.mp4
+adb pull /sdcard/Oculus/VideoShots/com.oculus.vrshell-20200224-210213.mp4
+adb pull /sdcard/Oculus/VideoShots/com.oculus.vrshell-20200224-210709.mp4
+adb pull /sdcard/Oculus/VideoShots
+adb shutdown
+man adb
+ls
+ls
+rf com.oculus.vrshell-20200224-*
+ls
+cd VideoShots/
+ls
+mpv com.oculus.vrshell-20200304-002215.mp4 
+pavucontrol &
+mpv com.oculus.vrshell-20200304-002215.mp4 
+mpv com.oculus.vrshell-20200304-002215.mp4 
+vlc com.oculus.vrshell-20200304-002215.mp4 
+ls
+mpv com.oculus.vrshell-20200224-172712.mp4 
+cd ..
+ls
+cdl
+pavucontrol 
+apts rockbox
+xwininfo
+cl
+free -total
+free
+free --si
+free -h
+free -h --si
+exit
+cd Documents/work/
+ls
+mkdir doug_2020-02
+mv Gmail\ -\ We\'ll\ let\ you\ know\ when\ your\ order\ confirmation\ no.\ 2102372658\ is\ ready\ for\ pickup.pdf Harvey\ Norman.pdf doug_2020-02/
+ls
+cd bca_2020-03/
+cls
+mupdf Consultant\ contract\ Julian\ Bennison\ 2020.docx 
+convert
+man convert
+unoconv Consultant\ contract\ Julian\ Bennison\ 2020.docx contract.pdf
+man unoconv 
+ls
+mupdf Consultant\ contract\ Julian\ Bennison\ 2020.pdf 
+mupdf Consultant\ contract\ Julian\ Bennison\ 2020.pdf 
+bg
+cdl
+cl
+pavucontrol 
+sxiv Pictures/big\ boi.jpg 
+pavucontrol 
+cl
+cd Documents/manuals/
+ls
+mupdf Braille\ Sense\ U2\ MINI\ User\ Manual\ \(Ver\ 8.6\).pdf 
+pdfsig 
+apts xounral
+apts xournal
+apti xournal
+xournal Documents/work/bca_2020-03/Consultant\ contract\ Julian\ Bennison\ 2020.pdf 
+mupdf Documents/work/bca_2020-03/signed_contract.pdf 
+srv
+cdl
+xrandr
+exit
+pavucontrol 
+pavu
+pavucontrol 
+sudo su
+pavucontrol 
+cd Pictures/
+convert big\ lion.jpg -resize 3200x1800
+convert -resize 3200x1800 big\ lion.jpg 
+convert big\ lion.jpg -resize 3200x1800 massive\ lion.jpg
+sxiv massive\ lion.jpg 
+convert big\ lion.jpg -resize 1800x3200 massive\ lion.jpg
+sxiv massive\ lion.jpg 
+rf massive\ lion.jpg 
+convert big\ lion.jpg -resize 3200x1800\! massive\ lion.jpg
+sxiv massive\ lion.jpg 
+man lightdm-mini-greeter
+vim /etc/lightdm/lightdm.conf
+lightdm-mini-greeter
+man lightdm
+vim /etc/lightdm/lightdm-mini-greeter.conf
+sudo vim /etc/lightdm/lightdm-mini-greeter.conf
+lightdm --help
+sudo vim /etc/lightdm/lightdm-mini-greeter.conf
+iv big\ lion.jpg 
+cdl
+node Documents/testing/code/proof/fizzbuzz.js 
+node Documents/testing/code/proof/fizzbuzz.js 10000
+cd Documents/testing/code/proof/
+ls
+vim fizzbuzz.js 
+cdl
+Downloads/programs/SideQuest-0.7.6/sidequest 
+cd Documents/testing/data/
+ls
+cat words.txt 
+shuf -n 1 words.txt 
+shuf -n 1 words.txt 
+shuf -n 1 words.txt 
+shuf -n 1 words.txt 
+shuf -n 1 words.txt 
+shuf -n 1 words.txt 
+shuf -n 1 words.txt 
+shuf -n 1 words.txt | es
+shuf -n 1 words.txt | es
+shuf -n 1 words.txt | es
+shuf -n 1 words.txt | es
+shuf -n 1 words.txt | es
+cd ..
+ls
+cd code
+ls
+cd programs
+ls
+vim spelling.sh
+chx spelling.sh 
+./spelling.sh 
+./spelling.sh 
+pavucontrol 
+pavucontrol 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+ety gambian
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+ety latensify
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh '
+./spelling.sh '
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+xclip -o | espeak
+xclip -o | espeak
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+./spelling.sh 
+exit
+pavucontrol 
+cd Documents/repositories/
+gitc https://github.com/HackerPoet/Particle-Life
+cd Particle-Life/
+ls
+make
+gcc Main.cpp -o particles.out
+apts sfml
+gcc Main.cpp -o particles.out
+whereis sfml
+whereis SFML
+which SFML
+which ls
+apts sfml-graphics
+apti libcsfml-graphics2.5
+gcc Main.cpp -o particles.out
+ls
+unzip -d ParticleLife.zip 
+unzip -l ParticleLife.zip 
+cls
+gcc Main.cpp -o particles.out
+ls /usr/lib/SFML
+ls /usr/lib/SFML*
+vim /etc/ld
+vim /etc/id
+vim /etc/ld
+man find
+find / '*sfml*
+'
+find / '*sfml*'
+man find
+find / -print '*sfml*'
+vim .config/i3blocks/blocks/music.sh 
+exit
+man xdotool
+xdotool key
+xdotool key up enter
+xdotool key up_arrow
+man xdotool
+xkeystone 
+xmodmap 
+xmodmap -a
+xmodmap - pk
+xmodmap -pk
+xmodmap -pk | grep up
+xmodmap -pk | grep arrow
+xmodmap -pk | grep -i up
+xdotool key Up
+xdotool key Up Enter
+xdotool key Up enter
+xmodmap -pk | grep -i enter
+xmodmap -pk | grep -i return
+xdotool key Up Return
+echo hello
+echo hello
+echo hello
+echo hello
+echo hello
+echo hello
+man xdotool
+man xdotool
+man xdotool
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+bc
+exit
+vim .config/i3blocks/blocks/timezones.sh 
+exit
+cd .config/
+ls
+cd mpv/
+ls
+la
+ls scripts/
+vim mpv.conf
+cp /usr/share/doc/mpv/mpv.conf.gz .
+ls
+gzip 
+man gzip
+gunzip mpv.conf.gz 
+ls
+vim mpv.conf 
+exit
+cd Downloads/トレント/
+ls
+cd \[TBS\]\ Camellia\ \&\ Nanahira\ -\ GOIN\'\!\ \[CD\ FLAC\]/
+ls
+vim ~/.bash_aliases 
+rl
+cat cover.jpg | cbi
+vim ~/.bash_aliases 
+rl
+cb -t image/jpg -i cover.jpg 
+cb -t image/jpeg -i cover.jpg 
+exit
+mkdir Music/Synced/
+mv Downloads/トレント/* Music/Synced/
+cd Music/Synced/
+cd
+mv Downloads/トレント/* Music/Synced/
+mv Downloads/トレント/* Music/Synced/
+cd Music/
+cd Synced/
+ls
+fs
+fs *
+rf 桃×薦 
+ls
+fs
+syncthing-gtk 
+exit
+vim .config/i3/config
+exit
+cd Music/Synced/
+ls *part
+ls *
+ls * | grep part
+ls
+ls Moe\ Shop\ -\ Moe\ Moe\ \[FLAC\]/
+ls かめりあ\ Camellia\ -\ GALAXY\ BURST\ -\ FLAC\ \[QWCE-90016\]/
+ls 未来茶レコード\ -\ 未来茶屋\ vol.0/
+rf 未来茶レコード\ -\ 未来茶屋\ vol.0/
+ls
+lip
+exit
+cd Downloads/トレント/
+ls
+ls
+la
+cd ..
+cd ..
+cd Music/Synced/
+ls *
+ls * | grep part
+ls
+ls Snail\'s\ House\ -\ Snö/
+rf VP\ FLAC.rar 
+cls
+ls * | grep part
+ls * | grep part
+ls * | grep part
+ls Snail\'s\ House\ -\ Snö/
+mpv Snail\'s\ House\ -\ Snö/05\ -\ Thaw\ \(Interlude\).flac
+mpv Snail\'s\ House\ -\ Snö/05\ -\ Thaw\ \(Interlude\).flac
+ls
+cd Reol/
+ls
+cd Albums/
+ls
+cd \[2018.10.10\]\ -\ Jijitsujou/
+ls
+mpv 10-\ Akibae.flac 
+mpv 11\ -\ Rettou\ Joutou.flac 
+cd ..
+ls
+cd \[2017.10.11\]\ -\ Endless\ EP/
+ls
+mpv 1\ -\ New\ Type\ Tokyo.flac 
+cd ..
+ls
+ls \[2019.03.20\]\ -\ Bunmei\ EP/
+ls \[2018.03.14\]\ -\ Kyokoushuu/
+ls \[2015.07.29\]\ -\ Gokusaishiki/
+mpv \[2015.07.29\]\ -\ Gokusaishiki/16\ -\ Some.flac 
+ls \[2016.10.19\]\ -\ Sigma/
+ls
+ls \[2020.01.22\]\ -\ Kinjitou/
+ls *
+mpv \[2015.07.29\]\ -\ Gokusaishiki/4-\ Suitei\ Yuu\ Hodou.flac -q
+mpv \[2015.07.29\]\ -\ Gokusaishiki/4-\ Suitei\ Yuu\ Hodou.flac
+mpv \[2020.01.22\]\ -\ Kinjitou/2\ -\ HYPE\ MODE.flac 
+mpv \[2019.03.20\]\ -\ Bunmei\ EP/2\ -\ Wanna.flac 
+bg
+fs \[2019.03.20\]\ -\ Bunmei\ EP/2\ -\ Wanna.flac 
+cd ../..
+fs
+ls
+ls | cb
+ls
+cd Aimer/
+cd ..
+cd Moe\ Shop\ -\ Moe\ Moe\ \[FLAC\]/
+ls
+mpv Moe\ Shop\ -\ Moe\ Moe\ -\ 06\ Fantasy\ \(w-\ MONICO\).flac 
+cd ..
+ls
+cd \[UMA-1083\]DECO27\ -\ GHOST/
+ls
+mpv 07.\ Seigi\ no\ Turret\ \(Turret\ of\ Justice\).flac 
+bg
+cd ..
+ls -R *
+time ls -R *
+time find *
+find
+ls
+cd Snail\'s\ House\ -\ Snö/
+ls
+rf *part
+ls
+mpv *flac
+bc
+srv
+cd Documents/repositories/Particle-Life/
+cls
+find -print / '*sfml*'
+find -print '*sfml*' /
+find /* -print '*sfml*'
+find '/*' -print '*sfml*'
+man find
+find '/*' -print -iname '*sfml*'
+find / -print -iname '*sfml*'
+find / -iname '*sfml*'
+sudo find / -iname '*sfml*'
+sudo find / -iname '*sfml*.hpp'
+gcc Main.cpp -o particles.out
+gcc Main.cpp -o particles.out -i /usr/lib/x86_64-linux-gnu/libsfml-graphics.so.2.5.1
+gcc Main.cpp -o particles.out -I /usr/lib/x86_64-linux-gnu/libsfml-graphics.so.2.5.1
+gcc Main.cpp -o particles.out -I /usr/lib/x86_64-linux-gnu/
+vim Universe.h 
+vim Particles.h 
+gcc Main.cpp -o particles.out
+vim Particles.h 
+gcc Main.cpp -o particles.out
+vim Particles.h 
+gcc Main.cpp -o particles.out
+gcc Main.cpp -o particles.out
+ls
+apts libsfml-dev
+apt show libsfml-dev
+apti libsfml-dev
+gcc Main.cpp -o particles.out
+ls
+cd ..
+rf Particle-Life/
+gitc https://github.com/HackerPoet/Particle-Life
+cd Particle-Life/
+gcc Main.cpp -o particles.out
+ls
+la
+cdl
+cd Documents/repositories/
+gitc https://github.com/HackerPoet/PySpace
+cd PySpace/
+ls
+pip install -r requirements.txt 
+p3 ray_marcher_demo.py 
+p3 ray_marcher_demo.py 
+ls
+vim Run.bat 
+p ray_marcher_demo.py 
+ls playback/
+ls pyspace/
+cdl
+pavucontrol 
+vim .config/i3/config
+cl
+apti alsa-tools-gui
+hdajackretask 
+cls
+cl
+playerctl -metadata
+playerctl -a metadata
+playerctl
+playerctl status
+playerctl -a status
+playerctl -a status
+playerctl -a status
+cd .config/i3blocks/blocks/
+./music.sh 
+./music.sh 
+cd ..
+cd ..
+cd i3/
+ls
+vim config
+cd ..
+vim i3blocks/config 
+vim i3/config
+la
+cd ..
+la
+vim .Xresources 
+playerctl -a status
+playerctl -a status | xclip -i -selection clipboard
+playerctl -a status
+cl
+cd Videos/
+ls
+cd youtube/
+ls
+mkdir 2020-03-10
+cd 2020-03-10/
+ls
+youtube-dl 2020-03-10
+youtube-dl https://www.youtube.com/watch?v=pw2JIFcI_Zo
+ls
+mpv Pam\ from\ \'The\ Office\'\ Draws\ You\!\ ASMR-pw2JIFcI_Zo.mkv &
+mpv Pam\ from\ \'The\ Office\'\ Draws\ You\!\ ASMR-pw2JIFcI_Zo.mkv &
+cdl
+cd .config/i3/
+vim config
+cdl
+vim .config/i3/config
+cd Documents/repositories/
+gitc https://notabug.org/sayem314/d-fi
+cd d-fi/
+ls
+node index.js 
+npm start
+chx *sh
+./build.sh 
+npm i d-fi -g
+cdl
+d-fi
+d
+cl
+cd Documents/repositories/d-fi/
+ls
+npm start
+node index.js 
+d-fi
+la
+node d-fi.js 
+cdl
+npm i d-fi -g
+sudo npm i d-fi -g
+d-fi
+cd Downloads/programs/
+debi pmd_3_amd64.deb 
+pmd 
+pmd https://tidal.com/browse/track/105704842
+cl
+cdl
+cd Downloads/トレント/
+ls
+cd Reol/
+ls
+cd Singles/
+ls
+cd \[2018.01.09\]\ -\ Heimenkyou/
+ls
+mpv 1\ -\ Heimenkyou.flac 
+mpv 1\ -\ Heimenkyou.flac 
+ls
+cd ..
+ls
+cd ..
+ls
+cd Albums/
+ls
+cd \[2018.03.14\]\ -\ Kyokoushuu/
+ls
+mpv 3\ -\ Missing.flac 
+mpv *flac
+ls
+cd ..
+ls
+cd \[2019.03.20\]\ -\ Bunmei\ EP/
+ls
+cd ..
+cd [2020
+cd \[2020.01.22\]\ -\ Kinjitou/
+ls
+mpv *flac
+bg
+cdl
+cd Downloads/トレント/
+ls
+cd Reol/
+l
+cd Albums/
+ls
+fg
+bg
+cd ../..
+ls
+cd Moe\ Shop\ -\ Moe\ Moe\ \[FLAC\]/
+ls
+ls
+mpv *flac &
+mpd
+cl
+apti mpd
+mpd 
+cp /etc/mpd.conf ~/.config/mpd/
+sudo cp /etc/mpd.conf ~/.config/mpd/
+mpd
+sudo chown elyshea ~/.config/mpd
+mpd
+sudo chown -r elyshea ~/.config/mpd
+sudo chown -R elyshea ~/.config/mpd
+mpd
+rf ~/.config/mpd/
+ls
+cd ..
+ls
+cd かめりあ\ -\ ふぉーす！/
+ls
+cd 궔귕귟궇\ -\ 귅궒_궥갏/
+ls
+mpv *flac
+bg
+cd ..
+cd ..
+ls
+cd \[TBS\]\ Camellia\ \&\ Nanahira\ -\ GOIN\'\!\ \[CD\ FLAC\]/
+ls
+cd ..
+ls
+cd \[TBS\]\ Camellia\ \&\ Nanahira\ -\ GOIN\'\!\ \[CD\ FLAC\]/
+mpv 05\ インターネットが遅いさん\ \(Super-Slow-Internet-san\).flac 
+ls
+cd ..
+ls
+apts rar
+apts unrar
+apt show unrar
+apt show rar
+apt show rar-free
+apt show unrar-free
+apti unrar-free
+apt show unp
+apti unp
+ls
+unp VP\ FLAC.rar 
+apt show rar
+apt show unrar
+apri unrar
+apti unrar
+unp VP\ FLAC.rar 
+ls
+unp VP\ FLAC.rar 
+ls
+cd バーチャル・ポップスター/
+ls
+mpv 2.\ 好き\!雪\!本気マジック\ feat.\ 初音ミク.flac 
+ls
+cls
+mpv 1.\ 大江戸ジュリアナイト\ feat.\ 初音ミク\ with\ KAITO.flac 
+ls
+mpv 1.\ 大江戸ジュリアナイト\ feat.\ 初音ミク\ with\ KAITO.flac 
+cd ..
+ls
+unp YUC\'e\ -\ Future\ Cαke.7z 
+ls
+mkdir YUC'e\ -\ Future\ Cake
+mkdir YUC\'e\ -\ Future\ Cake
+mv 0* YUC\'e\ -\ Future\ Cake/
+ls
+mv 1* YUC\'e\ -\ Future\ Cake/
+ls
+mv YUC\'e\ -\ Future\ Cαke.jpg 
+mv YUC\'e\ -\ Future\ Cαke.jpg YUC\'e\ -\ Future\ Cake/
+ls
+rf YUC\'e\ -\ Future\ Cαke.7z 
+ls
+mv YUC\'e\ -\ Future\ Cake/ YUC\'e\ -\ Future\ Cαke/
+ls
+cd YUC\'e\ -\ Future\ Cαke/
+ls
+mpv 03\ Night\ Club\ Junkie.mp3 
+cdl
+apts syncthing
+apti syncthing
+apti syncthing-gtk
+man transmission-gtk 
+syncthing
+syncthing-gtk
+vim .config/i3/config
+srv
+srv
+srv
+exit
+srv
+exit
+syncthing
+cd Music/Synced/
+ls
+ls 未来茶レコード\ -\ 未来茶屋\ vol.0/
+rf 未来茶レコード\ -\ 未来茶屋\ vol.0/
+ls
+ls
+rf Aimer/
+ls
+ls 未来茶レコード\ -\ 未来茶屋\ vol.0/
+rf 未来茶レコード\ -\ 未来茶屋\ vol.0/
+ls
+fs
+ls
+ls 未来茶レコード\ -\ 未来茶屋\ vol.0/
+rf 未来茶レコード\ -\ 未来茶屋\ vol.0/
+ls
+mkdir 未来茶レコード\ -\ 未来茶屋\ vol.0
+mv 0* cover.jpg 未来茶レコード\ -\ 未来茶屋\ vol.0/
+ls
+ls
+ls
+ls
+fs
+apts sharetech
+fonttosfnt 
+cdl
+ls
+ls Documents/
+ls Downloads/
+ls Downloads/ -d
+ls Downloads/fonts/
+cd Music/Synced/
+ls
+cd 未来茶レコード\ -\ 未来茶屋\ vol.0/
+ls
+cd ..
+rf 未来茶レコード\ -\ 未来茶屋\ vol.0/
+ls
+ls
+ls 未来茶レコード\ -\ 未来茶屋\ vol.0/
+ls
+mkdir BABYMETAL
+ls
+mv BABYMETAL\ -\ METAL\ GALAXY\ \(Japanese\ Edition\)\ \(2019\)\ \[CD\ FLAC\]/ BABYMETAL
+ls
+mkdir Camellia
+mv Camellia\ -\ PLANET\ SHAPER/ \[TBS\]\ Camellia\ \&\ Nanahira\ -\ GOIN\'\!\ \[CD\ FLAC\]/ かめりあ\ * Camellia
+ls
+mv METAL\ RESISTANCE\ 〜International\ Edition〜/ BABYMETAL/
+ls
+mv ClariS\ \[Hi-Res\]/ ClariS
+ls
+mv Moe\ Shop\ -\ Moe\ Moe\ \[FLAC\]/ Moe\ Shop\ -\ Moe\ Moe/
+ls
+mv \[UMA-1083\]DECO27\ -\ GHOST/ DECO27\ -\ GHOST/
+ls
+mv YUC\'e\ -\ Future\ Cαke/ YUC\'e\ -\ Future\ Cake/
+ls
+mv バーチャル・ポップスター/ "Mitchie M - Virtual Popstar"
+ls
+ls Aimer/
+cls
+iwgetid -r
+exit
+vim
+cl
+exit
+lip
+srv
+srv
+cl
+vim .config/i3blocks/blocks/network.sh 
+cd Documents/work/bca_2020-03/
+ls
+srv
+vpn
+man transmission-gtk 
+man syncthing-gtk
+exit
+vim .config/i3/config
+cl
+vim Documents/work/bca_2020-03/contact_list.txt 
+vim
+man xbacklight 
+xbacklight -inc 40 -time 0
+vim .config/i3/config
+shuf -n 1 Documents/testing/data/words.txt 
+shuf -n 1 Documents/testing/data/words.txt 
+cd Documents/
+mkdir games
+cd games/
+vim miriani_ship_auth
+exit
+telnet toastsoft.net:1234
+tel
+telnet toastsoft.net 1234
+telnet toastsoft.net 1234
+la
+apts mud
+apti mudlet
+mudlet 
+sudo apt remove mudlet --purge
+apts mud
+apt show games-mud
+telnet toastsoft.net 1234
+cl
+vim Documents/games/miriani.sh
+chx Documents/games/miriani.sh 
+vim
+cat roles.txt | cb
+cat roles.txt | cb
+node
+cl
+Documents/games/miriani.sh 
+cl
+vim .config/i3/config
+cl
+killall rofi
+exit
+Documents/games/miriani.sh 
+readline
+cat | rofi -dmenu
+mupdf Documents/school/2020/maths/Selected\ Problems\ Finance\ 2020.pdf 
+ls
+doc2
+mv roles.txt Documents/
+rf Pontes\ Media\ Downloader/
+mupdf Documents/school/2020/maths/FINANCE\ SET\ 1\ worked.pdf 
+mupdf Documents/school/2020/maths/FINANCE\ SET\ 2\ worked.pdf 
+mupdf Documents/school/2020/maths/FINANCE\ SET\ 3\ worked.pdf
+mupdf Documents/school/2020/maths/FINANCE\ SET\ 4\ worked.pdf
+bc
+xwininfo 
+cd Music/Synced/
+ls
+ls Aimer/
+ls Aimer/01.\ Sleepless\ Nights/
+rf Aimer/
+mkdir GARNiDELiA
+htop
+cdl
+srv
+cl
+espeak 'this is a test'
+espeak 'this is a test'
+es 'this is a test'
+exit
+whereis etymology
+which etymology
+etymology 
+etymology you
+trace etymology
+cl
+fzf
+fzf /
+fzf -d /
+cd /
+fzf
+cdl
+ls .bash_plugins/
+vim .bash_plugins/etymology.sh 
+exit
+tpu
+tput
+sr
+:q
+vim .config/i3blocks/blocks/music.sh 
+exit
+playerctl metadata
+playerctl -a metadata
+cl
+playerctl metadata
+playerctl metadata title
+playerctl -a metadata title
+exit
+vim .config/i3blocks/config 
+exit
+xrandr
+exit
+vim .config/i3/config
+exit
+playerctl metadata
+playerctl metadata
+playerctl metadata
+playerctl metadata
+watch playerctl metadata
+watch playerctl -a metadata
+man playerctl
+playerctl -l
+playerctl -l
+playerctl -l
+playerctl -l
+playerctl status
+playerctl status -a
+exit
+vim .config/i3blocks/blocks/music.sh 
+exit
+htop
+playerctl -metadata
+playerctl metadata
+playerctl metadata
+cl
+bc
+vim .bash_aliases 
+vim
+cel channel_guide.txt 
+cel channel_guide.txt > new_channel_guide.txt
+mv new_channel_guide.txt channel_guide.txt 
+vim channel_guide.txt 
+cat channel_guide.txt | cb
+vim channel_guide.txt 
+mv channel_guide.txt Documents/
+ls
+cd Music/Synced/
+ls
+cd Reol/
+ls
+cd Albums/
+ls
+cd \[2016.10.19\]\ -\ Sigma/
+ls
+vlc *
+mpv *
+mpv *
+mpv *
+mpv *
+htop
+cdl
+cd Music/Synced/
+ls
+ls Aimer/
+ls Aimer/01.\ Sleepless\ Nights/
+srv
+st
+exit
+cd Music/Synced/
+ls
+ls Aimer/
+ls Aimer/01.\ Sleepless\ Nights/
+cl
+ls Aimer/01.\ Sleepless\ Nights/
+ls Aimer/02.\ Midnight\ Sun/
+mpv Aimer/02.\ Midnight\ Sun/06\ AM03：00.flac 
+cd Aimer/
+ls
+cd 04.\ Daydream/
+ls
+cd ..
+mpv 04.\ Daydream/06.\ Chouchou\ Musubi.flac 
+htop
+playerctl metadata
+playerctl status
+playerctl metadata
+playerctl metadata
+playerctl metadata
+cdl
+vim .config/i3blocks/blocks/music.sh 
+mpv Music/Synced/Aimer/04.\ Daydream/01.\ insane\ dream.flac 
+cl
+vim .config/i3blocks/blocks/music.sh 
+mpv Music/Synced/Aimer/04.\ Daydream/01.\ insane\ dream.flac 
+vim .config/i3blocks/blocks/music.sh 
+cd Documents/work/bca_2020-03/
+ls
+ls
+mupdf Authorisation\ codes\ for\ Software.doc 
+unoconv Authorisation\ codes\ for\ Software.doc 
+ls
+mupdf Authorisation\ codes\ for\ Software.pdf 
+cd ..
+vim abn.txt
+htop
+htop
+srv
+ls
+mkdir admin
+mv abn.txt Application\ for\ Australian\ business\ number* admin/
+ls
+cdl
+apts spotify
+cl
+apt show vim
+exit
+cl
+apts fusion
+apts fusion360
+atps stl
+apts stl
+apts stl obj
+apti freecad
+freecad Documents/school/2020/robot/modelling\ et\ succ/frantic_kasi.stl 
+bg
+apts blender
+sudo apt update
+apts blender
+neofetch
+apti blender
+blender
+bg
+cd Documents/school/2020/robot/modelling\ et\ succ/
+freecad youre_dead.stl 
+ls
+freecad julian_eeee.obj 
+freecad yes.stl 
+freecad yes.stl 
+freecad yes.stl 
+freecad yes_scaled.stl 
+cp yes_scaled.stl julian_nt.stl
+freecad yes_scaled.stl 
+sudo mpv /dev/video3
+vpn
+srv
+srv
+dd if=Downloads/Win10_1909_EnglishInternational_x64.iso of=/dev/sda1 
+sudo dd if=Downloads/Win10_1909_EnglishInternational_x64.iso of=/dev/sda1 
+sudo dd if=Downloads/Win10_1909_EnglishInternational_x64.iso of=/dev/sda1 --progress=bar
+sudo dd if=Downloads/Win10_1909_EnglishInternational_x64.iso of=/dev/sda1 --status
+sudo dd if=Downloads/Win10_1909_EnglishInternational_x64.iso of=/dev/sda1 --status=bar
+sudo dd if=Downloads/Win10_1909_EnglishInternational_x64.iso of=/dev/sda1 --status=status
+sudo dd if=Downloads/Win10_1909_EnglishInternational_x64.iso of=/dev/sda1 --status=progress
+man dd
+sudo dd if=Downloads/Win10_1909_EnglishInternational_x64.iso of=/dev/sda1 --status=progress
+sudo dd if=Downloads/Win10_1909_EnglishInternational_x64.iso of=/dev/sda1 status=progress
+ls /dev
+sudo dd if=Downloads/Win10_1909_EnglishInternational_x64.iso of=/dev/sda status=progress
+sudo dd if=Downloads/Win10_1909_EnglishInternational_x64.iso of=/dev/sda status=progress
+sudo gpartedbin 
+sudo dd if=Downloads/Win10_1909_EnglishInternational_x64.iso of=/dev/sda status=progress
+fdisk /dev/sda 
+stop
+fg
+exit
+sudo fdisk /dev/sda
+sudo fdisk /dev/sda
+sudo gpartedbin
+sudo gparted
+sudo gparted
+sudo su
+ls /mnt
+mount /dev/sda /mnt/usb
+sudo mount /dev/sda /mnt/usb
+sudo gparted
+ls /dev
+ls /dev
+ls /dev
+ls /dev
+ls /dev
+ls /dev/bsg
+sudo mount /dev/sg0 /mnt/usb/
+sudo mount /dev/sda
+fdisk /dev/sda
+cl
+ls
+cl
+ls /dev
+fdisk /dev/sda
+cl
+fdisk /dev/sda
+ls /dev
+reboot
+ls /dev
+ls /dev
+sudo mount /dev/sda /mnt/usb
+ls /mnt/usb
+fdisk -l /dev/sda
+sudo fdisk -l /dev/sda
+sudo gparted
+sudo mount /dev/sda /mnt/usb
+sudo mount /dev/sda1 /mnt/usb
+ls /mnt/usb
+ls Downloads/programs/
+sudo chown elyshea /mnt/usb
+sudo su
+fwupdmgr 
+fwupdmgr install Downloads/XPS_13_9365_2_10_0.exe 
+fwupdmgr update
+sudo fwupdmgr update
+fwupdmgr get-approved-firmware 
+fwupdmgr get-updates 
+fwupdmgr update
+sudo umount /mnt/usb
+crontab -e
+man cron
+man crontab
+srv
+exit
+crontab -e
+cd Documents/repositories/
+gitc https://github.com/harizgithub/VIP-Lounge-Website
+cd VIP-Lounge-Website/
+ls
+cd pages/
+ls
+vim index.vue 
+git pull
+cdl
+cd Documents/
+cp 192.168.1.51:/home/elyshea/website/site-server.js
+cp 192.168.1.51:/home/elyshea/website/smallhttp.js
+ls
+cp 192.168.1.51:/home/elyshea/website/smallhttp.js smallhttp.js
+cp 192.168.1.51:/home/elyshea/website/site-server.js site-server.js
+apt show yarn
+apts yar
+apts yarn
+apt show yarnpkg
+cdl
+vim .bashrc
+echo *
+rl
+echo *
+exit
+exit
+weather
+.config/i3blocks/blocks/temp.sh 
+bc
+:q
+echo *
+cl
+vim .xinputrc 
+ls
+la
+vim .XCompose 
+vim .config/i3blocks/config 
+vim .XCompose 
+vim .XCompose 
+la
+cl
+la
+vim .XCompose 
+vim .XCompose 
+vim .XCompose 
+vim .XCompose 
+vim .config/i3/config
+pamixer 
+apts pulsemixer
+apti pulsemixer
+pamixer
+pulsemixer
+pulsemixer --help
+lip
+exit
+mpv Music/what.flac 
+exit
+rf Music/what.flac 
+exit
+vpn
+srv
+apt upgrade
+sudo apt upgrade
+cd Documents/school/
+ls
+ls ~/Documents/pdf/
+ls ~/Documents/pdf/textbooks/
+mupdf ~/Documents/pdf/textbooks/Mirai\ stage\ 1\ coursebook.pdf 
+screen
+sudo apt upgrade syncthing
+cd Downloads/programs/
+tar xvf syncthing-linux-amd64-v1.4.0.tar.gz
+ls
+cd syncthing-linux-amd64-v1.4.0/
+ls
+vim README.txt 
+make install
+cdl
+curl -s https://syncthing.net/release-key.txt | sudo apt-key add -
+echo "deb https://apt.syncthing.net/ syncthing stable" | sudo tee /etc/apt/sources.list.d/syncthing.list
+sudo apt update
+sudo apt upgrade syncthing
+sudo apt install syncthing
+syncthing-gtk &
+reboot
+ls /dev
+freecad Documents/school/2020/robot/modelling\ et\ succ/julian_nt.stl 
+bg
+apti slic3r_prusa
+apti slic3r-prusa
+apti slic3r
+apt show slic3r-prusa
+apt show slic3r
+apt show slic3r-prusa
+apt show slic3r
+cd Downloads/programs/
+wget https://github.com/prusa3d/PrusaSlicer/releases/download/version_2.2.0/PrusaSlicer-2.2.0+linux-x64-202003211856.AppImage
+cht appimage
+chx PrusaSlicer-2.2.0+linux-x64-202003211856.AppImage 
+./PrusaSlicer-2.2.0+linux-x64-202003211856.AppImage 
+./PrusaSlicer-2.2.0+linux-x64-202003211856.AppImage 
+bg
+ls
+cdl
+fs Documents/school/2020/robot/modelling\ et\ succ/sharp_1.stl 
+fs Documents/school/2020/robot/modelling\ et\ succ/julian_nt.stl 
+fs Documents/school/2020/robot/modelling\ et\ succ/julian_nt.gcode 
+Downloads/programs/PrusaSlicer-2.2.0+linux-x64-202003211856.AppImage 
+cl
+vpn
+man cut
+vim Documents/repositories/yogsoy_configs_scripts/configs/i3blocks/blocks/temp.sh 
+exit
+vim .config/i3blocks/blocks/temp.sh 
+.config/i3blocks/blocks/temp.sh 
+time .config/i3blocks/blocks/temp.sh 
+time Documents/repositories/yogsoy_configs_scripts/configs/i3blocks/blocks/temp.sh 
+cl
+vim .XCompose 
+cl
+playerctl
+playerctl metadata
+playerctl status
+apts instagram
+c
+bc
+chx Downloads/programs/IGdm-2.8.1-x86_64.AppImage 
+Downloads/programs/IGdm-2.8.1-x86_64.AppImage 
+Downloads/programs/IGdm-2.8.1-x86_64.AppImage 
+Downloads/programs/IGdm-2.8.1-x86_64.AppImage 
+Downloads/programs/IGdm-2.8.1-x86_64.AppImage 
+exit
+bc
+xclip -selection clipboard -t TARGETS -o
+xclip -selection clipboard -t TARGETS -o
+xclip -selection clipboard -t image/png -o > image1.png
+xclip -selection clipboard -t image/jpg -o > image1.jpg
+gimp image1.png 
+rf image1.*
+ls
+d-fi 
+rf d-fi.log 
+ls
+vim MOK.der 
+vim MOK.priv 
+vim package-lock.json 
+fs package-lock.json 
+rf package-lock.json 
+srv
+cd Music/Synced/
+ls
+mpv RADWIMPS/君の名は。/08\ 前前前世\ \(movie\ ver.\).flac 
+mpv RADWIMPS/君の名は。/08\ 前前前世\ \(movie\ ver.\).flac 
+ls
+mpv GARNiDELiA/Linkage\ Ring/11.\ grilletto.flac 
+ls
+mpv TrySail/\[2015.05.13\]\ TrySail｜Youthful\ Dreamer/01.\ Youthful\ Dreamer.flac 
+ls
+ls TrySail/\[2016.05.11\]\ TrySail｜High\ Free\ Spirits/
+ls TrySail/\[2017.08.23\]\ TrySail｜TAILWIND/
+mpv TrySail/\[2017.08.23\]\ TrySail｜TAILWIND/02.\ adrenaline\!\!\!.flac 
+mpv ClariS/\[2017.04.26\]\ Hitorigoto/01\ ヒトリゴト.flac
+mpv ClariS/\[2017.04.26\]\ Hitorigoto/01\ ヒトリゴト.flac
+ls BABYMETAL/
+mpv BABYMETAL/BABYMETAL/03.\ ギミチョコ！！.flac 
+ls
+mpv BABYMETAL/BABYMETAL/02
+mpv BABYMETAL/BABYMETAL/02.\ メギツネ.flac 
+mpv Chito\,\ Yuuri\ -\ More\ One\ Night/01\ More\ One\ Night.flac 
+sl
+ls
+mpv STEREO\ DIVE\ FOUNDATION\ -\ Genesis/01.\ Genesis.flac 
+srv
+mount /dev/sda1 /mnt/usb/
+sudo mount /dev/sda1 /mnt/usb/
+ls /mnt/usb
+umount /mnt/usb
+sudo umount /mnt/usb
+sudo mount /dev/sda1 /mnt/usb/
+ls /mnt/usb
+vim /mnt/usb/product_key.txt
+sudo vim /mnt/usb/product_key.txt
+sudo umount /mnt/usb
+weather
+cd .config/i3blocks/blocks/
+ls
+./*
+./* &
+fg
+ls
+./battery.sh
+./brightness.sh 
+./cpu.sh 
+./mem.sh 
+./music.sh 
+./network.sh 
+./temp.sh 
+./temp.sh 
+./temp.sh 
+ping wttr.in -c 1
+ping wttr.in -c 1 &>/dev/null
+exit
+htop
+killall discord-canary
+cd Downloads/programs/
+debi Immersed_amd64.deb 
+debi Immersed_amd64.deb 
+debi Immersed_amd64.deb  --install
+apti libva-dev
+sudo apt --fix-broken install
+debi Immersed_amd64.deb
+Immersed 
+Immersed 
+Immersed --help
+Immersed -h
+sudo apt remove --purge Immersed
+sudo apt list immersed
+sudo apt remove --purge immersed
+debi Immersed_amd64.deb 
+Immersed 
+sudo Immersed 
+Immersed 
+Immersed 
+Immersed 
+Immersed 
+sudo killall immersed
+sudo killall Immersed
+Immersed 
+Immersed
+man immersed
+man Immersed
+sudo Immersed 
+Immersed
+reboot
+ls
+la
+Immersed 
+cl
+ls Downloads/
+ls Downloads/*.zip
+unzip -l Downloads/drive-download-20200324T004638Z-001.zip 
+cd Downloads/
+unzip drive-download-20200324T004638Z-001.zip 
+ls
+ls *.rar
+unrar
+man unrar
+ls *rar
+man unrar
+unrar x kanken\ DS\ 2\ +\ jouyou\ kanji\ jiten\ -\ Kanji\ Test\ DS\ 2\ +\ Joyo\ Kanji\ Dictionary.rar 
+unrar x kotoba\ no\ pazuru\ moji\ pittan\ DS.rar 
+ls
+ls *nds
+cd 0903_Kotoba_no_Puzzle_Mojipittan_DS_JPN_NDS-2CH/
+ls
+unzip 2ch-moji.zip 
+ls
+rf yes 
+ls
+cp 2ch-moji.nds /mnt/sd/NDS\ Games/
+sudo cp 2ch-moji.nds /mnt/sd/NDS\ Games/
+exit
+vim Downloads/some.json 
+rf Downloads/some.json 
+cl
+ls Music/
+cd Music/
+cls
+mpv again\'t.wav 
+mpv 2019.mp3 
+mpv 2019.mp3 
+mpv im\ so\ sad\ adriennes\ gonna\ hate\ me.wav 
+ls
+mpc doublefart_long.wav 
+mpv doublefart_long.wav 
+mpv nicemessage.wav 
+cl
+cls
+mpv mypeefive.mp3 
+aplay mypeefive.mp3 
+mpv recaman.mp3 
+ls
+mpv wtnt.mp3 
+ls
+mpv someshit.mp3 
+ls
+mpv padowo\ padowo.mp3 
+mpv padadowo.mp3 
+mpv stutsutsututu.mp3 
+ls
+ls sounds/
+mpv sounds/doing\ my\ best\ never\ seems\ to\ be\ enough.mp3 
+mpv sounds/battery_low.mp3 
+cls
+mpv thing\ for\ convention\ 2019.wav 
+mpv wiuergiurgfwiuefweiufhweiufhweiuetwdjefegregbergberbguerrgburgueubg.wav 
+mpv doorbell2.wav 
+cdl
+ls /dev/
+sudo mount /dev/mmcblk0p1 /mnt/sd/
+ls /mnt/sd
+ls /mnt/sd/NDS\ Games/
+cdl
+sudo umount /mnt/sd
+cl
+htop
+man unoconv
+mupdf Documents/school/2020/maths/03\ -\ Finance\ Assignment\ 3\ 2020.pdf 
+mupdf Documents/school/2020/maths/03\ -\ Finance\ Assignment\ 3\ 2020.pdf &
+es "this is a very long string of text"
+cat Documents/testing/data/beem2.txt | es
+cl
+cl
+killall discord-canary
+xwininfo 
+xwininfo 
+telnet ethanus.ml 4382
+telnet ethanus.ml 4382
+telnet ethanus.ml 4382
+mupdf Documents/school/2020/maths/03\ -\ Finance\ Assignment\ 3\ 2020.pdf &
+cd Documents/school/2020/maths/
+uconv 1.\ Finance\ -\ Entire\ Powerpoint\ \(L1\ 2020\).pptx 
+iconv 1.\ Finance\ -\ Entire\ Powerpoint\ \(L1\ 2020\).pptx 
+iconv
+man iconv
+unoconv 1.\ Finance\ -\ Entire\ Powerpoint\ \(L1\ 2020\).pptx 
+unoconv 1.\ Finance\ -\ Entire\ Powerpoint\ \(L1\ 2020\).pptx powerpoint.pdf
+ls
+unoconv 1.\ Finance\ -\ Entire\ Powerpoint\ \(L1\ 2020\).pptx -v
+unoconv -v 1.\ Finance\ -\ Entire\ Powerpoint\ \(L1\ 2020\).pptx
+unoconv -vvv 1.\ Finance\ -\ Entire\ Powerpoint\ \(L1\ 2020\).pptx
+apt show libreoffice
+ppt2odp 1.\ Finance\ -\ Entire\ Powerpoint\ \(L1\ 2020\).pptx 
+cl
+cdls
+cl
+chx Downloads/programs/UnityHub.AppImage 
+Downloads/programs/UnityHub.AppImage 
+Downloads/programs/UnityHub.AppImage 
+playerctl metadata
+vim .XCompose 
+cl
+rofi -show run
+rofi -show window
+rofi -show drun
+rofi -show combi
+exit
+Downloads/programs/SideQuest-0.7.6/sidequest 
+bg
+exit
+debi Downloads/discord\ updates/discord-canary-0.0.103.deb 
+cl
+htop
+apt show apport
+htop
+apts dmenu
+man rofi
+cd Documents/repositories/
+gitc https://github.com/madmagic007/Oculus-Quest-Presence
+cd Oculus-Quest-Presence/
+ls
+fs
+ls android/
+sudo su
+ls
+ls pc/
+cd pc/
+chx Oculus\ Quest\ Discord\ RPC.jar 
+./Oculus\ Quest\ Discord\ RPC.jar 
+cl
+cdl
+cl
+playerctl metadata
+playerctl -a metadata
+ls
+cd Videos/
+ls
+ls quest/
+ls quest/VideoShots/
+cdl
+cat Documents/work/admin/abn.txt 
+cat Documents/work/admin/abn.txt | cb
+cl
+st
+cl
+sl
+cl
+vim Documents/testing/data/beem2.txt 
+cl
+i can try and pull up the quest screen on my laptop and make it live
+adb tcip 5555
+adb tcpip 5555
+sudo su
+eixt
+exit
+exit
+adb connect 192.168.1.24:5555
+scrcpy -p 5555 -c 1600:1200:0:200
+adb shell
+adb connect 192.168.1.24:5555
+adb shell
+sudo su
+cl
+ls
+cl
+adb devices
+adb shell
+scrcpy -p 5555 -c 1600:1200:0:200
+adb tcpip 5555
+adb shell ip route
+adb connect 192.168.1.24:5555
+scrcpy -p 5555 -c 1600:1200:0:200
+scrcpy -p 5555 -c 1600:1200:0:200
+sudo su
+sudo su
+scrcpy -p 5555 -c 1600:1200:0:200
+cl
+apts leapcast
+apts chromecast
+Downloads/programs/SideQuest-0.7.6/sidequest 
+es a3mplafe
+npm show robotjs
+cl
+cd Downloads/
+ls
+ls *mid
+echo $PATH
+fluidsynth canyon.mid
+apts midi --installed
+apts midi
+apt list
+apt list | midi
+apt list | grep midi
+playmidi canyon.mid
+wildmidi canyon.mid
+cd Documents/c++
+ls
+ls compiled/
+cd compiled/
+cls
+./aesthetic 
+vim ../aesthetic1.cpp 
+vim ../aesthetic.cpp 
+./primes
+ls
+./cunt 
+./cunt he
+cls
+./arguments yes no maybe so
+./rng 
+./rng 
+./rng 
+./rng 
+./rng 
+./rng 
+./rng 
+./rng 
+./rng 
+./rng 
+./rng 
+./rng 
+./rng 
+./rng 
+./rng 
+./rng 
+./rng 
+./rng 
+./rng 
+./rng 
+./rng 
+./rng 
+./rng 
+./rng 
+./rng 
+./rng 
+./rng 
+./rng 
+./rng 
+./rng 
+./rng 
+./rng 
+./rng 
+./rng 
+./rng 
+vim ../rng.cpp
+ls
+cls
+cdl
+cd Documents/
+cd testing/projects/
+ls
+cd sonos/
+ls
+vim gui_now_playing.py 
+vim sonos.py 
+cdl
+la
+vim .xscreensaver 
+xscreensaver
+cl
+cat Documents/work/admin/abn.txt 
+htop
+xwininfo 
+exit
+xwininfo
+vim .config/i3/config
+adb devices
+adb devices
+adb devices
+adb devices
+adb devices
+adb devices
+adb devices
+adb devices
+sudo adb kill-server
+sudo adb start-server
+adb devices
+cd Downloads/quest/apps/
+ls
+adb install minecraft-gear-vr-edition-apk-v1.14.0.6.apk 
+adb install ClimbeyDemo.apk 
+cd ..
+cd ..
+programs/SideQuest-0.7.6/sidequest 
+cdl
+vim .XCompose 
+apts zoom
+zoom 
+bg
+cl
+fg
+cl
+vim .config/i3blocks/blocks/temp.sh 
+man tr
+vim .config/i3blocks/blocks/temp.sh 
+ssh bca.org.au
+ssh bcaorgau@bca.org.au
+ssh root@bca.org.au
+ls /etc
+ssh @bca.org.au
+ls /etc/ftpusers 
+ssh bcaorgau@bca.org.au
+vim Downloads/.bashrc 
+rf Downloads/.bashrc 
+vim Downloads/.bash_history 
+rf Downloads/.bash_history 
+vim Downloads/.bash_profile 
+rf Downloads/.bash_profile 
+vim Downloads/.bash_logout 
+rf Downloads/.bash_logout 
+vim Downloads/.contactemail 
+rf Downloads/.contactemail 
+vim Downloads/.lastlogin 
+rf Downloads/.lastlogin 
+vim Downloads/index.php 
+rf Downloads/index.php 
+vim Downloads/access-logs 
+rf Downloads/access-logs 
+vim .bash_aliases 
+vim .bash_aliases 
+rl
+zoom
+vim .bash_aliases 
+rl
+htop
+apt show zoom
+apt upgrade zoom
+sudo apt upgrade zoom
+zoom
+debi Downloads/programs/zoom_amd64.deb 
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+ping 192.168.1.51
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+ping 192.168.1.51
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+ping 192.168.1.51
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+srv
+apts android
+apts anbox
+apti anbox
+man anbox
+anbox 
+anbox session-manager
+anbox 
+anbox session-manager
+anbox check-features
+anbox launch
+sudo anbox session-manager
+man exec
+alias $ =""
+alias $=""
+vim .config/i3/config
+vim .config/i3/config
+$
+$ yes
+sudo add-apt-repository ppa:morphis/anbox-support
+sudo apt update
+sudo apt install linux-headers-generic anbox-modules-dkms
+sudo add-apt-repository ppa:morphis/anbox-support
+sudo apt update
+sudo apt install linux-headers-generic anbox-modules-dkms
+apts anbox
+sudo apt upgrade anbox
+cl
+sudo add-apt-repository ppa:morphis/anbox-support
+sudo apt update
+sudo apt install linux-headers-generic anbox-modules-dkms
+sudo apt upgrade anbox
+anbox 
+anbox session-manager
+sudo anbox session-manager
+sudo modprobe ashmem_linux
+sudo modprobe binder_linux
+apts andro
+apts andro | grep ^a
+snap install --devmode --beta anbox
+sudo snap install --devmode --beta anbox
+anbox
+anbox session-manager
+sudo apt remove --purge anbox
+anbox
+sudo snap install --devmode --beta anbox
+snap refresh anbox
+sudo snap refresh anbox
+anbox
+rl
+anbox
+anbox session-manager
+screen
+screen
+cl
+screen
+screen
+cd Downloads/programs/
+unzip vladikoff-archon-e3c9b322402a.zip -d archon
+rf archon/
+rf vladikoff-archon-e3c9b322402a.zip 
+cdl
+apts andy
+apts andy | grep '^andy' -A 5
+apts andy | grep '^andy'
+apts andy | grep '^a'
+apt show ascii
+anbox.appmgr 
+htop
+pulseaudio -r
+pulseaudio --help
+apt show google-chrome
+debi Downloads/programs/google-chrome-stable_current_amd64\ \(1\).deb 
+bc
+htop
+baobab 
+cd Downloads/android/
+adb devices
+adb devices
+sudo adb kill-server
+sudo adb start-server
+adb devices
+adb install activity_launcher.apk 
+adb
+adb shell screencap -p /sdcard/screenshot,png
+adb pull /sdcard/screenshot.png
+adb pull /sdcard/screenshot.png
+adb pull /sdcard/screenshot,png
+ls
+mv screenshot,png screenshot.png 
+adb shell rm /sdcard/screenshot,png
+adb shell
+adb pull /sdcard/screenshot.png
+adb pull /sdcard/screenshot.png
+adb pull /sdcard/screenshot.png
+rf screenshot.png 
+ls
+cd Downloads/android/
+ls
+fs screenshot.png 
+rf screenshot.png 
+exit
+exit
+Downloads/programs/SideQuest-0.7.6/sidequest 
+adb devices
+adb shell
+cdl
+nload
+la
+cls -a
+vim .dmrc
+sudo mount /dev/mmcblk0p1 /mnt/sd
+sudo su
+Downloads/programs/SideQuest-0.7.6/sidequest &
+sudo su
+cl
+grep fs .bash_aliases 
+adb shell
+adb shell
+sudo su
+adb shell
+cd Downloads/quest/beatsaber/
+ls
+cd mods/
+ls
+mkdir 2020-04-11
+cd 2020-04-11/
+wget 2020-04-11
+wget https://github.com/BSMGPink/BSMGPink/raw/master/BurnMarksMod.zip
+wget https://github.com/RedBrumbler/BMBFCustomSabers/raw/master/BeatSaberLogos/RedBrumbler's%20BeatSaberLogos/FuckMyArmsV1.0.0.zip
+wget https://github.com/RedBrumbler/BMBFCustomSabers/raw/master/BeatSaberLogos/RedBrumbler\'s%20BeatSaberLogos/FuckMyArmsV1.0.0.zip
+wget https://github.com/BSMGPink/BSMGPink/raw/master/ChromaLite.zip
+cd ../../sabers/
+ls
+unzip motoko-elucidator.zip 
+ls
+rf Cover.png SaberBlade.dat SaberGlowingEdges.dat SaberHandle.dat bmbfmod.json 
+ls
+adb shell
+cl
+xmodmap -a
+xmodmap -pke
+xmodmap -pke | grep slash
+man xcompose
+man fcitx
+man pkill
+man fcitx
+pgrep virtual
+exit
+rf Documents/repositories/darling/build/
+rf Documents/repositories/elmo-core/
+rf .local/share/Trash/
+neofetch
+cl
+ls /mnt
+ls /snap/
+cl
+vim .config/i3/config
+cl
+ls /lib
+ls /lib/cpp 
+ls /lib/brltty/
+cl
+which spongebird 
+which ls
+ldd
+ldd /usr/bin/spongebird 
+sponge
+man sponge
+vim .XCompose 
+figlet piŋ
+figlet pin
+figlet 'p i n'
+figlet 'p i n' | cb
+figlet 'have you heard of hatsuŋe miku?'
+figlet 'have you heard of hatsuŋe miku?' | cb
+figlet 'toki pono'
+figlet 'toki pono' | cb
+vim Documents/repositories/yogsoy_configs_scripts/backup.sh 
+Documents/repositories/yogsoy_configs_scripts/backup.sh 
+cd Documents/repositories/yogsoy_configs_scripts/
+./backup.sh 
+cdl
+vim .XCompose 
+vim .XCompose 
+vim .XCompose 
+fcitx-autostart 
+vim .XCompose 
+htop
+vim .XCompose 
+vim .XCompose 
+la
+man xcompose
+cl
+cd Documents/repositories/
+gitc https://bitbucket.org/mtreeves808/elmo-core/
+cd elmo-core/
+ls
+cd Sound/
+ls
+cd Misc/
+ls
+mpv UK.mp3 
+mpv Demoney.mp3 
+cd ..
+ls
+cd Asian/
+ls
+mpv Assembly\ Line.mp3 
+mpv Iphones.mp3 
+mpv Puppet.mp3 
+cd ..
+ls
+cd Black/
+ls
+mpv black.wav 
+cd ..
+ls
+ls Hispanic/
+mpv Hispanic/hispanic.wav 
+mpv Other/No\ idea.mp3 
+mpv Other/What.mp3 
+mpv White/white\ meth.wav 
+mpv White/white\ south.wav 
+ls
+cd ..
+ls
+ls out/
+ls out/production/
+ls out/production/CvBoi/
+ls out/production/CvBoi/application/
+ls Resource/
+iv Resource/me.jpg 
+iv Resource/me.jpg 
+ls img/
+iv img
+cdl
+vim .XCompose 
+ŋode
+node
+baobab 
+vim .XCompose 
+vim ipa_xcompose 
+vim .XCompose 
+cd Music/
+ls
+cd Synced/
+ls
+cls
+cd Reol/
+ls
+cd siŋg
+cd Singles/ls
+cd Singles/
+ls
+cd ..
+ls
+cd Albums/
+ls
+cd \[2015.07.29\]\ -\ Gokusaishiki/
+ls
+mpv 10\ -\ Ra・Tatan\ .flac 
+mpv 16\ -\ Some.flac 
+cls
+mpv 8\ -\ Mede-mede.flac 
+mpv 7\ -\ Orderly.flac 
+cd ..
+ls
+ls \[2014.08.20\]\ -\ No\ title-/
+cd ..
+cd ..
+ls
+cls
+cdl
+cd Downloads/programs/
+ls
+./UnityHub.AppImage 
+bg
+htop
+sudo su
+cl
+fg
+cl
+cdl
+vim .XCompose 
+vim .XCompose 
+vim Documents/sca2_toki_pona.txt 
+fs Documents/sca2_toki_pona.txt 
+cc Documents/sca2_toki_pona.txt 
+man i3blocks
+vim Documents/mem.bin 
+rf Documents/mem.bin 
+cl
+vim Documents/mem.bin 
+rf Documents/mem.bin 
+vim Documents/phone_info.txt
+sudo mount /dev/mmcblk0p1 /mnt/sd/
+cd /mnt/sd/
+ls
+cp ~/Downloads/android/N960F_DS_N_PIE_Root_for_OEM_issue_devices_V5.zip ./
+ls
+cdl
+sudo umount /mnt/sd
+ls Desktop/
+vim Documents/discord_backup_codes.txt 
+cd Documents/testing/projects/sonos/
+vim now_playing.py 
+apts ncurses
+apts ncurses | grep ^n -A1
+ncurses
+ncurses6-config 
+ncurses6-config --prefix
+exit
+cd Documents/testing/projects/
+ls
+cd sensibo_api/
+ls
+./sensibo.sh 
+./sensibo.sh 
+cd ..
+ls
+ls ncatting/
+ls sonos/
+cd sonos/
+ls
+p3 play_fart.py 
+vim play_fart.py 
+p3 play_fart.py 
+vim play_fart.py
+p3 play_fart.py 
+p3 play_fart.py 
+vim play_fart.py
+p3 play_fart.py 
+vim play_fart.py
+p3 play_fart.py 
+p3 play_fart.py 
+p3 play_fart.py 
+p3 play_fart.py 
+p3 play_fart.py 
+ls
+vim now_playing.py 
+p3 now_playing.py 
+vim now_playing.py 
+ls
+p3 gui
+p3 gui_now_playing.py 
+ls
+la
+vim sonos.py 
+p3 sonos.py 
+vim sonos.py 
+p3 sonos.py 
+p3 now_playing.py 
+p3 now_playing.py 
+p3 now_playing.py 
+cdl
+grep tset .bash_aliases 
+grep t .bash_aliases 
+grep xc .bash_aliases 
+cl
+grep xc .bash_aliases 
+apts ncurses | grep ^nc
+apts ncurses | grep ^ncur
+apti ncurses*
+demo_tabs
+rl
+man tr
+txt2regex 
+cl
+exit
+ping wttr.in -c 1
+ping wttr.in -c 1 || echo e
+ping wttr.in -c 1 && echo e
+exit
+cd .config/i3blocks/blocks/
+./temp.sh 
+cat temp.sh 
+curl 'wttr.in/?format=3'
+curl 'wttr.in?format=3'
+curl 'wttr.in'
+curl 'wttr.in/?format=3'
+curl 'wttr.in/?format=3' | awk '{print $NF}'
+curl 'wttr.in/?format=3' 2>/dev/null | awk '{print $NF}'
+curl 'wttr.in/?format=3' 2>/dev/null | awk '{print $NF}' | tr -d -c '0123456789.+-°C'
+curl 'wttr.in/?format=3' 2>/dev/null | awk '{print $NF}' | tr -cd '0123456789.+-°C'
+curl 'wttr.in/?format=3' 2>/dev/null | awk '{print $NF}' | tr -c -dd '0123456789.+-°C'
+curl 'wttr.in/?format=3' 2>/dev/null | awk '{print $NF}' | tr -c -d '0123456789.+-°C'
+cl
+curl 'wttr.in/?format=3' 2>/dev/null | awk '{print $NF}' | tr -c -d '0123456789.+-°C'
+curl 'wttr.in/?format=3' 2>/dev/null | awk '{print $NF}' | egrep -o '[-+][0-9]+°C'
+curl 'wttr.in/?format=3' | awk '{print $NF}' | egrep -o '[-+][0-9]+°C'
+curl 'wttr.in?format=3' | awk '{print $NF}' | egrep -o '[-+][0-9]+°C'
+vim temp.sh 
+exit
+txt2regex 
+vim /usr/bin/txt2regex 
+cl
+exit
+demo_tabs
+colormgr 
+man ncurses-example
+man ncurses-examples
+man ncurses
+cd Documents/testing/code/
+ls
+cd tests/
+ls
+mkdir ncurses
+cd ncurses/
+vim test.cpp
+mv test.cpp test.c
+vim test.c 
+mv test.c test.cpp
+vim test.cpp
+cd Documents/testing/code/tests/ncurses/
+ls
+gcc test.cpp -o test
+gcc test.cpp -o test
+gcc test.c -o test
+gcc test.c -o test
+ls
+gcc test.c -o test
+gcc test.c -o test
+gcc test.c -o test
+gcc test.cpp -o test
+gcc test.cpp -o test
+gcc test.cpp -o test
+apti ncurses
+apts ncurses | grep ^ncurses -A1
+g++ test.cpp -o test
+ls
+g++ -1ncurses test.cpp -o test
+g++ -lncurses test.cpp -o test
+ls
+g++ -lncurses test.cpp -o test
+apti g++
+sudo apt autoremove
+g++ -lncurses test.cpp -o test
+g++ test.cpp -o test -lncurses
+ls
+./test 
+./test 
+g++ test.cpp -o test -lncurses
+g++ test.cpp -o test -lncurses
+g++ test.cpp -o test -lncurses
+g++ test.cpp -o test -lncurses
+g++ test.cpp -o test -lncurses
+g++ test.cpp -o test -lncurses
+g++ test.cpp -o test -lncurses
+g++ test.cpp -o test -lncurses
+g++ test.cpp -o test -lncurses
+g++ test.cpp -o test -lncurses
+ls
+./test 
+g++ test.cpp -o test -lncurses
+./test 
+g++ test.cpp -o test -lncurses
+./test 
+g++ test.cpp -o test -lncurses
+./test 
+la
+rf .test.cpp.swp 
+g++ test.cpp -o test -lncurses
+./test 
+./test 
+./test 
+g++ test.cpp -o test -lncurses
+./test 
+la
+g++ test.cpp -o test -lncurses
+./test 
+g++ test.cpp -o test -lncurses
+g++ test.cpp -o test -lncurses
+./test 
+g++ test.cpp -o test -lncurses
+./test 
+g++ test.cpp -o test -lncurses
+./test 
+g++ test.cpp -o test -lncurses
+./test 
+sl
+cl
+cd Documents/
+ls
+cd ..
+cd Downloads/
+ls
+ls quest/
+ls quest/beatsaber/
+ls quest/beatsaber/songs/
+ls shrek
+ls shrek/Shrek\ -\ Dreamworks\ ~\ Map\ by\ KingPeuche/
+fs shrek/Shrek\ -\ Dreamworks\ ~\ Map\ by\ KingPeuche/
+fs ShrekSaberFull.zip 
+cd shrek/
+ls
+cd Shrek\ -\ Dreamworks\ ~\ Map\ by\ KingPeuche/
+ls
+iv Cover.jpg 
+mpv Kami\ Gladich\ Voiceover\ -\ Shrek\ Map\ Audio.egg 
+vim Easy.dat 
+vim info.dat 
+cdl
+sudo mount /dev/sda1 /mnt/usb/
+cd /mnt/usb/
+curl http://www.giftworkslive.com/downloads/giftworks/v2015/giftworks_2015.exe
+cdl
+vim .XCompose 
+man dunst
+dunst -print
+killall dunst
+dunst -print
+man dunst
+cl
+ns hello
+ns hello
+ns hello
+ns hello
+ns hello
+ns hello
+ns hello
+ns hello
+ns hello
+ns hello
+ns hello
+ns 'This is a <b>big</b> notification.'
+ns 'This is a big notification.'
+ns 'This is a big notification.'
+ns 'This is a big notification.'
+ns 'This is a big notification.'
+ns 'This is a big notification.'
+vim .config/i3/config
+ns 'This is a big notification.'
+ns 'This is a big notification.'
+ns 'This is a big notification.'
+vim .config/i3/config
+ns 'This is a big notification.'
+ns 'This is a big notification.'
+ns 'This is a big notification.'
+ns 'This is a big notification.'
+ns 'This is a big notification.'
+ns 'This is a big notification.'
+ns 'This is a big notificationf.'
+ns 'This is a big notificationf.w'
+ns 'This is a big notificationf.wdw'
+ns 'This is a big notificationf.wdw'
+ns 'This is a big notificationf.wdw'
+ns 'This is a big notificationf.wdw'
+ns 'This is a big notificationf.wdw'
+ns 'This is a big notificationf.w'
+ns 'This is a big notificationf.w'
+ns 'This is a big notificationf.wdw'
+ns 'This is a big notificationf.'
+ns 'This is a big notificationf.'
+ns 'This is a big notificationf.wdw'
+ns 'This is a big notificationf.w'
+ns 'This is a big notificationf.w'
+ns 'This is a big notificationf.w'
+ns 'This is a big notificationf.wdw'
+ns 'This is a big notificationf.wdw'
+ns 'This is a big notificationf.w'
+ns 'This is a big notificationf.w'
+ns 'This is a big notificationf.wdw'
+ns 'This is a big notificatio'
+ns 'This is a big notificatio'
+ns 'This is a big notificationf.wdw'
+sudo umount /mnt/usb
+exit
+xmodmap --help
+xmodmap -pke
+xmodmap -pke | grep question
+xmodmap -pke | grep -i question
+vim .config/i3/config
+ns hello
+vim .config/i3/config
+dunst
+bg
+ns hello\!
+gzip
+gzip -h
+gzip -d /usr/share/doc/dunst/dunstrc.gz 
+sudo gzip -d /usr/share/doc/dunst/dunstrc.gz 
+ls
+ls /usr/share/doc/dunst/
+cp /usr/share/doc/dunst/dunstrc .config/dunst/
+vim .config/dunst/dunstrc 
+fg
+dunst
+bg
+ns hello
+fg
+vim .config/dunst/dunstrc 
+vim .config/dunst/dunstrc 
+exit
+dunst
+dunst -print
+dunst -print
+dunst -print
+dunst -print
+dunst -print
+dunst -print
+dunst -print
+dunst -print
+dunst -print
+dunst -print
+dunst -print
+dunst -print
+dunst -print
+dunst -print
+dunst -print
+dunst -print
+dunst -print
+dunst -print
+killall dunst
+dunst -print
+dunst -print
+dunst -print
+dunst -print
+dunst -print
+dunst -print
+dunst -print
+dunst -print
+dunst -print
+cl
+dunst
+bg
+cl
+sudo mount /dev/sda1 /mnt/usb
+cp Downloads/programs/DLS8Setup.8.5.0.exe /mnt/usb
+cp Downloads/programs/DLS8Setup.8.5.0.exe /mnt/usb/
+sudo cp Downloads/programs/DLS8Setup.8.5.0.exe /mnt/usb/
+ls /mnt/usb
+sudo umount /mnt/usb
+vim ipa_xcompose 
+vim .XCompose 
+curl 'wttr.in?format=3'
+exit
+cl
+vim .config/i3/config
+weather
+.config/i3blocks/blocks/temp.sh 
+vim .config/i3blocks/blocks/temp.sh 
+cd Documents/testing/
+ls
+cd output/
+ls
+mkdir scom
+cd scom/
+wget -w 'tomscott.com/b3ta'
+man wget
+wget -r 'tomscott.com/b3ta'
+ls
+wget -r 'https://tomscott.com/b3ta'
+ls
+cdl
+cd Music/
+wget https://www.tomscott.com/buntify/rulebrit.mid
+playmidi rulebrit.mid 
+apts midi | grep -i installed
+qsynth rulebrit.mid 
+wildmidi rulebrit.mid 
+cdl
+apts colorize
+apts algorithmia
+apts coloriz
+cd Documents/school/2020/maths/
+ls
+mupdf Investigation\ 1\ -\ Home\ Loans.pdf 
+bg
+mupdf Selected\ Problems\ Finance\ 2020.pdf 
+mupdf Trigonometry\ -\ Selected\ Problems\ \(completed\)\ -\ Line\ 1.pdf 
+bc
+apts emoji fcitx
+apti fcitx-table-emoji
+fcitx-skin-installer 
+cdl
+vim .XCompose 
+sudo mount /dev/sda1 /mnt/usb/
+cp /mnt/usb/backup/ Documents/server_backup_2020-04-23
+cd Documents/
+cd server_backup_2020-04-23/
+ls
+ls soysource/
+vim soysource/config/config.json 
+vim token.txt
+cd ..
+cd repositories/
+gitc https://github.com/yogsoy/SoySource.git
+cd SoySource/
+cp ../../server_backup_2020-04-23/soysource/* ./
+ls
+vim config/config.json 
+ls config/
+cat config/hue.json 
+cat config/osu
+cat config/osu.json 
+vim config/osu.json 
+vim ../../server_backup_2020-04-23/osu_token.txt
+ls config/
+vim config/youtube.json 
+ls config/youtube
+vim ../../server_backup_2020-04-23/youtube_token.sh
+vim ../../server_backup_2020-04-23/youtube_token.txt
+vim config/youtube/client_secret.json 
+rf config/youtube/
+s
+ls
+ls resources/
+fs resources/dictionary.json 
+git commit -m "you're gay"
+git add *
+git commit -m "you're gay"
+gitgo
+npm update
+npm audit fix
+sudo npm audit fix
+sudo npm upgrade
+gitgo
+ls
+cd ..
+cd ..
+cd server_backup_2020-04-23/
+ls
+vim token.txt 
+cat token.txt | cb
+vim soysource/config/config.json 
+cd soysource/
+ls
+nodemon soysource.js 
+sudo umount /mnt/usb 
+vim .bashrc
+rl
+cl
+vim .bashrc
+rl
+exit
+vim /usr/bin/txt2regex 
+exit
+cd Documents/testing/projects/dominos/
+p3 dominos.py 
+pip install dominos
+sudo pip install dominos
+p3 dominos.py 
+p dominos.py 
+pip3 install dominos
+p3 dominos.py 
+p3 dominos.py 
+p3 dominos.py 
+exit
+cd Documents/testing/code/tests/
+ls
+vim bash_clex.sh
+chx bash_clex.sh 
+./bash_clex.sh 
+vim bash_clex.sh
+./bash_clex.sh 
+vim bash_clex.sh
+./bash_clex.sh 
+vim bash_clex.sh
+./bash_clex.sh 
+vim bash_clex.sh
+./bash_clex.sh 
+vim bash_clex.sh
+./bash_clex.sh 
+vim bash_clex.sh
+cdl
+pip install dominos
+cd Documents/testing/projects/
+mkdir dominos
+ls
+cd dominos/
+ls
+vim dominos.py
+vim dominos.py
+cdl
+htop
+apts lutric
+apts lutris
+cht lutris
+neofetch
+do-release-upgrade 
+sudo do-release-upgrade 
+sudo apt upgrade
+bc
+cd Documents/testing/projects/brainfuck/
+bf hello_word.bf 
+bf hello_word.bf 
+bf hello_word.bf 
+bf hello_word.bf 
+bf hello_word.bf 
+exit
+ls
+ls Arduino/
+ls Arduino/libraries/
+cd Documents/arduino/
+ls
+cd make_s
+cd make_screen_go/
+ls
+vim make_screen_go.ino 
+vim make_screen_go.ino 
+cd ..
+vim templog/templog.ino 
+htop
+vim
+ls
+mv 2020-04-28.txt Documents/school/2020/japanese/
+mkdir Documents/school/2020/japanese
+mv 2020-04-28.txt Documents/school/2020/japanese/
+ls
+ls Documents/
+ls Documents/school/2020/
+rf Documents/school/2020/2020-04-28.txt 
+ls Documents/school/2020/japanese/
+cl
+cd Downloads/
+cd programs/
+mkdir godot
+mv Godot_v3.2.1-stable_x11.64.zip godot/
+cd godot/
+ls
+unzip Godot_v3.2.1-stable_x11.64.zip 
+ls
+./Godot_v3.2.1-stable_x11.64 
+cd ..
+debi teams_1.3.00.5153_amd64.deb 
+man teams
+cdl
+cd Documents/testing/
+ls
+cd code/
+cd ..
+cd projects/
+ls
+mkdir brainfuck
+cd brainfuck/
+vim hello_word.bf
+apts brainfuck
+apti bf
+bf 
+bf hello_word.bf 
+vim hello_word.bf
+bf hello_word.bf 
+vim hello_word.bf
+cdl
+cd Documents/testing/projects/
+ls
+mkdir paper_tape
+cd paper_tape/
+vim punch1.c
+mv punch1.c punch1.ino
+vim punch1.ino 
+cdl
+Downloads/programs/godot/Godot_v3.2.1-stable_x11.64 
+Downloads/programs/godot/Godot_v3.2.1-stable_x11.64 
+cl
+uptime
+echo $BROWSER
+env
+env | grep -i brows
+env | grep -i web
+env | grep -i www
+env | grep -i chrome
+exit
+vim scripts/wiktionary_selection.sh 
+exit
+playerctl metadata
+playerctl metadata
+playerctl status
+playerctl status
+.config/i3blocks/blocks/music.sh 
+.config/i3blocks/blocks/music.sh 
+playerctl metadata
+ls
+la
+cls
+rf MOK.*
+ls what\ is\ happening/
+rf what\ is\ happening/
+cls
+vim .XCompose 
+mv ipa_xcompose .ipa_xcompose 
+vim Documents/school/2020/robot/games/github_key.txt
+cd Documents/repositories/
+ls
+gitc https://github.com/tgpethan/vrstuff
+cd vrstuff/
+ls
+la
+vim .git/description 
+vim .git/HEAD 
+vim .git/config 
+cd ..
+gitc https://github.com/tgpethan/webmc
+cd webmc/
+ls
+cd ..
+rf webmc/
+gitc https://github.com/tgpethan/webmc
+ch webmc/index.html 
+cl
+cd Documents/school/2020/maths/
+ls
+mkdir programs
+cd programs/
+ls
+vim generate_bearings_problems.py
+p3 generate_bearings_problems.py 
+vim generate_bearings_problems.py
+p3 generate_bearings_problems.py 
+vim generate_bearings_problems.py
+p3 generate_bearings_problems.py 
+vim generate_bearings_problems.py
+p3 generate_bearings_problems.py 
+vim generate_bearings_problems.py
+p3 generate_bearings_problems.py 
+vim generate_bearings_problems.py
+p3 generate_bearings_problems.py 
+vim generate_bearings_problems.py
+p3 generate_bearings_problems.py 
+vim generate_bearings_problems.py
+p3 generate_bearings_problems.py 
+vim generate_bearings_problems.py
+p3 generate_bearings_problems.py 
+vim generate_bearings_problems.py
+p3 generate_bearings_problems.py 
+vim generate_bearings_problems.py
+p3 generate_bearings_problems.py 
+vim generate_bearings_problems.py
+p3 generate_bearings_problems.py 
+vim generate_bearings_problems.py
+p3 generate_bearings_problems.py 
+vim generate_bearings_problems.py
+p3 generate_bearings_problems.py 
+vim generate_bearings_problems.py
+p3 generate_bearings_problems.py 
+vim generate_bearings_problems.py
+p3 generate_bearings_problems.py 
+vim generate_bearings_problems.py
+p3 generate_bearings_problems.py 
+vim generate_bearings_problems.py
+p3 generate_bearings_problems.py 
+vim generate_bearings_problems.py
+p3 generate_bearings_problems.py 
+vim generate_bearings_problems.py
+p3 generate_bearings_problems.py 
+vim generate_bearings_problems.py
+p3 generate_bearings_problems.py 
+vim generate_bearings_problems.py
+p generate_bearings_problems.py 
+vim generate_bearings_problems.py
+p3 generate_bearings_problems.py 
+vim generate_bearings_problems.py
+cdl
+apts bigblubutton
+apts bigbluebutton
+apts 'big blue button'
+vim Documents/school/2020/english/2020-04-29.txt
+ls Documents/school/2020/
+mkdir Documents/school/2020/english
+ls
+mv help.txt Documents/school/2020/english/2020-04-29.txt
+vim Documents/school/2020/english/2020-04-29.txt
+vim .config/i3/config
+vim scripts/browser_selection.sh
+chx scripts/*
+git clone https://github.com/beingmohit/browser-playerctl.git
+ls
+cd Documents/repositories/
+git clone https://github.com/beingmohit/browser-playerctl.git
+cd browser-playerctl/
+./install.py 
+ls
+vim README.md 
+playerctl metadata
+playerctl metadata -a
+playerctl
+playerctl -a
+playerctl -l
+playerctl status
+vim README.md 
+playerctl metadata -a
+cdl
+vim .config/i3blocks/blocks/music.sh 
+vim .config/i3blocks/config 
+vim .config/i3blocks/blocks/music.sh 
+playerctl metadata
+bc
+cd Documents/repositories/
+ls
+cd browser-playerctl/
+ls
+ls extension/
+cd extension/
+vim background.js 
+vim lodash.js 
+ls providers/
+vim providers/youtube.js 
+cdl
+apts hermes
+apts gobby
+apt show gobby
+apts floobits
+cdl
+Downloads/programs/godot/Godot_v3.2.1-stable_x11.64 
+cp Downloads/programs/godot/Godot_v3.2.1-stable_x11.64 /usr/bin/
+sudo cp Downloads/programs/godot/Godot_v3.2.1-stable_x11.64 /usr/bin/
+rl
+sudo mv /usr/bin/Godot_v3.2.1-stable_x11.64 /usr/bin/godot
+rl
+cd Downloads/android/
+ls
+cdl
+cd Downloads/programs/
+gzip
+gzip -h
+gzip -d android-studio-ide-192.6392135-linux.tar.gz 
+ls
+ls | head
+tar xvf android-studio-ide-192.6392135-linux.tar 
+ls
+cd android-studio/
+ls
+vim Install-Linux-tar.txt 
+cd ..
+mv android-studio/ ~/
+cd
+ls
+cd android-studio/
+ls
+cd ..
+android-studio/bin/studio.sh 
+exit
+sudo su
+exit
+godot 
+godot 1>/dev/null 2>/dev/null
+bg
+cd Documents/repositories/
+ls
+cd vrstuff/
+git pull
+ls
+la
+mkdir client
+ls
+git add client/
+gitgo
+ls
+gitgo
+ls
+cd client/
+ls
+ls
+ls
+rf *
+cdl
+ls
+cd Documents/repositories/vrstuff/client/
+ls
+ls addons/
+ls addons/godot_ovrmobile/
+apts openjdk
+apti openjdk-14-jdk
+keytool -keyalg RSA -genkeypair -alias androiddebugkey -keypass android -keystore debug.keystore -storepass android -dname "CN=Android Debug,O=Android,C=US" -validity 9999
+ls
+mv debug.keystore ~/.android/
+whereis adb
+whereis jarsigner
+cl
+sudo su
+cd addons/
+ls
+mv godot_oculus_quest_toolkit ~/Documents/repositories/
+sudo chown elyshea godot_oculus_quest_toolkit/
+mv godot_oculus_quest_toolkit ~/Documents/repositories/
+ls
+cd ..
+ls
+rf CONTRIBUTORS.md default_env.tres OQ_*
+sudo rf CONTRIBUTORS.md default_env.tres OQ_*
+la
+ls -a
+ls -l
+sudo rm -rf OQ_*
+ls -l
+sudo rm -rf vr_autoload.gd 
+ls -l
+cd ../..
+ls
+cl
+cls
+cd godot_oculus_quest_toolkit/
+ls
+cp OQ_Toolkit ../vrstuff/client/
+cd ..
+cd vrstuff/client/
+ls
+cd ..
+rf client/
+mkdir client
+cd ..
+cp godot_oculus_quest_toolkit/addons vrstuff/client/
+cp godot_oculus_quest_toolkit/OQ_Toolkit vrstuff/client/
+ls vrstuff/client/
+adb devices
+adb devices
+htop
+playerctl metadata
+playerctl metadata
+playerctl metadata
+playerctl metadata title
+playerctl metadata artist
+playerctl metadata artist
+htop
+free
+free -h
+free -h -SI
+free -h --si
+free --si
+free -h --si
+free -h --si | cb
+exit
+playerctl metadata title
+exit
+title=$(playerctl metadata title)
+['$title' != ''] && echo hi
+eval ['$title' != ''] && echo hi
+cd Music/
+ls
+pmv goauld.wav 
+mpv goauld.wav 
+mpv goauld.wav 
+mpv goauld.wav 
+mpv goauld.wav 
+mpv goauld.wav 
+mpv goauld.wav 
+mpv goauld.wav 
+mpv goauld.wav 
+mpv goauld.wav 
+mpv goauld.wav 
+mpv goauld.wav 
+mpv goauld.wav 
+echo $title
+[[ "$title" != "" ]]
+[[ "$title" != "" ]] && echo yes
+[[ "$title" != "" ]] || echo no
+mpv goauld.wav 
+[['$title' != '']]
+[[ '$title' != '' ]]
+[[ '$title' != '' ]] && echo ye
+mpv goauld.wav 
+[[ '$title' != '' ]] && printf ' '
+mpv goauld.wav 
+mpv goauld.wav 
+mpv goauld.wav 
+exit
+godot 1>/dev/null 2>/dev/null &
+cd Pictures/
+iv
+iv *
+iv *
+ls | grep bang
+iv *bang*
+cp the\ big\ theory.png ~/Documents/school/2020/robot/games/maze\ \(godot\)/thetheory.png
+cp the\ big\ theory\ bang.jpg ~/Documents/school/2020/robot/games/maze\ \(godot\)/thetheory.jpg
+cd ..
+cd Documents/school/2020/robot/games/maze\ \(godot\)/
+ls
+rf thetheory.*
+ls
+cl
+godot
+cd ..
+godot
+cd maze\ \(godot\)/
+ls
+wine Corn\ is\ fake.exe 
+ls
+./Corn\ is\ fake.x86_64 
+./Corn\ is\ fake.x86_64 
+htop
+cdl
+vim .config/i3blocks/blocks/music.sh 
+vim .config/i3blocks/blocks/music.sh 
+cdl
+vim
+rf Documents/school/2020/japanese/2020-04-30
+cl
+cl
+godot
+cd Documents/
+cd school/2020/robot/
+ls
+cd games/
+ls
+rf maze\ \(godot\)/
+unzip maze\ \(godot\).zip 
+ls
+cd maze\ \(godot\)/
+ls
+cd ..
+cd maze\ \(godot\)/
+godot
+ls
+cd ..
+godot
+cd maze\ \(godot\)/
+ls
+mkdir release
+mv Corn\ is\ fake.* release/
+cd release/
+ls
+./Corn\ is\ fake.x86_64 
+ls
+./Corn\ is\ fake.x86_64 
+./Corn\ is\ fake.x86_64 
+cd ..
+godot
+cd ..
+godot
+cd maze\ \(godot\)/release/
+ls
+./Corn\ is\ fake.x86_64 
+cd ..
+cd ..
+godot
+cd maze\ \(godot\)/release/
+./Corn\ is\ fake.x86_64 
+cd ..
+mupdf robotics\ and\ game\ design\ 2020-04-30.pdf 
+sudo apt upgrade
+cdl
+cd Documents/repositories/vrstuff/
+cd client/
+ls
+cd ..
+godot
+cdl
+cd Documents/school/2020/robot/games/maze\ \(godot\)/
+ls
+vim Player.gd 
+cdl
+cd Documents/repositories/vrstuff/
+gitgo
+git pull
+ls
+git
+ls
+la
+cdl
+cd Music/michael/
+ls
+mpv Kudasai.mp3 
+cdl
+cd Documents/repositories/
+ls
+cd browser-playerctl/
+ls
+vim README.md 
+cd extension/
+ls
+vim background.js 
+cd ..
+vim mpris2 
+p mpris2 
+p3 mpris2 
+./install.py 
+cdl
+vim .config/i3blocks/blocks/music.sh 
+cl
+xrandr --output DP1 --auto --right-of eDP1
+xrandr --output DP1 --auto --scale 1x1 --right-of eDP1
+xrandr --output DP1 --auto --scale 1x1 --right-of eDP1
+xrandr -q
+xrandr --output DP1 --auto --scale 2x2 --right-of eDP1
+xrandr -q
+xrandr --output DP1 --auto --scale 2x2 --right-of eDP1
+xrandr --output DP1 --auto --scale 1.2x1.2 --right-of eDP1
+xrandr --output DP1 --auto --scale 1.2x1.2 --right-of eDP1
+xrandr -q
+blueman-applet 
+blueman-browse 
+fg
+stop
+exit
+exit
+sudo do-release-upgrade 
+neofetch
+xrandr -q
+vim scripts/extdisp.sh 
+antimicro 
+vim .config/i3/config
+blueman-applet
+sudo killall blueman-applet
+blueman-applet
+blueman-manager 
+sudo killall blueman-applet
+blueman-manager 
+sudo killall blueman-manager
+blueman-manager 
+cl
+htop
+cd Documents/repositories/browser-playerctl/
+ls
+vim mpris2 
+cdl
+vim .config/i3/config
+xmodmap pke
+xmodmap -pke
+xmodmap -pke | grep -i bracket
+curl https://www.facebook.com/julian.bennison/videos/1328388660882985/
+cd Videos/
+mkdir facebook
+cd facebook/
+wget https://video.fmel5-1.fna.fbcdn.net/v/t42.9040-2/10000000_245629019825913_8261556227364880384_n.mp4
+wget 'https://video.fmel5-1.fna.fbcdn.net/v/t42.9040-2/10000000_245629019825913_8261556227364880384_n.mp4?_nc_cat=109&amp;_nc_sid=985c63&amp;efg=eyJybHIiOjk1NCwicmxhIjoyNTMwLCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&amp;_nc_ohc=zMg637eb2uwAX8EP54O&amp;rl=954&amp;vabr=530&amp;_nc_ht=video.fmel5-1.fna&amp;oh=ca846742a2f9220009fb7e3010742660&amp;oe=5EAECF06'
+wget "https://video.fmel5-1.fna.fbcdn.net/v/t42.9040-2/10000000_245629019825913_8261556227364880384_n.mp4?_nc_cat=109&amp;_nc_sid=985c63&amp;efg=eyJybHIiOjk1NCwicmxhIjoyNTMwLCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&amp;_nc_ohc=zMg637eb2uwAX8EP54O&amp;rl=954&amp;vabr=530&amp;_nc_ht=video.fmel5-1.fna&amp;oh=ca846742a2f9220009fb7e3010742660&amp;oe=5EAECF06"
+wget "https://video.fmel5-1.fna.fbcdn.net/v/t42.9040-2/10000000_245629019825913_8261556227364880384_n.mp4?_nc_cat=109&amp;_nc_sid=985c63&amp;efg=eyJybHIiOjk1NCwicmxhIjoyNTMwLCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&amp;_nc_ohc=zMg637eb2uwAX8EP54O&amp;rl=954&amp;vabr=530&amp;_nc_ht=video.fmel5-1.fna&amp;oh=ca846742a2f9220009fb7e3010742660&amp;oe=5EAECF06"
+wget https://www.facebook.com/plugins/video.php?height=400&amp;width=400&amp;href=https://www.facebook.com/julian.bennison/videos/1320429098345608/
+wget "https://www.facebook.com/plugins/video.php?height=400&amp;width=400&amp;href=https://www.facebook.com/julian.bennison/videos/1320429098345608/"
+ls
+rf *
+wget "https://www.facebook.com/plugins/video.php?height=400&amp;width=400&amp;href=https://www.facebook.com/julian.bennison/videos/1320429098345608/"
+ls
+file video.php\?height\=400\&amp\;width\=400\&amp\;href\=https\:%2F%2Fwww.facebook.com%2Fjulian.bennison%2Fvideos%2F1320429098345608%2F 
+rf video.php\?height\=400\&amp\;width\=400\&amp\;href\=https\:%2F%2Fwww.facebook.com%2Fjulian.bennison%2Fvideos%2F1320429098345608%2F 
+exit
+apts bluez
+apts ^bluez
+apts wiimote
+apti xwiimote
+xwiishow 
+xwiishow list
+xwiishow list
+xwiishow 
+vim .config/i3/config
+cl
+cd Videos/facebook/
+mkdir Beat\ Saber
+mv *mp4 Beat\ Saber/
+ls
+cd Beat\ Saber/
+ls
+mpv MTC\ Saga\ 2020-04-24.mp4 
+mpv Wands\ Stream\ 2020-05-03.mp4 
+mpv Saikousoku\ Fall\ in\ Love\ 2020-02-29.mp4 
+ls
+mv Wands\ Stream\ 2020-05-03.mp4 ../
+cd ..
+ls
+cdl
+cd Downloads/quest/beatsaber/mods/
+ls
+ls 2020-04-11/
+cd 2020-04-11/
+unzip ChromaLite.zip 
+ls
+vim bmbfmod.json 
+rf bmbfmod.json cover.gif libchromalite.so 
+cls
+cdl
+artist="waluigi"
+title="nope"
+if [ '$artist$title' != '' ]; then echo waaa; fi
+if [[ '$artist$title' != '' ]]; then echo waaa; fi
+if [[ '$artist$title' != '' ]]; then print waaa; fi
+if [[ '$artist$title' != '' ]]; then print 'waaa'; fi
+playerctl metadata
+playerctl metadata
+playerctl metadata
+playerctl metadata
+if [[ '$artist$title' != '' ]]; then printf 'waaa'; fi
+[ '$artist$title' != ''] && echo waaaaaaa
+[ '$artist$title' != '' ] && echo waaaaaaa
+artist=
+title=
+[ '$artist$title' != '' ] && echo waaaaaaa
+artist=''
+title=''
+[ '$artist$title' != '' ] && echo waaaaaaa
+[ "$artist$title" != '' ] && echo waaaaaaa
+htop
+cd Documents/school/2020/maths/
+ls
+cd programs/
+ls
+vim generate_bearings_problems.py 
+node generate_bearings.js 
+vim generate_bearings.js 
+node generate_bearings.js 
+vim generate_bearings.js 
+node generate_bearings.js 
+vim generate_bearings.js 
+node generate_bearings.js 
+node generate_bearings.js 
+vim generate_bearings.js 
+cl
+cdl
+cl
+cd Documents/repositories/
+ls
+cd vrstuff/
+ls
+git pull
+git pull
+ls
+cd client/
+ls
+cd //
+cdl
+htop
+cd Documents/repositories/
+gitc https://github.com/otommod/browser-mpris2
+cd browser-mpris2/
+ls
+cp native/chrome-mpris2 /usr/bin/
+sudo cp native/chrome-mpris2 /usr/bin/
+cd native/
+ls
+./install-
+./install-chrome.py 
+./install-chrome.py cohdpbnjlpiepegpkjiijejiekenkppg
+htop
+playerctl metadata
+playerctl metadata
+playerctl metadata
+playerctl metadata
+playerctl metadata -a
+playerctl metadata -a
+sudo rf /usr/bin/chrome-mpris2 
+sudo rm /usr/bin/chrome-mpris2 
+cdl
+vim .config/i3blocks/blocks/music.sh 
+mpv Music/bink.
+mpv Music/bink.wav 
+vim .config/i3blocks/blocks/music.sh 
+mpv Music/bink.wav 
+vim .config/i3blocks/blocks/music.sh 
+mpv Music/bink.wav 
+vim .config/i3blocks/blocks/music.sh 
+mpv Music/bink.wav 
+mpv Music/bink.wav 
+vim .config/i3blocks/blocks/music.sh 
+mpv Music/bink.wav 
+vim .config/i3blocks/blocks/music.sh 
+mpv Music/bink.wav 
+vim .config/i3blocks/blocks/volume.sh 
+vim .config/i3blocks/blocks/brightness.sh 
+vim .config/i3/config
+cd Music/Synced/
+ls
+cd YURiKA/
+ls
+cd Shiny\ Ray/
+ls
+mpv 01\ Shiny\ Ray.flac 
+cd ..
+cd Mind\ Conductor/
+ls
+mpv 01\ MIND\ CONDUCTOR.flac 
+cd ..
+ls
+cd Kyoumen\ no\ Nami/
+ls
+mpv 01\ Kyoumen\ no\ Nami.flac 
+cd ..
+..
+ls
+free --si
+free --si -h
+hotp
+htop
+htop
+syncthing
+sudo killall syncthing
+free --si -h
+htop
+free --si -h
+htop
+free --si -h
+pgrep urxvt
+ps aux
+ps aux | grep urxvt
+cl
+ps aux | grep urxvt
+ps aux | grep flameshot
+cl
+htop
+sudo killall kdeconnect
+sudo killall kdeconnect-indicator
+sudo killall kdeconnect-indicator 
+kdeconnect-cli
+pgrep kde
+pgrep kdeconnect
+kill 2289
+kill 2383
+pgrep kdeconnect
+htop
+sudo killall nm-applet
+htop
+free --si -h
+free --si -h
+free --si -h
+free --si -h
+htop
+man lvresize
+Documents/propersize.sh 
+sudo Documents/propersize.sh 
+fdisk -l /dev/nvme0n1
+sudo fdisk -l /dev/nvme0n1
+man lvextend 
+cat Documents/propersize.sh 
+sudo su
+cd Music/Synced/
+ls
+ls Snail\'s\ House/
+ls Moe\ Shop\ -\ Moe\ Moe/
+mpv Moe\ Shop\ -\ Moe\ Moe/Moe\ Shop\ -\ Moe\ Moe\ -\ 05\ Notice\ \(w-\ TORIENA\).flac 
+mpv Moe\ Shop\ -\ Moe\ Moe/Moe\ Shop\ -\ Moe\ Moe\ -\ 01\ Magic\ \(w-\ MYLK\).flac 
+mpv Moe\ Shop\ -\ Moe\ Moe/Moe\ Shop\ -\ Moe\ Moe\ -\ 02\ Virtual\ \(w-\ Puniden\).flac 
+ls Moe\ Shop\ -\ Moe\ Moe/
+mpv Moe\ Shop\ -\ Moe\ Moe/Moe\ Shop\ -\ Moe\ Moe\ -\ 04\ Lovesick\ \(w-\ maisou\).flac 
+mpv Moe\ Shop\ -\ Moe\ Moe/Moe\ Shop\ -\ Moe\ Moe\ -\ 06\ Fantasy\ \(w-\ MONICO\).flac 
+ls Moe\ Shop\ -\ Moe\ Moe/
+cls
+ls Mitchie\ M\ -\ Virtual\ Popstar/
+mpv Mitchie\ M\ -\ Virtual\ Popstar/2.\ 好き\!雪\!本気マジック\ feat.\ 初音ミク.flac Mitchie\ M\ -\ Virtual\ Popstar/3\ \ ぶれないアイで\ feat.\ 初音ミク.flac 
+mpv Mitchie\ M\ -\ Virtual\ Popstar/5.\ ニュース39\ feat.\ 初音ミク.flac 
+exit
+sudo mount /dev/sda1 /mnt/shoppe/
+sudo mount /dev/sda2 /mnt/shoppe/
+cd /mnt/shoppe/
+ls
+cd 06\ ROMs/
+ls
+cd N64/
+ls
+cp Legend\ of\ Zelda\,\ The\ -\ Majora\'s\ Mask.n64 ~/Downloads/Roms/
+cls
+cd ..
+ls
+cd GBA/
+ls
+cp *gba ~/Downloads/Roms/
+ls
+cd ..
+ls
+ls PSP/
+ls SNES/
+cp SNES/* ~/Downloads/Roms/
+cd ..
+cd 06\ ROMs/
+ls Android\ \(APK\)/
+ls
+ls GCN/
+cp GCN/* ~/Downloads/Roms/
+ls
+ls 3DS/
+fs
+ls GB
+cp GB ~/Downloads/Roms/
+ls G-MD/
+ls PS2/
+cp PS2/Shadow\ of\ the\ Colossus\ \(Europe\,\ Australia\)\ \(En\,Fr\,De\,Es\,It\).iso ~/Downloads/Roms/
+ls
+fs NDS/
+ls NDS/
+cls
+cd ..
+ls
+fs 09\ DS/
+fs 11\ Disk\ images/
+ls 11\ Disk\ images/
+ls Downloads/
+mpv Downloads/IMG_3659.MOV 
+ls
+ls Documents/
+ls Documents/data\ usb\ backup/
+ls Documents/data\ usb\ backup/Files/
+ls Documents/data\ usb\ backup/Files/Documents/
+cls
+ls games/
+ls Library/
+ls Music/
+ls Music/funny/
+ls Music/iTunes/
+ls Music/iTunes/iTunes\ Media/
+ls Music/iTunes/iTunes\ Media/Automatically\ Add\ to\ iTunes/
+ls Music/Server_Gryphon/
+mpv Music/Server_Gryphon/\[Trixie\ \&\ The\ Illusions\]\[Tricks\ Up\ My\ Sleeve\].m4p 
+ls
+ls Music/
+ls Music/sound
+ls Music/Soundtracks/
+ls Music/Soundtracks/LoZ/
+ls Music/Soundtracks/to\ the\ moon/
+ls Music/
+cd Music/
+ls
+ls sound
+ls sounds/
+ls sounds/LoZ/
+cd ..
+ls Music/No\,\ I\ don\'t\ know\ why/
+mpv Music/No\,\ I\ don\'t\ know\ why/Kyoukai\ no\ Kanata--\ Future\ Star--Full\ Dance\ IDOL.mp3 
+ls
+ls Pictures/
+iv Pictures/isaacwillmoham.jpg 
+iv Pictures/fourteen.PNG 
+ls
+ls streams/
+mpv streams/trying\ to\ get\ to\ 300pp.mp4 
+ls Videos/
+ls Videos/Anime/
+fs Videos/Anime/
+ls Videos/GDQ\ and\ other\ speedruns/
+ls Videos/movies/
+ls Videos/obs\ recordings/
+mpv Videos/obs\ recordings/LoZ\ Windwaker\ part1.flv 
+ls Videos/idek\ man/
+mpv Videos/actually\ throwing\ a\ cucco\ into\ Death\ Mountain\ in\ Breath\ of\ the\ Wild.mp4 
+mpv Videos/idek\ man/Acting\ Out\ a\ Tsundere\ Anime\ Element\ -\ Cringe.mp4 
+ls Videos/idek\ man/
+ls
+exit
+cd Music/Synced/
+ls
+mkdir 'Goose House - 光るなら'
+ls
+cd Goose\ House\ -\ 光るなら/
+ls
+cd ..
+ls Goose\ House\ -\ 光るなら/
+ls
+ls Goose\ House\ -\ 光るなら/
+sudo umount /mnt/shoppe 
+ls
+mkdir Goose\ House
+mv Goose\ House\ -\ 光るなら/ Goose\ House/
+cd Goose\ House/
+ls
+mv Goose\ House\ -\ 光るなら/ 光るなら
+ls
+ls
+ls Flight/
+exit
+neofetch
+fwupdmgr 
+fwupdmgr get-approved-firmware
+fwupdmgr update
+fwupdmgr unlock
+sudo fwupdmgr unlock
+sudo fwupdmgr unlock
+sudo fwupdmgr update
+neofetch 
+apts lvm
+apts ^lvm
+pvs
+sudo su
+cl
+xautolock -disable
+cd Documents/
+ls
+cd ..
+cd Downloads/
+ls
+man ls
+ls -a
+ls -l
+la
+la
+cat ../.bash_aliases | grep ls
+cat ../.bashrc | grep ls
+la -F
+la -F | grep '/'
+unzip Roms-20200504T085316Z-001.zip 
+cd Roms/
+ls
+cd ..
+cd ..
+fzf
+cd Downloads/Roms/
+7z -h
+7z e Game\ Boy\ Advance\ \(J\)\ \(Debug\ Version\).7z 
+ls
+vbaexpress 
+cdl
+transmission-gtk 
+bg
+cd Downloads/トレント/
+ls
+ls \[얼티메이트\]\ \[141119\]\ TVアニメ「四月は君の嘘」OPテーマ「光るなら」／Goose\ house\ \[期間限定アニメ盤\]\ \(FLAC+BK\)/
+cp \[얼티메이트\]\ \[141119\]\ TVアニメ「四月は君の嘘」OPテーマ「光るなら」／Goose\ house\ \[期間限定アニメ盤\]\ \(FLAC+BK\)/ ~/Music/Synced/Goose House - 光るなら/
+ls
+rf 光るなら/
+cp '\[얼티메이트\]\ \[141119\]\ TVアニメ「四月は君の嘘」OPテーマ「光るなら」／Goose\ house\ \[期間限定アニメ盤\]\ \(FLAC+BK\)/*' '~/Music/Synced/Goose House - 光るなら/'
+cp '\[얼티메이트\]\ \[141119\]\ TVアニメ「四月は君の嘘」OPテーマ「光るなら」／Goose\ house\ \[期間限定アニメ盤\]\ \(FLAC+BK\)/' '~/Music/Synced/Goose House - 光るなら/'
+cp '\[얼티메이트\]\ \[141119\]\ TVアニメ「四月は君の嘘」OPテーマ「光るなら」／Goose\ house\ \[期間限定アニメ盤\]\ \(FLAC+BK\)/' '~/Music/Synced/Goose House - 光るなら/'
+cp \[얼티메이트\]\ \[141119\]\ TVアニメ「四月は君の嘘」OPテーマ「光るなら」／Goose\ house\ \[期間限定アニメ盤\]\ \(FLAC+BK\)/ ~/Music/Synced/Goose House\ -\ 光るなら/'
+cp \[얼티메이트\]\ \[141119\]\ TVアニメ「四月は君の嘘」OPテーマ「光るなら」／Goose\ house\ \[期間限定アニメ盤\]\ \(FLAC+BK\)/ ~/Music/Synced/Goose House\ -\ 光るなら/
+ls
+rf House\ -\ 光るなら/
+cp \[얼티메이트\]\ \[141119\]\ TVアニメ「四月は君の嘘」OPテーマ「光るなら」／Goose\ house\ \[期間限定アニメ盤\]\ \(FLAC+BK\)/ ~/Music/Synced/Goose\ House\ -\ 光るなら/
+ls
+ls \[180411\]\ Goose\ house\ Phrase\ #17\ -\ Flight\ \[FLAC\]/
+cp \[180411\]\ Goose\ house\ Phrase\ #17\ -\ Flight\ \[FLAC\]/* ~/Music/Synced/Goose\ House/Flight/
+ls
+cdl
+sudo su
+htop
+cd Documents/school/2020/japanese/
+vim song_translate.txt
+cd ..
+cd robot/
+cd peer\ reviews/
+ls
+cd ben\ dolliver/
+ls
+iv Screen\ Shot\ 2020-04-06\ at\ 2.30.29\ pm.png 
+mupdf Technical\ testing.pdf 
+cdl
+cd Documents/school/2020/robot/games/maze\ \(godot\)/
+ls
+cd release/
+ls
+./Corn\ is\ fake.x86_64 
+cd ..
+cd ..
+ls
+antimicro 
+antimicro 
+bg
+bc
+bc
+cdl
+vim .XCompose 
+cd Downloads/Roms/
+ls
+mkdir gba
+mv *.gba gba/
+ls
+mkdir nes
+mv *.nes nes/
+ls
+mkdir gc
+mv Legend\ of\ Zelda\,\ The\ -\ * Pokemon\ Colosseum\ \(USA\).iso gc/
+ls
+mkdir n64
+mv *.n64 n64/
+ls
+mkdir snes
+mv *.sfc snes/
+ls
+mv Super\ Mario\ Sunshine.iso gc/
+ls
+rf Diddy\ Kong\ Racing\ \(USA\)\ \(En\,Fr\).zip 
+fs gc
+fs gba
+cd ..
+cd quest/apps/
+ls
+ls
+adb install com.androidemu.gba_6.apk dolphin-master-5.0-11824.apk paulscode.android.mupen64plusae_363.apk WEARVR-angels-and-demigods-vr-visual-novel.apk 
+adb install com.androidemu.gba_6.apk dolphin-master-5.0-11824.apk paulscode.android.mupen64plusae_363.apk
+adb install com.androidemu.gba_6.apk 
+adb install dolphin-master-5.0-11824.apk 
+adb install paulscode.android.mupen64plusae_363.apk 
+adb install WEARVR-angels-and-demigods-vr-visual-novel.apk 
+fs WEARVR-angels-and-demigods-vr-visual-novel.apk 
+unzip OVRMetricsTool_v1.4.zip 
+ls
+adb install OVRMetricsTool_v1.4.apk 
+cd ..
+cd ..
+cd Roms/
+ls
+adb push gba/ /sdcard/Download/roms/gba
+fs n64
+adb push n64/ /sdcard/Download/roms/n64
+ls n64/
+ls gc/
+mv gc/Legend\ of\ Zelda\,\ The\ -\ Majora\'s\ Mask.n64 n64/
+adb push n64/Legend\ of\ Zelda\,\ The\ -\ Majora\'s\ Mask.n64 /sdcard/Download/roms/n64/
+adb push n64/Legend\ of\ Zelda\,\ The\ -\ Majora\'s\ Mask.n64 /sdcard/Download/roms/n64/
+adb push n64/Legend\ of\ Zelda\,\ The\ -\ Majora\'s\ Mask.n64 /sdcard/Download/roms/n64/
+ls gc/
+fs gc/Legend\ of\ Zelda\,\ The\ -\ The\ Wind\ Waker\ \(USA\).iso 
+fs gc/Super\ Mario\ Sunshine.iso 
+apts dolphin
+apti dolphin-emu
+cd gc
+ls
+dolphin-emu Legend\ of\ Zelda\,\ The\ -\ The\ Wind\ Waker\ \(USA\).iso 
+dolphin-emu -e Legend\ of\ Zelda\,\ The\ -\ The\ Wind\ Waker\ \(USA\).iso 
+dolphin-emu 
+dolphin-emu 
+sudo dolphin-emu 
+dolphin-emu 
+dolphin-emu 
+apts gamecube
+sudo apt remove dolphin-emu
+cdl
+cd Documents/school/2020/robot/
+gamma4scanimage 
+cd games/
+cl
+ls
+unzip platformer\ \(godot\).zip 
+ls
+cd platformer\ \(godot\)/
+ls
+cd release/
+ls
+chx im\ gonna\ put\ this\ platform\ up\ your\ professionalism\ \(julian\).x86_64 
+./im\ gonna\ put\ this\ platform\ up\ your\ professionalism\ \(julian\).x86_64 
+./im\ gonna\ put\ this\ platform\ up\ your\ professionalism\ \(julian\).x86_64 
+./im\ gonna\ put\ this\ platform\ up\ your\ professionalism\ \(julian\).x86_64 
+cd ..
+mupdf robotics\ and\ game\ design\ 2020-05-07\ platformer\ report.pdf 
+cdl
+apts gamemaker
+curl -s https://updates.signal.org/desktop/apt/keys.asc | sudo apt-key add -
+echo "deb [arch=amd64] https://updates.signal.org/desktop/apt xenial main" | sudo tee -a /etc/apt/sources.list.d/signal-xenial.list
+sudo apt update && sudo apt install signal-desktop
+signal
+rl
+cd Documents/school/2020/robot/games/platformer\ \(godot\)/release/
+ls
+cdl
+vim .XCompose 
+cl
+pip search patreon
+apts reddit
+cl
+sudo echo e
+htop
+apts teamviewer
+debi Downloads/programs/teamviewer_15.5.3_amd64.deb 
+cd Music/Synced/
+ls
+mkdir t+pazolite
+ls
+mv t+pazolite\ -\ Answer\ from\ X\ Girlz/ t+pazolite/Answer\ from\ X\ Girls
+ls t+pazolite/
+cd t+pazolite/
+ls
+mv \[Audio-4U\]\ \(C85\)\ C.H.S\ \(t+pazolite\)\ —\ 絢爛喧騒オリエント\ \[CHS-0015\]\ \(flac\)/ 絢爛喧騒オリエント/
+ls
+mv \[Audio-4U\]\ \(C89\)\ C.H.S\ \(t+pazolite\)\ -\ Ponko2\ Girlish\ \[CHS-0021~2\]\ \(flac\)/ 'Ponko2 Girlish'
+ls
+ls Ponko2\ Girlish/
+ls Ponko2\ Girlish/Disc\ 1/
+cd ..
+ls
+mkdir Moe\ Shop
+mv Moe\ Shop\ -\ Moe\ Moe/ Moe\ Shop/Moe\ Moe/
+ls Moe\ Shop/
+ls Moe\ Shop/
+mkdir DECO27
+mv DECO27\ -\ GHOST/ DECO27/
+ls DECO27/
+cd DECO27/
+mv DECO27\ -\ GHOST/ GHOST
+ls
+cd ..
+ls
+ls Yunomi/
+cd Yunomi/
+ls
+mv \[TBS\]\ Yunomi\ feat.\ nicamoq\ -\ Yunomic\ Ni\ Ocha\ Shite\ EP/ 'Yunomic Ni Ocha Shite
+'
+ls
+mv Yunomic\ Ni\ Ocha\ Shite 'Yunomic Ni Ocha Shite'
+cp 'Yunomic\ Ni\ Ocha\ Shite 
+' no
+mv 'Yunomic Ni Ocha Shite
+' 'Yunomic Ni Ocha Shite'
+ls
+mv \[TBS\]\ Yunomi\ ft.\ TORIENA\ -\ Oedo\ Controller\ EP\ \[FLAC\]/ 'Ooedo Controller'
+ls
+cd. .
+cd ..
+ls
+ls Goose\ House
+ls Goose\ House\ -\ 光るなら/
+ls Goose\ House/光るなら/
+rf Goose\ House\ -\ 光るなら/
+ls
+mv \[Sheldonsuckz\]\ TeddyLoid\ -\ SILENT\ PLANET\ INFINITY\ \[FLAC\]/ TeddyLoid\ -\ SILENT\ PLANET\ INFINITY
+ls
+mkdir TeddyLoid
+mv ME\!ME\!ME\!\ by\ TeddyLoid\ feat.\ daoko/ TeddyLoid/ME\!ME\!ME\!/
+mv TeddyLoid\ -\ SILENT\ PLANET\ INFINITY/ TeddyLoid/SILENT\ PLANET\ INFINITY/
+ls TeddyLoid/
+ls TeddyLoid/ME\!ME\!ME\!/
+ls TeddyLoid/SILENT\ PLANET\ INFINITY/
+ls 大原ゆい子/
+ls
+cls
+fs
+fs ./
+cl
+fs *
+cd EGOIST\ -\ GREATEST\ HITS/
+ls
+iv Cover_01.jpg 
+iv Cover_02.jpg 
+file Cover_0*
+iv Cover_01.jpg 
+iv Cover_02.jpg 
+iv Cover_01.jpg 
+iv Cover_02.jpg 
+cd ..
+cd DECO27/
+ls
+cd Android\ Girl/
+ls
+apts howdy
+sudo apt update
+apts howdy
+sudo apt upgrade
+cd Music/Synced/
+GARNiDELiA/
+ls
+nload
+cd ..
+cdl
+cd Downloads/トレント/
+ls
+ls -l
+man ls
+ls -lt
+ls 
+ls -t
+ls -lt
+cl
+ls -lt
+ls -lt
+ls -lt
+ls -lt
+ls
+ls -lt
+mkdir 2020-05-05
+mv \[180411\]\ Goose\ house\ Phrase\ #17\ -\ Flight\ \[FLAC\]/ \[얼티메이트\]\ \[141119\]\ TVアニメ「四月は君の嘘」OPテーマ「光るなら」／Goose\ house\ \[期間限定アニメ盤\]\ \(FLAC+BK\)/ 2020-05-05/
+ls
+mv \[180131\]\ GARNiDELiA\ 9th\ Single\ -\ Error\ \[FLAC\]/ ~/Music/Synced/GARNiDELiA/Error/
+mv \[Audio-4U\]\ \(C8* ~/Music/Synced/t+pazolite/
+ls
+ls \[Hi-Res\]\[171222\]\ EGOIST\ -\ GREATEST\ HITS\ 2011-2017\ “ALTER\ EGO”\ \[FLAC\ 96kHz／24bit\]/
+mv \[Hi-Res\]\[171222\]\ EGOIST\ -\ GREATEST\ HITS\ 2011-2017\ “ALTER\ EGO”\ \[FLAC\ 96kHz／24bit\]/ ~/Music/Synced/EGOIST\ -\ GREATEST\ HITS/
+ls
+ls ME\!ME\!ME\!\ by\ TeddyLoid\ feat.\ daoko/
+mv ME\!ME\!ME\!\ by\ TeddyLoid\ feat.\ daoko/ ~/Music/Synced/
+ls
+mv Moe\ Shop\ -\ Moshi\ Moshi/ ~/Music/Synced/Moe\ Shop/Moshi\ Moshi
+ls
+mv Moe\ Shop\ -\ Pure\ Pure/ ~/Music/Synced/Moe\ Shop/Pure\ Pure
+mv Moe\ Shop\ -\ Hentai\ Dude\ -\ Tokyo\ Chopp\ -ft.\ Shiki\(TMNS\)-\ \(Moe\ Shop\ Edit\).flac ~/Music/Synced/Moe\ Shop/
+ls
+mv \[Poi\]\ DECOx27\ -\ Conti\ New\ \[FLAC\]/ ~/Music/Synced/DECO27/Conti\ New
+ls
+mv \[Sheldonsuckz\[\ GARNiDELiA\ -\ Kyokiranbu\ \[FLAC\]/ ~/Music/Synced/GARNiDELiA/Kyokiranbu/
+mv \[Sheldonsuckz\]\ SCREEN\ mode\ -\ Naked\ Dive\ \[FLAC\]/ ~/Music/Synced/SCREEN\ Mode\ -\ Naked\ Dive/
+ls
+mv \[Sheldonsuckz\]\ TeddyLoid\ -\ SILENT\ PLANET\ INFINITY\ \[FLAC\]/ ~/Music/Synced/
+ls
+mv Yuiko\ Ohara\ \(大原ゆい子\)\ \[FLAC\]/ ~/Music/Synced/大原ゆい子/
+ls
+ls Yunomi\ -\ ゆのもきゅ\ \[FLAC\]/
+mv Yunomi\ -\ ゆのもきゅ\ \[FLAC\]/ ~/Music/Synced/Yunomi/ゆのみきゅ/
+ls
+mv アンドロイドガール/ ~/Music/Synced/DECO27/Android\ Girl
+ls
+mv *[WAV*]/ ~/Music/Synced/八王子P\ -\ ViViD\ WAVE/
+mv 「ViViD\ WAVE」\ 八王子P\[WAV\ +\ DVD\]/ ~/Music/Synced/八王子P\ -\ ViViD\ WAVE/
+ls
+ls 2020-05-05/
+rf 2020-05-05/
+cdl
+ls
+rf VisualBoyAdvance.cfg 
+cl
+cd Documents/repositories/
+gitc https://github.com/FabricMC/fabric-loom
+cd fabric-loom/
+ls
+gradle
+ls
+gradlew setup ./gradle
+./gradle
+ls
+cd ..
+./gradelw
+./gradlew
+./gradlew setup idea
+./gradlew setup
+ls
+exit
+fzf
+fzf | vim
+cl
+fzf
+vim android-studio/lib/jna.jar 
+cd Documents/repositories/
+gitc https://github.com/Takaranoao/AutoReconnector-Fabric
+cd AutoReconnector-Fabric/
+ls
+cd src/
+la
+cd main/
+ls
+cd java/
+ls
+cd com/
+cd takaranoao/mods/autoreconnector/mixins/
+ls
+vim MixinDisconnectedScreen.java 
+cd ../../../../..
+cd ../
+ls
+cd resources/
+ls
+vim fabric.mod.json 
+cd assets/
+ls
+cd ../../
+ls
+ls
+cd ..
+ls
+cd gradle/
+ls
+ls wrapper/gradle-wrapper.
+ls wrapper/gradle-wrapper
+ls wrapper/
+cd ..
+ls
+ls
+mkdir zip
+unzip AutoReconnector-Fabric-1.0.zip -d zip/
+cd zip/
+ls
+cd AutoReconnector-Fabric-1.0/
+ls
+cd ..
+..
+rf zip/
+rf AutoReconnector-Fabric-1.0.zip 
+ls
+cd src/main/java/com/takaranoao/mods/autoreconnector/
+ls
+vim AutoConnectorMod.java 
+cd ../../../
+..
+..
+.
+..
+..
+ls
+javac 
+ls
+vim autoreconnector-fabric-1.0.0.jar 
+ls src/main/java/com/takaranoao/mods/autoreconnector/
+gradlew
+apti gradle
+gradle
+apts fabric-loom
+gradle
+gradle
+vim build.gradle 
+cd ..
+cdl
+ls .vim
+ls .vim/plugin/
+vim
+vim ./
+vim Downloads/programs/platform-tools_r28.0.1-linux.zip 
+cl
+ls .vim
+ls .vim/ftplugin/
+ls .vim/ftdetect/
+ls .vim/autoload/
+ls /etc/vim
+vim .vimrc
+vim .bash_aliases 
+htop
+exit
+sudo su
+Documents/school/2020/robot/games/
+unzip DVD\ Video\ \(godot\).zip 
+cd DVD\ Video\ \(godot\)/release/
+ls
+chx DVD\ Video.x86_64 
+./DVD\ Video.x86_64 
+vim ~/.config/i3/config
+./DVD\ Video.x86_64 
+./DVD\ Video.x86_64 
+htop
+exit
+Downloads/programs/SideQuest-0.7.6/sidequest 
+cd Downloads/programs/
+xz
+xz --help
+xz -d SideQuest-0.10.7.tar.xz 
+tar xvf SideQuest-0.10.7.tar 
+cd SideQuest-0.10.7/
+ls
+./sidequest 
+cdl
+bc
+mupdf Documents/school/2020/maths/04\ -\ Trigonometry\ Assignment\ 1\ 2020.pdf 
+bg
+apts calcurse
+exit
+exit
+exit
+vim
+lc
+cl
+vim .xinitrc
+vim .Xresources 
+vim .Xresources 
+vim .Xresources 
+cl
+exit
+man light-locker
+man lpr
+man neofetch
+cat .bash_aliases | grep colour
+cat .bash_aliases | grep colour -A 1
+neofetch
+man light-locker
+exit
+man light-locker
+sudo su
+exit
+vim .Xresources 
+vim .Xresources 
+cl
+hostname -I
+hostname -i
+man hostname
+apt show hostname
+cat .xinitrc | lc
+vim .xinitrc 
+cat .bashrc | lc
+vim .bashrc 
+neofetch | lpr -d $PRINTER
+neofetch |rc| lpr -P $PRINTER
+free -h --si
+free -h
+ls /var/lightdm
+ls /var/lib/lightdm
+ls /var/lib/lightdm
+sudo su
+xscreensaver
+xset
+xautolock 
+man xautolock
+cat .xinitrc 
+xscreensaver
+vim .config/i3/config
+rf .config/i3/config.old 
+la
+vim .xinitrc 
+vim .Xresources 
+vim .Xauthority 
+vim .xscreensaver 
+pgrep xscreensaver
+dm-tool
+dm-tool --help
+vim .xinitrc 
+vim .config/i3/config 
+xset led 1
+xset led 2
+xset led off
+xset led on
+exit
+man grep
+exit
+flameshot gui -p ./
+ls
+flameshot gui --help
+flameshot gui -r
+cl
+flameshot gui -r > /temp/screenshot.png
+flameshot gui -r | tee /temp/screenshot.png
+1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2cfg
+flameshot gui -r | tee /temp/screenshot.png
+rc
+cat .bash_aliases | grep terminal
+cat .bash_aliases | grep reset
+xc
+flameshot gui -r > /temp/screenshot.png
+flameshot gui -r > screenshot.png
+ls
+rf screenshot.png 
+ls
+ls
+rf *\033*
+ls
+nautilus .
+ls
+ls
+exit
+scrot -sf --line style=dash,width=1
+scrot -sf --line style=dash,width=3
+ls
+rf 2020-05-12-170038_1638x661_scrot.png 
+ls
+scrot -sf -e echo
+scrot -sf -e file
+ls
+rf 2020-05-12-170*
+scrot -sf screenshot.png -e 'xclip -selection clipboard -t image/png < $f'
+ls
+rf screenshot.png 
+exit
+ls Pictures/
+ls Pictures/ -d
+la Pictures/
+la Pictures/ | grep '/'
+mkdir Pictures/screenshots
+exit
+date +%F_%T
+exit
+man scrot
+exit
+killall discord-canary
+sudo killall discord-canary
+pgrep discord
+man xset
+vim .config/i3/config 
+man xset
+man xset
+cl
+apt show gdm3
+apt show gnome
+apts "window manager"
+apts "window manager" | grep '[installed]' -A 1
+apts "window manager" | grep "[installed]" -A 1
+apts "window manager" | grep [installed] -A 1
+apts "window manager" | grep '\[installed\]' -A 1
+apt show openbox
+apts "desktop manager" | grep '\[installed\]' -A 1
+apts "desktop environment" | grep '\[installed\]' -A 1
+cl
+cd Documents/school/2020/robot/peer\ reviews/ben\ dolliver/2020-05-12/
+ls
+vim Ben\ Dollivers\ perfect\ A+\ Technical\ Test.pages 
+vim Ben\ Dollivers\ perfect\ A+\ Technical\ Test.pages 
+unoconv Ben\ Dollivers\ perfect\ A+\ Technical\ Test.pages 
+ls
+mupdf Ben\ Dollivers\ perfect\ A+\ Technical\ Test.pdf 
+rf Ben\ Dollivers\ perfect\ A+\ Technical\ Test.pdf 
+apts "macos pages"
+cd ..
+rf 2020-05-12/
+ls
+cd ..
+cdl
+man flameshot 
+apts xscreenshot
+apts scrot
+man scrot
+scrot -sf
+ls
+iv 2020-05-12-165258_1484x917_scrot.png 
+rf 2020-05-12-165258_1484x917_scrot.png 
+scrot -sf
+iv 2020-05-12-165317_643x380_scrot.png 
+rf 2020-05-12-165317_643x380_scrot.png 
+man scrot
+scrot -sf
+man scrot
+man scrot
+man scrot
+vim .config/i3/config 
+scrot -sf ~/Pictures/screenshots/$(date +%F_%T).png -e 'xclip -selection clipboard -t image/png < $f'
+vim .config/i3/config 
+vim .config/i3/config 
+scrot -sf ~/Pictures/screenshots/$(date +%F_%T).png -e 'xclip -selection clipboard -t image/png < $f'
+man bash
+exit
+ls Pictures/screenshot
+ls Pictures/screenshots/
+ls Pictures/screenshots/
+ls Pictures/screenshots/
+vim .config/i3/config 
+rf Pictures/screenshots/*
+cd Pictures/
+ls
+mkdir old_screenshots
+mv Screenshot\ from\ 201* old_screenshots/
+ls
+cdl
+vim .config/i3blocks/blocks/timezones.sh 
+vim .config/i3blocks/blocks/temp.sh
+vim scripts/extdisp.sh 
+rf .config/i3/.config.swp 
+vim .config/i3/config 
+vim .config/i3blocks/config 
+apts dmchooser
+sudo dpkg-reconfigure lightdm
+cl
+cat /etc/lightdm/lightdm.conf
+htop
+vim .config/i3/config 
+vim .config/i3blocks/config 
+vim .config/i3/config 
+vim .config/i3status/config 
+vim .config/i3/config 
+i3bar 
+vim .config/i3/config 
+man flameshot
+exit
+man flameshot
+man flameshot
+exit

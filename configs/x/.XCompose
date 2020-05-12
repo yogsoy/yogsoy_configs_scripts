@@ -1,0 +1,36 @@
+include "%L"
+<Multi_key> <s> <v> : "š"
+<Multi_key> <S> <v> : "Š"
+
+<Multi_key> <o> <v> : "ǒ"
+<Multi_key> <O> <v> : "Ǒ"
+
+<Multi_key> <p> <i> : "π"
+<Multi_key> <P> <I> : "Π"
+
+<Multi_key> <m> <m> : "µ"
+
+<Multi_key> <.> <colon> : "∴" # therefore
+<Multi_key> <colon> <.> : "∵" # because
+
+# ipa shit
+<Multi_key> <I> <I> : "ɪ"
+<Multi_key> <colon> <colon> : "ː"
+<Multi_key> <n> <slash> : "ŋ"
+<Multi_key> <s> <h> : "ʃ"
+<Multi_key> <d> <z> : "ʒ"
+<Multi_key> <question> <question> : "ʔ"
+<Multi_key> <0> <minus> : "θ"
+<Multi_key> <B> <B> : "ʙ"
+
+<Multi_key> <E> <E> : "ᴇ" # for science
+
+# anime
+<Multi_key> <f> <p> : "🤦" # facepalm
+
+### very scary things
+
+#<n> : "ŋ"
+#<N> : "n"
+
+#include "/home/elyshea/.ipa_xcompose"
