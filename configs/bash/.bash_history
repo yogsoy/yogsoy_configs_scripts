@@ -5841,3 +5841,818 @@ exit
 man flameshot
 man flameshot
 exit
+vim .config/i3blocks/config 
+cl
+ls .config/i3/
+ls .config/i3/ -a
+vim .bashrc 
+cd .config/i3blocks/blocks/
+cd ..
+tar
+man tar
+tar cfv blocks/
+tar cfv blocks.tar blocks/
+ls
+fs blocks.tar 
+rf blocks.tar 
+cdl
+cd Documents/repositories/yogsoy_configs_scripts/
+./backup.sh 
+cdl
+vim .config/i3blocks/config 
+vim .config/i3blocks/config 
+vim .config/i3blocks/blocks/music.sh 
+cl
+htop
+man i3-sensible-terminal 
+vim .bashrc
+kdeconnect-cli
+vim .config/i3blocks/config 
+cl
+ls scripts/
+scripts/status.sh 
+rf scripts/status.sh 
+scripts/switch_workspace_5.sh 
+rf scripts/switch_workspace_5.sh 
+rf scripts/xterm.sh 
+cat scripts/wifi_connect.sh 
+rf scripts/wifi_connect.sh 
+vim scripts/cancel_shutdown.sh 
+cat scripts/shutdown_with_timeout.sh 
+vim .config/i3/config 
+flameshot config
+flameshot config
+flameshot config
+flameshot config
+flameshot config
+flameshot config
+ls .config/i3blocks/blocks/
+vim .config/i3blocks/blocks/battery.sh.bak 
+flameshot config
+xclip
+man xclip
+xclip -o
+xclip -o
+xclip -o
+flameshot config
+apts flameshot
+sudo apt update
+sudo apt upgrade
+cd Documents/repositories/yogsoy_configs_scripts/
+ls
+gitgo
+./backup.sh 
+gitgo
+cdl
+cd Documents/repositories/shamir_scavengerhunt/
+ls
+ls test1_2020-01/
+ls test2_2020-01/
+ls test1_2020-01/tests/
+ls
+vim README.md 
+gitgo
+cdl
+vim .XCompose 
+vim Documents/school/2020/robot/games/platformer\ \(godot\)/Player.gd 
+cl
+cd Documents/school/2020/maths/
+mupdf 04\ -\ Trigonometry\ Assignment\ 1\ 2020.pdf 
+cdl
+vim .XCompose 
+bc
+bc
+bc
+ls
+ls | lc
+echo `ls; ls | lc` | cb
+ls Arduino/
+ls Arduino/libraries/
+vim .XCompose 
+vim .config/i3/config 
+man i3-msg
+sl
+man teams
+teams --help
+vim .config/i3/config 
+cl
+watch sl
+sl
+cl
+echo $PRINTER
+cl
+vim .config/i3/config 
+vim .config/dunst/dunstrc 
+vim .config/i3/config 
+file Pictures/helphesowide.png 
+file Pictures/pleasehelphestoowide.png 
+convert
+cht scale image
+cl
+man convert
+convert -scale 1920x1080 Pictures/pleasehelphestoowide.png 
+convert -scale 1920x1080 Pictures/pleasehelphestoowide.png helpmepleasehewide.png
+ls
+iv helpmepleasehewide.png 
+rf helpmepleasehewide.png 
+iv Pictures/pleasehelphestoowide.png 
+man convert
+convert Pictures/pleasehelphestoowide.png -scale 1920x1080 helpmepleasehewide.png
+iv helpmepleasehewide.png 
+rf helpmepleasehewide.png 
+convert Pictures/pleasehelphestoowide.png -resize 1920x1080 helpmepleasehewide.png
+iv helpmepleasehewide.png 
+rf helpmepleasehewide.png 
+convert Pictures/pleasehelphestoowide.png -resize 1920x1080\! helpmepleasehewide.png
+iv helpmepleasehewide.png 
+mv helpmepleasehewide.png Pictures/
+convert Pictures/itssosmallyoucantseeanything.png -resize 1920x1080\! Pictures/supertiny.png
+file Pictures/itssosmallyoucantseeanything.png 
+convert Pictures/thisisntminecraftanymore.png -resize 1920x1080\! Pictures/thisisdeath.png
+file Pictures/thisisntminecraftanymore.png 
+iv Pictures/thisis*
+iv Pictures/thisisntminecraftanymore.png Pictures/thisisdeath.png 
+convert Pictures/squished\ boy.png -resize 1920x1080\! unsquished.png
+iv unsquished.png 
+convert Pictures/squished\ boy.png -resize 2000x1080\! unsquished.png
+iv unsquished.png 
+convert Pictures/squished\ boy.png -resize 2500x1080\! unsquished.png
+iv unsquished.png 
+mv unsquished.png Pictures/
+convert Pictures/squished\ boy.png -resize 3000x1080\! unsquished.png
+iv unsquished.png 
+convert Pictures/squished\ boy.png -resize 3000x700\! unsquished.png
+iv unsquished.png 
+mv unsquished.png Pictures/
+convert Pictures/vsmallnobulli.png -resize 1920x1080\! largggggminecraff.png
+iv largggggminecraff.png 
+mv largggggminecraff.png Pictures/
+cl
+ls Pictures/*gif
+iv Pictures/ytvidasagif.gif 
+iv Pictures/better\?.gif 
+cl
+cd Music/Synced/
+ls
+mpv Reol/Albums/\[2018.03.14\]\ -\ Kyokoushuu/
+ls
+mpv Moe\ Shop/Moshi\ Moshi/
+ls
+mpv Camellia/\[TBS\]\ Camellia\ \&\ Nanahira\ -\ GOIN\'\!\ \[CD\ FLAC\]/
+ls
+ls Snail\'s\ House/
+ls 八王子P\ -\ ViViD\ WAVE/
+ls 八王子P\ -\ ViViD\ WAVE/「ViViD\ WAVE」\ 八王子P\[DVD\]/
+rf 八王子P\ -\ ViViD\ WAVE/
+ls
+ls TeddyLoid/
+mpv TeddyLoid/SILENT\ PLANET\ INFINITY/
+cdl
+bc
+vim .config/i3blocks/blocks/battery.sh
+vim .config/i3blocks/blocks/battery.sh.bak 
+cl
+i3-msg
+i3-msg -
+i3-msg 'bar {
+colors {
+background #ff0000
+}
+}`
+'
+i3-msg 'bar {
+colors {
+background #ff0000
+}
+}'
+i3-msg 'bar {colors {background #ff0000}}'
+i3-msg command 'bar {colors {background #ff0000}}'
+i3-msg command bar
+i3-msg 
+i3-msg bar
+cl
+vim .config/i3/config 
+vim scripts/extdisp.sh 
+xrandr
+cl
+vim scripts/extdisp.sh 
+man xrandr
+vim .Xresources 
+vim .config/i3/config 
+vim scripts/extdisp.sh 
+vim scripts/extdisp.sh 
+vim .Xresources 
+ls /sys/class/leds
+ls
+ls /sys/class
+ls /sys/class/backlight/
+ls /sys/class/backlight/dell_backlight
+exit
+cat Documents/testing/code/tests/
+cat Documents/testing/code/tests/capslock.sh 
+exit
+vim .config/i3/config 
+fs Music/Synced/
+fs Music/Synced/ -h
+fs Music/Synced/ --si
+cl
+fs Downloads/トレント/
+ls Downloads/トレント/
+ls /sys/class/
+ls /sys/class/leds
+ls /sys/class/leds/phy0-led
+ls /sys/class/leds/phy0-led/power/
+ls /sys/class/leds/phy0-led/brightness 
+cat /sys/class/leds/phy0-led/brightness 
+echo 2 > /sys/class/leds/phy0-led/brightness 
+echo 2 | tee /sys/class/leds/phy0-led/brightness 
+echo 2 | sudo tee /sys/class/leds/phy0-led/brightness 
+mpv /dev/video2 
+mpv /dev/video21
+mpv /dev/video1
+ls scripts/
+cd Documents/testing/
+ls
+cd code/
+ls tests/
+./tests/capslock.sh 
+sudo ./tests/capslock.sh 
+vim tests/capslock.sh 
+sudo ./tests/capslock.sh 
+vim tests/capslock.sh 
+sudo ./tests/capslock.sh 
+vim tests/capslock.sh 
+sudo ./tests/capslock.sh 
+vim tests/capslock.sh 
+cdl
+vim .config/dunst/dunstrc 
+vim scripts/capslock_flash.sh
+vim .Xresources 
+vim /usr/share/fonts/X11/misc/fonts.alias 
+update-fonts-alias 
+update-fonts-alias /usr/share/fonts/truetype/
+sudo update-fonts-alias /usr/share/fonts/truetype/
+
+vim /usr/share/fonts/X11/misc/fonts.alias 
+ls
+cat .XCompose 
+q
+:q
+txt2regex 
+cl
+exit
+txt2regex 
+exit
+man colrm
+playerctl metadata artist
+playerctl metadata artist | cc
+echo "これは僕の死ぬ歌"
+echo "これは僕の死ぬ歌" | head -c 10
+echo "これは僕の死ぬ歌" | head -c 11
+echo "これは僕の死ぬ歌" | 
+echo "これは僕の死ぬ歌" | head -c 10
+echo "これは僕の死ぬ歌" | colrm 10
+echo "これは僕の死ぬ歌" | colrm 10
+echo "これは僕の死ぬ歌" | grep -o '..$'
+echo "これは僕の死ぬ歌" | grep -o '..'
+echo "これは僕の死ぬ歌" | grep -o '.'
+echo "これは僕の死ぬ歌" | grep -o '^..'
+echo "これは僕の死ぬ歌" | grep -o '^.{10}'
+echo "これは僕の死ぬ歌" | egrep -o '^.{10}'
+echo "これは僕の死ぬ歌" | grep -o '^.{10}'
+echo "これは僕の死ぬ歌" | grep -o '^.'
+echo "これは僕の死ぬ歌" | grep -o '^.\{10\}'
+echo "これは僕の死ぬ歌" | grep -o '^.'
+man sed
+exit
+cd Documents/testing/
+ls
+cd code/
+ls
+ls programs/
+ls tests/
+cat tests/bash_clex.sh 
+cdl
+cd Music/sounds/
+ls
+mpv doing\ my\ best\ never\ seems\ to\ be\ enough.mp3 
+mpv battery_low.mp3 
+cd ..
+mpv deeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.wav 
+mpv doorbell2.wav 
+cdl
+colrm 
+colrm 3
+man colrm
+vim .config/i3blocks/blocks/music.sh 
+sed .config/i3blocks/blocks/music.sh 's/head\ -c/colrm/g'
+sed 's/head -c/colrm/g' .config/i3blocks/blocks/music.sh 
+sed 's/head -c/colrm/g' .config/i3blocks/blocks/music.sh -i
+vim .config/i3blocks/blocks/music.sh 
+vim .config/i3blocks/blocks/music.sh 
+vim .config/i3blocks/blocks/music.sh 
+playerctl metadata
+man playerctl
+vim .config/i3blocks/blocks/music.sh 
+cl
+vim .config/i3blocks/blocks/music.sh 
+htop
+exit
+xclip -o | cc
+xclip -o > Documents/testing/data/bandcamp_CurrencyData_2020-05-15.txt
+cd Documents/testing/data/
+vim bandcamp_CurrencyData_2020-05-15.txt 
+vim bandcamp_CurrencyData_2020-05-15.txt 
+jq
+man json
+json bandcamp_CurrencyData_2020-05-15.txt 
+json bandcamp_CurrencyData_2020-05-15.txt > bandcamp_CurrencyData_2020-05-15.json 
+vim bandcamp_CurrencyData_2020-05-15.json 
+exit
+vrms
+apti vrms
+vrms
+vrms
+apt
+apt list
+apt list -q
+apt list > aptlist.txt
+vim aptlist.txt 
+lc aptlist.txt 
+fs aptlist.txt 
+rf aptlist.txt 
+apts gnu chess
+apti gnuchess
+gnuchess
+ls
+cl
+man gnuchess
+gnuchess -x
+man gnuchess
+gnuchess -g
+man gnuchess
+gnuchess -p
+gnuchess -p
+exit
+man howdy
+sudo howdy config
+cl
+sudo -k echo e
+xfontsel
+la
+ls /etc/fonts/
+ls /etc/fonts/conf.d/
+ls /etc/fonts/conf.avail/
+vim /etc/fonts/fonts.conf 
+ls /usr/share/fonts
+ls /usr/share/fonts/X11/
+ls /usr/share/fonts/X11/Type1/
+ls /usr/share/fonts/X11/util/
+ls /usr/share/fonts/X11/misc/
+apts emoji
+apts emoji font
+ls /usr/share/fonts/X11/misc/
+ls /usr/share/fonts/X11/
+ls /usr/share/fonts/X11/util/
+ls /usr/share/fonts/X11/Type1/
+ls /usr/share/fonts/X11/misc/
+ls /usr/share/fonts/
+ls /usr/share/fonts/truetype/
+ls /usr/share/fonts/truetype/noto/
+vim .Xresources 
+vim .Xresources 
+cl
+cd Music/Synced/
+ls
+mpv Camellia/かめりあ\ -\ ふぉーす！/
+ls
+mpv Reol/Albums/\[2018.10.10\]\ -\ Jijitsujou/
+ls Reol/Albums/\[2018.10.10\]\ -\ Jijitsujou/
+cd Reol/Albums/\[2018.10.10\]\ -\ Jijitsujou/
+ls
+mpv
+mpv .
+fs *
+bc
+ls
+mpv .
+ls
+man mpv
+mpv
+echo *
+man ls
+man ls
+ls
+ls -v
+mpv `ls -v`
+echo *
+mpv '$(ls -v)'
+mpv '${ls -v}'
+mpv "${ls -v}"
+mpv "$(ls -v)"
+echo `ls -v`
+echo `ls -vl`
+echo `ls -1v`
+echo `ls -1v`
+mpv `ls -1v`
+echo *(n)
+echo ?\ -*
+echo ?\ -* ?\ -*
+mpv ?\ -* ?\ -*
+ls -1
+ls
+ls | sort
+ls | sort -V | 
+ls | sort -V | mpv
+ls | sort -V | mpv -
+mpv $(ls | sort -V)
+man ls
+mpv $(ls -b | sort -V)
+ls -b
+cht m3u
+ls -1
+ls -1v
+ls -1v > playlist.m3u
+mpv playlist.m3u 
+mpv .
+ls
+cd ..
+mpv \[2018.10.10\]\ -\ Jijitsujou/playlist.m3u 
+rf \[2018.10.10\]\ -\ Jijitsujou/playlist.m3u 
+cd ..
+..
+ls
+mpv Snail\'s\ House/Snail\'s\ House\ -\ Love\ Magic/
+ls
+mpv Goose\ House/Flight/
+curl ifconfig.co
+fetch
+vim Documents/work/admin/abn.txt 
+playerctl metadata title
+playerctl metadata title | cb
+exit
+vim .bash_aliases 
+rl
+exit
+sudo mount /dev/sda
+sudo mount /dev/sdb1 /mnt/usb
+sudo gpartedbin 
+sudo umount /mnt/usb
+sudo gpartedbin 
+exit
+man qemu-system-x86_64 
+man dhclient
+man qemu-system-x86_64 
+htop
+apts unity
+apts unity | grep installed
+exit
+ls Unity/
+ls Unity/Hub/
+ls Unity/Hub/Editor/2019.3.7f1/
+rf Unity/
+exit
+ls /mnt
+ls /mnt/usb/
+fdisk -l
+sudo fdisk -l
+sudo fdisk -l /dev/sda
+sudo fdisk /dev/sda
+cl
+exit
+man dd
+sudo killall dd
+exit
+fs Downloads/archlinux-2020.05.01-x86_64.iso 
+exit
+cd Music/Synced/
+ls
+ls EGOIST\ -\ GREATEST\ HITS/
+cd EGOIST\ -\ GREATEST\ HITS/
+mpv *
+ls
+cd ..
+cd Reol/Albums/\[2018.10.10\]\ -\ Jijitsujou/
+ls
+mpv *
+mpv .
+cd ../../..
+cd EGOIST\ -\ GREATEST\ HITS/
+mpv .
+cd Music/Synced/
+ls -R
+ls -R -v1
+ls -R -v1 | grep '.flac$'
+fs *
+man fs
+man du
+man du
+du
+man du
+du -a
+du -a | grep '.flac$'
+du -a | grep '.flac$' | sort
+du -a | grep '.flac$' | sort -r
+du -a | grep '.flac$' | sort
+man du
+du -ah | grep '.flac$' | sort
+du -ah | grep '.flac$' | sort -r
+du -ah | grep '.flac$' | sort
+man sort
+du -ah | grep '.flac$' | sort -h
+du -ah | grep '.flac$' | sort -h -r
+ls Music/
+exit
+ls Music/
+exit
+exit
+man zsh
+apts zsh
+apti zsh
+zsh
+cl
+cd Documents/testing/data/
+ls
+curl https://github.com/LukeSmithxyz/voidrice/blob/master/.local/share/larbs/emoji
+curl https://github.com/LukeSmithxyz/voidrice/raw/master/.local/share/larbs/emoji
+curl https://raw.githubusercontent.com/LukeSmithxyz/voidrice/master/.local/share/larbs/emoji
+curl https://raw.githubusercontent.com/LukeSmithxyz/voidrice/master/.local/share/larbs/emoji > emoji.txt
+vim emoji.txt 
+vim emoji.txt 
+cdl
+cd Downloads/
+man qemu
+apts qemu
+apti qemu
+apts ^qemu
+apti qemu-kvm
+man qemu-system
+qemu-system-x86_64 archlinux-2020.05.01-x86_64.iso 
+ls
+qemu-system-x86_64 archlinux-2020.05.01-x86_64.iso 
+qemu-system-x86_64 -m 2048 -enable-kvm archlinux-2020.05.01-x86_64.iso 
+man qemu-system-x86_64 
+qemu-system-x86_64 -m 2048 -enable-kvm -drive file=/dev/sdb1,index=1,media=disk archlinux-2020.05.01-x86_64.iso 
+sudo qemu-system-x86_64 -m 2048 -enable-kvm -drive file=/dev/sdb1,index=1,media=disk archlinux-2020.05.01-x86_64.iso 
+cl
+cdl
+lvdisplay
+sudo lvdisplay
+fs .
+ls Documents/repositories/
+baobab 
+cd Downloads/
+ls
+dd if=archlinux-2020.05.01-x86_64.iso of=/dev/sdb
+sudo dd if=archlinux-2020.05.01-x86_64.iso of=/dev/sdb
+sudo dd if=archlinux-2020.05.01-x86_64.iso of=/dev/sdb status=progress
+mount
+cdl
+htop
+cl
+cd Music/
+ls
+ls michael
+mpv nicemessage.wav 
+mpv someshit.mp3 
+ls
+mpv wtnt.mp3 
+ls
+mpv recaman.mp3 
+ls
+cp recaman.mp3 recaman.wav
+mpv recaman.wav 
+ls
+vim recaman.wav 
+file recaman.mp3 
+rf recaman.wav 
+cp recaman.mp3 recaman.mid
+playmidi recaman.mid 
+apts midi | grep installed
+wildmidi recaman.mid 
+ls
+mpv padadowo.mp3 
+aplay padadowo.mp3 
+vim ~/.Xresources 
+ls
+mpv padowo\ padowo.mp3 
+mpv merry\ hrriismtas\,\ bithiti\ ih.mp3 
+wildmidi A005132.mid 
+ls
+mpv bell.wav 
+mpv bumblesnuff\ crimpysnitch.wav 
+mpv doorbell2.wav 
+ls
+mpv goauld.wav 
+mpv full-shrek1.mp3 
+wildmidi rulebrit.mid 
+ls
+mpv wiuergiurgfwiuefweiufhweiufhweiuetwdjefegregbergberbguerrgburgueubg.wav 
+cdl
+vim Downloads/message
+vim Downloads/message2020-05-17.txt 
+st
+cl
+htpo
+htop
+bc
+gnome-mines 
+ls -l
+ls -ll
+ls -l
+ls -ll
+ls -al
+ls -a
+cl
+man stow
+apts stow
+apti stow
+man stow
+bc
+teams
+bc
+gnome-calculator 
+man gnome-calculator 
+apts calculator
+xcalc 
+apts speedcrunch
+apti speedcrunch
+speedcrunch 
+apti z80asm
+apti z80asm z80dasm
+speedcrunch 
+bc
+speedcrunch 
+cd Documents/repositories/
+gitc https://github.com/cyrildiagne/ar-cptext
+cd ar-cptext/
+ls
+ls desktop/
+cd desktop/
+ch index.html 
+cd ..
+ls
+cd mobile/
+ls
+ls app/
+ls app/src/
+ls app/src/main/
+ls gradle
+vim README.md 
+vim README.md 
+cd ..
+cd desktop/
+ls
+vim main.js 
+apts electron
+apts ^electron
+electron
+sudo npm install -g electron-prebuilt
+electron .
+cdl
+sudo npm install -g electron-prebuilt
+sudo npm install -g electron
+cd Documents/repositories/ar-cptext/
+cd desktop/
+electron .
+cd
+rf node_modules/electron
+rf node_modules/electron*
+sudo npm install -g electron
+sudo rm -rf /usr/lib/node_modules/electron
+sudo npm install -g electron
+sudo su
+npm install -g electron
+cd Documents/repositories/ar-cptext/
+cd desktop/
+electron .
+cdl
+npm install electron --save-dev
+cd Documents/repositories/ar-cptext/desktop/
+electron .
+sudo rm -rf /usr/lib/node_modules/electron/
+electron .
+cdl
+npm install electron --save-dev
+npm audit fix
+cd Documents/repositories/ar-cptext/desktop/
+electron .
+npm install electron --save-dev
+electron
+ls
+rf node_modules/
+rf package*
+ls
+cdl
+ls
+ls node_modules/
+cl
+npm install electron -g
+sudo npm install electron -g
+electron Documents/repositories/ar-cptext/desktop/
+npm search electron
+rf node_modules/electron/
+sudo rm -rf /usr/lib/node_modules/electron/
+sudo apt update
+sudo apt upgrade
+sudo npm install electron -g
+electron 
+sudo rm -rf /usr/lib/node_modules/electron/
+sudo npm install electron --save-dev
+npm install electron --save-dev
+rl
+ls
+cat .XCompose 
+vim .Xresources 
+ls
+cl
+cl
+ls
+cl
+la
+vim .config/termite/config 
+apts termite
+cd Documents/repositories/
+gitc https://github.com/thestinger/termite
+cd termite/
+ls
+make
+cd ..
+gitc --recursive https://github.com/thestinger/termite
+rf termite/
+gitc --recursive https://github.com/thestinger/termite
+cd termite/
+make
+apts ^vte
+cd ..
+gitc https://github.com/thestinger/vte-ng
+cd vte-ng/
+ls
+make
+./autogen.sh 
+ls doc/
+vim doc/readme.txt 
+vim doc/ambiguous.txt 
+cd ..
+ls
+cd termite/
+ls
+make
+sudo make
+ls ../vte-ng/
+ls ../vte-ng/src/
+sudo apt install -y g++ libgtk-3-dev gtk-doc-tools gnutls-bin     valac intltool libpcre2-dev libglib3.0-cil-dev libgnutls28-dev     libgirepository1.0-dev libxml2-utils gperf build-essential
+cd ..
+echo export LIBRARY_PATH="/usr/include/gtk-3.0:$LIBRARY_PATH"
+cd vte-ng/
+./autogen.sh 
+sudo make install
+..
+cd termite/
+make
+..
+vte-ng/
+ls
+vtop
+vtop
+cd ..
+rf vte-ng/ termite/
+sudo rf vte-ng/ termite/
+sudo rm -rf vte-ng/ termite/
+wget https://raw.githubusercontent.com/Corwind/termite-install/master/termite-install.sh
+ls
+chx termite-install.sh 
+./termite-install.sh 
+apts build-essential
+sudo apt-get install -y git g++ libgtk-3-dev gtk-doc-tools gnutls-bin valac intltool libpcre2-dev libglib3.0-cil-dev libgnutls28-dev libgirepository1.0-dev libxml2-utils gperf
+cd termite/
+ls
+cd ..
+cd vte-ng/
+ls
+vim bindings/vala/app.vala 
+cd ..
+cd vte-ng/
+./autogen.sh 
+make
+sudo make install
+cd ..
+cd termite/
+make
+sudo make install
+cdl
+vim .Xresources 
+vim .config/termite/config
+cp Documents/repositories/termite/config .config/termite/
+vim .config/termite/config
+cl
+ls
+cl
+la
+la
+vim .config/termite/config 
+ls /
+vim /etc/fstab
+vim .config/i3/config 
+vim .bashrc
+rl

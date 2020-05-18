@@ -8,6 +8,10 @@ include "%L"
 <Multi_key> <p> <i> : "π"
 <Multi_key> <P> <I> : "Π"
 
+<Multi_key> <a> <o> : "å"
+<Multi_key> <A> <o> : "Å"
+
+<Multi_key> <a> <a> : "α"
 <Multi_key> <m> <m> : "µ"
 
 <Multi_key> <.> <colon> : "∴" # therefore
@@ -27,6 +31,9 @@ include "%L"
 
 # anime
 <Multi_key> <f> <p> : "🤦" # facepalm
+<Multi_key> <o> <k> : "👌" # ok hand
+<Multi_key> <t> <u> : "👍" # thumbs up
+<Multi_key> <s> <a> : "🤷" # shrug ("shrug arms")
 
 ### very scary things
 

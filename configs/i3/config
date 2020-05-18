@@ -3,7 +3,7 @@
 ### Definition
 
 set $mod Mod4
-set $TERM urxvt
+set $TERM termite
 set $BROWSER google-chrome
 
 ### Settings
