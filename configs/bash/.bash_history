@@ -7431,3 +7431,32 @@ rl
 rf Desktop/
 exit
 targz downloads.tar.gz Downloads/
+ls Desktop/
+la Desktop/
+fs Videos/
+targz videos.tar.gz Videos/
+ls
+fs move_arch/
+cd Documents/repositories/yogsoy_configs_scripts/
+./backup.sh 
+ls
+ls configs/
+ls configs/bash/
+ls configs/bash/ -a
+gitgo
+gitgo
+cdl
+cd Documents/school/2020/robot/games/DVD\ Video\ \(godot\)/
+ls
+cd release/
+ls
+./DVD\ Video.x86_64 
+cdl
+man mv
+vim .bash_aliases 
+cd Documents/repositories/yogsoy_configs_scripts/
+./backup.sh 
+gitgo
+cdl
+vim .bashrc
+rl

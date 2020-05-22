@@ -21,7 +21,7 @@ $\ =\
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1590171366,,"wq"
+|2,0,1590171443,,"wq"
 :w
 |2,0,1590171365,,"w"
 :q
@@ -145,36 +145,62 @@ $\ =\
 |3,0,36,0,1,0,1589793227,"#"
 
 # File marks:
-'0  44  0  ~/.bash_aliases
-|4,48,44,0,1590171366,"~/.bash_aliases"
-'1  1  12  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,49,1,12,1590168556,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
-'2  1  0  ~/.bash_plugins/targz.sh
-|4,50,1,0,1590168199,"~/.bash_plugins/targz.sh"
-'3  1  168  ~/.bash_plugins/targz.sh
-|4,51,1,168,1590167446,"~/.bash_plugins/targz.sh"
-'4  1  9  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,52,1,9,1590164580,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
-'5  4  12  ~/.bash_plugins/targz.sh
-|4,53,4,12,1590163248,"~/.bash_plugins/targz.sh"
-'6  2  12  ~/.bash_plugins/targz.sh
-|4,54,2,12,1590163248,"~/.bash_plugins/targz.sh"
-'7  4  12  ~/.bash_plugins/targz.sh
-|4,55,4,12,1590163248,"~/.bash_plugins/targz.sh"
-'8  2  12  ~/.bash_plugins/targz.sh
-|4,56,2,12,1590163248,"~/.bash_plugins/targz.sh"
-'9  1  0  ~/.bash_plugins/etymology.sh
-|4,57,1,0,1590162933,"~/.bash_plugins/etymology.sh"
+'0  154  10  ~/.bashrc
+|4,48,154,10,1590171443,"~/.bashrc"
+'1  1  10  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,49,1,10,1590171377,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+'2  44  0  ~/.bash_aliases
+|4,50,44,0,1590171366,"~/.bash_aliases"
+'3  1  12  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,51,1,12,1590168556,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+'4  1  0  ~/.bash_plugins/targz.sh
+|4,52,1,0,1590168199,"~/.bash_plugins/targz.sh"
+'5  1  168  ~/.bash_plugins/targz.sh
+|4,53,1,168,1590167446,"~/.bash_plugins/targz.sh"
+'6  1  9  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,54,1,9,1590164580,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+'7  1  9  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,55,1,9,1590164580,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+'8  4  12  ~/.bash_plugins/targz.sh
+|4,56,4,12,1590163248,"~/.bash_plugins/targz.sh"
+'9  2  12  ~/.bash_plugins/targz.sh
+|4,57,2,12,1590163248,"~/.bash_plugins/targz.sh"
 
 # Jumplist (newest first):
+-'  154  10  ~/.bashrc
+|4,39,154,10,1590171443,"~/.bashrc"
+-'  2  0  ~/.bashrc
+|4,39,2,0,1590171437,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1590171433,"~/.bashrc"
+-'  1  10  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,10,1590171377,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  1  10  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,10,1590171377,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
 -'  44  0  ~/.bash_aliases
 |4,39,44,0,1590171366,"~/.bash_aliases"
+-'  44  0  ~/.bash_aliases
+|4,39,44,0,1590171366,"~/.bash_aliases"
+-'  44  0  ~/.bash_aliases
+|4,39,44,0,1590171366,"~/.bash_aliases"
+-'  44  0  ~/.bash_aliases
+|4,39,44,0,1590171366,"~/.bash_aliases"
+-'  1  0  ~/.bash_aliases
+|4,39,1,0,1590171312,"~/.bash_aliases"
+-'  1  0  ~/.bash_aliases
+|4,39,1,0,1590171312,"~/.bash_aliases"
+-'  1  0  ~/.bash_aliases
+|4,39,1,0,1590171312,"~/.bash_aliases"
 -'  1  0  ~/.bash_aliases
 |4,39,1,0,1590171312,"~/.bash_aliases"
 -'  1  12  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
 |4,39,1,12,1590168556,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
 -'  1  12  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
 |4,39,1,12,1590168556,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  1  12  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,12,1590168556,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  1  12  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,12,1590168556,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.bash_plugins/targz.sh
 |4,39,1,0,1590168199,"~/.bash_plugins/targz.sh"
 -'  1  0  ~/.bash_plugins/targz.sh
@@ -183,6 +209,54 @@ $\ =\
 |4,39,1,0,1590168199,"~/.bash_plugins/targz.sh"
 -'  1  0  ~/.bash_plugins/targz.sh
 |4,39,1,0,1590168199,"~/.bash_plugins/targz.sh"
+-'  1  0  ~/.bash_plugins/targz.sh
+|4,39,1,0,1590168199,"~/.bash_plugins/targz.sh"
+-'  1  0  ~/.bash_plugins/targz.sh
+|4,39,1,0,1590168199,"~/.bash_plugins/targz.sh"
+-'  1  0  ~/.bash_plugins/targz.sh
+|4,39,1,0,1590168199,"~/.bash_plugins/targz.sh"
+-'  1  0  ~/.bash_plugins/targz.sh
+|4,39,1,0,1590168199,"~/.bash_plugins/targz.sh"
+-'  1  0  ~/.bash_plugins/targz.sh
+|4,39,1,0,1590168199,"~/.bash_plugins/targz.sh"
+-'  1  0  ~/.bash_plugins/targz.sh
+|4,39,1,0,1590168199,"~/.bash_plugins/targz.sh"
+-'  1  0  ~/.bash_plugins/targz.sh
+|4,39,1,0,1590168199,"~/.bash_plugins/targz.sh"
+-'  1  0  ~/.bash_plugins/targz.sh
+|4,39,1,0,1590168199,"~/.bash_plugins/targz.sh"
+-'  1  0  ~/.bash_plugins/targz.sh
+|4,39,1,0,1590168199,"~/.bash_plugins/targz.sh"
+-'  1  0  ~/.bash_plugins/targz.sh
+|4,39,1,0,1590168199,"~/.bash_plugins/targz.sh"
+-'  1  0  ~/.bash_plugins/targz.sh
+|4,39,1,0,1590168199,"~/.bash_plugins/targz.sh"
+-'  1  0  ~/.bash_plugins/targz.sh
+|4,39,1,0,1590168199,"~/.bash_plugins/targz.sh"
+-'  1  168  ~/.bash_plugins/targz.sh
+|4,39,1,168,1590167446,"~/.bash_plugins/targz.sh"
+-'  1  168  ~/.bash_plugins/targz.sh
+|4,39,1,168,1590167446,"~/.bash_plugins/targz.sh"
+-'  1  168  ~/.bash_plugins/targz.sh
+|4,39,1,168,1590167446,"~/.bash_plugins/targz.sh"
+-'  1  168  ~/.bash_plugins/targz.sh
+|4,39,1,168,1590167446,"~/.bash_plugins/targz.sh"
+-'  1  168  ~/.bash_plugins/targz.sh
+|4,39,1,168,1590167446,"~/.bash_plugins/targz.sh"
+-'  1  168  ~/.bash_plugins/targz.sh
+|4,39,1,168,1590167446,"~/.bash_plugins/targz.sh"
+-'  1  168  ~/.bash_plugins/targz.sh
+|4,39,1,168,1590167446,"~/.bash_plugins/targz.sh"
+-'  1  168  ~/.bash_plugins/targz.sh
+|4,39,1,168,1590167446,"~/.bash_plugins/targz.sh"
+-'  1  168  ~/.bash_plugins/targz.sh
+|4,39,1,168,1590167446,"~/.bash_plugins/targz.sh"
+-'  1  168  ~/.bash_plugins/targz.sh
+|4,39,1,168,1590167446,"~/.bash_plugins/targz.sh"
+-'  1  168  ~/.bash_plugins/targz.sh
+|4,39,1,168,1590167446,"~/.bash_plugins/targz.sh"
+-'  1  168  ~/.bash_plugins/targz.sh
+|4,39,1,168,1590167446,"~/.bash_plugins/targz.sh"
 -'  1  168  ~/.bash_plugins/targz.sh
 |4,39,1,168,1590167446,"~/.bash_plugins/targz.sh"
 -'  1  168  ~/.bash_plugins/targz.sh
@@ -207,6 +281,54 @@ $\ =\
 |4,39,8,0,1590167366,"~/NERD_tree_1"
 -'  8  0  ~/NERD_tree_1
 |4,39,8,0,1590167366,"~/NERD_tree_1"
+-'  8  0  ~/NERD_tree_1
+|4,39,8,0,1590167366,"~/NERD_tree_1"
+-'  8  0  ~/NERD_tree_1
+|4,39,8,0,1590167366,"~/NERD_tree_1"
+-'  8  0  ~/NERD_tree_1
+|4,39,8,0,1590167366,"~/NERD_tree_1"
+-'  8  0  ~/NERD_tree_1
+|4,39,8,0,1590167366,"~/NERD_tree_1"
+-'  8  0  ~/NERD_tree_1
+|4,39,8,0,1590167366,"~/NERD_tree_1"
+-'  8  0  ~/NERD_tree_1
+|4,39,8,0,1590167366,"~/NERD_tree_1"
+-'  8  0  ~/NERD_tree_1
+|4,39,8,0,1590167366,"~/NERD_tree_1"
+-'  8  0  ~/NERD_tree_1
+|4,39,8,0,1590167366,"~/NERD_tree_1"
+-'  8  0  ~/NERD_tree_1
+|4,39,8,0,1590167366,"~/NERD_tree_1"
+-'  8  0  ~/NERD_tree_1
+|4,39,8,0,1590167366,"~/NERD_tree_1"
+-'  8  0  ~/NERD_tree_1
+|4,39,8,0,1590167366,"~/NERD_tree_1"
+-'  8  0  ~/NERD_tree_1
+|4,39,8,0,1590167366,"~/NERD_tree_1"
+-'  8  0  ~/NERD_tree_1
+|4,39,8,0,1590167366,"~/NERD_tree_1"
+-'  8  0  ~/NERD_tree_1
+|4,39,8,0,1590167366,"~/NERD_tree_1"
+-'  8  0  ~/NERD_tree_1
+|4,39,8,0,1590167366,"~/NERD_tree_1"
+-'  8  0  ~/NERD_tree_1
+|4,39,8,0,1590167366,"~/NERD_tree_1"
+-'  8  0  ~/NERD_tree_1
+|4,39,8,0,1590167366,"~/NERD_tree_1"
+-'  8  0  ~/NERD_tree_1
+|4,39,8,0,1590167366,"~/NERD_tree_1"
+-'  8  0  ~/NERD_tree_1
+|4,39,8,0,1590167366,"~/NERD_tree_1"
+-'  8  0  ~/NERD_tree_1
+|4,39,8,0,1590167366,"~/NERD_tree_1"
+-'  8  0  ~/NERD_tree_1
+|4,39,8,0,1590167366,"~/NERD_tree_1"
+-'  8  0  ~/NERD_tree_1
+|4,39,8,0,1590167366,"~/NERD_tree_1"
+-'  8  0  ~/NERD_tree_1
+|4,39,8,0,1590167366,"~/NERD_tree_1"
+-'  8  0  ~/NERD_tree_1
+|4,39,8,0,1590167366,"~/NERD_tree_1"
 -'  1  0  ~/NERD_tree_1
 |4,39,1,0,1590167363,"~/NERD_tree_1"
 -'  1  0  ~/NERD_tree_1
@@ -223,152 +345,44 @@ $\ =\
 |4,39,1,0,1590167363,"~/NERD_tree_1"
 -'  1  0  ~/NERD_tree_1
 |4,39,1,0,1590167363,"~/NERD_tree_1"
--'  1  9  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,39,1,9,1590164580,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
--'  1  9  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,39,1,9,1590164580,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
--'  1  9  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,39,1,9,1590164580,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
--'  1  9  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,39,1,9,1590164580,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
--'  1  9  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,39,1,9,1590164580,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
--'  1  9  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,39,1,9,1590164580,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
--'  1  9  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,39,1,9,1590164580,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
--'  1  9  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,39,1,9,1590164580,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
--'  4  12  ~/.bash_plugins/targz.sh
-|4,39,4,12,1590163248,"~/.bash_plugins/targz.sh"
--'  2  12  ~/.bash_plugins/targz.sh
-|4,39,2,12,1590163248,"~/.bash_plugins/targz.sh"
--'  4  12  ~/.bash_plugins/targz.sh
-|4,39,4,12,1590163248,"~/.bash_plugins/targz.sh"
--'  2  12  ~/.bash_plugins/targz.sh
-|4,39,2,12,1590163248,"~/.bash_plugins/targz.sh"
--'  2  12  ~/.bash_plugins/targz.sh
-|4,39,2,12,1590163248,"~/.bash_plugins/targz.sh"
--'  4  12  ~/.bash_plugins/targz.sh
-|4,39,4,12,1590163248,"~/.bash_plugins/targz.sh"
--'  2  12  ~/.bash_plugins/targz.sh
-|4,39,2,12,1590163248,"~/.bash_plugins/targz.sh"
--'  4  12  ~/.bash_plugins/targz.sh
-|4,39,4,12,1590163248,"~/.bash_plugins/targz.sh"
--'  2  12  ~/.bash_plugins/targz.sh
-|4,39,2,12,1590163248,"~/.bash_plugins/targz.sh"
--'  2  12  ~/.bash_plugins/targz.sh
-|4,39,2,12,1590163248,"~/.bash_plugins/targz.sh"
--'  4  12  ~/.bash_plugins/targz.sh
-|4,39,4,12,1590163248,"~/.bash_plugins/targz.sh"
--'  2  12  ~/.bash_plugins/targz.sh
-|4,39,2,12,1590163248,"~/.bash_plugins/targz.sh"
--'  4  12  ~/.bash_plugins/targz.sh
-|4,39,4,12,1590163248,"~/.bash_plugins/targz.sh"
--'  2  12  ~/.bash_plugins/targz.sh
-|4,39,2,12,1590163248,"~/.bash_plugins/targz.sh"
--'  2  12  ~/.bash_plugins/targz.sh
-|4,39,2,12,1590163248,"~/.bash_plugins/targz.sh"
--'  4  12  ~/.bash_plugins/targz.sh
-|4,39,4,12,1590163248,"~/.bash_plugins/targz.sh"
--'  2  12  ~/.bash_plugins/targz.sh
-|4,39,2,12,1590163248,"~/.bash_plugins/targz.sh"
--'  4  12  ~/.bash_plugins/targz.sh
-|4,39,4,12,1590163248,"~/.bash_plugins/targz.sh"
--'  2  12  ~/.bash_plugins/targz.sh
-|4,39,2,12,1590163248,"~/.bash_plugins/targz.sh"
--'  2  12  ~/.bash_plugins/targz.sh
-|4,39,2,12,1590163248,"~/.bash_plugins/targz.sh"
--'  1  0  ~/.bash_plugins/etymology.sh
-|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
--'  1  0  ~/.bash_plugins/etymology.sh
-|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
--'  1  0  ~/.bash_plugins/etymology.sh
-|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
--'  1  0  ~/.bash_plugins/etymology.sh
-|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
--'  1  0  ~/.bash_plugins/etymology.sh
-|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
--'  1  0  ~/.bash_plugins/etymology.sh
-|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
--'  1  0  ~/.bash_plugins/etymology.sh
-|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
--'  1  0  ~/.bash_plugins/etymology.sh
-|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
--'  1  0  ~/.bash_plugins/etymology.sh
-|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
--'  1  0  ~/.bash_plugins/etymology.sh
-|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
--'  1  0  ~/.bash_plugins/etymology.sh
-|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
--'  1  0  ~/.bash_plugins/etymology.sh
-|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
--'  1  0  ~/.bash_plugins/etymology.sh
-|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
--'  1  0  ~/.bash_plugins/etymology.sh
-|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
--'  1  0  ~/.bash_plugins/etymology.sh
-|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
--'  1  0  ~/.bash_plugins/etymology.sh
-|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
--'  1  0  ~/.bash_plugins/etymology.sh
-|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
--'  1  0  ~/.bash_plugins/etymology.sh
-|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
--'  1  0  ~/.bash_plugins/etymology.sh
-|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
--'  1  0  ~/.bash_plugins/etymology.sh
-|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
--'  1  0  ~/.bash_plugins/etymology.sh
-|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
--'  1  0  ~/.bash_plugins/etymology.sh
-|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
--'  1  0  ~/.bash_plugins/etymology.sh
-|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
--'  1  0  ~/.bash_plugins/etymology.sh
-|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
--'  1  0  ~/.bash_plugins/etymology.sh
-|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
--'  1  0  ~/.bash_plugins/etymology.sh
-|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
--'  1  0  ~/.bash_plugins/etymology.sh
-|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
--'  1  0  ~/.bash_plugins/etymology.sh
-|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
--'  1  0  ~/.bash_plugins/etymology.sh
-|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
--'  1  0  ~/.bash_plugins/etymology.sh
-|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
--'  1  0  ~/.bash_plugins/etymology.sh
-|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
--'  1  0  ~/.bash_plugins/etymology.sh
-|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
--'  3  0  ~/.bash_plugins/targz.sh
-|4,39,3,0,1590162770,"~/.bash_plugins/targz.sh"
--'  3  0  ~/.bash_plugins/targz.sh
-|4,39,3,0,1590162770,"~/.bash_plugins/targz.sh"
--'  1  0  ~/.bash_plugins/targz.sh
-|4,39,1,0,1590162770,"~/.bash_plugins/targz.sh"
--'  1  0  ~/.bash_plugins/targz.sh
-|4,39,1,0,1590162770,"~/.bash_plugins/targz.sh"
--'  3  0  ~/.bash_plugins/targz.sh
-|4,39,3,0,1590162770,"~/.bash_plugins/targz.sh"
--'  3  0  ~/.bash_plugins/targz.sh
-|4,39,3,0,1590162770,"~/.bash_plugins/targz.sh"
--'  1  0  ~/.bash_plugins/targz.sh
-|4,39,1,0,1590162770,"~/.bash_plugins/targz.sh"
--'  1  0  ~/.bash_plugins/targz.sh
-|4,39,1,0,1590162770,"~/.bash_plugins/targz.sh"
--'  3  0  ~/.bash_plugins/targz.sh
-|4,39,3,0,1590162770,"~/.bash_plugins/targz.sh"
--'  3  0  ~/.bash_plugins/targz.sh
-|4,39,3,0,1590162770,"~/.bash_plugins/targz.sh"
--'  1  0  ~/.bash_plugins/targz.sh
-|4,39,1,0,1590162770,"~/.bash_plugins/targz.sh"
--'  1  0  ~/.bash_plugins/targz.sh
-|4,39,1,0,1590162770,"~/.bash_plugins/targz.sh"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1590167363,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1590167363,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1590167363,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1590167363,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1590167363,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1590167363,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1590167363,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1590167363,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1590167363,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1590167363,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1590167363,"~/NERD_tree_1"
 
 # History of marks within files (newest to oldest):
+
+> ~/.bashrc
+	*	1590171442	0
+	"	154	10
+	^	154	11
+	.	154	11
+	+	154	11
+
+> ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+	*	1590171377	0
+	"	1	10
+	^	1	11
+	.	1	10
+	+	1	10
 
 > ~/.bash_aliases
 	*	1590171365	0
@@ -378,13 +392,6 @@ $\ =\
 	+	74	5
 	+	75	0
 	+	5	0
-
-> ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-	*	1590168556	0
-	"	1	12
-	^	1	13
-	.	1	12
-	+	1	12
 
 > ~/.bash_plugins/targz.sh
 	*	1590168196	0
@@ -612,13 +619,6 @@ $\ =\
 > ~/ctf/google/2019/beginner/3/family/Users/Family/Documents/credentials.txt
 	*	1589804763	0
 	"	1	0
-
-> ~/.bashrc
-	*	1589804423	0
-	"	110	0
-	^	154	23
-	.	154	22
-	+	154	22
 
 > ~/ctf/google/2019/beginner/3/family/Setup.log
 	*	1589804368	0

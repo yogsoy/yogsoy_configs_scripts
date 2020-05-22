@@ -151,4 +151,4 @@ shopt -s dotglob
 
 export EDITOR=vim
 export PRINTER="EPSON_ET_4750_Series"
-export TERMINAL=termite
+export TERM=termite
