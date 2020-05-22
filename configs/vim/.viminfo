@@ -11,7 +11,7 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~MSle0~/CTF
+~MSle0~/mv
 
 # Last Substitute Search Pattern:
 ~MSle0&:\s*
@@ -20,12 +20,12 @@
 $\ =\ 
 
 # Command Line History (newest to oldest):
+:wq
+|2,0,1590171366,,"wq"
+:w
+|2,0,1590171365,,"w"
 :q
 |2,0,1590168199,,"q"
-:wq
-|2,0,1590167446,,"wq"
-:w
-|2,0,1590163055,,"w"
 :w help.png
 |2,0,1589805038,,"w help.png"
 :explore
@@ -48,6 +48,8 @@ $\ =\
 |2,0,1588548751,,"vsplit generate_bearings.js"
 
 # Search String History (newest to oldest):
+?/mv
+|2,1,1590171311,47,"mv"
 ?/CTF
 |2,1,1589802211,47,"CTF"
 ?/bell
@@ -106,32 +108,32 @@ $\ =\
 |3,0,0,2,30,20,1589783972,"color0:       #000000","color8:       #343434","                     ","red","color1:       #e92f2f","color9:       #e92f2f","                     ","green","color2:       #0ed839","color10:      #0ed839","                     ","yellow","color3:       #dddd13","color11:      #dddd13","                     ","blue","color4:       #3b48e3","color12:      #3b48e3","                     ","magenta","color5:       #f996e2",>23
 |<"color13:      #f996e2","                     ","cyan","color6:       #23edda","color14:      #23edda","                     ","white","color7:       #ababab","color15:      #f9f9f9"
 ""1	LINE	0
-	
-|3,1,1,1,1,0,1589849518,""
+	a mv="mv -i"
+|3,1,1,1,1,0,1590171345,"a mv=\"mv -i\""
 "2	LINE	0
-	ã°ã³ã¼
-|3,0,2,1,1,0,1589845914,"ã°ã³ã¼"
+	a rm="rm -i"
+|3,0,2,1,1,0,1590171342,"a rm=\"rm -i\""
 "3	LINE	0
-	babibodd
-|3,0,3,1,1,0,1589845913,"babibodd"
+	
+|3,0,3,1,1,0,1589849518,""
 "4	LINE	0
-	Attribute "FILE0" had a 38202 byte value for credentials.txt:
-|3,0,4,1,1,0,1589805033,"Attribute \"FILE0\" had a 38202 byte value for credentials.txt:"
+	ã°ã³ã¼
+|3,0,4,1,1,0,1589845914,"ã°ã³ã¼"
 "5	LINE	0
-	color0 = #3f3f3f
-|3,0,5,1,1,0,1589784334,"color0 = #3f3f3f"
+	babibodd
+|3,0,5,1,1,0,1589845913,"babibodd"
 "6	LINE	0
-	color10:      #0ed839
-|3,0,6,1,1,0,1589784285,"color10:      #0ed839"
+	Attribute "FILE0" had a 38202 byte value for credentials.txt:
+|3,0,6,1,1,0,1589805033,"Attribute \"FILE0\" had a 38202 byte value for credentials.txt:"
 "7	LINE	0
-	color7:       #ababab
-|3,0,7,1,1,0,1589784282,"color7:       #ababab"
+	color0 = #3f3f3f
+|3,0,7,1,1,0,1589784334,"color0 = #3f3f3f"
 "8	LINE	0
-	color6:       #23edda
-|3,0,8,1,1,0,1589784281,"color6:       #23edda"
+	color10:      #0ed839
+|3,0,8,1,1,0,1589784285,"color10:      #0ed839"
 "9	LINE	0
-	color5:       #f996e2
-|3,0,9,1,1,0,1589784280,"color5:       #f996e2"
+	color7:       #ababab
+|3,0,9,1,1,0,1589784282,"color7:       #ababab"
 "q	CHAR	0
 	€kd€kd€kd€kd€kd€kddd€ku€ku€ku€ku€ku€kupQ€kb€kb€kbvisual
 |3,0,26,0,1,0,1589784096,"€kd€kd€kd€kd€kd€kddd€ku€ku€ku€ku€ku€kupQ€kb€kb€kbvisual"
@@ -143,36 +145,80 @@ $\ =\
 |3,0,36,0,1,0,1589793227,"#"
 
 # File marks:
-'0  1  0  ~/.bash_plugins/targz.sh
-|4,48,1,0,1590168199,"~/.bash_plugins/targz.sh"
-'1  1  168  ~/.bash_plugins/targz.sh
-|4,49,1,168,1590167446,"~/.bash_plugins/targz.sh"
-'2  1  9  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,50,1,9,1590164580,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
-'3  4  12  ~/.bash_plugins/targz.sh
-|4,51,4,12,1590163248,"~/.bash_plugins/targz.sh"
-'4  2  12  ~/.bash_plugins/targz.sh
-|4,52,2,12,1590163248,"~/.bash_plugins/targz.sh"
+'0  44  0  ~/.bash_aliases
+|4,48,44,0,1590171366,"~/.bash_aliases"
+'1  1  12  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,49,1,12,1590168556,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+'2  1  0  ~/.bash_plugins/targz.sh
+|4,50,1,0,1590168199,"~/.bash_plugins/targz.sh"
+'3  1  168  ~/.bash_plugins/targz.sh
+|4,51,1,168,1590167446,"~/.bash_plugins/targz.sh"
+'4  1  9  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,52,1,9,1590164580,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
 '5  4  12  ~/.bash_plugins/targz.sh
 |4,53,4,12,1590163248,"~/.bash_plugins/targz.sh"
 '6  2  12  ~/.bash_plugins/targz.sh
 |4,54,2,12,1590163248,"~/.bash_plugins/targz.sh"
-'7  1  0  ~/.bash_plugins/etymology.sh
-|4,55,1,0,1590162933,"~/.bash_plugins/etymology.sh"
-'8  214  36  ~/.config/i3/config
-|4,56,214,36,1590069382,"~/.config/i3/config"
-'9  214  36  ~/.config/i3/config
-|4,57,214,36,1590069207,"~/.config/i3/config"
+'7  4  12  ~/.bash_plugins/targz.sh
+|4,55,4,12,1590163248,"~/.bash_plugins/targz.sh"
+'8  2  12  ~/.bash_plugins/targz.sh
+|4,56,2,12,1590163248,"~/.bash_plugins/targz.sh"
+'9  1  0  ~/.bash_plugins/etymology.sh
+|4,57,1,0,1590162933,"~/.bash_plugins/etymology.sh"
 
 # Jumplist (newest first):
+-'  44  0  ~/.bash_aliases
+|4,39,44,0,1590171366,"~/.bash_aliases"
+-'  1  0  ~/.bash_aliases
+|4,39,1,0,1590171312,"~/.bash_aliases"
+-'  1  12  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,12,1590168556,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  1  12  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,12,1590168556,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.bash_plugins/targz.sh
 |4,39,1,0,1590168199,"~/.bash_plugins/targz.sh"
+-'  1  0  ~/.bash_plugins/targz.sh
+|4,39,1,0,1590168199,"~/.bash_plugins/targz.sh"
+-'  1  0  ~/.bash_plugins/targz.sh
+|4,39,1,0,1590168199,"~/.bash_plugins/targz.sh"
+-'  1  0  ~/.bash_plugins/targz.sh
+|4,39,1,0,1590168199,"~/.bash_plugins/targz.sh"
+-'  1  168  ~/.bash_plugins/targz.sh
+|4,39,1,168,1590167446,"~/.bash_plugins/targz.sh"
+-'  1  168  ~/.bash_plugins/targz.sh
+|4,39,1,168,1590167446,"~/.bash_plugins/targz.sh"
+-'  1  168  ~/.bash_plugins/targz.sh
+|4,39,1,168,1590167446,"~/.bash_plugins/targz.sh"
 -'  1  168  ~/.bash_plugins/targz.sh
 |4,39,1,168,1590167446,"~/.bash_plugins/targz.sh"
 -'  8  0  ~/NERD_tree_1
 |4,39,8,0,1590167366,"~/NERD_tree_1"
 -'  8  0  ~/NERD_tree_1
 |4,39,8,0,1590167366,"~/NERD_tree_1"
+-'  8  0  ~/NERD_tree_1
+|4,39,8,0,1590167366,"~/NERD_tree_1"
+-'  8  0  ~/NERD_tree_1
+|4,39,8,0,1590167366,"~/NERD_tree_1"
+-'  8  0  ~/NERD_tree_1
+|4,39,8,0,1590167366,"~/NERD_tree_1"
+-'  8  0  ~/NERD_tree_1
+|4,39,8,0,1590167366,"~/NERD_tree_1"
+-'  8  0  ~/NERD_tree_1
+|4,39,8,0,1590167366,"~/NERD_tree_1"
+-'  8  0  ~/NERD_tree_1
+|4,39,8,0,1590167366,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1590167363,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1590167363,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1590167363,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1590167363,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1590167363,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1590167363,"~/NERD_tree_1"
 -'  1  0  ~/NERD_tree_1
 |4,39,1,0,1590167363,"~/NERD_tree_1"
 -'  1  0  ~/NERD_tree_1
@@ -185,6 +231,44 @@ $\ =\
 |4,39,1,9,1590164580,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
 -'  1  9  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
 |4,39,1,9,1590164580,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  1  9  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,9,1590164580,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  1  9  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,9,1590164580,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  1  9  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,9,1590164580,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  1  9  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,9,1590164580,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  4  12  ~/.bash_plugins/targz.sh
+|4,39,4,12,1590163248,"~/.bash_plugins/targz.sh"
+-'  2  12  ~/.bash_plugins/targz.sh
+|4,39,2,12,1590163248,"~/.bash_plugins/targz.sh"
+-'  4  12  ~/.bash_plugins/targz.sh
+|4,39,4,12,1590163248,"~/.bash_plugins/targz.sh"
+-'  2  12  ~/.bash_plugins/targz.sh
+|4,39,2,12,1590163248,"~/.bash_plugins/targz.sh"
+-'  2  12  ~/.bash_plugins/targz.sh
+|4,39,2,12,1590163248,"~/.bash_plugins/targz.sh"
+-'  4  12  ~/.bash_plugins/targz.sh
+|4,39,4,12,1590163248,"~/.bash_plugins/targz.sh"
+-'  2  12  ~/.bash_plugins/targz.sh
+|4,39,2,12,1590163248,"~/.bash_plugins/targz.sh"
+-'  4  12  ~/.bash_plugins/targz.sh
+|4,39,4,12,1590163248,"~/.bash_plugins/targz.sh"
+-'  2  12  ~/.bash_plugins/targz.sh
+|4,39,2,12,1590163248,"~/.bash_plugins/targz.sh"
+-'  2  12  ~/.bash_plugins/targz.sh
+|4,39,2,12,1590163248,"~/.bash_plugins/targz.sh"
+-'  4  12  ~/.bash_plugins/targz.sh
+|4,39,4,12,1590163248,"~/.bash_plugins/targz.sh"
+-'  2  12  ~/.bash_plugins/targz.sh
+|4,39,2,12,1590163248,"~/.bash_plugins/targz.sh"
+-'  4  12  ~/.bash_plugins/targz.sh
+|4,39,4,12,1590163248,"~/.bash_plugins/targz.sh"
+-'  2  12  ~/.bash_plugins/targz.sh
+|4,39,2,12,1590163248,"~/.bash_plugins/targz.sh"
+-'  2  12  ~/.bash_plugins/targz.sh
+|4,39,2,12,1590163248,"~/.bash_plugins/targz.sh"
 -'  4  12  ~/.bash_plugins/targz.sh
 |4,39,4,12,1590163248,"~/.bash_plugins/targz.sh"
 -'  2  12  ~/.bash_plugins/targz.sh
@@ -211,6 +295,54 @@ $\ =\
 |4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
 -'  1  0  ~/.bash_plugins/etymology.sh
 |4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
+-'  1  0  ~/.bash_plugins/etymology.sh
+|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
+-'  1  0  ~/.bash_plugins/etymology.sh
+|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
+-'  1  0  ~/.bash_plugins/etymology.sh
+|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
+-'  1  0  ~/.bash_plugins/etymology.sh
+|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
+-'  1  0  ~/.bash_plugins/etymology.sh
+|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
+-'  1  0  ~/.bash_plugins/etymology.sh
+|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
+-'  1  0  ~/.bash_plugins/etymology.sh
+|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
+-'  1  0  ~/.bash_plugins/etymology.sh
+|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
+-'  1  0  ~/.bash_plugins/etymology.sh
+|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
+-'  1  0  ~/.bash_plugins/etymology.sh
+|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
+-'  1  0  ~/.bash_plugins/etymology.sh
+|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
+-'  1  0  ~/.bash_plugins/etymology.sh
+|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
+-'  1  0  ~/.bash_plugins/etymology.sh
+|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
+-'  1  0  ~/.bash_plugins/etymology.sh
+|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
+-'  1  0  ~/.bash_plugins/etymology.sh
+|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
+-'  1  0  ~/.bash_plugins/etymology.sh
+|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
+-'  1  0  ~/.bash_plugins/etymology.sh
+|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
+-'  1  0  ~/.bash_plugins/etymology.sh
+|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
+-'  1  0  ~/.bash_plugins/etymology.sh
+|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
+-'  1  0  ~/.bash_plugins/etymology.sh
+|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
+-'  1  0  ~/.bash_plugins/etymology.sh
+|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
+-'  1  0  ~/.bash_plugins/etymology.sh
+|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
+-'  1  0  ~/.bash_plugins/etymology.sh
+|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
+-'  1  0  ~/.bash_plugins/etymology.sh
+|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
 -'  3  0  ~/.bash_plugins/targz.sh
 |4,39,3,0,1590162770,"~/.bash_plugins/targz.sh"
 -'  3  0  ~/.bash_plugins/targz.sh
@@ -219,154 +351,40 @@ $\ =\
 |4,39,1,0,1590162770,"~/.bash_plugins/targz.sh"
 -'  1  0  ~/.bash_plugins/targz.sh
 |4,39,1,0,1590162770,"~/.bash_plugins/targz.sh"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069382,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069382,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069382,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069382,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069382,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069382,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069382,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069382,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069382,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069382,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069382,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069382,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069382,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069382,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069382,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069382,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069382,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069382,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069382,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069382,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069382,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069382,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069382,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069382,"~/.config/i3/config"
--'  1  0  ~/.config/i3/config
-|4,39,1,0,1590069211,"~/.config/i3/config"
--'  1  0  ~/.config/i3/config
-|4,39,1,0,1590069211,"~/.config/i3/config"
--'  1  0  ~/.config/i3/config
-|4,39,1,0,1590069211,"~/.config/i3/config"
--'  1  0  ~/.config/i3/config
-|4,39,1,0,1590069211,"~/.config/i3/config"
--'  1  0  ~/.config/i3/config
-|4,39,1,0,1590069211,"~/.config/i3/config"
--'  1  0  ~/.config/i3/config
-|4,39,1,0,1590069211,"~/.config/i3/config"
--'  1  0  ~/.config/i3/config
-|4,39,1,0,1590069211,"~/.config/i3/config"
--'  1  0  ~/.config/i3/config
-|4,39,1,0,1590069211,"~/.config/i3/config"
--'  1  0  ~/.config/i3/config
-|4,39,1,0,1590069211,"~/.config/i3/config"
--'  1  0  ~/.config/i3/config
-|4,39,1,0,1590069211,"~/.config/i3/config"
--'  1  0  ~/.config/i3/config
-|4,39,1,0,1590069211,"~/.config/i3/config"
--'  1  0  ~/.config/i3/config
-|4,39,1,0,1590069211,"~/.config/i3/config"
--'  1  0  ~/.config/i3/config
-|4,39,1,0,1590069211,"~/.config/i3/config"
--'  1  0  ~/.config/i3/config
-|4,39,1,0,1590069211,"~/.config/i3/config"
--'  1  0  ~/.config/i3/config
-|4,39,1,0,1590069211,"~/.config/i3/config"
--'  1  0  ~/.config/i3/config
-|4,39,1,0,1590069211,"~/.config/i3/config"
--'  1  0  ~/.config/i3/config
-|4,39,1,0,1590069211,"~/.config/i3/config"
--'  1  0  ~/.config/i3/config
-|4,39,1,0,1590069211,"~/.config/i3/config"
--'  1  0  ~/.config/i3/config
-|4,39,1,0,1590069211,"~/.config/i3/config"
--'  1  0  ~/.config/i3/config
-|4,39,1,0,1590069211,"~/.config/i3/config"
--'  1  0  ~/.config/i3/config
-|4,39,1,0,1590069211,"~/.config/i3/config"
--'  1  0  ~/.config/i3/config
-|4,39,1,0,1590069211,"~/.config/i3/config"
--'  1  0  ~/.config/i3/config
-|4,39,1,0,1590069211,"~/.config/i3/config"
--'  1  0  ~/.config/i3/config
-|4,39,1,0,1590069211,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069207,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069207,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069207,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069207,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069207,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069207,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069207,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069207,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069207,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069207,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069207,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069207,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069207,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069207,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069207,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069207,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069207,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069207,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069207,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069207,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069207,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069207,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069207,"~/.config/i3/config"
--'  214  36  ~/.config/i3/config
-|4,39,214,36,1590069207,"~/.config/i3/config"
--'  1  0  ~/.config/i3/config
-|4,39,1,0,1590069144,"~/.config/i3/config"
+-'  3  0  ~/.bash_plugins/targz.sh
+|4,39,3,0,1590162770,"~/.bash_plugins/targz.sh"
+-'  3  0  ~/.bash_plugins/targz.sh
+|4,39,3,0,1590162770,"~/.bash_plugins/targz.sh"
+-'  1  0  ~/.bash_plugins/targz.sh
+|4,39,1,0,1590162770,"~/.bash_plugins/targz.sh"
+-'  1  0  ~/.bash_plugins/targz.sh
+|4,39,1,0,1590162770,"~/.bash_plugins/targz.sh"
+-'  3  0  ~/.bash_plugins/targz.sh
+|4,39,3,0,1590162770,"~/.bash_plugins/targz.sh"
+-'  3  0  ~/.bash_plugins/targz.sh
+|4,39,3,0,1590162770,"~/.bash_plugins/targz.sh"
+-'  1  0  ~/.bash_plugins/targz.sh
+|4,39,1,0,1590162770,"~/.bash_plugins/targz.sh"
+-'  1  0  ~/.bash_plugins/targz.sh
+|4,39,1,0,1590162770,"~/.bash_plugins/targz.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/.bash_aliases
+	*	1590171365	0
+	"	44	0
+	.	5	0
+	+	73	17
+	+	74	5
+	+	75	0
+	+	5	0
+
+> ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+	*	1590168556	0
+	"	1	12
+	^	1	13
+	.	1	12
+	+	1	12
 
 > ~/.bash_plugins/targz.sh
 	*	1590168196	0
@@ -383,13 +401,6 @@ $\ =\
 	"	8	0
 	.	1	0
 	+	1	0
-
-> ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-	*	1590164579	0
-	"	1	9
-	^	1	10
-	.	1	9
-	+	1	9
 
 > ~/.bash_plugins/etymology.sh
 	*	1590162786	0
@@ -442,14 +453,6 @@ $\ =\
 > ~/.config/i3blocks/blocks/network.sh
 	*	1590064113	0
 	"	1	0
-
-> ~/.bash_aliases
-	*	1590062334	0
-	"	73	4
-	^	73	5
-	.	73	5
-	+	72	17
-	+	73	5
 
 > ~/Documents/testing/data/yandere_StudentScript_words_by_usages
 	*	1589884744	0

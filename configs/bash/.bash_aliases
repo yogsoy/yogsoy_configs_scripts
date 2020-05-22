@@ -2,6 +2,7 @@
 # your mum's pretty gay to be honest
 
 alias a=alias
+a mv="mv -i"
 a ns=notify-send
 a apti="sudo apt install"
 # send to clipboard
