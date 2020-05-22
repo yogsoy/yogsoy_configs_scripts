@@ -4,6 +4,12 @@
 # every occurrence of `head` was followed by a pipe through `iconv -c` to
 # remove incomplete characters.
 
+
+case $BLOCK_BUTTON in
+	1) playerctl play-pause;;
+	2) playerctl next;;
+esac
+
 ARTIST_MAXLENGTH=25
 TITLE_W_ARTIST_MAXLENGTH=30
 TITLE_NO_ARTIST_MAXLENGTH=55

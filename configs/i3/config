@@ -210,6 +210,9 @@ bindsym $mod+d exec ~/scripts/go.sh
 # pavucontrol because im bad at typing and dont like my history cluttered with `pavucontrol` every six seconds whenever i plug in my shit
 bindsym $mod+p exec pavucontrol
 
+# open htop in a terminal
+bindsym $mod+o exec $TERMINAL -e htop
+
 # yes
 bindsym $mod+c exec $BROWSER
 

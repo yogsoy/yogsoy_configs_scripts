@@ -70,3 +70,4 @@ a xc="tput reset"
 a cdls="cd;cl;ls"
 a zoom="env QT_SCALE_FACTOR=2 zoom"
 a pctl="playerctl"
+a cv=cacaview

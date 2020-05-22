@@ -1,6 +1,7 @@
 [options]
-#allow_bold = true
+allow_bold = true
 audible_bell = true
+visible_bell = true
 bold_is_bright = true
 #cell_height_scale = 1.0
 #cell_width_scale = 1.0
@@ -17,7 +18,7 @@ font = ShareTech Mono 12
 # and setting it to a negative value means "infinite scrollback"
 scrollback_lines = 10000
 #search_wrap = true
-#urgent_on_bell = true
+urgent_on_bell = true
 #hyperlinks = false
 
 # $BROWSER is used by default if set, with xdg-open as a fallback

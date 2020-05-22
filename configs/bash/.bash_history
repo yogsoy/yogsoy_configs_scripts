@@ -6656,3 +6656,760 @@ vim /etc/fstab
 vim .config/i3/config 
 vim .bashrc
 rl
+xset b
+xprop
+xprop
+vim .config/i3/config 
+exit
+vim .config/termite/config 
+exit
+xprop
+xset b
+xset q
+echo \a
+man echo
+echo -e \a
+man echo
+echo -e '\a'
+xset b on
+xset b 100
+man xset
+exit
+man xset
+exit
+xset q
+xset q
+xset q
+vim .xinitrc 
+vim .xinitrc 
+exit
+xprop
+exit
+vim .config/termite/config 
+exit
+xset s off
+xset -dpms
+man ip
+ip link
+
+ip help
+man ip
+vim /etc/lightdm/lightdm.conf
+cd Documents/repositories/yogsoy_configs_scripts/
+ls
+vim backup.sh 
+./backup.sh 
+gitgo
+cdl
+ls
+cl
+cd Music/Synced/
+ls
+xprop
+mpv Chito\,\ Yuuri\ -\ More\ One\ Night/02\ Amadare\ no\ Uta.flac 
+ls
+mpv EGOIST\ -\ GREATEST\ HITS/
+ls
+mpv Moe\ Shop/Moshi\ Moshi/Moe\ Shop\ -\ Moshi\ Moshi\ -\ 04\ Dance\ Dance\ \(w-\ Android52\).flac 
+ls
+exit
+cd Downloads/programs/
+mkdir ghidra
+apts ghidra
+unzip ghidra_9.1.2_PUBLIC_20200212.zip -d ghidra
+cd ghidra/ghidra_9.1.2_PUBLIC/
+ls
+./ghidraRun 
+exit
+htop
+node
+exit
+sudo wireshark
+bg
+exit
+vim .bashrc
+exit
+man ls
+exit
+cd Documents/
+cd http\ server\ testing/
+ls
+vim server1.js 
+lip
+vim server1.js 
+exit
+telnet buffer-overflow.ctfcompletition.com 1337
+telnet buffer-overflow.ctfcompetition.com 1337
+telnet buffer-overflow.ctfcompetition.com 1337
+telnet buffer-overflow.ctfcompetition.com 1337
+telnet buffer-overflow.ctfcompetition.com 1337
+telnet buffer-overflow.ctfcompetition.com 1337
+cd ctf/google/2019/beginner/5/
+ls
+./bof
+chx bof 
+./bof
+gcc console.c -o console -static -s
+ls
+./console 
+a
+./console 
+node
+./console 
+./console 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ls
+vim console
+vim console.c 
+exit
+apts fprint
+apti fprint-demo
+fprint_demo
+man fprint
+man fprintd
+fprintd-enroll 
+lsusb
+cl
+cd Music/Synced/Moe\ Shop/Moshi\ Moshi/
+s
+ls
+ffmpeg -i Moe\ Shop\ -\ Moshi\ Moshi\ -\ 04\ Dance\ Dance\ \(w-\ Android52\).flac -o love_me.mp3
+ffmpeg -i Moe\ Shop\ -\ Moshi\ Moshi\ -\ 04\ Dance\ Dance\ \(w-\ Android52\).flac love_me.mp3
+ls
+fs love_me.mp3 
+mv love_me.mp3 ~/Music/
+cdl
+cd Music/Synced/Moe\ Shop/Moshi\ Moshi/
+ls
+ffmpeg -i Moe\ Shop\ -\ Moshi\ Moshi\ -\ 04\ Dance\ Dance\ \(w-\ Android52\).flac ~/Music/dance_dance.mp3
+cdl
+cd Music/
+rf love_me.mp3 
+cl
+cdl
+vim .XCompose 
+cl
+vim
+mkdir ctf
+cd ctf/
+mkdir google/2019/beginner
+cd google/2019/beginner/
+mkdir 1
+cd 1
+unzip 00c2a73eec8abb4afb9c3ef3a161b64b451446910535bfc0cc81c2b04aa132ed.zip 
+ls
+vim log.txt 
+vim rand2 
+chx rand2 
+./rand2 
+./rand2 
+./rand2 
+./rand2 
+ls
+vim log.txt 
+./rand2 
+./rand2 
+ls
+vim rand2 
+cd ..
+mkdir 2
+cd 2
+unzip 768be4f10429f613eb27fa3e3937fe21c7581bdca97d6909e070ab6f7dbf2fbf.zip 
+ls
+mupdf README.pdf 
+vim README.pdf 
+chx init_sat 
+./init_sat 
+./init_sat 
+vim init_sat 
+ls
+vim README.pdf 
+./init_sat 
+mupdf README.pdf 
+./init_sat 
+./init_sat 
+./init_sat 
+./init_sat 
+./init_sat 
+./init_sat 
+./init_sat 
+./init_sat 
+cd ..
+mkdir 3
+cd 3
+unzip 86863db246859897dda6ba3a4f5801de9109d63c9b6b69810ec4182bf44c9b75.zip 
+ls
+vim note.txt 
+ntfs
+vim family.ntfs 
+chx family.ntfs 
+./family.ntfs 
+mkdir family
+sudo mount family.ntfs family/
+cd family/
+ls
+ls Program\ Files
+ls Program\ Files/internet\ explorer/
+ls Program\ Files/internet\ explorer/images/
+ls Windows/
+cd Users/
+ls
+cd Family/
+ls
+ls -r
+ls -R
+vim Documents/credentials.txt 
+file Documents/credentials.txt 
+iv Pictures/
+iv Pictures/*
+ls -R
+mpv Videos/
+ls -R
+mupdf Documents/document.pdf 
+mupdf Documents/preview.pdf 
+vim Documents/document.pdf 
+vim Desktop/desktop.ini 
+ls -aR
+cd ..
+ls
+vim desktop.ini 
+cd ..
+l
+cls
+ls -R
+fs
+du -R
+du -r
+du
+du | sort -h
+du | grep '!/^0/'
+du | grep '/^0/'
+du | grep '^0'
+du | grep '!^0'
+du | grep '!^0''
+du | grep '!^0'
+du | grep -v '^0'
+du | grep -v '^0' | sort -h
+man du
+du -a | grep -v '^0' | sort -h
+du -ah | grep -v '^0' | sort -h
+du -ah | grep -v '^0' | sort -h
+man du
+du -ah | grep -v '^0' | sort -h
+cd Users/Family/Documents/
+ls
+vim credentials.txt 
+la -l
+hexeditor credentials.txt 
+stat credentials.txt 
+cat *
+cd ..
+cd ..
+cd ..
+ls
+vim pagefile.sys 
+vim Setup.log 
+ls -R
+ls -R -v1
+la
+ls -a
+ls -A
+ls -F
+ls -RF -v1
+ls -RF -v1 | grep -v '/$'
+ls -RF -1 | grep -v '/$' | 
+ls -RF -1 | grep -v '/$'
+ls -RF -1 | grep -v '/$'find
+find
+man find
+find -type f
+find -type f | du
+find -type f | du -h | sort -h
+find -type f
+find -type f | du
+du $(find -type f)
+du $(find -type f) | sort -h
+du $(find -type f) | sort -h
+du $(find -type f) 2>/dev/null | sort -h
+vim Users/Family/Documents/credentials.txt 
+nautilus .
+xattr
+apti xattr
+xattr 
+cd Users/Family/Documents/
+xattr credentials.txt 
+man xattr
+attr credentials.txt 
+man attr
+attr -l credentials.txt 
+attr -g FILE0 credentials.txt 
+attr -g FILE0 credentials.txt > helpme
+vim helpme 
+ls
+iv help.png 
+cd ../../../..
+ls
+sudo umount family 
+ls
+cd ..
+cd 4
+ls
+vim cauliflower.jpg
+file cauliflower.jpg 
+attr -l cauliflower.jpg 
+vim eating.png 
+file eating.png 
+attr -l eating.png 
+wget https://https://govagriculture.web.ctfcompetition.com/admin
+wget 'https://https://govagriculture.web.ctfcompetition.com/admin'
+wget 'https://govagriculture.web.ctfcompetition.com/admin
+'
+wget 'https://govagriculture.web.ctfcompetition.com/admin'
+;s
+ls
+vim admin 
+nautilus .
+ls
+vim server.js
+node server.js 
+vim server.js
+node server.js 
+vim server.js
+node server.js 
+cd ..
+mkdir 5
+cd 5
+ls
+telnet buffer-overflow.ctfcompetition.com 1337
+unzip 4a8becb637ed2b45e247d482ea9df123eb01115fc33583c2fa0e4a69b760af4a.zip 
+ls
+vim bof 
+vim console.c 
+vim console.c 
+telnet buffer-overflow.ctfcompetition.com 1337
+telnet buffer-overflow.ctfcompetition.com 1337
+telnet buffer-overflow.ctfcompetition.com 1337
+telnet buffer-overflow.ctfcompetition.com 1337
+telnet buffer-overflow.ctfcompetition.com 1337
+telnet buffer-overflow.ctfcompetition.com 1337
+telnet buffer-overflow.ctfcompetition.com 1337
+telnet buffer-overflow.ctfcompetition.com 1337
+telnet buffer-overflow.ctfcompetition.com 1337
+telnet buffer-overflow.ctfcompetition.com 1337
+telnet buffer-overflow.ctfcompetition.com 1337
+telnet buffer-overflow.ctfcompetition.com 1337
+telnet buffer-overflow.ctfcompetition.com 1337
+qemu-mipsel
+apti qemu-user
+qemu-mipsel bof 
+qemu-mipsel bof 
+qemu-mipsel bof 
+qemu-mipsel bof 
+qemu-mipsel bof 
+qemu-mipsel bof 
+nc buffer-overflow.ctfcompetition.com 1337
+nc buffer-overflow.ctfcompetition.com 1337
+nc buffer-overflow.ctfcompetition.com 1337
+ls
+./console 
+./console 
+cl
+nc buffer-overflow.ctfcompetition.com 1337
+nc buffer-overflow.ctfcompetition.com 1337
+nc buffer-overflow.ctfcompetition.com 1337
+nc buffer-overflow.ctfcompetition.com 1337
+cdl
+vim Documents/school/2020/japanese/2020-05-19.txt 
+exit
+man playerctl
+exit
+vim .config/i3blocks/blocks/volume.sh 
+exit
+cd Music/Synced/
+ls
+mpv EGOIST\ -\ GREATEST\ HITS/
+ls
+mpv Moe\ Shop/Pure\ Pure/
+mpv Moe\ Shop/Moshi\ Moshi/
+mpv Moe\ Shop/Moshi\ Moshi/
+ls
+mpv Scenarioart\ -\ Sayonara\ Moon\ Town/
+ls
+mpv TeddyLoid/SILENT\ PLANET\ INFINITY/
+exit
+man uniq
+exit
+cd Documents/school/2020/japanese/
+ls
+vim 2020-05-19
+vim 2020-05-19.txt
+cdl
+vim .config/i3blocks/blocks/music.sh 
+playerctl status
+playerctl status
+cd Documents/repo
+cd Documents/repositories/
+ls
+ls mpv-mpris/
+vim mpv-mpris/README.md 
+cd mpv-mpris/
+git pull
+ls
+make install
+ls
+ls
+make
+apts gio
+apts ^gio
+vim README.md 
+make install
+vim .gitignore 
+ls /mnt
+ls /snap
+snap remove anbox
+sudo snap remove anbox
+cdl
+cd Documents/
+vim nicklas_2020-05-19_electrons.txt
+cdl
+vim Documents/nicklas_2020-05-19_electrons.txt 
+vim .XCompose 
+vim .XCompose 
+htop
+cd Music/Synced/n
+cd Music/Synced/
+mpv Moe\ Shop/Moshi\ Moshi/Moe\ Shop\ -\ Moshi\ Moshi\ -\ 04\ Dance\ Dance\ \(w-\ Android52\).flac 
+cdl
+cd Documents/testing/data/
+ls
+wget https://raw.githubusercontent.com/rmon-vfer/yandereSimulatorSource/master/Assembly-CSharp/StudentScript.cs
+grep -E '\w+' StudentScript.cs 
+grep -E '\w+' StudentScript.cs -o
+grep -E '\w+' StudentScript.cs -o | uniq
+grep -E '\w+' StudentScript.cs -o | uniq -c
+grep -E '\w+' StudentScript.cs -o | uniq -c | sort
+grep -E '\w+' StudentScript.cs -o | sort | uniq -c
+grep -E '\w+' StudentScript.cs -o | sort | uniq -c | sort
+grep -E '\w+' StudentScript.cs -o | sort | uniq -c | sort -r
+grep -E '\w+' StudentScript.cs -o | sort | uniq -c | sort -h
+grep -E '\w+' StudentScript.cs -o | sort | uniq -c | sort -hr
+grep -E '\w+' StudentScript.cs -o | sort | uniq -c | sort -hr | sed 's/^\s*//g'
+grep -E '\w+' StudentScript.cs -o | sort | uniq -c | sort -hr | sed 's/^\s*//g' > yandere_StudentScript_words_by_usages
+vim yandere_StudentScript_words_by_usages 
+vim yandere_StudentScript_words_by_usages 
+grep 'Spook()' StudentScript.cs 
+grep 'PantyCollider()' StudentScript.cs
+grep 'PantyCollider' StudentScript.cs
+grep 'PantyCollider' StudentScript.cs -o
+grep 'PantyCollider' StudentScript.cs
+grep 'public GameObject' StudentScript.cs
+grep -i 'senpai' StudentScript.cs
+grep -i 'senpai' StudentScript.cs | sed 's/^\s*//g'
+cat -n StudentScript.cs | grep -i 'senpai' | sed 's/^\s*//g'
+cat -n StudentScript.cs | grep -i 'senpai' | sed 's/^\d*\s*//g'
+cat -n StudentScript.cs | grep -i 'senpai'
+grep -i yandere StudentScript.cs 
+grep -i yandere StudentScript.cs -o
+grep -i yandere StudentScript.cs -o | lc
+grep -i yandere StudentScript.cs -o | sort
+grep -i yandere StudentScript.cs -o | sort -r
+cd Music/Synced/Aimer/
+ls
+ls 02.\ Midnight\ Sun/
+ls 04.\ Daydream/
+iv Pictures/classical.png 
+exit
+bc
+cd Music/Synced/
+mpv EGOIST\ -\ GREATEST\ HITS/
+sudo audacity 
+cdl
+cd Music/Synced/
+cl
+sudo audacity 
+cd
+cd scripts/
+grep 'cat' *
+cd
+tail -1 clipboard_history
+cd scripts/
+cdl
+mpv Music/record/2020-05-20/The_Mass_Debates_Intro_DRAFT_1.L.mp3 
+cd Music/Synced/
+ls
+ls t+pazolite/
+mpv cl
+cl
+cd ..
+mpv someshit.mp3 
+mpv uuuuuuuuuueeeeeeeghhhhhhhh.wav 
+mpv say\ it\ again\ dexter\ AAAAAAAAEEEEEEEE.wav 
+ls
+mpv deeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.wav 
+mpv naninanineaini.wav 
+mpv wiuergiurgfwiuefweiufhweiufhweiuetwdjefegregbergberbguerrgburgueubg.wav 
+mpv stutsutsututu.mp3 
+ls
+mpv say\ it\ again\ dexter.mp3 
+mpv again\'t.wav 
+mpv agiananinia.wav 
+ls
+mpv merry\ hrriismtas\,\ bithiti\ ih.mp3 
+mpv michael\ reeeeeeeeeeeeeeeeee.wav 
+ls michael
+mpv michael/Kudasai.mp3 
+ls
+mpv someshit.mp3 
+ls
+ls sounds/
+mpv sounds/battery_low.mp3 
+cd sounds/
+mpv adelie_squabble.mp3 
+ls
+mpv FART_REMIXED.wav 
+mpv shish.mp3 
+ls
+mpv Albatrosses-Graham-Robertson-audio.mp3 
+mpv bell/bell3.wav 
+cd ..
+ls
+mpv recaman.mp3 
+ls
+mpv doublefart_long.wav
+mpv padadowo.mp3 
+mpv padowo\ padowo.mp3 
+ls
+cdl
+ls
+cd Videos/
+ls
+mpv 2020-01-20\ 21-21-21.mkv 
+mpv 20190105_2115492.mp4 
+mpv Julian\ brushing\ his\ teeth.mp4 
+fs Julian\ brushing\ his\ teeth.mp4 
+mpv steven\ please.mp4 
+ls
+mpv Wataten\ \!\ -\ 気ままな天使たち\ \(Kirara\ Magic\ Remix\)-72gKBoEHlA4.mkv 
+mpv waow.mp4 
+mpv SM-N960F_20200118-013529.mp4 
+ls
+mpv VID_20181112_215541.mp4 
+mpv GOPR0564.MP4 
+mpv HDV_0018.MP4 
+fs HDV_0018.MP4 
+ls youtube/
+ls youtube/2020-03-10/
+ls Webcam/
+mpv Webcam/2019-08-26-134417.webm 
+mpv Webcam/2019-09-02-213809.webm 
+fs Webcam/2019-09-02-213809.webm 
+mpv Webcam/2020-01-16-030811.webm 
+ls
+ls quest/
+ls quest/VideoShots/
+mpv quest/VideoShots/com.oculus.vrshell-20200224-172712.mp4 
+cd quest/VideoShots/
+ls
+mpv com.oculus.vrshell-20200304-002215.mp4 
+mupdf Documents/school/2020/japanese/Free\ Writing\ Practice\ 1\ Lesson\ 3.pdf 
+bg
+exit
+htop
+exit
+cv
+exit
+cd Music/Synced/
+ls
+mpv Mitchie\ M\ -\ Virtual\ Popstar/
+cd Mitchie\ M\ -\ Virtual\ Popstar/
+ls
+mpv .
+ls
+man mpv
+ls
+ls -v
+mpv '$(ls -v)'
+mpv '${ls -v}'
+mpv "$(ls -v)"
+mpv $(ls -v)
+man ls
+mpv $(ls -vb)
+ls -b
+ls ~-vb
+ls -vb
+ls -vb | mpv
+mpv `ls -vb`
+ls
+ls -vb
+cd ..
+ls
+mpv EGOIST\ -\ GREATEST\ HITS/
+ls
+mpv GARNiDELiA/Kyokiranbu/
+ls
+mpv Moe\ Shop/Moshi\ Moshi/
+ls
+mpv TrySail/\[2016.05.11\]\ TrySail｜High\ Free\ Spirits/
+mpv TrySail/\[2016.05.11\]\ TrySail｜High\ Free\ Spirits/
+cmatrix -l
+setfont 
+cdl
+cd Downloads/
+ls
+cd ..
+cd Videos/
+ls
+ffmpeg -i waow.mp4 totally_normal_noise_of_a_bird.mp3
+ls
+mv totally_normal_noise_of_a_bird.mp3 ~/Music/
+cd quest/
+fs *
+cd VideoShots/
+fs
+fs *
+mpv *
+mpv *
+ffmpeg -i com.oculus.vrshell-20200229-153851.mp4 saikoucuck.webm
+ls
+mpv saikoucuck.webm 
+fs saikoucuck.webm 
+cdl
+cd Music/Synced/
+mpv EGOIST\ -\ GREATEST\ HITS/03.\ KABANERI\ OF\ THE\ IRON\ FORTRESS.flac 
+mpv EGOIST\ -\ GREATEST\ HITS/07.\ Fallen.flac 
+man cacaclock
+cl
+cdl
+cacaclock --help
+lc
+man lc
+cht print
+cacafire
+cacaplay
+cd Music/Synced/
+cacaplay  Moe\ Shop/Moshi\ Moshi/Moe\ Shop\ -\ Moshi\ Moshi\ -\ 04\ Dance\ Dance\ \(w-\ Android52\).flac 
+cdl
+cacaplay --help
+cacaview --help
+cacaview Pictures/hortonhearsashiff.png 
+cacaview Pictures/mypeefive.png 
+cacaview Pictures/old\ pfp\ who\ dis.jpeg 
+cd Pictures/
+ls
+cacaview GravityFallsWTF.gif 
+vim ~/.bash_aliases 
+vim ~/.bash_aliases 
+rl
+ls Documents/
+ls Documents/v
+cat Documents/v
+fs Documents/v
+cat Documents/v | head
+cat Documents/v | head -c 10
+cat Documents/v | head -c 100
+exit
+man termite
+exit
+man termite
+termite -e htop
+cl
+htop
+vim .config/i3/config 
+vim .config/i3/config 
+exit
+la
+rf .darling*
+sudo rf .darling*
+sudo rm -rf .darling*
+rm -rf Documents/repositories/darling/
+cd Documents/repositories/
+ls mozc/.git
+cd mozc
+ls
+cd ..
+rf mozc
+git clone https://github.com/google/mozc
+fs *
+fs * | sort -h
+ls chicago-brick/
+vim chicago-brick/README.md 
+rf chicago-brick/
+git pull osu/
+cd osu
+git pull
+fs .
+cd ..
+ls
+cdl
+sudo mount /dev/sda1 /mnt/shoppe/
+sudo mount /dev/sda2 /mnt/shoppe/
+lsblk
+ls
+man tar
+tar cvf /mnt/shoppe/10\ Backups/2020-05-21/documents.tar Documents/
+mkdir /mnt/shoppe/10\ Backups/2020-05-21
+tar cvf /mnt/shoppe/10\ Backups/2020-05-21/documents.tar Documents/
+vim .bash_plugins/etymology.sh 
+man targz
+exit
+targz
+ls
+rf big-files.tar.gz 
+fs Downloads/
+rl
+rl
+man tar
+df -h
+fdisk -l
+sudo fdisk -l
+df -h
+man lvresize
+df -h
+df -h
+df -h
+df -h
+df -h
+df -h
+df -h
+df -h
+df -h
+df -h
+df -h
+df -h
+df -h
+df -h
+df -h
+df -h
+df -h
+df -h
+df -h
+df -h
+df -h
+df -h
+df -h
+df -h
+df -h
+df -h
+df -h
+df -h
+df -h
+df -h
+watch df -h
+man lvresize 
+watch df -h
+man lvresize 
+watch df -h
+df -h
+man tar
+vim .bash_plugins/targz.sh
+exit
+df
+df -h
+lvextend /dev/mapper/ubuntu--vg-root 
+sudo su
+apts system-config
+apts kvpm
+apti partitionmanager
+partitionmanager 
+ls
+partitionmanager 

@@ -27,7 +27,9 @@ include "%L"
 <Multi_key> <0> <minus> : "θ"
 <Multi_key> <B> <B> : "ʙ"
 
-<Multi_key> <E> <E> : "ᴇ" # for science
+# for science
+<Multi_key> <E> <E> : "ᴇ"
+<Multi_key> <W> <W> : "Ω"
 
 # anime
 <Multi_key> <f> <p> : "🤦" # facepalm

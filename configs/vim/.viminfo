@@ -11,23 +11,29 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~MSle0/noto
+~MSle0~/CTF
 
 # Last Substitute Search Pattern:
-~MSle0~&:\s*
+~MSle0&:\s*
 
 # Last Substitute String:
 $\ =\ 
 
 # Command Line History (newest to oldest):
+:q
+|2,0,1590163248,,"q"
+:w
+|2,0,1590163055,,"w"
 :wq
-|2,0,1589792029,,"wq"
+|2,0,1590069207,,"wq"
+:w help.png
+|2,0,1589805038,,"w help.png"
+:explore
+|2,0,1589798131,,"explore"
+:nohl
+|2,0,1589793262,,"nohl"
 :q!
 |2,0,1589791971,,"q!"
-:q
-|2,0,1589784576,,"q"
-:w
-|2,0,1589784567,,"w"
 :'<,'>s/:\s*/\ =\ /g
 |2,0,1589784323,,"'<,'>s/:\\s*/\\ =\\ /g"
 :vsplit .Xresources
@@ -42,6 +48,10 @@ $\ =\
 |2,0,1588548751,,"vsplit generate_bearings.js"
 
 # Search String History (newest to oldest):
+?/CTF
+|2,1,1589802211,47,"CTF"
+?/bell
+|2,1,1589793256,47,"bell"
 ? :\s*
 |2,1,1589784323,,":\\s*"
 ?/noto
@@ -95,268 +105,630 @@ $\ =\
 	color15:      #f9f9f9
 |3,0,0,2,30,20,1589783972,"color0:       #000000","color8:       #343434","                     ","red","color1:       #e92f2f","color9:       #e92f2f","                     ","green","color2:       #0ed839","color10:      #0ed839","                     ","yellow","color3:       #dddd13","color11:      #dddd13","                     ","blue","color4:       #3b48e3","color12:      #3b48e3","                     ","magenta","color5:       #f996e2",>23
 |<"color13:      #f996e2","                     ","cyan","color6:       #23edda","color14:      #23edda","                     ","white","color7:       #ababab","color15:      #f9f9f9"
-"1	LINE	0
-	color0 = #3f3f3f
-|3,0,1,1,1,0,1589784334,"color0 = #3f3f3f"
+""1	LINE	0
+	
+|3,1,1,1,1,0,1589849518,""
 "2	LINE	0
-	color10:      #0ed839
-|3,0,2,1,1,0,1589784285,"color10:      #0ed839"
+	ã°ã³ã¼
+|3,0,2,1,1,0,1589845914,"ã°ã³ã¼"
 "3	LINE	0
-	color7:       #ababab
-|3,0,3,1,1,0,1589784282,"color7:       #ababab"
+	babibodd
+|3,0,3,1,1,0,1589845913,"babibodd"
 "4	LINE	0
-	color6:       #23edda
-|3,0,4,1,1,0,1589784281,"color6:       #23edda"
+	Attribute "FILE0" had a 38202 byte value for credentials.txt:
+|3,0,4,1,1,0,1589805033,"Attribute \"FILE0\" had a 38202 byte value for credentials.txt:"
 "5	LINE	0
-	color5:       #f996e2
-|3,0,5,1,1,0,1589784280,"color5:       #f996e2"
+	color0 = #3f3f3f
+|3,0,5,1,1,0,1589784334,"color0 = #3f3f3f"
 "6	LINE	0
-	color4:       #3b48e3
-|3,0,6,1,1,0,1589784276,"color4:       #3b48e3"
+	color10:      #0ed839
+|3,0,6,1,1,0,1589784285,"color10:      #0ed839"
 "7	LINE	0
-	color12:      #3b48e3
-|3,0,7,1,1,0,1589784262,"color12:      #3b48e3"
+	color7:       #ababab
+|3,0,7,1,1,0,1589784282,"color7:       #ababab"
 "8	LINE	0
-	color13:      #f996e2
-|3,0,8,1,1,0,1589784258,"color13:      #f996e2"
+	color6:       #23edda
+|3,0,8,1,1,0,1589784281,"color6:       #23edda"
 "9	LINE	0
-	color14:      #23edda
-|3,0,9,1,1,0,1589784254,"color14:      #23edda"
+	color5:       #f996e2
+|3,0,9,1,1,0,1589784280,"color5:       #f996e2"
 "q	CHAR	0
 	€kd€kd€kd€kd€kd€kddd€ku€ku€ku€ku€ku€kupQ€kb€kb€kbvisual
 |3,0,26,0,1,0,1589784096,"€kd€kd€kd€kd€kd€kddd€ku€ku€ku€ku€ku€kupQ€kb€kb€kbvisual"
 "s@	CHAR	0
 	€kd€kd€kddd€ku€ku€kup
 |3,2,28,0,1,0,1589784279,"€kd€kd€kddd€ku€ku€kup"
-""-	CHAR	0
+"-	CHAR	0
 	#
-|3,1,36,0,1,0,1589784408,"#"
+|3,0,36,0,1,0,1589793227,"#"
 
 # File marks:
-'0  17  131  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
-|4,48,17,131,1589792030,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
-'1  1  0  /etc/lightdm/lightdm.conf
-|4,49,1,0,1589791971,"/etc/lightdm/lightdm.conf"
-'2  154  22  ~/.bashrc
-|4,50,154,22,1589784583,"~/.bashrc"
-'3  6  16  ~/.config/i3/config
-|4,51,6,16,1589784576,"~/.config/i3/config"
-'4  1  0  /etc/fstab
-|4,52,1,0,1589784547,"/etc/fstab"
-'5  43  0  ~/.config/termite/config
-|4,53,43,0,1589784527,"~/.config/termite/config"
-'6  3  0  ~/.config/termite/config
-|4,54,3,0,1589784409,"~/.config/termite/config"
-'7  3  0  ~/.config/termite/config
-|4,55,3,0,1589784409,"~/.config/termite/config"
-'8  39  2  ~/.Xresources
-|4,56,39,2,1589784348,"~/.Xresources"
-'9  46  0  ~/.Xresources
-|4,57,46,0,1589783911,"~/.Xresources"
+'0  2  12  ~/.bash_plugins/targz.sh
+|4,48,2,12,1590163248,"~/.bash_plugins/targz.sh"
+'1  1  0  ~/.bash_plugins/etymology.sh
+|4,49,1,0,1590162933,"~/.bash_plugins/etymology.sh"
+'2  214  36  ~/.config/i3/config
+|4,50,214,36,1590069382,"~/.config/i3/config"
+'3  214  36  ~/.config/i3/config
+|4,51,214,36,1590069207,"~/.config/i3/config"
+'4  62  0  ~/Documents/repositories/chicago-brick/README.md
+|4,52,62,0,1590067055,"~/Documents/repositories/chicago-brick/README.md"
+'5  1  0  ~/.config/i3blocks/blocks/network.sh
+|4,53,1,0,1590064190,"~/.config/i3blocks/blocks/network.sh"
+'6  73  4  ~/.bash_aliases
+|4,54,73,4,1590062334,"~/.bash_aliases"
+'7  73  14  ~/.bash_aliases
+|4,55,73,14,1590062329,"~/.bash_aliases"
+'8  1  0  ~/Documents/testing/data/yandere_StudentScript_words_by_usages
+|4,56,1,0,1589884944,"~/Documents/testing/data/yandere_StudentScript_words_by_usages"
+'9  19  0  ~/Documents/testing/data/yandere_StudentScript_words_by_usages
+|4,57,19,0,1589884724,"~/Documents/testing/data/yandere_StudentScript_words_by_usages"
 
 # Jumplist (newest first):
--'  17  131  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
-|4,39,17,131,1589792030,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
--'  1  0  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
-|4,39,1,0,1589791985,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
--'  1  0  /etc/lightdm/lightdm.conf
-|4,39,1,0,1589791971,"/etc/lightdm/lightdm.conf"
--'  1  0  /etc/lightdm/lightdm.conf
-|4,39,1,0,1589791971,"/etc/lightdm/lightdm.conf"
--'  154  22  ~/.bashrc
-|4,39,154,22,1589784583,"~/.bashrc"
--'  154  22  ~/.bashrc
-|4,39,154,22,1589784583,"~/.bashrc"
--'  154  22  ~/.bashrc
-|4,39,154,22,1589784583,"~/.bashrc"
--'  154  22  ~/.bashrc
-|4,39,154,22,1589784583,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1589784579,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1589784579,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1589784579,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1589784579,"~/.bashrc"
--'  6  16  ~/.config/i3/config
-|4,39,6,16,1589784576,"~/.config/i3/config"
--'  6  16  ~/.config/i3/config
-|4,39,6,16,1589784576,"~/.config/i3/config"
--'  6  16  ~/.config/i3/config
-|4,39,6,16,1589784576,"~/.config/i3/config"
--'  6  16  ~/.config/i3/config
-|4,39,6,16,1589784576,"~/.config/i3/config"
--'  6  16  ~/.config/i3/config
-|4,39,6,16,1589784576,"~/.config/i3/config"
--'  6  16  ~/.config/i3/config
-|4,39,6,16,1589784576,"~/.config/i3/config"
--'  6  16  ~/.config/i3/config
-|4,39,6,16,1589784576,"~/.config/i3/config"
--'  6  16  ~/.config/i3/config
-|4,39,6,16,1589784576,"~/.config/i3/config"
+-'  2  12  ~/.bash_plugins/targz.sh
+|4,39,2,12,1590163248,"~/.bash_plugins/targz.sh"
+-'  1  0  ~/.bash_plugins/etymology.sh
+|4,39,1,0,1590162933,"~/.bash_plugins/etymology.sh"
+-'  1  0  ~/.bash_plugins/targz.sh
+|4,39,1,0,1590162770,"~/.bash_plugins/targz.sh"
+-'  214  36  ~/.config/i3/config
+|4,39,214,36,1590069382,"~/.config/i3/config"
+-'  214  36  ~/.config/i3/config
+|4,39,214,36,1590069382,"~/.config/i3/config"
+-'  214  36  ~/.config/i3/config
+|4,39,214,36,1590069382,"~/.config/i3/config"
 -'  1  0  ~/.config/i3/config
-|4,39,1,0,1589784552,"~/.config/i3/config"
+|4,39,1,0,1590069211,"~/.config/i3/config"
 -'  1  0  ~/.config/i3/config
-|4,39,1,0,1589784552,"~/.config/i3/config"
+|4,39,1,0,1590069211,"~/.config/i3/config"
 -'  1  0  ~/.config/i3/config
-|4,39,1,0,1589784552,"~/.config/i3/config"
+|4,39,1,0,1590069211,"~/.config/i3/config"
+-'  214  36  ~/.config/i3/config
+|4,39,214,36,1590069207,"~/.config/i3/config"
+-'  214  36  ~/.config/i3/config
+|4,39,214,36,1590069207,"~/.config/i3/config"
+-'  214  36  ~/.config/i3/config
+|4,39,214,36,1590069207,"~/.config/i3/config"
 -'  1  0  ~/.config/i3/config
-|4,39,1,0,1589784552,"~/.config/i3/config"
+|4,39,1,0,1590069144,"~/.config/i3/config"
 -'  1  0  ~/.config/i3/config
-|4,39,1,0,1589784552,"~/.config/i3/config"
+|4,39,1,0,1590069144,"~/.config/i3/config"
 -'  1  0  ~/.config/i3/config
-|4,39,1,0,1589784552,"~/.config/i3/config"
--'  1  0  ~/.config/i3/config
-|4,39,1,0,1589784552,"~/.config/i3/config"
--'  1  0  ~/.config/i3/config
-|4,39,1,0,1589784552,"~/.config/i3/config"
--'  1  0  /etc/fstab
-|4,39,1,0,1589784547,"/etc/fstab"
--'  1  0  /etc/fstab
-|4,39,1,0,1589784547,"/etc/fstab"
--'  1  0  /etc/fstab
-|4,39,1,0,1589784547,"/etc/fstab"
--'  1  0  /etc/fstab
-|4,39,1,0,1589784547,"/etc/fstab"
--'  1  0  /etc/fstab
-|4,39,1,0,1589784547,"/etc/fstab"
--'  1  0  /etc/fstab
-|4,39,1,0,1589784547,"/etc/fstab"
--'  1  0  /etc/fstab
-|4,39,1,0,1589784547,"/etc/fstab"
--'  1  0  /etc/fstab
-|4,39,1,0,1589784547,"/etc/fstab"
--'  1  0  /etc/fstab
-|4,39,1,0,1589784547,"/etc/fstab"
--'  1  0  /etc/fstab
-|4,39,1,0,1589784547,"/etc/fstab"
--'  1  0  /etc/fstab
-|4,39,1,0,1589784547,"/etc/fstab"
--'  1  0  /etc/fstab
-|4,39,1,0,1589784547,"/etc/fstab"
--'  1  0  /etc/fstab
-|4,39,1,0,1589784547,"/etc/fstab"
--'  1  0  /etc/fstab
-|4,39,1,0,1589784547,"/etc/fstab"
--'  1  0  /etc/fstab
-|4,39,1,0,1589784547,"/etc/fstab"
--'  1  0  /etc/fstab
-|4,39,1,0,1589784547,"/etc/fstab"
--'  43  0  ~/.config/termite/config
-|4,39,43,0,1589784527,"~/.config/termite/config"
--'  43  0  ~/.config/termite/config
-|4,39,43,0,1589784527,"~/.config/termite/config"
--'  43  0  ~/.config/termite/config
-|4,39,43,0,1589784527,"~/.config/termite/config"
--'  43  0  ~/.config/termite/config
-|4,39,43,0,1589784527,"~/.config/termite/config"
--'  43  0  ~/.config/termite/config
-|4,39,43,0,1589784527,"~/.config/termite/config"
--'  43  0  ~/.config/termite/config
-|4,39,43,0,1589784527,"~/.config/termite/config"
--'  43  0  ~/.config/termite/config
-|4,39,43,0,1589784527,"~/.config/termite/config"
--'  43  0  ~/.config/termite/config
-|4,39,43,0,1589784527,"~/.config/termite/config"
--'  43  0  ~/.config/termite/config
-|4,39,43,0,1589784527,"~/.config/termite/config"
--'  43  0  ~/.config/termite/config
-|4,39,43,0,1589784527,"~/.config/termite/config"
--'  43  0  ~/.config/termite/config
-|4,39,43,0,1589784527,"~/.config/termite/config"
--'  43  0  ~/.config/termite/config
-|4,39,43,0,1589784527,"~/.config/termite/config"
--'  43  0  ~/.config/termite/config
-|4,39,43,0,1589784527,"~/.config/termite/config"
--'  43  0  ~/.config/termite/config
-|4,39,43,0,1589784527,"~/.config/termite/config"
--'  43  0  ~/.config/termite/config
-|4,39,43,0,1589784527,"~/.config/termite/config"
--'  43  0  ~/.config/termite/config
-|4,39,43,0,1589784527,"~/.config/termite/config"
--'  43  0  ~/.config/termite/config
-|4,39,43,0,1589784527,"~/.config/termite/config"
--'  43  0  ~/.config/termite/config
-|4,39,43,0,1589784527,"~/.config/termite/config"
--'  43  0  ~/.config/termite/config
-|4,39,43,0,1589784527,"~/.config/termite/config"
--'  43  0  ~/.config/termite/config
-|4,39,43,0,1589784527,"~/.config/termite/config"
--'  43  0  ~/.config/termite/config
-|4,39,43,0,1589784527,"~/.config/termite/config"
--'  43  0  ~/.config/termite/config
-|4,39,43,0,1589784527,"~/.config/termite/config"
--'  43  0  ~/.config/termite/config
-|4,39,43,0,1589784527,"~/.config/termite/config"
--'  43  0  ~/.config/termite/config
-|4,39,43,0,1589784527,"~/.config/termite/config"
--'  43  0  ~/.config/termite/config
-|4,39,43,0,1589784527,"~/.config/termite/config"
--'  43  0  ~/.config/termite/config
-|4,39,43,0,1589784527,"~/.config/termite/config"
--'  43  0  ~/.config/termite/config
-|4,39,43,0,1589784527,"~/.config/termite/config"
--'  43  0  ~/.config/termite/config
-|4,39,43,0,1589784527,"~/.config/termite/config"
--'  43  0  ~/.config/termite/config
-|4,39,43,0,1589784527,"~/.config/termite/config"
--'  43  0  ~/.config/termite/config
-|4,39,43,0,1589784527,"~/.config/termite/config"
--'  43  0  ~/.config/termite/config
-|4,39,43,0,1589784527,"~/.config/termite/config"
--'  43  0  ~/.config/termite/config
-|4,39,43,0,1589784527,"~/.config/termite/config"
--'  19  0  ~/.config/termite/config
-|4,39,19,0,1589784525,"~/.config/termite/config"
--'  19  0  ~/.config/termite/config
-|4,39,19,0,1589784525,"~/.config/termite/config"
--'  19  0  ~/.config/termite/config
-|4,39,19,0,1589784525,"~/.config/termite/config"
--'  19  0  ~/.config/termite/config
-|4,39,19,0,1589784525,"~/.config/termite/config"
--'  19  0  ~/.config/termite/config
-|4,39,19,0,1589784525,"~/.config/termite/config"
--'  19  0  ~/.config/termite/config
-|4,39,19,0,1589784525,"~/.config/termite/config"
--'  19  0  ~/.config/termite/config
-|4,39,19,0,1589784525,"~/.config/termite/config"
--'  19  0  ~/.config/termite/config
-|4,39,19,0,1589784525,"~/.config/termite/config"
--'  19  0  ~/.config/termite/config
-|4,39,19,0,1589784525,"~/.config/termite/config"
--'  19  0  ~/.config/termite/config
-|4,39,19,0,1589784525,"~/.config/termite/config"
--'  19  0  ~/.config/termite/config
-|4,39,19,0,1589784525,"~/.config/termite/config"
--'  19  0  ~/.config/termite/config
-|4,39,19,0,1589784525,"~/.config/termite/config"
--'  19  0  ~/.config/termite/config
-|4,39,19,0,1589784525,"~/.config/termite/config"
--'  19  0  ~/.config/termite/config
-|4,39,19,0,1589784525,"~/.config/termite/config"
--'  19  0  ~/.config/termite/config
-|4,39,19,0,1589784525,"~/.config/termite/config"
--'  19  0  ~/.config/termite/config
-|4,39,19,0,1589784525,"~/.config/termite/config"
--'  19  0  ~/.config/termite/config
-|4,39,19,0,1589784525,"~/.config/termite/config"
--'  19  0  ~/.config/termite/config
-|4,39,19,0,1589784525,"~/.config/termite/config"
--'  19  0  ~/.config/termite/config
-|4,39,19,0,1589784525,"~/.config/termite/config"
--'  19  0  ~/.config/termite/config
-|4,39,19,0,1589784525,"~/.config/termite/config"
--'  19  0  ~/.config/termite/config
-|4,39,19,0,1589784525,"~/.config/termite/config"
--'  19  0  ~/.config/termite/config
-|4,39,19,0,1589784525,"~/.config/termite/config"
--'  19  0  ~/.config/termite/config
-|4,39,19,0,1589784525,"~/.config/termite/config"
--'  19  0  ~/.config/termite/config
-|4,39,19,0,1589784525,"~/.config/termite/config"
+|4,39,1,0,1590069144,"~/.config/i3/config"
+-'  62  0  ~/Documents/repositories/chicago-brick/README.md
+|4,39,62,0,1590067055,"~/Documents/repositories/chicago-brick/README.md"
+-'  62  0  ~/Documents/repositories/chicago-brick/README.md
+|4,39,62,0,1590067055,"~/Documents/repositories/chicago-brick/README.md"
+-'  62  0  ~/Documents/repositories/chicago-brick/README.md
+|4,39,62,0,1590067055,"~/Documents/repositories/chicago-brick/README.md"
+-'  62  0  ~/Documents/repositories/chicago-brick/README.md
+|4,39,62,0,1590067055,"~/Documents/repositories/chicago-brick/README.md"
+-'  62  0  ~/Documents/repositories/chicago-brick/README.md
+|4,39,62,0,1590067055,"~/Documents/repositories/chicago-brick/README.md"
+-'  62  0  ~/Documents/repositories/chicago-brick/README.md
+|4,39,62,0,1590067055,"~/Documents/repositories/chicago-brick/README.md"
+-'  62  0  ~/Documents/repositories/chicago-brick/README.md
+|4,39,62,0,1590067055,"~/Documents/repositories/chicago-brick/README.md"
+-'  62  0  ~/Documents/repositories/chicago-brick/README.md
+|4,39,62,0,1590067055,"~/Documents/repositories/chicago-brick/README.md"
+-'  62  0  ~/Documents/repositories/chicago-brick/README.md
+|4,39,62,0,1590067055,"~/Documents/repositories/chicago-brick/README.md"
+-'  62  0  ~/Documents/repositories/chicago-brick/README.md
+|4,39,62,0,1590067055,"~/Documents/repositories/chicago-brick/README.md"
+-'  62  0  ~/Documents/repositories/chicago-brick/README.md
+|4,39,62,0,1590067055,"~/Documents/repositories/chicago-brick/README.md"
+-'  62  0  ~/Documents/repositories/chicago-brick/README.md
+|4,39,62,0,1590067055,"~/Documents/repositories/chicago-brick/README.md"
+-'  1  0  ~/Documents/repositories/chicago-brick/README.md
+|4,39,1,0,1590067032,"~/Documents/repositories/chicago-brick/README.md"
+-'  1  0  ~/Documents/repositories/chicago-brick/README.md
+|4,39,1,0,1590067032,"~/Documents/repositories/chicago-brick/README.md"
+-'  1  0  ~/Documents/repositories/chicago-brick/README.md
+|4,39,1,0,1590067032,"~/Documents/repositories/chicago-brick/README.md"
+-'  1  0  ~/Documents/repositories/chicago-brick/README.md
+|4,39,1,0,1590067032,"~/Documents/repositories/chicago-brick/README.md"
+-'  1  0  ~/Documents/repositories/chicago-brick/README.md
+|4,39,1,0,1590067032,"~/Documents/repositories/chicago-brick/README.md"
+-'  1  0  ~/Documents/repositories/chicago-brick/README.md
+|4,39,1,0,1590067032,"~/Documents/repositories/chicago-brick/README.md"
+-'  1  0  ~/Documents/repositories/chicago-brick/README.md
+|4,39,1,0,1590067032,"~/Documents/repositories/chicago-brick/README.md"
+-'  1  0  ~/Documents/repositories/chicago-brick/README.md
+|4,39,1,0,1590067032,"~/Documents/repositories/chicago-brick/README.md"
+-'  1  0  ~/Documents/repositories/chicago-brick/README.md
+|4,39,1,0,1590067032,"~/Documents/repositories/chicago-brick/README.md"
+-'  1  0  ~/Documents/repositories/chicago-brick/README.md
+|4,39,1,0,1590067032,"~/Documents/repositories/chicago-brick/README.md"
+-'  1  0  ~/Documents/repositories/chicago-brick/README.md
+|4,39,1,0,1590067032,"~/Documents/repositories/chicago-brick/README.md"
+-'  1  0  ~/Documents/repositories/chicago-brick/README.md
+|4,39,1,0,1590067032,"~/Documents/repositories/chicago-brick/README.md"
+-'  1  0  ~/.config/i3blocks/blocks/network.sh
+|4,39,1,0,1590064190,"~/.config/i3blocks/blocks/network.sh"
+-'  1  0  ~/.config/i3blocks/blocks/network.sh
+|4,39,1,0,1590064190,"~/.config/i3blocks/blocks/network.sh"
+-'  1  0  ~/.config/i3blocks/blocks/network.sh
+|4,39,1,0,1590064190,"~/.config/i3blocks/blocks/network.sh"
+-'  1  0  ~/.config/i3blocks/blocks/network.sh
+|4,39,1,0,1590064190,"~/.config/i3blocks/blocks/network.sh"
+-'  1  0  ~/.config/i3blocks/blocks/network.sh
+|4,39,1,0,1590064190,"~/.config/i3blocks/blocks/network.sh"
+-'  1  0  ~/.config/i3blocks/blocks/network.sh
+|4,39,1,0,1590064190,"~/.config/i3blocks/blocks/network.sh"
+-'  1  0  ~/.config/i3blocks/blocks/network.sh
+|4,39,1,0,1590064190,"~/.config/i3blocks/blocks/network.sh"
+-'  1  0  ~/.config/i3blocks/blocks/network.sh
+|4,39,1,0,1590064190,"~/.config/i3blocks/blocks/network.sh"
+-'  1  0  ~/.config/i3blocks/blocks/network.sh
+|4,39,1,0,1590064190,"~/.config/i3blocks/blocks/network.sh"
+-'  1  0  ~/.config/i3blocks/blocks/network.sh
+|4,39,1,0,1590064190,"~/.config/i3blocks/blocks/network.sh"
+-'  1  0  ~/.config/i3blocks/blocks/network.sh
+|4,39,1,0,1590064190,"~/.config/i3blocks/blocks/network.sh"
+-'  1  0  ~/.config/i3blocks/blocks/network.sh
+|4,39,1,0,1590064190,"~/.config/i3blocks/blocks/network.sh"
+-'  1  0  ~/.config/i3blocks/blocks/network.sh
+|4,39,1,0,1590064190,"~/.config/i3blocks/blocks/network.sh"
+-'  1  0  ~/.config/i3blocks/blocks/network.sh
+|4,39,1,0,1590064190,"~/.config/i3blocks/blocks/network.sh"
+-'  1  0  ~/.config/i3blocks/blocks/network.sh
+|4,39,1,0,1590064190,"~/.config/i3blocks/blocks/network.sh"
+-'  1  0  ~/.config/i3blocks/blocks/network.sh
+|4,39,1,0,1590064190,"~/.config/i3blocks/blocks/network.sh"
+-'  1  0  ~/.config/i3blocks/blocks/network.sh
+|4,39,1,0,1590064190,"~/.config/i3blocks/blocks/network.sh"
+-'  1  0  ~/.config/i3blocks/blocks/network.sh
+|4,39,1,0,1590064190,"~/.config/i3blocks/blocks/network.sh"
+-'  1  0  ~/.config/i3blocks/blocks/network.sh
+|4,39,1,0,1590064190,"~/.config/i3blocks/blocks/network.sh"
+-'  1  0  ~/.config/i3blocks/blocks/network.sh
+|4,39,1,0,1590064190,"~/.config/i3blocks/blocks/network.sh"
+-'  1  0  ~/.config/i3blocks/blocks/network.sh
+|4,39,1,0,1590064190,"~/.config/i3blocks/blocks/network.sh"
+-'  1  0  ~/.config/i3blocks/blocks/network.sh
+|4,39,1,0,1590064190,"~/.config/i3blocks/blocks/network.sh"
+-'  1  0  ~/.config/i3blocks/blocks/network.sh
+|4,39,1,0,1590064190,"~/.config/i3blocks/blocks/network.sh"
+-'  1  0  ~/.config/i3blocks/blocks/network.sh
+|4,39,1,0,1590064190,"~/.config/i3blocks/blocks/network.sh"
+-'  73  4  ~/.bash_aliases
+|4,39,73,4,1590062334,"~/.bash_aliases"
+-'  73  4  ~/.bash_aliases
+|4,39,73,4,1590062334,"~/.bash_aliases"
+-'  73  4  ~/.bash_aliases
+|4,39,73,4,1590062334,"~/.bash_aliases"
+-'  73  4  ~/.bash_aliases
+|4,39,73,4,1590062334,"~/.bash_aliases"
+-'  73  4  ~/.bash_aliases
+|4,39,73,4,1590062334,"~/.bash_aliases"
+-'  73  4  ~/.bash_aliases
+|4,39,73,4,1590062334,"~/.bash_aliases"
+-'  73  4  ~/.bash_aliases
+|4,39,73,4,1590062334,"~/.bash_aliases"
+-'  73  4  ~/.bash_aliases
+|4,39,73,4,1590062334,"~/.bash_aliases"
+-'  73  4  ~/.bash_aliases
+|4,39,73,4,1590062334,"~/.bash_aliases"
+-'  73  4  ~/.bash_aliases
+|4,39,73,4,1590062334,"~/.bash_aliases"
+-'  73  4  ~/.bash_aliases
+|4,39,73,4,1590062334,"~/.bash_aliases"
+-'  73  4  ~/.bash_aliases
+|4,39,73,4,1590062334,"~/.bash_aliases"
+-'  73  4  ~/.bash_aliases
+|4,39,73,4,1590062334,"~/.bash_aliases"
+-'  73  4  ~/.bash_aliases
+|4,39,73,4,1590062334,"~/.bash_aliases"
+-'  73  4  ~/.bash_aliases
+|4,39,73,4,1590062334,"~/.bash_aliases"
+-'  73  4  ~/.bash_aliases
+|4,39,73,4,1590062334,"~/.bash_aliases"
+-'  73  4  ~/.bash_aliases
+|4,39,73,4,1590062334,"~/.bash_aliases"
+-'  73  4  ~/.bash_aliases
+|4,39,73,4,1590062334,"~/.bash_aliases"
+-'  73  4  ~/.bash_aliases
+|4,39,73,4,1590062334,"~/.bash_aliases"
+-'  73  4  ~/.bash_aliases
+|4,39,73,4,1590062334,"~/.bash_aliases"
+-'  73  4  ~/.bash_aliases
+|4,39,73,4,1590062334,"~/.bash_aliases"
+-'  73  4  ~/.bash_aliases
+|4,39,73,4,1590062334,"~/.bash_aliases"
+-'  73  4  ~/.bash_aliases
+|4,39,73,4,1590062334,"~/.bash_aliases"
+-'  73  4  ~/.bash_aliases
+|4,39,73,4,1590062334,"~/.bash_aliases"
+-'  73  4  ~/.bash_aliases
+|4,39,73,4,1590062334,"~/.bash_aliases"
+-'  73  4  ~/.bash_aliases
+|4,39,73,4,1590062334,"~/.bash_aliases"
+-'  73  4  ~/.bash_aliases
+|4,39,73,4,1590062334,"~/.bash_aliases"
+-'  73  4  ~/.bash_aliases
+|4,39,73,4,1590062334,"~/.bash_aliases"
+-'  73  4  ~/.bash_aliases
+|4,39,73,4,1590062334,"~/.bash_aliases"
+-'  73  4  ~/.bash_aliases
+|4,39,73,4,1590062334,"~/.bash_aliases"
+-'  73  4  ~/.bash_aliases
+|4,39,73,4,1590062334,"~/.bash_aliases"
+-'  73  4  ~/.bash_aliases
+|4,39,73,4,1590062334,"~/.bash_aliases"
+-'  73  4  ~/.bash_aliases
+|4,39,73,4,1590062334,"~/.bash_aliases"
+-'  73  4  ~/.bash_aliases
+|4,39,73,4,1590062334,"~/.bash_aliases"
+-'  73  4  ~/.bash_aliases
+|4,39,73,4,1590062334,"~/.bash_aliases"
+-'  73  4  ~/.bash_aliases
+|4,39,73,4,1590062334,"~/.bash_aliases"
+-'  73  4  ~/.bash_aliases
+|4,39,73,4,1590062334,"~/.bash_aliases"
 
 # History of marks within files (newest to oldest):
+
+> ~/.bash_plugins/targz.sh
+	*	1590163055	0
+	"	2	12
+	^	2	13
+	.	2	12
+	+	4	0
+	+	2	138
+	+	2	12
+
+> ~/.bash_plugins/etymology.sh
+	*	1590162786	0
+	"	1	0
+
+> ~/.config/i3/config
+	*	1590069380	0
+	"	214	36
+	^	214	37
+	.	214	36
+	+	138	0
+	+	137	14
+	+	138	29
+	+	139	13
+	+	138	13
+	+	139	23
+	+	138	24
+	+	79	0
+	+	252	0
+	+	255	116
+	+	255	0
+	+	256	0
+	+	255	40
+	+	252	33
+	+	79	0
+	+	255	0
+	+	256	0
+	+	255	0
+	+	252	39
+	+	255	31
+	+	252	25
+	+	255	0
+	+	255	142
+	+	78	29
+	+	252	0
+	+	255	0
+	+	252	40
+	+	253	45
+	+	252	42
+	+	6	16
+	+	213	25
+	+	214	37
+	+	215	0
+	+	214	36
+
+> ~/Documents/repositories/chicago-brick/README.md
+	*	1590067051	0
+	"	62	0
+
+> ~/.config/i3blocks/blocks/network.sh
+	*	1590064113	0
+	"	1	0
+
+> ~/.bash_aliases
+	*	1590062334	0
+	"	73	4
+	^	73	5
+	.	73	5
+	+	72	17
+	+	73	5
+
+> ~/Documents/testing/data/yandere_StudentScript_words_by_usages
+	*	1589884744	0
+	"	1	0
+
+> ~/.XCompose
+	*	1589874566	0
+	"	32	17
+	^	32	18
+	.	32	17
+	+	15	25
+	+	34	0
+	+	34	6
+	+	35	39
+	+	36	37
+	+	14	25
+	+	16	0
+	+	10	0
+	+	38	50
+	+	31	27
+	+	30	12
+	+	32	17
+
+> ~/Documents/nicklas_2020-05-19_electrons.txt
+	*	1589874340	0
+	"	29	4
+	^	20	5
+	.	20	4
+	+	5	13
+	+	2	8
+	+	16	11
+	+	15	5
+	+	14	16
+	+	15	29
+	+	32	15
+	+	31	14
+	+	36	25
+	+	35	14
+	+	36	26
+	+	39	21
+	+	20	4
+
+> ~/Documents/repositories/mpv-mpris/.gitignore
+	*	1589850619	0
+	"	1	0
+
+> ~/Documents/repositories/mpv-mpris/README.md
+	*	1589850606	0
+	"	18	0
+
+> ~/.config/i3blocks/blocks/music.sh
+	*	1589850170	0
+	"	11	3
+	^	11	4
+	.	12	0
+	+	24	52
+	+	6	0
+	+	2	43
+	+	4	1
+	+	3	77
+	+	5	30
+	+	3	87
+	+	21	0
+	+	13	0
+	+	16	0
+	+	29	0
+	+	6	0
+	+	7	0
+	+	11	4
+	+	9	25
+	+	12	0
+
+> ~/.config/i3blocks/blocks/volume.sh
+	*	1589850083	0
+	"	1	0
+	^	3	28
+	.	3	27
+	+	10	0
+	+	7	0
+	+	4	0
+	+	6	0
+	+	5	2
+	+	4	29
+	+	5	29
+	+	2	28
+	+	1	21
+	+	2	29
+	+	4	31
+	+	5	29
+	+	4	29
+	+	3	27
+
+> ~/Documents/school/2020/japanese/2020-05-19.txt
+	*	1589849518	0
+	"	12	0
+	.	13	0
+	+	3	0
+	+	1	72
+	+	2	51
+	+	3	0
+	+	4	51
+	+	7	30
+	+	8	24
+	+	11	51
+	+	12	35
+	+	11	45
+	+	13	0
+
+> ~/Documents/school/2020/japanese/2020-05-19
+	*	1589843649	0
+	"	1	0
+
+> ~/ctf/google/2019/beginner/5/console.c
+	*	1589807827	0
+	"	1	0
+
+> ~/ctf/google/2019/beginner/5/console
+	*	1589807824	0
+	"	1	0
+
+> ~/ctf/google/2019/beginner/5/bof
+	*	1589807493	0
+	"	1	0
+
+> ~/ctf/google/2019/beginner/4/server.js
+	*	1589807208	0
+	"	12	15
+	^	12	16
+	.	5	49
+	+	8	41
+	+	12	15
+	+	11	9
+	+	5	49
+
+> ~/Documents/http server testing/server1.js
+	*	1589807119	0
+	"	1	0
+
+> ~/ctf/google/2019/beginner/4/admin
+	*	1589806270	0
+	"	1	0
+
+> ~/ctf/google/2019/beginner/4/eating.png
+	*	1589805787	0
+	"	4359	0
+
+> ~/ctf/google/2019/beginner/4/cauliflower.jpg
+	*	1589805740	0
+	"	1	0
+
+> ~/ctf/google/2019/beginner/3/family/Users/Family/Documents/helpme
+	*	1589805039	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/ctf/google/2019/beginner/3/family/Users/Family/Documents/credentials.txt
+	*	1589804763	0
+	"	1	0
+
+> ~/.bashrc
+	*	1589804423	0
+	"	110	0
+	^	154	23
+	.	154	22
+	+	154	22
+
+> ~/ctf/google/2019/beginner/3/family/Setup.log
+	*	1589804368	0
+	"	1	0
+
+> ~/ctf/google/2019/beginner/3/family/pagefile.sys
+	*	1589804359	0
+	"	1	0
+
+> ~/ctf/google/2019/beginner/3/family/Users/desktop.ini
+	*	1589803739	0
+	"	1	0
+
+> ~/ctf/google/2019/beginner/3/family/Users/Family/Desktop/desktop.ini
+	*	1589803720	0
+	"	1	0
+
+> ~/ctf/google/2019/beginner/3/family/Users/Family/Documents/document.pdf
+	*	1589803709	0
+	"	1	0
+
+> ~/ctf/google/2019/beginner/3/family.ntfs
+	*	1589803552	0
+	"	5	0
+
+> ~/ctf/google/2019/beginner/3/note.txt
+	*	1589803534	0
+	"	1	0
+
+> ~/ctf/google/2019/beginner/2/README.pdf
+	*	1589802372	0
+	"	13421	0
+
+> ~/ctf/google/2019/beginner/2/init_sat
+	*	1589802294	0
+	"	1	0
+	^	1	0
+
+> ~/ctf/google/2019/beginner/1/rand2
+	*	1589801853	0
+	"	12	0
+
+> ~/ctf/google/2019/beginner/1/log.txt
+	*	1589801652	0
+	"	4	0
+
+> ~/.config/termite/config
+	*	1589793736	0
+	"	4	18
+	^	4	19
+	.	4	18
+	+	3	19
+	+	11	0
+	+	10	23
+	+	11	0
+	+	31	0
+	+	51	0
+	+	53	0
+	+	52	0
+	+	48	15
+	+	51	19
+	+	53	19
+	+	52	24
+	+	56	24
+	+	62	0
+	+	72	0
+	+	62	0
+	+	70	0
+	+	72	0
+	+	72	21
+	+	77	0
+	+	79	0
+	+	77	0
+	+	70	0
+	+	69	0
+	+	72	0
+	+	69	0
+	+	72	0
+	+	69	0
+	+	72	0
+	+	69	0
+	+	72	0
+	+	79	0
+	+	76	0
+	+	70	0
+	+	63	0
+	+	72	0
+	+	64	0
+	+	72	0
+	+	69	0
+	+	72	0
+	+	74	0
+	+	72	0
+	+	75	0
+	+	72	0
+	+	73	0
+	+	72	0
+	+	65	0
+	+	66	0
+	+	67	0
+	+	68	0
+	+	69	0
+	+	71	0
+	+	62	0
+	+	5	0
+	+	3	0
+	+	2	0
+	+	21	0
+	+	4	18
+
+> ~/.xinitrc
+	*	1589793594	0
+	"	7	0
+	^	4	10
+	.	4	9
+	+	7	2
+	+	3	0
+	+	5	9
+	+	4	9
+	a	7	0
+
+> ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+	*	1589792038	0
+	"	1	10
+	^	1	11
+	.	1	10
+	+	1	10
 
 > ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
 	*	1589792029	0
@@ -369,112 +741,9 @@ $\ =\
 	*	1589791969	0
 	"	1	0
 
-> ~/.bashrc
-	*	1589784582	0
-	"	154	22
-	^	154	23
-	.	154	22
-	+	154	22
-
-> ~/.config/i3/config
-	*	1589784567	0
-	"	6	16
-	^	6	17
-	.	6	16
-	+	138	0
-	+	137	14
-	+	138	29
-	+	139	13
-	+	138	13
-	+	139	23
-	+	138	24
-	+	79	0
-	+	249	0
-	+	252	116
-	+	252	0
-	+	253	0
-	+	252	40
-	+	249	33
-	+	79	0
-	+	252	0
-	+	253	0
-	+	252	0
-	+	249	39
-	+	252	31
-	+	249	25
-	+	252	0
-	+	252	142
-	+	78	29
-	+	249	0
-	+	252	0
-	+	249	40
-	+	250	45
-	+	249	42
-	+	6	16
-
 > /etc/fstab
 	*	1589784543	0
 	"	1	0
-
-> ~/.config/termite/config
-	*	1589784525	0
-	"	43	0
-	.	3	0
-	+	3	19
-	+	10	0
-	+	9	23
-	+	10	0
-	+	30	0
-	+	50	0
-	+	52	0
-	+	51	0
-	+	47	15
-	+	50	19
-	+	52	19
-	+	51	24
-	+	55	24
-	+	61	0
-	+	71	0
-	+	61	0
-	+	69	0
-	+	71	0
-	+	71	21
-	+	76	0
-	+	78	0
-	+	76	0
-	+	69	0
-	+	68	0
-	+	71	0
-	+	68	0
-	+	71	0
-	+	68	0
-	+	71	0
-	+	68	0
-	+	71	0
-	+	78	0
-	+	75	0
-	+	69	0
-	+	62	0
-	+	71	0
-	+	63	0
-	+	71	0
-	+	68	0
-	+	71	0
-	+	73	0
-	+	71	0
-	+	74	0
-	+	71	0
-	+	72	0
-	+	71	0
-	+	64	0
-	+	65	0
-	+	66	0
-	+	67	0
-	+	68	0
-	+	70	0
-	+	61	0
-	+	4	0
-	+	3	0
 
 > ~/.Xresources
 	*	1589784346	0
@@ -528,13 +797,6 @@ $\ =\
 	*	1589691895	0
 	"	1	0
 
-> ~/.bash_aliases
-	*	1589680198	0
-	"	72	17
-	^	72	18
-	.	72	17
-	+	72	17
-
 > ~/Documents/testing/data/emoji.txt
 	*	1589676302	0
 	"	1326	0
@@ -564,22 +826,6 @@ $\ =\
 	.	1	39249
 	+	1	0
 	+	1	39249
-
-> ~/.config/i3blocks/blocks/music.sh
-	*	1589501681	0
-	"	1	0
-	.	23	0
-	+	18	52
-	+	6	0
-	+	2	43
-	+	4	1
-	+	3	77
-	+	5	30
-	+	3	87
-	+	15	0
-	+	7	0
-	+	10	0
-	+	23	0
 
 > /usr/share/fonts/X11/misc/fonts.alias
 	*	1589497122	0
@@ -626,21 +872,6 @@ $\ =\
 	*	1589439006	0
 	"	1	0
 
-> ~/.XCompose
-	*	1589429702	0
-	"	36	50
-	^	36	51
-	.	36	50
-	+	15	25
-	+	32	0
-	+	32	6
-	+	33	39
-	+	34	37
-	+	14	25
-	+	16	0
-	+	10	0
-	+	36	50
-
 > ~/Documents/school/2020/robot/games/platformer (godot)/Player.gd
 	*	1589331531	0
 	"	1	0
@@ -658,13 +889,6 @@ $\ =\
 	^	28	18
 	.	28	17
 	+	28	17
-
-> ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-	*	1589323843	0
-	"	1	14
-	^	1	15
-	.	1	14
-	+	1	14
 
 > ~/scripts/cancel_shutdown.sh
 	*	1589322136	0
@@ -695,17 +919,6 @@ $\ =\
 > ~/Documents/school/2020/robot/peer reviews/ben dolliver/2020-05-12/Ben Dollivers perfect A+ Technical Test.pages
 	*	1589263116	0
 	"	741	0
-
-> ~/.xinitrc
-	*	1589262218	0
-	"	4	10
-	^	4	11
-	.	4	10
-	+	7	2
-	+	3	0
-	+	5	9
-	+	4	10
-	a	7	0
 
 > ~/.xscreensaver
 	*	1589261816	0
@@ -782,26 +995,6 @@ $\ =\
 	+	1	21
 	+	3	30
 	+	4	3
-
-> ~/.config/i3blocks/blocks/volume.sh
-	*	1588555909	0
-	"	3	27
-	^	3	28
-	.	3	27
-	+	10	0
-	+	7	0
-	+	4	0
-	+	6	0
-	+	5	2
-	+	4	29
-	+	5	29
-	+	2	28
-	+	1	21
-	+	2	29
-	+	4	31
-	+	5	29
-	+	4	29
-	+	3	27
 
 > ~/Documents/school/2020/maths/programs/generate_bearings.js
 	*	1588549098	0
