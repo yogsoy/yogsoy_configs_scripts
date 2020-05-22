@@ -7460,3 +7460,7 @@ gitgo
 cdl
 vim .bashrc
 rl
+vim .bashrc
+rl
+vim .bashrc
+exit
