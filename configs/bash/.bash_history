@@ -7413,3 +7413,21 @@ apti partitionmanager
 partitionmanager 
 ls
 partitionmanager 
+lvs
+sudo su
+ls
+tar cvf documents.tar Documents/
+ls
+rf documents.tar 
+sudo su
+ls
+df -h
+cl
+tar cf - /folder-with-big-files -P | pv -s $(du -sb /folder-with-big-files | awk '{print $1}') | gzip > big-files.tar.gz
+apti pv
+tar cf - Documents/ -P | pv -s $(du -sb Documents/ | awk '{print $1}') | gzip > documents.tar.gz
+ls
+rl
+rf Desktop/
+exit
+targz downloads.tar.gz Downloads/
