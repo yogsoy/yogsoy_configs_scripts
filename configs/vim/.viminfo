@@ -20,14 +20,14 @@
 $\ =\ 
 
 # Command Line History (newest to oldest):
+:wq
+|2,0,1590193659,,"wq"
+:q
+|2,0,1590174157,,"q"
 :q!
 |2,0,1590171524,,"q!"
-:wq
-|2,0,1590171507,,"wq"
 :w
 |2,0,1590171506,,"w"
-:q
-|2,0,1590168199,,"q"
 :w help.png
 |2,0,1589805038,,"w help.png"
 :explore
@@ -145,245 +145,257 @@ $\ =\
 |3,0,36,0,1,0,1589793227,"#"
 
 # File marks:
-'0  155  10  ~/.bashrc
-|4,48,155,10,1590171524,"~/.bashrc"
-'1  154  14  ~/.bashrc
-|4,49,154,14,1590171507,"~/.bashrc"
-'2  154  14  ~/.bashrc
-|4,50,154,14,1590171507,"~/.bashrc"
-'3  1  19  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,51,1,19,1590171474,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
-'4  154  10  ~/.bashrc
-|4,52,154,10,1590171443,"~/.bashrc"
-'5  154  10  ~/.bashrc
-|4,53,154,10,1590171443,"~/.bashrc"
-'6  1  10  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,54,1,10,1590171377,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
-'7  44  0  ~/.bash_aliases
-|4,55,44,0,1590171366,"~/.bash_aliases"
-'8  1  12  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,56,1,12,1590168556,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
-'9  1  12  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,57,1,12,1590168556,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+'0  13  98  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
+|4,48,13,98,1590193659,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
+'1  1  0  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
+|4,49,1,0,1590174157,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
+'2  1  0  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
+|4,50,1,0,1590174157,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
+'3  71  4  ~/.bashrc
+|4,51,71,4,1590171791,"~/.bashrc"
+'4  66  0  ~/.bashrc
+|4,52,66,0,1590171774,"~/.bashrc"
+'5  66  0  ~/.bashrc
+|4,53,66,0,1590171774,"~/.bashrc"
+'6  15  0  ~/.bashrc
+|4,54,15,0,1590171759,"~/.bashrc"
+'7  15  0  ~/.bashrc
+|4,55,15,0,1590171759,"~/.bashrc"
+'8  15  0  ~/.bashrc
+|4,56,15,0,1590171759,"~/.bashrc"
+'9  15  0  ~/.bashrc
+|4,57,15,0,1590171759,"~/.bashrc"
 
 # Jumplist (newest first):
+-'  13  98  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
+|4,39,13,98,1590193659,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
+-'  7  2  ~/NERD_tree_1
+|4,39,7,2,1590193624,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1590193619,"~/NERD_tree_1"
+-'  8  2  ~/NERD_tree_1
+|4,39,8,2,1590193619,"~/NERD_tree_1"
+-'  1  0  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
+|4,39,1,0,1590174157,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
+-'  1  0  ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
+|4,39,1,0,1590174157,"~/Documents/repositories/yogsoy_configs_scripts/backup.sh"
+-'  71  4  ~/.bashrc
+|4,39,71,4,1590171791,"~/.bashrc"
+-'  71  4  ~/.bashrc
+|4,39,71,4,1590171791,"~/.bashrc"
+-'  71  4  ~/.bashrc
+|4,39,71,4,1590171791,"~/.bashrc"
+-'  71  4  ~/.bashrc
+|4,39,71,4,1590171791,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1590171777,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1590171777,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1590171777,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1590171777,"~/.bashrc"
+-'  66  0  ~/.bashrc
+|4,39,66,0,1590171774,"~/.bashrc"
+-'  66  0  ~/.bashrc
+|4,39,66,0,1590171774,"~/.bashrc"
+-'  66  0  ~/.bashrc
+|4,39,66,0,1590171774,"~/.bashrc"
+-'  66  0  ~/.bashrc
+|4,39,66,0,1590171774,"~/.bashrc"
+-'  66  0  ~/.bashrc
+|4,39,66,0,1590171774,"~/.bashrc"
+-'  66  0  ~/.bashrc
+|4,39,66,0,1590171774,"~/.bashrc"
+-'  66  0  ~/.bashrc
+|4,39,66,0,1590171774,"~/.bashrc"
+-'  66  0  ~/.bashrc
+|4,39,66,0,1590171774,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1590171761,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1590171761,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1590171761,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1590171761,"~/.bashrc"
+-'  15  0  ~/.bashrc
+|4,39,15,0,1590171759,"~/.bashrc"
+-'  15  0  ~/.bashrc
+|4,39,15,0,1590171759,"~/.bashrc"
+-'  15  0  ~/.bashrc
+|4,39,15,0,1590171759,"~/.bashrc"
+-'  15  0  ~/.bashrc
+|4,39,15,0,1590171759,"~/.bashrc"
+-'  15  0  ~/.bashrc
+|4,39,15,0,1590171759,"~/.bashrc"
+-'  15  0  ~/.bashrc
+|4,39,15,0,1590171759,"~/.bashrc"
+-'  15  0  ~/.bashrc
+|4,39,15,0,1590171759,"~/.bashrc"
+-'  15  0  ~/.bashrc
+|4,39,15,0,1590171759,"~/.bashrc"
+-'  15  0  ~/.bashrc
+|4,39,15,0,1590171759,"~/.bashrc"
+-'  15  0  ~/.bashrc
+|4,39,15,0,1590171759,"~/.bashrc"
+-'  15  0  ~/.bashrc
+|4,39,15,0,1590171759,"~/.bashrc"
+-'  15  0  ~/.bashrc
+|4,39,15,0,1590171759,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1590171757,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1590171757,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1590171757,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1590171757,"~/.bashrc"
+-'  1  31  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,31,1590171540,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  1  31  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,31,1590171540,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  1  31  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,31,1590171540,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  1  31  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,31,1590171540,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  1  31  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,31,1590171540,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  1  31  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,31,1590171540,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  1  31  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,31,1590171540,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  1  31  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,31,1590171540,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  1  31  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,31,1590171540,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  1  31  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,31,1590171540,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  1  31  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,31,1590171540,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  1  31  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,31,1590171540,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  1  31  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,31,1590171540,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  1  31  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,31,1590171540,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  1  31  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,31,1590171540,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  1  31  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,31,1590171540,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  1  31  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,31,1590171540,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  1  31  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,31,1590171540,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  1  31  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,31,1590171540,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  1  31  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,31,1590171540,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  1  31  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,31,1590171540,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  1  31  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,31,1590171540,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  1  31  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,31,1590171540,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  1  31  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,31,1590171540,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  1  31  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,31,1590171540,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  1  31  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,31,1590171540,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  1  31  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,31,1590171540,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  1  31  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,31,1590171540,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  1  31  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,31,1590171540,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  1  31  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,31,1590171540,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  1  31  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,31,1590171540,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  1  31  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
+|4,39,1,31,1590171540,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
+-'  155  10  ~/.bashrc
+|4,39,155,10,1590171524,"~/.bashrc"
+-'  155  10  ~/.bashrc
+|4,39,155,10,1590171524,"~/.bashrc"
+-'  155  10  ~/.bashrc
+|4,39,155,10,1590171524,"~/.bashrc"
+-'  155  10  ~/.bashrc
+|4,39,155,10,1590171524,"~/.bashrc"
+-'  155  10  ~/.bashrc
+|4,39,155,10,1590171524,"~/.bashrc"
+-'  155  10  ~/.bashrc
+|4,39,155,10,1590171524,"~/.bashrc"
+-'  155  10  ~/.bashrc
+|4,39,155,10,1590171524,"~/.bashrc"
+-'  155  10  ~/.bashrc
+|4,39,155,10,1590171524,"~/.bashrc"
+-'  155  10  ~/.bashrc
+|4,39,155,10,1590171524,"~/.bashrc"
+-'  155  10  ~/.bashrc
+|4,39,155,10,1590171524,"~/.bashrc"
+-'  155  10  ~/.bashrc
+|4,39,155,10,1590171524,"~/.bashrc"
+-'  155  10  ~/.bashrc
+|4,39,155,10,1590171524,"~/.bashrc"
+-'  155  10  ~/.bashrc
+|4,39,155,10,1590171524,"~/.bashrc"
+-'  155  10  ~/.bashrc
+|4,39,155,10,1590171524,"~/.bashrc"
+-'  155  10  ~/.bashrc
+|4,39,155,10,1590171524,"~/.bashrc"
+-'  155  10  ~/.bashrc
+|4,39,155,10,1590171524,"~/.bashrc"
+-'  155  10  ~/.bashrc
+|4,39,155,10,1590171524,"~/.bashrc"
+-'  155  10  ~/.bashrc
+|4,39,155,10,1590171524,"~/.bashrc"
+-'  155  10  ~/.bashrc
+|4,39,155,10,1590171524,"~/.bashrc"
 -'  155  10  ~/.bashrc
 |4,39,155,10,1590171524,"~/.bashrc"
 -'  1  0  ~/.bashrc
 |4,39,1,0,1590171514,"~/.bashrc"
--'  154  14  ~/.bashrc
-|4,39,154,14,1590171507,"~/.bashrc"
--'  154  14  ~/.bashrc
-|4,39,154,14,1590171507,"~/.bashrc"
 -'  1  0  ~/.bashrc
-|4,39,1,0,1590171499,"~/.bashrc"
--'  1  19  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,39,1,19,1590171474,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
--'  1  19  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,39,1,19,1590171474,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
--'  1  19  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,39,1,19,1590171474,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
--'  1  19  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,39,1,19,1590171474,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
--'  1  19  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,39,1,19,1590171474,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
--'  1  19  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,39,1,19,1590171474,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
--'  1  19  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,39,1,19,1590171474,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
--'  1  19  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,39,1,19,1590171474,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
--'  154  10  ~/.bashrc
-|4,39,154,10,1590171443,"~/.bashrc"
--'  154  10  ~/.bashrc
-|4,39,154,10,1590171443,"~/.bashrc"
--'  154  10  ~/.bashrc
-|4,39,154,10,1590171443,"~/.bashrc"
--'  154  10  ~/.bashrc
-|4,39,154,10,1590171443,"~/.bashrc"
--'  2  0  ~/.bashrc
-|4,39,2,0,1590171437,"~/.bashrc"
--'  2  0  ~/.bashrc
-|4,39,2,0,1590171437,"~/.bashrc"
--'  2  0  ~/.bashrc
-|4,39,2,0,1590171437,"~/.bashrc"
--'  2  0  ~/.bashrc
-|4,39,2,0,1590171437,"~/.bashrc"
--'  2  0  ~/.bashrc
-|4,39,2,0,1590171437,"~/.bashrc"
--'  2  0  ~/.bashrc
-|4,39,2,0,1590171437,"~/.bashrc"
+|4,39,1,0,1590171514,"~/.bashrc"
 -'  1  0  ~/.bashrc
-|4,39,1,0,1590171433,"~/.bashrc"
+|4,39,1,0,1590171514,"~/.bashrc"
 -'  1  0  ~/.bashrc
-|4,39,1,0,1590171433,"~/.bashrc"
+|4,39,1,0,1590171514,"~/.bashrc"
 -'  1  0  ~/.bashrc
-|4,39,1,0,1590171433,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1590171433,"~/.bashrc"
--'  1  10  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,39,1,10,1590171377,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
--'  1  10  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,39,1,10,1590171377,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
--'  1  10  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,39,1,10,1590171377,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
--'  1  10  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,39,1,10,1590171377,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
--'  1  10  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,39,1,10,1590171377,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
--'  1  10  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,39,1,10,1590171377,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
--'  1  10  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,39,1,10,1590171377,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
--'  1  10  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,39,1,10,1590171377,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
--'  1  10  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,39,1,10,1590171377,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
--'  1  10  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,39,1,10,1590171377,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
--'  1  10  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,39,1,10,1590171377,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
--'  1  10  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,39,1,10,1590171377,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
--'  1  10  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,39,1,10,1590171377,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
--'  1  10  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,39,1,10,1590171377,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
--'  1  10  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,39,1,10,1590171377,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
--'  1  10  ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-|4,39,1,10,1590171377,"~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
--'  44  0  ~/.bash_aliases
-|4,39,44,0,1590171366,"~/.bash_aliases"
+|4,39,1,0,1590171514,"~/.bashrc"
 
 # History of marks within files (newest to oldest):
 
+> ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
+	*	1590193658	0
+	"	13	98
+	^	13	99
+	.	13	98
+	+	17	131
+	+	13	98
+
+> ~/NERD_tree_1
+	*	1590193624	0
+	"	7	2
+	.	1	0
+	+	1	0
+
 > ~/.bashrc
-	*	1590171522	0
-	"	155	10
+	*	1590171790	0
+	"	71	4
 	^	155	11
 	.	155	10
 	+	154	14
 	+	155	10
 
 > ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-	*	1590171473	0
-	"	1	19
-	^	1	20
-	.	1	19
-	+	1	19
+	*	1590171539	0
+	"	1	31
+	^	1	32
+	.	1	31
+	+	1	31
 
 > ~/.bash_aliases
 	*	1590171365	0
@@ -403,12 +415,6 @@ $\ =\
 	+	4	138
 	+	4	12
 	+	1	168
-
-> ~/NERD_tree_1
-	*	1590167366	0
-	"	8	0
-	.	1	0
-	+	1	0
 
 > ~/.bash_plugins/etymology.sh
 	*	1590162786	0
@@ -740,13 +746,6 @@ $\ =\
 	+	5	9
 	+	4	9
 	a	7	0
-
-> ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
-	*	1589792029	0
-	"	17	131
-	^	17	132
-	.	17	131
-	+	17	131
 
 > /etc/lightdm/lightdm.conf
 	*	1589791969	0

@@ -7464,3 +7464,141 @@ vim .bashrc
 rl
 vim .bashrc
 exit
+cd Documents/repositories/yogsoy_configs_scripts/
+./backup.sh 
+gitgo
+vim
+./backup.sh 
+gitgo
+cd
+cdl
+vim .bashrc
+rl
+vim .bashrc
+ps aux
+man ps
+ps auxo comm
+ps auxo com
+man ps
+ps ax
+ps axo comm
+mkdir move_arch
+ps axo comm > move_arch/running_processes.log
+apt list
+man apt
+apt list --installed
+apt list --installed > move_arch/installed_packages_apt.log
+cd move_arch/
+cd ..
+fs .config/
+fs .config/*
+fs .config/* | sort -h
+cdl
+cl
+cdls
+cl
+ls
+la
+mkdir move_arch/home_dotfiles/
+cp .* move_arch/home_dotfiles/
+ls
+rf move_arch/home_dotfiles/*
+ls .*
+ls .* -f
+man ls
+ls -a
+ls -a | grep ^.
+ls -a | grep ^\.
+ls -a | grep '^\.'
+man ls
+ls -aF | grep '^\.'
+ls -aF | grep '^\.'
+ls -aF | grep '^\..*[^\/]$'
+ls -aF | grep '^\..*[^\/]$' | cat
+cat `ls -aF | grep '^\..*[^\/]$'`
+ls -aF | grep '^\..*[^\/]$'
+ls -aF | grep '^\..*[^\/]$' > move_arch/home_dotfiles.log
+cd Documents/repositories/yogsoy_configs_scripts/
+ls
+./backup.sh 
+./backup.sh 
+./backup.sh 
+./backup.sh 
+ls
+gitgo
+cdl
+ls move_arch/
+rf move_arch/home_dotfiles
+cd .config/
+fs *
+fs * | sort
+fs * | sort -r
+la
+fs SideQuest/
+fs * | sort -h
+fs SideQuest/
+fs SideQuest/*
+fs SideQuest/* | sort -h
+cd SideQuest/
+ls
+rf main.*
+ls Cache/
+rf Cache/
+cd ..
+cd google-chrome
+ls
+fs *
+fs * | sort -h
+ls Default/
+fs Default/* | sort -h
+cd
+ls
+fs .config/
+targz move_arch/config.tar.gz .config/
+ls
+ls move_arch/
+fs /etc
+sudo su
+targz move_arch/etc.tar.gz /etc
+ls
+fs Pictures/
+targz pictures.tar.gz Pictures/
+ls
+fs documents
+fs documents.tar.gz 
+fs Documents/
+fs pictures.tar.gz 
+cd Documents/repositories/yogsoy_configs_scripts/
+ls
+ls scripts/
+cdl
+vim .bash_plugins/
+ls
+mv documents.tar.gz pictures.tar.gz move_arch/
+ls move_arch/
+fs move_arch/
+targz move_arch/ctf.tar.gz ctf/
+ls move_arch/
+vim .bash_plugins/targz.sh 
+man gzip
+mv downloads.tar.gz videos.tar.gz move_arch/
+ls
+targz backup_2020-05-23_move_arch.tar.gz move_arch/
+ls
+la
+ls .*
+cl
+ls .
+man ls
+ls -a
+ls -A
+ls -A | grep '^.'
+ls -A | grep '^\.'
+ls -AF | grep '^\.'
+ls -AF | grep '^\..*/'
+fs `ls -AF | grep '^\..*/'`
+ls .vim
+exit
+ls
+la
+exit
