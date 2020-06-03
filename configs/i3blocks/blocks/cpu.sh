@@ -1,1 +1,1 @@
-printf "$(sensors | grep 'Package' | awk '{print $4}')"
+echo "$(sensors | grep 'Package' | awk '{print $4}')"

@@ -1,1 +1,1 @@
-google-chrome "$(xclip -o)"
+xdg-open "$(xclip -o)"

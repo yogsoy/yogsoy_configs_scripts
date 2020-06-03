@@ -4,7 +4,7 @@
 
 set $mod Mod4
 set $TERM termite
-set $BROWSER google-chrome
+set $BROWSER chromium
 
 ### Settings
 
@@ -65,6 +65,11 @@ hide_edge_borders both
 # auto-move windows
 for_window [window_role="browser"] move container to workspace $ws2
 for_window [title="Discord$"] move container to workspace $ws3
+for_window [window_role="sys_monitor"] floating enable
+for_window [window_role="scratchpad"] move scratchpad
+
+# key held to move floating windows
+floating_modifier $mod
 
 ### Startup
 
@@ -79,7 +84,7 @@ exec --no-startup-id flameshot
 # IME
 exec --no-startup-id fcitx -d
 # window transparency
-exec --no-startup-id compton
+exec --no-startup-id picom
 # wallpaper
 exec --no-startup-id "feh --bg-center ~/Pictures/blindofficial\ logo\ bg.jpg"
 # notifications
@@ -97,6 +102,8 @@ exec --no-startup-id "syncthing-gtk -m"
 
 ## programs
 exec $TERM
+# scratchpad
+exec "$TERM -r scratchpad -t Scratchpad -c ~/.config/$TERM/sys_monitor"
 # role=browser is a chrome option, check this if you change browser
 exec $BROWSER --role=browser
 exec discord-canary
@@ -109,7 +116,10 @@ exec discord-canary
 bindsym $mod+q kill
 
 # make window floating
-bindsym $mod+Shift+space floating toggle
+bindsym $mod+f floating toggle
+
+# show scratchpad
+bindsym $mod+Shift+Return scratchpad show
 
 # focusing
 bindsym $mod+Left focus left
@@ -132,7 +142,7 @@ bindsym $mod+v split v
 bindsym $mod+e layout toggle split
 
 # fullscreen
-bindsym $mod+f fullscreen toggle
+bindsym $mod+Shift+f fullscreen toggle
 
 # next/previous workspace
 bindsym $mod+bracketright workspace next
@@ -203,15 +213,16 @@ mode "resize" {
 
 # open terminal
 bindsym $mod+Return exec $TERM
+# open htop in a terminal
+bindsym $mod+o exec "$TERM -e htop -r sys_monitor -c ~/.config/$TERM/sys_monitor"
+# open nload in a floating terminal (wlan0)
+bindsym $mod+n exec "$TERM -e 'nload wlan0' -r sys_monitor -c ~/.config/$TERM/sys_monitor"
 
 # dmenu (but good - runs things in bash)
 bindsym $mod+d exec ~/scripts/go.sh
 
 # pavucontrol because im bad at typing and dont like my history cluttered with `pavucontrol` every six seconds whenever i plug in my shit
 bindsym $mod+p exec pavucontrol
-
-# open htop in a terminal
-bindsym $mod+o exec $TERMINAL -e htop
 
 # yes
 bindsym $mod+c exec $BROWSER

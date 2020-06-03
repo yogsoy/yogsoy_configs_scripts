@@ -20,12 +20,12 @@ a ch="google-chrome 1>/dev/null 2>/dev/null"
 a am="ch --app=https://messages.google.com/web"
 # clear empty lines
 a cel="grep -v ^[[:space:]]*$"
-a es="espeak -s 250 -v en"
+a es="espeak -s 250 -v en 2>/dev/null"
 a dc=discord-canary
 a chi="ch --incognito"
 a debi="sudo dpkg -i"
 # local ip
-a lip="hostname -I"
+#a lip="hostname -I"
 a bc="bc -q"
 a st=speedtest-cli
 a apts="apt search"

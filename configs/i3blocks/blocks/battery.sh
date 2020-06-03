@@ -29,4 +29,4 @@ else
 	printf "↑"
 fi
 
-printf "$level%%</span>"
+printf "$level%%</span>\n"

@@ -7602,3 +7602,2416 @@ exit
 ls
 la
 exit
+ls
+xbacklight 
+xrandr 
+xrandr --auto
+ls
+la
+cp * ~/
+cd ..
+ls
+ls x
+la x
+cp x/* ~/
+la
+ls misc/
+ls misc/htoprc ~/.config/htop/
+mkdir ~/.config/htop/
+ls misc/htoprc ~/.config/htop/
+ls
+cp misc/htoprc ~/.config/htop/
+ls
+ls vim/
+la vim/
+cp vim/* ~/
+la
+cd ..
+la
+cd
+cl
+ls
+mkdir Downloads
+ls
+cd down
+la
+cd yogsoy_configs_scripts/
+la
+la configs/
+find input
+find --name input
+find -n input
+find
+find | grep input
+cd configs/misc/
+la
+cp .inputrc .profile .selected_editor ~/
+ls termite/
+cp termite/ ~/.config/termite
+cdl
+rl
+cd Downloads/
+ls
+cdl
+ls
+rf Downloads/
+cd yogsoy_configs_scripts/
+ls
+cd configs/
+la
+cp i3* ~/.config/
+la x/
+cdl
+ls
+vim /etc/lightdm
+sudo vim /etc/lightdm
+pacman -s
+man pacman
+cl
+xinit
+lightdm --test-mode
+la
+pacman -Q xf86
+pacman -Q '&xf86'
+pacman -Q '^xf86'
+reboot
+sudo su
+sudo yay -Syu lightdm-mini-greeter
+yay -Syu lightdm-mini-greeter
+sudo vim /etc/lightdm/lightdm.conf 
+sudo rm /etc/lightdm/lightdm.conf 
+sudo vim /etc/lightdm/lightdm.conf 
+sudo systemctl enable lightdm
+sudo systemctl start lightdm
+dm-tool switch-to-greeter
+killall ligthdm
+sudo killall ligthdm
+vim .xinitrc 
+reboot
+sudo vim /etc/lightdm/lightdm.conf 
+sudo killall xorg-server
+sudo killall x
+startx
+pacman -Syu startx
+sudo pacman -Syu startx
+wifi 
+wifi --help
+wifi_menu
+wpa_supplicant -B -i wlp60s0 -c <(wpa_passphrase "Enterprise D" "Captain Piccard")
+wpa_supplicant -B -i wlp60s0 -c <(wpa_passphrase "Enterprise D" "Captain Piccard")
+ip link
+wpa_supplicant -B -i wlp60s0 -c <(wpa_passphrase "Enterprise D" "Captain Piccard")
+sudo wpa_supplicant -B -i wlp60s0 -c <(wpa_passphrase "Enterprise D" "Captain Piccard")
+wpa_supplicant -B -i wlp60s0 -c <(wpa_passphrase "Enterprise D" "Captain Piccard")
+ip link set wlp60s0 up
+reboot
+wpa_supplicant -B -i wlp60s0 -c <(wpa_passphrase "Enterprise D" "Captain Piccard")
+ip link
+sudo vim /etc/lightdm/lightdm.conf 
+reboot
+sudo vim /etc/lightdm/lightdm.conf 
+la
+vim .xinitrc 
+pacman -Syu light-locker
+sudo pacman -Syu light-locker
+vim connect_wifi.sh
+. connect_wifi.sh 
+sudo systemctl disable lightdm
+. connect_wifi.sh 
+reboot
+. connect_wifi.sh 
+ip link
+ping google.com
+killall wpa_supplicant
+sudo killall wpa_supplicant
+wifi 
+wifi off
+sudo wifi off
+sudo wifi on
+sudo killall wpa_supplicant
+. connect_wifi.sh 
+dmesg
+sudo dmesg
+sudo dmesg | grep wlp60s0
+ip link
+ip link set wlp60s0 up
+sudo ip link set wlp60s0 up
+ip link
+. connect_wifi.sh 
+systemctl stop wpa_supplicant
+. connect_wifi.sh 
+systemctl stop wpa_supplicant
+sudo wpa_supplicant -B -i wlp60s0 -c <(wpa_passphrase "Enterprise D" "Captain Piccard")
+wpa_supplicant -B -i wlp60s0 -c <(wpa_passphrase "Enterprise D" "Captain Piccard")
+wpa_cli
+wpa_cli -i wlp60s0
+sudo vim /etc/wpa_supplicant/wpa_supplicant.conf
+wpa_supplicant -dd -i wlp60s0 -c <(wpa_passphrase "Enterprise D" "Captain Piccard")
+sudo wpa_supplicant -dd -i wlp60s0 -c <(wpa_passphrase "Enterprise D" "Captain Piccard")
+wpa_passphrase "Enterprise D" "Captain Piccard" > /etc/wpa_supplicant/wpa_supplicant-wlp60s0.conf
+wpa_passphrase "Enterprise D" "Captain Piccard" | tee /etc/wpa_supplicant/wpa_supplicant-wlp60s0.conf
+ls /etc/wpa_supplicant/
+wpa_passphrase "Enterprise D" "Captain Piccard" | sudo tee /etc/wpa_supplicant/wpa_supplicant-wlp60s0.conf
+vim /etc/wpa_supplicant/wpa_supplicant-wlp60s0.conf 
+sudo vim /etc/wpa_supplicant/wpa_supplicant-wlp60s0.conf 
+sudo wpa_cli
+reboot
+sudo killall lightdm
+exit
+vim .config/i3/config
+nmcli
+sudo systemctl enable networkmanager
+sudo systemctl enable network-manager
+NetworkManager 
+sudo NetworkManager 
+nmcli
+ping google.com
+. connect_wifi.sh 
+strace wpa_cli -i wlp60s0
+ping google.com
+wpa_cli 
+wpa_cli -i wlp60s0
+sudo wpa_cli -i wlp60s0
+networkctl 
+sudo systemctl networkd
+sudo systemctl enable systemd-networks
+sudo systemctl enable networkd
+sudo systemctl enable systemd-networkd
+sudo systemctl start systemd-networkd
+networkctl 
+. connect_wifi.sh 
+sudo killall wpa_supplicant
+. connect_wifi.sh 
+sudo . connect_wifi.sh 
+sudo su
+lightdm --test-mode
+sudo lightdm --test-mode
+sudo vim /etc/lightdm/lightdm.conf 
+sudo lightdm --test-mode
+i3
+pacman -Syu xinit
+sudo pacman -Syu xinit
+sudo pacman -Syu startx
+sudo vim /etc/lightdm/lightdm.conf 
+sudo vim /etc/lightdm/lightdm.conf 
+pacman -Syu lightdm-gtk-greeter
+sudo pacman -Syu lightdm-gtk-greeter
+sudo vim /etc/lightdm/lightdm.conf 
+sudo vim /etc/lightdm/lightdm.conf 
+sudo lightdm --test-mode
+pacman -Q dbus
+pacman -Syu i3
+sudo pacman -Syu i3
+sudo lightdm --test-mode
+sudo pacman -Syu lightdm
+sudo lightdm --test-mode
+i3
+sudo pacman -Syu xorg-xinit
+xrandr
+intel-virtual-output 
+startx
+vim .local/share/xorg/Xorg.0.log 
+pacman -Syu libinput
+sudo pacman -Syu libinput
+startx
+sudo pacman -Syu xkbcomp
+vim .xinitrc 
+sudo pacman -Syu light-locker xrdb xset
+sudo pacman -Syu light-locker
+xinit 
+sudo xinit 
+cp /etc/X11/xinit/xinitrc xinitrc
+vim xinitrc 
+sudo pacman -Syu xterm
+xinit
+sudo xinit
+vim xinitrc 
+sudo xinit
+startx
+pacman -Syu nm-applet
+sudo pacman -Syu nm-applet
+sudo pacman -Syu network-manager
+sudo pacman -Syu networkmanager
+ls
+la
+cat xinitrc >> .xinitrc 
+vim .xinitrc 
+startx
+ping google.com
+. connect_wifi.sh 
+suod . connect_wifi.sh 
+sudo suod . connect_wifi.sh 
+sudo . connect_wifi.sh 
+sudo su
+sudo killall lightdm
+sudo killall lightdm
+sudo killall lightdm
+. connect_wifi.sh 
+sudo /bin/bash connect_wifi.sh 
+pacman -Syu networkmanager
+sudo pacman -Syu networkmanager
+sudo pacman -Syu network-manager-applet
+sudo vim /etc/lightdm/lightdm.conf 
+lightdm --test-mode
+startx
+startx
+sudo systemctl start NetworkManager
+sudo systemctl enable NetworkManager
+sudo systemctl enable lightdm
+reboot
+sudo vim /etc/lightdm/lightdm.conf 
+sudo systemctl disable lightdm
+sudo systemctl stop lightdm
+man pacman
+sudo pacman -Ryu --nosave lightdm
+sudo pacman -Ru --nosave lightdm
+sudo pacman -R --nosave lightdm
+sudo pacman -R --nosave lightdm-gtk-greeter lightdm-mini-greeter lightdm
+reboot
+sudo pacman -Syu iwgetid
+sudo pacman -Syu iwconfig
+sudo pacman -Syu iw
+sudo pacman -Syu bluetoothctl
+sudo pacman -Syu btctl
+sudo pacman -Syu bluetooth-ctl
+sudo pacman -Syu xbacklight
+xbacklight 
+xbacklight -s 100
+xbacklight -set 100%
+vim .config/i3/config
+sudo pacman -Syu rofi dmenu
+sudo pacman -Syu sensors
+sudo pacman -Syu lm_sensors
+sensors
+free
+sudo pacman -Syu playerctl pamixer
+vim .config/i3blocks/blocks/network.sh 
+vim .config/i3blocks/blocks/*
+vim .XCompose 
+ls
+cp yogsoy_configs_scripts/scripts/scripts/ ~/
+ls
+rf *sh
+cp yogsoy_configs_scripts/scripts/scripts ~/
+ls
+ls
+exit
+pamixer 
+pamixer -t
+pulseaudio 
+sudo systemctl enable pulseaudio
+sudo systemctl enable pulse
+man pulseaudio
+sudo systemctl enable pulseaudio.socket
+pulseaudio --daemonize
+pamixer -t
+vim .config/i3/config
+pacman -Ss iwgetid
+pacman -Ss iw
+pacman -Syu iwd
+sudo pacman -Syu iwd
+hostname
+sudo pacman -Syu iwd
+iwgetid
+iw
+iwctl
+iwconfig
+pacman -Ss iwconfig
+vim .config/i3blocks/config 
+cd .config/i3blocks/blocks/
+ls
+vim volume.sh 
+sudo pacman -Syu pavucontrol pulseaudio alsa-utils alsa-plugins
+sudo pacman -Syu pulseaudio-alsa bluez
+pacman -Syu firefox
+sudo pacman -Syu firefox
+rofi
+rofi
+pacman -Ss sharetech
+pacman -Ss font
+pacman -Ss xfont
+pacman -Ss xft
+ls /usr/share/
+ls /usr/share/fonts/
+ls /usr/share/fonts/misc/
+ls /usr/share/fonts/util/
+ls /usr/share/fonts/gnu-free/
+mkdir /usr/share/fonts/gnu-free
+mkdir /usr/share/fonts/sharetech-mono
+sudo mkdir /usr/share/fonts/sharetech-mono
+cdl
+cd Downloads/
+ls
+pacman -Syu zip
+sudo pacman -Syu zip
+sudo pacman -Syu unzip
+unzip Share_Tech_Mono.zip 
+ls
+ls /usr/share
+ls /usr/share/fonts/
+unzip Share_Tech_Mono.zip /usr/share/fonts/sharetech-mono/
+cp ShareTechMono-Regular.ttf /usr/share/fonts/sharetech-mono/
+sudo cp ShareTechMono-Regular.ttf /usr/share/fonts/sharetech-mono/
+xset q
+man xorg.conf
+xset +fp /usr/share/fonts/sharetech-mono/
+mkfontdir /usr/share/fonts/sharetech-mono/
+sudo !
+sudo sudo !
+sudo mkfontdir /usr/share/fonts/sharetech-mono/
+xset +fp /usr/share/fonts/sharetech-mono/
+find / -n corg.conf
+man find
+find / -name xorg.conf
+sudo find / -name xorg.conf
+man xorg.conf
+sudo vim /etc/X11/xorg.conf.d/
+sudo vim /etc/X11/xorg.conf
+cdl
+cd .config/i3blocks/blocks/
+ls
+./battery.sh
+./battery.sh
+cd ..
+vim config 
+vim blocks/volume.sh 
+vim blocks/network.sh 
+vim blocks/network.sh 
+ls blocks/
+vim blocks/*
+vim blocks/*
+flameshot
+fcitx -d
+xmodmap 
+2uuuuuuuuuuuuuuuuu
+l
+lei
+ei
+eitet:
+xev 
+exit
+pacman -Ss ifconfig
+pacman -Ss wireless-tools
+pacman -Ss wireless
+pacman -Ss wireless_tools
+pacman -Syu wireless_tools
+sudo pacman -Syu wireless_tools
+hostname -I
+man hostname
+hostname -y
+man hostname
+hostname -h
+hostname --help
+hostname -i
+ip addr
+ip addr | grep inet
+ip addr | grep 'inet\ '
+ip addr | grep 'inet\ \d.\d.\d.\d'
+ip addr | grep 'inet\ \d*.\d*.\d*.\d*'
+ip addr | grep 'inet\ \d*\.\d*\.\d*\.\d*'
+ip addr | grep 'inet\ \d\.\d\.\d\.\d'
+ip addr | grep 'inet\ \d+\.\d+\.\d+\.\d+'
+ip addr | grep -e 'inet\ \d+\.\d+\.\d+\.\d+'
+ip addr | egrep 'inet\ \d+\.\d+\.\d+\.\d+'
+ip addr | egrep 'inet\ '
+ip addr | egrep 'inet\ wlp60s0'
+ip addr | egrep 'inet\ .*'
+ip addr | egrep 'inet\ .* wlp60s0'
+ip addr | egrep 'inet .* wlp60s0' | 
+ip addr | egrep 'inet .* wlp60s0'
+ip addr | egrep 'inet .* wlp60s0' | cut -f ' ' -f1
+ip addr | egrep 'inet .* wlp60s0' | cut -d ' ' -f1
+ip addr | egrep 'inet .* wlp60s0' | cut -d ' ' -f2
+ip addr | egrep 'inet .* wlp60s0' | cut -d ' ' -f3
+ip addr | egrep 'inet .* wlp60s0' | cut -d ' ' -f10
+ip addr | egrep 'inet .* wlp60s0' | awk '{print $2}'
+ip addr | egrep 'inet .* wlp60s0' | awk -d '/' '{print $2}'
+ip addr | egrep 'inet .* wlp60s0' | awk '{print $2}'
+man awk
+ip addr | egrep 'inet .* wlp60s0' | awk -F ' |/' '{print $2}'
+man awk
+man ip
+ip -4 addr
+man ip
+nmcli -p wlp60s0 show
+nmcli -p device show
+nmcli -p device IP4.DNS
+nmcli --help
+nmcli -g 'IP4.DNS'
+nmcli
+man nmcli
+nmcli -g 'inet4'
+ip route get 1.2.3.4
+ip route get 1.2.3.4 | awk '{print $7}'
+cd .config/i3blocks/blocks/
+./battery.sh
+cd ..
+vim config 
+acpi
+acpi -b
+xbacklight
+xbacklight | cut -f 1 -d "."
+printf
+vim blocks/mem.sh 
+vim blocks/volume.sh 
+pamixer --get-mute
+vim blocks/volume.sh 
+cdl
+vim .config/i3/config
+vim .config/i3/config
+cd Downloads/
+ls
+unzip discord-canary-0.0.103.tar.gz 
+tar xzf discord-canary-0.0.103.tar.gz 
+ls
+cd discord
+cd DiscordCanary/
+ls
+la
+ls -l
+ls -ld
+ls -lf
+ls -le
+ls -lA
+ls -lF
+./DiscordCanary 
+ls
+iv
+iv discord.png 
+make install
+vim postinst.sh 
+vim discord
+vim discord-canary.desktop 
+cp * /usr/share/discord-canary/
+sudo cp * /usr/share/discord-canary/
+mkdir /usr/share/discord-canary
+sudo mkdir /usr/share/discord-canary
+mkdir /usr/share/discord-canary
+sudo cp * /usr/share/discord-canary/
+sudo cp -r * /usr/share/discord-canary/
+rl
+sudo su
+cl
+vim .config/i3/config
+vim .bash_aliases 
+cd .bash_plugins/
+ls
+cp targz.sh untargz.sh
+vim untargz.sh 
+vim untargz.sh 
+vim untargz.sh 
+rl
+discord-canary
+ls /usr/share/discord-canary/
+rf /usr/share/discord-canary/
+sudo rf /usr/share/discord-canary/
+sudo rm -rf /usr/share/discord-canary/
+ls
+cd ..
+rf DiscordCanary/
+yay -Syu discord-canary
+yay -Syu tt-symbola
+yay -Syu ttf-symbola
+ls
+tar xzvf backup_2020-05-23_move_arch.tar.gz 
+ls
+cd move_arch/
+ls
+r
+rl
+man tar
+tar t videos.tar.gz 
+tar tf videos.tar.gz 
+rl
+untargz videos.tar.gz ~/Videos
+untargz videos.tar.gz ~/Videos
+rl
+untargz videos.tar.gz ~/Videos
+rl
+untargz videos.tar.gz ~/Videos
+rl
+untargz videos.tar.gz ~/Videos
+rl
+untargz videos.tar.gz ~/Videos
+echo "$1"
+rl
+untargz videos.tar.gz ~/Videos
+rl
+untargz videos.tar.gz ~/Videos
+ls
+ls videos
+ls Videos
+xset +b
+xset b
+rl
+ls
+ls Videos
+rf videos
+untargz videos.tar.gz ~/Videos
+ls
+echo ~
+rl
+rf Videos
+untargz videos.tar.gz "~/Videos"
+ls
+rf Videos
+man tee
+rl
+untargz videos.tar.gz ~/
+ls
+rf Videos
+rl
+untargz videos.tar.gz ~/Videos
+ls
+ls videos
+ls Videos
+ls ~
+ls ~/Videos 
+rf ~/Videos 
+ls
+rf ~/yb7fnma8 
+rf ~/xinitrc 
+mv Videos/ ~/Videos
+ls ~
+ls
+untargz pictures.tar.gz ~/Pictures/
+untargz pictures.tar.gz ~/Pictures
+ls
+rf Pictures
+untargz pictures.tar.gz ~/Pictures
+ls
+rf Pictures
+rf ~/Pictures 
+rl
+untargz pictures.tar.gz ~/Pictures
+ls
+rf Pictures
+rl
+untargz pictures.tar.gz
+ls
+rf Pictures
+rl
+untargz pictures.tar.gz piccies
+ls
+rf piccies 
+man tar
+rl
+untargz pictures.tar.gz piccies
+ls
+file piccies 
+fs piccies 
+rf piccies 
+ls
+untargz pictures.tar.gz
+ls
+rf pictures
+tar xvpf pictures.tar.gz
+ls
+rf Pictures
+man tar
+rl
+untargz pictures.tar.gz ~/Pictures
+man tar
+rl
+untargz pictures.tar.gz ~/Pictures
+man tar
+mkdir test
+untargz pictures.tar.gz test/
+ls
+ls test/
+ls test/Pictures/
+ls
+sudo pacman -Syu neofetch
+neofetch 
+sudo vim /etc/modprobe.d/audio_no_powersave.conf
+sudo pacman -Syu numix-circle
+pacman -Ss numix
+yay -Ss numix
+yay -Ss numix icon
+yay -Syu numix-circle-arc-icons-git
+rl
+ls
+rf test/
+mkdir test
+untargz pictures.tar.gz test/
+ls test/
+ls
+ls test/
+rf test/
+untargz pictures.tar.gz test/
+ls
+ls ~
+rf ~/Pictures 
+untargz pictures.tar.gz test/
+ls
+ls ~
+rl
+untargz pictures.tar.gz test/
+ls
+ls test/
+rf test/
+mkdir test
+untargz pictures.tar.gz test/
+rl
+rf test/
+untargz pictures.tar.gz test/
+rf test/
+rl
+untargz 
+cdl
+vim .config/i3/config
+vim .config/i3/config
+vim .bash_aliases 
+vim .bash_plugins/untargz.sh 
+vim .config/gtk-3.0/gtk.css
+mkdir .config/gtk-3.0
+vim .config/gtk-3.0/gtk.css
+notify-send waaa
+exit
+neofetch
+flameshot -d
+flameshot
+man termite
+exit
+untargz pictures.tar.gz test/
+ls
+ls test/
+rf test/
+untargz pictures.tar.gz ~/
+ls ~
+untargz downloads.tar.gz ~/
+ls
+untargz config.tar.gz ~/
+ls
+untargz documents.tar.gz ~/
+iwconfig 
+~/.config/i3blocks/blocks/network.sh 
+vim ~/.config/i3blocks/blocks/network.sh 
+vim ~/.config/i3blocks/blocks/*
+vim ~/.config/i3blocks/blocks/*
+
+ls
+untargz ctf.tar.gz ~/
+cat home_dotfiles.log 
+ls
+flameshot full -c
+flameshot full -c
+flameshot gui
+man flameshot
+sudo pacman -Syu flameshot
+flameshot gui
+yay -Syu flameshot
+flameshot 
+sudo pacman -R flamesho
+yay -Syu flameshot-git
+flameshot gui
+pacman -Ss chromium
+sudo pacman -Syu fcitx-mozc
+yay -Syu chromium
+sudo pacman -Syu pv
+ls
+ls
+vim .bash_plugins/targz.sh 
+ls
+ls
+fs Downloads/
+fs Downloads/
+fs Downloads/
+fs Downloads/
+fs Downloads/
+fs Downloads/
+fs Downloads/
+fs Downloads/
+lsblk
+fs Downloads/
+ls Downloads/
+ls
+ls .config/
+cd .config/
+la
+ls
+rf Android\ Open\ Source\ Project/ antimicro/ autostart/ blender/ BraveSoftware/ brlblst/ cava/ cef_user_data/ clipit/ Code/ compiz-1/ configstore/ dconf/ desmume/ d-fi-nodejs/ Dharkael/ discordptb/ dolphin-emu/
+ls
+rf enchant/ eog/ epoptes/ evince/ evolution/ FreeCAD/ freerdp/ gedit/ GIMP/ GitKraken/ gnome-* goa-1.0/ google* gsconnect/ gtk-* IGdm/ libfm/ libreoffice/ lxpanel/ lxsession/ lx* menus/ Microsoft/ mi* monitors.xml mps-youtube/ mudlet Mudlet nautilus/ obs-studio/ openbox/ pcmanfm/ procps/ qutebrowser/ ranger/ REAPER/ remmina/ rncbc.org/
+ls
+rf Minecraft\ Linux\ Launcher/
+ls
+rf Rygel/ SideQuest/ SpeedCrunch/ team* tilem2/ totem/ tracker/ Trolltech.conf  u*
+ls
+rf Un*
+ls
+rf vifm/ vlc/ Webcamoid/ wesnoth-1.14/ wireshark/ xpad/ yelp/ zathura/ zoomus.conf 
+ls
+ls ibus/
+ls ibus/bus/
+cd
+ls
+pacman -Ss discord
+sudo pacman -Syu discord
+vim .config/rofi/config 
+vim scripts/go.sh 
+vim scripts/go.sh 
+la
+vim .dmrc 
+mv .dmrc dmrc
+ls
+mv dmrc dmrc_you_can_delete_this
+sudo pacman -Syu oomox
+pacman -Ss oomox
+yay -Ss oomox
+yay -Syu oomox
+yay -Syu oomox
+yay -Q oomox
+yay -S oomox
+yay -R oomox
+ls
+ls
+sudo pacman -Syu xf86-input-synaptics
+man synaptics
+xinput
+sudo apt-get install xserver-xorg-input-libinput
+sudo pacman -Syu xserver-xorg-input-libinput
+pacman -Q libinput
+pacman -R libinput
+sudo pacman -R libinput
+pacman -R synaptics
+sudo pacman -R synaptics
+pacman -Q synaptics
+sudo pacman -R xf86-input-synaptics
+pacman -Q input
+pacman -Q 'input'
+pacman -Q 'input*'
+man pacman
+pacman -Qs 'input'
+sudo pacman -R libinput
+sudo pacman -R xf86-input-libinput
+shutdown -h now
+staryx
+startx
+startx
+cat /sys/class/net/wlan0/address 
+cat /sys/class/net/wlan0/carrier
+cat /sys/class/net/wlan0/carrier_changes 
+cat /sys/class/net/wlan0/carrier_down_count 
+cat /sys/class/net/wlan0/statistics/rx_bytes 
+cat /sys/class/net/wlan0/addr_assign_type 
+vim .xinitrc 
+sudo systemctl status lightdm
+startx
+vim /etc/X11/xorg.conf
+startx
+vim /etc/X11/xorg.conf
+sudo vim /etc/X11/xorg.conf
+man xorg.conf
+sudo vim /etc/X11/xorg.conf
+startx
+yay -Syu oomox
+oomox
+oomox-gui
+oomox-cli
+sudo pacman -Syu lightdm
+vim /etc/lightdm/lightdm.conf 
+sudo vim /etc/lightdm/lightdm.conf 
+la
+compton
+picom
+man mkfifo
+pacman -Ss gnome-tweak
+sudo pacman -Syu gnome-tweaks
+vim .XCompose 
+sudo pacman -Ss wireshark
+sudo pacman -Syu wireshark-*
+sudo pacman -Syu wireshark-qt wireshark-cli
+wireshark 
+wireshark -c
+sudo pacman -Syu ssh
+sudo pacman -Ss ssh
+sudo pacman -Syu openssh
+chx scripts/*
+ls scripts/
+vim scripts/nowshut.sh 
+shutdown -h now
+sudo systemctl enable lightdm
+reboot
+ls
+cat dmrc_you_can_delete_this 
+rf dmrc_you_can_delete_this 
+cd yogsoy_configs_scripts/
+ls
+cd
+cd Downloads/
+ls
+ls -d
+ls -D
+cl
+ls
+cd move_arch/
+ls
+man tar
+tar t config.tar.gz 
+tar tf config.tar.gz 
+tar tf config.tar.gz | grep compton
+cdl
+vim .config/i3/config
+systemctl status lightdm
+lightdm --test-mode
+startx
+sudo vim /etc/lightdm.conf
+sudo vim /etc/lightdm/lightdm.conf
+sudo pacman -Syu lightdm-mini-greeter
+yay -Syu lightdm-mini-greeter
+reboot
+sudo systemctl disable lightdm
+la
+vim .xinitrc 
+sudo systemctl enable xinit
+sudo systemctl enable startx
+sudo vim /etc/lightdm/lightdm.conf 
+sudo systemctl enable lightdm
+reboot
+sudo vim /etc/lightdm/lightdm.conf
+cd Downloads/
+ls
+cd move_arch/
+ls
+untargz etc.tar.gz ./
+ls
+cd etc
+ls
+vim lightdm/lightdm.conf
+cp lightdm/lightdm.conf /etc/lightdm/lightdm.conf
+sudo cp lightdm/lightdm.conf /etc/lightdm/lightdm.conf
+ls
+cd lightdm
+ls
+cat lightdm-mini-greeter.conf
+cp lightdm-mini-greeter.conf /etc/lightdm/
+sudo cp lightdm-mini-greeter.conf /etc/lightdm/
+ls
+ls lightdm.conf.d/
+cat users.conf 
+lightdm-mini-greeter 
+cdl
+ls
+la
+vim .xinitrc 
+reboot
+sudo su
+sudo su
+sudo su
+lightdm
+sudo lightdm
+ping google.com
+sudo pacman -Syu AccountManager
+man lightdm
+cd Downloads/move_arch/etc
+vim lightdm/users.conf 
+sudo pacman -Syu AccountsService
+sudo pacman -Syu accountsservice
+sudo lightdm
+sudo pacman -Syu consolekit
+yay -Syu consolekit-git polkit-consolekit
+yay -Syu consolekit-git polkit-consolekit
+yay -Syu consolekit-git polkit-consolekit
+fg
+yay -Syu consolekit-git polkit-consolekit
+yay -Syu consolekit-git polkit-consolekit
+sudo lightdm
+lightdm --test-mode --debug
+sudo lightdm --debug
+sudo lightdm --debug 2>&1 > ~/lightdm.log
+cd
+vim lightdm.log 
+sudo lightdm --debug 2>&1 | lolcat
+sudo pacman -Syu lolcat
+sudo lightdm --debug 2>&1 | lolcat
+sudo lightdm --debug 2>&1 | tee lightdm.log 
+vim lightdm.log 
+sudo su
+sudo lightdm --debug 2>&1 | tee lightdm.2.log 
+vim lightdm.2.log 
+ls /usr/share/xsessions/i3
+ls /usr/share/xsessions/
+vim /usr/share/xsessions/i3.desktop 
+i3
+vim lightdm.2.log 
+sudo pacman -Syu kde-plasma
+sudo pacman -Syu openbox
+sudo vim /etc/lightdm/lightdm.conf 
+sudo lightdm --debug 2>&1 | tee lightdm.3.log 
+vim lightdm.3.log 
+man lightdm
+sudo lightdm -c /etc/lightdm/lightdm.conf --debug 2>&1 | tee lightdm.3.log 
+sudo su
+sudo lightdm -c /etc/lightdm/lightdm.conf --debug 2>&1 | tee lightdm.3.log 
+vim lightdm.3.log 
+sudo vim /etc/lightdm/lightdm.conf 
+sudo lightdm -c /etc/lightdm/lightdm.conf --debug 2>&1 | tee lightdm.3.log 
+sudo pacman -Syu lightdm-gtk-greeeter
+sudo pacman -Syu lightdm-gtk-greeter
+sudo lightdm -c /etc/lightdm/lightdm.conf --debug 2>&1 | tee lightdm.3.log 
+startx
+scripts/nowshut.sh 
+sudo pacman -Syu espeak
+ls
+cl
+ls
+exit
+cat | lolcat
+/bin/bash | lolcat
+vim .bashrc 
+el
+el
+rl
+ls
+cl
+cd Documents/
+cdl
+vim .bashrc
+rl
+espeak hello
+espeak "big words for big boys"
+es no
+vim .bashrc
+rl
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ls
+exec > >(rev)
+ls
+rl
+ls
+exit
+exec > >(es)
+ls
+vim .bash_aliases 
+vim .bash_aliases 
+rl
+exec 1> >(rev >&2)
+ls
+ls
+cl
+echo wlauigi
+rl
+ls
+exit
+cat /dev/stdout
+es hello
+es hello
+es hello
+function speak_all() { echo $*; es $*; }
+exec > >(speak_all)
+ls
+cl
+cl
+exit
+man nmap
+vim /usr/share/wordlists/wfuzz.txt 
+cd ctf/thm/vulnversity/
+vim extensions.sh
+cl
+cd ..
+mkdir advent_of_cyber
+cd advent_of_cyber/
+man nmap
+man nmap
+man nmap
+man base64
+exit
+cl
+ls
+cl
+ip addr
+cl
+cd ctf/thm/vulnversity/
+ls
+cl
+nmap -sS -sV 10.10.44.229
+sudo nmap -sS -sV 10.10.44.229
+pacman -Ss gobuster
+yay -Ss gobuster
+yay -Syu gobuster-git
+ls /usr/share
+pacman -Ss wordlist
+yay -Ss wordlist
+ls
+wget "https://raw.githubusercontent.com/xmendez/wfuzz/master/wordlist/general/common.txt" -o /usr/share/wordlists/wfuzz.txt
+mkdir /usr/share/worlists
+sudo mkdir /usr/share/worlists
+wget "https://raw.githubusercontent.com/xmendez/wfuzz/master/wordlist/general/common.txt" -o /usr/share/wordlists/wfuzz.txt
+sudo mv /usr/share/wordlists
+sudo mv /usr/share/worlists/ /usr/share/wordlists
+wget "https://raw.githubusercontent.com/xmendez/wfuzz/master/wordlist/general/common.txt" -o /usr/share/wordlists/wfuzz.txt
+sudo wget "https://raw.githubusercontent.com/xmendez/wfuzz/master/wordlist/general/common.txt" -o /usr/share/wordlists/wfuzz.txt
+gobuster -u http://10.10.44.229:3333 -w /usr/share/wordlists/wfuzz.txt 
+gobuster dir -u http://10.10.44.229:3333 -w /usr/share/wordlists/wfuzz.txt 
+gobuster dir -u "http://10.10.44.229:3333" -w /usr/share/wordlists/wfuzz.txt 
+gobuster dir -u http://10.10.44.229:3333 -w /usr/share/wordlists/wfuzz.txt 
+gobuster dir -u http://10.10.44.229:3333 -w /usr/share/wordlists/wfuzz.txt 
+sudo gobuster dir -u http://10.10.44.229:3333 -w /usr/share/wordlists/wfuzz.txt 
+ls
+mv common.txt wfuzz.txt
+sudo mv wfuzz.txt /usr/share/wordlists/wfuzz.txt 
+gobuster dir -u http://10.10.44.229:3333 -w /usr/share/wordlists/wfuzz.txt 
+man curl
+cd ../advent_of_cyber/
+nmap -sS 10.10.216.224
+sudo nmap -sS 10.10.216.224
+sudo nmap -sS 10.10.216.224
+sudo nmap -sS 10.10.216.224
+sudo nmap -sS -p-3500 10.10.216.224
+ping 10.10.216.224
+ping 10.10.216.224 -p 3000
+ping 10.10.216.224
+sudo nmap -sS -p-3500 10.10.216.224
+sudo nmap -sS 10.10.216.224
+base64 -d d2FsdWlnaXY0ZXI5bGwxIXNz
+base64 -d "d2FsdWlnaXY0ZXI5bGwxIXNz"
+base64 -d <"d2FsdWlnaXY0ZXI5bGwxIXNz"
+base64 -d <(echo "d2FsdWlnaXY0ZXI5bGwxIXNz")
+echo "mcinventory4er9ll1ssh bcaorgau@bca.org.au" | base64
+echo "mcinventory4er9ll1ssh bcaorgau@bca.org.au" | base64 | cb
+sudo pacman -Syu xclip
+echo "mcinventory4er9ll1ssh bcaorgau@bca.org.au" | base64 | cb
+echo "mcinventory4er9ll1" | base64 | cb
+echo "mcinventory4er9ll1ss" | base64 | cb
+echo "bWNpbnZlbnRvcnk0ZXI5bGwxc3MK" | base64 -d
+echo "bWNpbnZlbnRvcnk0ZXI5bGwxc3MK" | base64 -d
+echo "d2FsdWlnaXY0ZXI5bGwxIXNz" | base64 -d
+echo "mcinventoryv4er9ll1ssh bcaorgau@bca.org.au" | base64 | cb
+echo "mcinventoryv4er9ll1\!ss" | base64 | cb
+echo "bWNpbnZlbnRvcnl2NGVyOWxsMVwhc3MK" | base64 -d
+echo "mcinventoryv4er9ll1ssh bcaorgau@bca.org.au"
+echo "mcinventoryv4er9ll1\!ss"
+echo 'mcinventoryv4er9ll1!ss'
+echo 'mcinventoryv4er9ll1!ss' | basse64
+echo 'mcinventoryv4er9ll1!ss' | base64
+echo 'mcinventoryv4er9ll1!ss' | base64 | cb
+echo 'bWNpbnZlbnRvcnl2NGVyOWxsMSFzcwo=' | base64 -d
+echo 'mcinventory4er9ll1!ss' | base64 | cb
+echo 'bWNpbnZlbnRvcnk0ZXI5bGwxIXNzCg==' | base64 -d
+echo 'd2FsdWlnaXY0ZXI5bGwxIXNz' | base64 -d
+cd ..
+pacman -Ss binary
+xxd -b
+xxd -b '01101100 01100101 01110100 01110011 00100000 01110100 01110010 01111001 00100000 01110011 01101111 01101101 01100101 00100000 01100010 01101001 01101110 01100001 01110010 01111001 00100000 01101111 01110101 01110100 00100001
+
+'
+echo '01101100 01100101 01110100 01110011 00100000 01110100 01110010 01111001 00100000 01110011 01101111 01101101 01100101 00100000 01100010 01101001 01101110 01100001 01110010 01111001 00100000 01101111 01110101 01110100 00100001
+
+' | xxd -b
+man xxd
+echo '01101100 01100101 01110100 01110011 00100000 01110100 01110010 01111001 00100000 01110011 01101111 01101101 01100101 00100000 01100010 01101001 01101110 01100001 01110010 01111001 00100000 01101111 01110101 01110100 00100001 | perl -lpe '$_=pack"B*",$_'
+
+'
+echo '01101100 01100101 01110100 01110011 00100000 01110100 01110010 01111001 00100000 01110011 01101111 01101101 01100101 00100000 01100010 01101001 01101110 01100001 01110010 01111001 00100000 01101111 01110101 01110100 00100001' | perl -lpe '$_=pack"B*",$_'
+'
+echo '01101100 01100101 01110100 01110011 00100000 01110100 01110010 01111001 00100000 01110011 01101111 01101101 01100101 00100000 01100010 01101001 01101110 01100001 01110010 01111001 00100000 01101111 01110101 01110100 00100001' | perl -lpe '$_=pack"B*",$_'
+echo '01101100011001010111010001110011001000000111010001110010011110010010000001110011011011110110110101100101001000000110001001101001011011100110000101110010011110010010000001101111011101010111010000100001' | perl -lpe '$_=pack"B*",$_'
+echo 'MJQXGZJTGIQGS4ZAON2XAZLSEBRW63LNN5XCA2LOEBBVIRRHOM======
+
+echo 'MJQXGZJTGIQGS4ZAON2XAZLSEBRW63LNN5XCA2LOEBBVIRRHOM======' | base64 -d
+echo 'MJQXGZJTGIQGS4ZAON2XAZLSEBRW63LNN5XCA2LOEBBVIRRHOM=====' | base64 -d
+echo 'MJQXGZJTGIQGS4ZAON2XAZLSEBRW63LNN5XCA2LOEBBVIRRHOM======' | base64 -d
+echo "MJQXGZJTGIQGS4ZAON2XAZLSEBRW63LNN5XCA2LOEBBVIRRHOM======" | base64 -d
+echo "MJQXGZJTGIQGS4ZAON2XAZLSEBRW63LNN5XCA2LOEBBVIRRHOM======" | tr '[:upper:]' '[:lower:]' | base64 -d
+echo "MJQXGZJTGIQGS4ZAON2XAZLSEBRW63LNN5XCA2LOEBBVIRRHOM======" | tr '[:upper:]' '[:lower:]'
+echo 'mjqxgzjtgiqgs4zaon2xazlsebrw63lnn5xca2loebbvirrhom======' | base64 -d
+exit
+sudo pacman -Syu baobab
+exit
+man nmap
+cd Downloads/programs/
+. burpsuite_community_linux_v2020_4_1.sh 
+chmod +x burpsuite_community_linux_v2020_4_1.sh 
+./burpsuite_community_linux_v2020_4_1.sh 
+sudo pacman -Syu sqlmap
+sqlmap -u http://10.10.207.58/administrator.php --forms --dump -a
+sqlmap -u http://10.10.207.58/administrator.php --forms --dump
+nc
+sudo pacman -Syu nc
+sudo pacman -Syu netcat
+nc -l 9898
+nc -lnvp 9898
+man nc
+man netcat
+nc -lnvp 9898
+nc -lnvp 9898
+nc -lnvp 9898
+exit
+startx
+cd ctf/thm/
+ls
+mkdir vulnversity
+openvpn yogsoy.ovpn 
+sudo openvpn yogsoy.ovpn 
+echo 'mjqxgzjtgiqgs4zaon2xazlsebrw63lnn5xca2loebbvirrhom======' | base64 -d
+base64 -d
+man base64
+man base64
+echo 'mjqxgzjtgiqgs4zaon2xazlsebrw63lnn5xca2loebbvirrhom======' | base64 -di
+echo 'mjqxgzjtgiqgs4zaon2xazlsebrw63lnn5xca2loebbvirrhom======' | base64 -d -i
+echo 'mjqxgzjtgiqgs4zaon2xazlsebrw63lnn5xca2loebbvirrhom======' | base64 -i
+echo 'mjqxgzjtgiqgs4zaon2xazlsebrw63lnn5xca2loebbvirrhom======' | base64 -i -d
+echo 'mjqxgzjtgiqgs4zaon2xazlsebrw63lnn5xca2loebbvirrhom======' | base64 -i
+echo 'mjqxgzjtgiqgs4zaon2xazlsebrw63lnn5xca2loebbvirrhom======' | base64
+echo 'mjqxgzjtgiqgs4zaon2xazlsebrw63lnn5xca2loebbvirrhom======' | base64 -d
+echo 'RWFjaCBCYXNlNjQgZGlnaXQgcmVwcmVzZW50cyBleGFjdGx5IDYgYml0cyBvZiBkYXRhLg' | base64 -d
+echo '68 65 78 61 64 65 63 69 6d 61 6c 20 6f 72 20 62 61 73 65 31 36 3f
+
+echo '68 65 78 61 64 65 63 69 6d 61 6c 20 6f 72 20 62 61 73 65 31 36 3f' | xxd -d
+echo '68 65 78 61 64 65 63 69 6d 61 6c 20 6f 72 20 62 61 73 65 31 36 3f' | xxd
+echo '68 65 78 61 64 65 63 69 6d 61 6c 20 6f 72 20 62 61 73 65 31 36 3f' | xxd -r
+echo '68 65 78 61 64 65 63 69 6d 61 6c 20 6f 72 20 62 61 73 65 31 36 3f' | xxd -r | cat
+echo '68 65 78 61 64 65 63 69 6d 61 6c 20 6f 72 20 62 61 73 65 31 36 3f' | sed 's/ //g' | xxd -r
+echo '68 65 78 61 64 65 63 69 6d 61 6c 20 6f 72 20 62 61 73 65 31 36 3f' | xxd -r
+cl
+cd ctf/thm/
+mkdir the_cod_caper
+cd the_cod_caper/
+cls
+nmap -sS -sC 10.10.207.58
+sudo nmap -sS -sC 10.10.207.58
+ping 10.10.207.58
+sudo nmap -sS -sC 10.10.207.58
+sudo nmap -sS -sC 10.10.207.58
+sudo nmap -sS -sC -sV 10.10.207.58
+sudo mv big.txt /usr/share/wordlists/big.txt
+gobuster dir -u http://10.10.207.58:80 -w /usr/share/wordlists/big.txt 
+gobuster dir -u http://10.10.207.58:80 -w /usr/share/wordlists/big.txt -x "php,txt,html"
+ls
+vim pinga_id_rsa
+ssh -i pinga_id_rsa 10.10.207.58
+ssh -i pinga_id_rsa pingu@10.10.207.58
+ls
+mv pinga_id_rsa pingu_id_rsa
+ssh -i pingu_id_rsa pingu@10.10.207.58
+chmod 600 pingu_id_rsa 
+ssh -i pingu_id_rsa pingu@10.10.207.58
+chmod 400 pingu_id_rsa 
+ssh -i pingu_id_rsa pingu@10.10.207.58
+chmod 644 pingu_id_rsa 
+ssh -i pingu_id_rsa pingu@10.10.207.58
+chmod 600 pingu_id_rsa 
+ssh -i pingu_id_rsa pingu@10.10.207.58
+sudo apts nxt
+cat pingu_id_rsa 
+vim pingu_id_rsa 
+ssh -i pingu_id_rsa pingu@10.10.207.58
+ssh -i pingu_id_rsa pingu@10.10.207.58
+openssl rsa -noout -test < pingu_id_rsa 
+openssl rsa -noout -text < pingu_id_rsa 
+openssl rsa -text < pingu_id_rsa 
+openssl pkey -text < pingu_id_rsa 
+umask 077
+openssl pkey < pingu_id_rsa
+openssl pkey < pingu_id_rsa > pingu_id_rsa.pkcs8
+ssh -i pingu_id_rsa.pkcs8 pingu@10.10.207.58
+xclip -o
+xclip -o | base64 -d
+xclip -o | sed 's/\///g'
+xclip -o | sed 's/\///g' | base64 -d
+cdl
+scripts/nowshut.sh 
+shutdown -h now
+sudo shutdown -h now
+cd Downloads/
+ip addr
+man ssh
+cd
+cd .ssh
+ls
+cd
+sudo pacman -Syu openssl
+man find
+startx
+wpa_supplicant -B -i wlp60s0 -c <(wpa_passphrase "bulian" "v3rys3cur1ty")
+sudo wpa_supplicant -B -i wlp60s0 -c <(wpa_passphrase "bulian" "v3rys3cur1ty")
+cl
+reboot
+sudo reboot
+sudo startx
+startx
+systemctl status lightdm
+sudo systemctl disable lightdm
+lightdm --test-mode --debug
+pkill xorg-server-xephyr
+pkill lightdm
+ip link
+wpa_supplicant -B -i wlan0 -c <(wpa_passphrase "bulian" "v3rys3cur1ty")
+wpa_supplicant -B -i wlan0 -c <(wpa_passphrase "bulian" "v3rys3cur1ty")
+sudo wpa_supplicant -B -i wlan0 -c <(wpa_passphrase "bulian" "v3rys3cur1ty")
+wpa_supplicant -B -i wlan0 -c <(wpa_passphrase "bulian" "v3rys3cur1ty")
+nmcli
+nmcli wlan0
+NetworkManager 
+networkctl 
+nmcli device show wlan0
+shutdown -h now
+sudo shutdown -h now
+shutdown -h now
+sudo shutdown -h now
+startx
+ls
+rf lightdm.*
+exit
+htop
+pacman -Syu htop mpv
+sudo pacman -Syu htop mpv
+htop
+l
+la
+la .config/
+la .config/htop/
+cp yogsoy_configs_scripts/configs/misc/htoprc .config/htop/
+htop
+mpv Videos/waow.mp4 
+mpv Videos/waow.mp4 
+exit
+nc code-golf.ctfcompetition.com 1337
+cd ctf/google/2019/misc/doomed_to_repeat_it/
+ls
+vim random/random.go 
+vim game/game.go 
+vim main.go 
+cd ..
+nc jit.ctfcompetition.com 1337
+cd jit/
+vim FancyJIT.java 
+cd ..
+cd malvertising/
+exit
+sudo pacman -Syu howdy
+yay -Syu howdy
+yay -Syu howdy
+rl
+howdy
+howdy
+man howdy
+which howdy
+where howdy
+whereis howdy
+/usr/bin/howdy
+sudo /usr/bin/howdy
+yay -Syu howdy
+rl
+howdy
+vim .bashrc 
+exit
+echo "wofDmTJ0WMOdT3zDoMKcwqzDrRoCwpBPwrBBwoxewqtMwrB7DADDlGoLw7HCpMO7" | base64 -d
+exit
+vim
+xclip -o
+xclip -o | sed "s/',\s*'//g"
+xclip -o | sed "s/',\s*'/\n/g"
+xclip -o | sed "s/',\s*'/\n/g;s/[\[']//g"
+xclip -o | sed "s/',\s*'/\n/g;s/[\[']//g" | base64 -d
+xclip -o | sed "s/',\s*'/\n/g;s/[\[']//g"
+exit
+cd ctf/google/2019/misc/malvertising/
+ls
+cd ..
+mkdir pwn
+cd pwn/malvertising/
+node metrics.beautiful.js 
+cd ../..
+cl
+cd ..
+ls
+ls misc/
+mv misc/pwn/ .
+ls
+exit
+vim
+htop
+exit
+pacman -Ss rot13
+yay -Ss rot13
+yay -Syu rot13
+rot13 "Va beqre gb trarengr gur vaivgr pbqr, znxr n CBFG erdhrfg gb /ncv/vaivgr/trarengr"
+cd ctf/htb/invite/
+node go.js 
+node go.js 
+node go.js 
+node go.js 
+node go.js 
+node go.js 
+node go.js 
+node go.js 
+node go.js 
+ls
+vim pure_pain.js 
+cat pure_pain.js 
+cat pure_pain.js | cb
+xclip -o
+cat pure_pain.js | cb
+xclip -o
+cat pure_pain.js | cb
+cat pure_pain.js 
+node
+cp pure_pain.js purest.js
+vim purest.js 
+node purest.js 
+vim purest.js 
+node purest.js 
+vim purest.js 
+node purest.js 
+vim purest.js 
+node purest.js 
+vim purest.js 
+node -c "console.log('wa')"
+man node
+node -e "console.log('wa')"
+node -e "<(node purest.js)"
+node -e '<(node purest.js)'
+node -e <(node purest.js)
+xc
+node -e "$(node purest.js)"
+node purest.js 
+vim purest.js 
+node purest.js 
+vim purest.js 
+node purest.js 
+vim purest.js 
+node purest.js 
+node purest.js | js-beautify 
+xclip -o
+xclip -o | base64 -d
+exit
+node
+ls
+ls ctf/
+cd ctf/google/2019/misc/code_golf/
+ls
+unzip d7394b13c40f19ee4bc4a2696edcbe7600629f36bbde598da21d1a6e602a6122.zip 
+ls
+vim challenge.md 
+cd ..
+mkdir doomed_to_repeat_it
+cd doomed_to_repeat_it/
+unzip 7d6680177ddf33167700f021db01c260fac0b25cc05e28d3803a224046fee461.zip 
+ls
+cd ..
+mkdir jit
+cd jir
+cd jit
+ls
+unzip 8929b327b760ffb62c092dee035bce9992735012b85a1f274c39f4721889b3c1.zip 
+ls
+vim compiler.c 
+cd ..
+mkdir malvertising
+cd malvertising/
+ls
+vim metrics.js 
+npm i -g js-beautify
+sudo pacman -Syu nodejs npm
+npm i -g js-beautify
+sudo npm i -g js-beautify
+js-beautify metrics.js 
+js-beautify metrics.js > metrics.beautiful.js
+vim metrics.beautiful.js 
+cd ..
+mv malvertising/ pwn/malvertising/
+cd pwn/
+ls
+cd malvertising/
+vim metrics.beautiful.js 
+cd ..
+cd ..
+cl
+cdl
+cd ctf/
+echo "fmDux4JNlK5BTZ8XlAeJZF3MMYQQJTtUAxx4aDVU" | base64 -d
+cl
+mkdir htb
+cd htb/
+ls
+mkdir invite
+cd invite/
+vim benis.js
+js-beautify benis.js 
+js-beautify benis.js > pure_pain.js
+vim pure_pain.js 
+node
+vim go.js
+vim ajax.json
+cat ajax.json 
+cat ajax.json | cel
+cat ajax.json | tr -d '\n'
+cat ajax.json | tr -d '\n' -d '\s'
+cat ajax.json | tr -d '\n'
+cat ajax.json | tr -d '\n' | tr -d '\s'
+cat ajax.json | tr -d '\n' | tr -d '\t'
+cat ajax.json | tr -d '\n' | tr -d '\t' | cb
+cat ajax.json | tr -d '\n' | tr -d '\t'
+cat ajax.json | tr -d '\n' | tr -d '\t'; echo ''
+cat ajax.json | tr -d '\n' | tr -d '\t'; echo ''
+ls
+cd ..
+ls
+mkdir starting_point
+cd starting_point/
+pacman -Ss virtual-machine-manager
+pacman -Ss virt-manager
+sudo pacman -Syu virt-manager
+pacman -Ss qemu
+pacman -Syu qemu 
+sudo pacman -Syu qemu 
+sudo pacman -Syu transmission transmission-gtk
+sudo pacman -Syu transmission-gtk
+sudo pacman -Syu miraclecast
+yay -Syu miraclecast
+cdl
+ls
+cd Documents/repositories/
+ls
+gitc https://github.com/albfan/miraclecast
+rf miraclecast/
+gitc https://github.com/albfan/miraclecast
+cd miraclecast/
+ls
+cd res/
+. test-hardware-capabilities.sh 
+cd ..
+automake
+sudo automake
+cmake
+cmake .
+sudo pacman -Syu cmake libglib2.0-dev libudev-dev libsystemd-dev libreadline-dev check 
+mkdir build
+cd build/
+../autogen.sh g --prefix=/usr
+cd ../..
+rf miraclecast/
+gitc https://github.com/albfan/miraclecast
+cd miraclecast/
+mkdir build
+cd build/
+ls
+../autogen.sh g --prefix=/usr
+make
+make install
+sudo make install
+cd ..
+cd res/write-udev-rule.sh 
+vim res/write-udev-rule.sh 
+res/write-udev-rule.sh 
+cd res
+./write-udev-rule.sh 
+../configure --enable-rely-udev
+cd ..
+cd build
+make
+cdl
+sudo miracle-wifid &
+sudo miracle-sinkctl
+cl
+espeak hello
+pkill discord-canary
+xrandr
+pkill x
+exit
+ls /dev/video
+ls /dev/video*
+mpv /dev/video0
+mpv /dev/video1
+mpv /dev/video2
+exit
+man termite
+dmesg | es
+exit
+neofetch
+exit
+neofetch
+exit
+neofetch --backend caca
+neofetch --backend ascii
+neofetch --backend chafa
+neofetch --backend jp2a
+neofetch --backend tycat
+neofetch --backend sixel
+neofetch --backend off
+neofetch --backend kitty
+sudo pacman -Syu kitty
+neofetch --backend kitty
+exit
+neofetch --w3m
+exit
+neofetch --ascii_distro BLAG
+neofetch --ascii_distro raspbian
+man termite
+man i3-msg
+shutdown -h now
+sudo pacman -Syu blueman--aplet
+sudo pacman -Syu blueman-applet
+pacman -Ss blueman
+pacman -Ss bluetooth
+sudo pacman -Syu bluez-tools
+blueman-applet 
+pkill blueman-applet
+blueman-applet 
+pacman -Ss appindicator
+sudo pacman -Syu libappindicator-gtk2 libappindicator-gtk3
+blueman-applet 
+pkill !
+echo "!"
+echo '!'
+pkill blueman-applet
+blueman-applet 
+pacman -Ss bluetooth
+sudo pacman -Syu manjaro-bluetooth
+blueman-applet 
+auth sufficient pam_python.so /lib/security/howdy/pam.py
+vim /etc/pam.d/other 
+vim /etc/pam.d/other 
+sudo vim /etc/pam.d/other 
+sudo howdy config
+sudo howdy add
+sudo howdy add
+sudo -k echo e
+howdy test
+sudo howdy test
+sudo howdy test
+sudo pacman -Syu lightdm
+sudo pacman -Syu lightdm-gtk-greeter
+sudo vim /etc/lightdm/lightdm.conf 
+sudo systemctl enable li
+dm-tool --help
+sudo pacman -Syu xorg-server-xephyr
+lightdm --test-mode --debug
+la
+cat .profile 
+pacman -Ss adwaita
+yay -Ss adwaita
+yay -Syu adwaita-dark
+chx .xinitrc 
+sudo pacman -Syu xinit-xsession
+yay -Syu xinit-xsession
+sudo vim /etc/lightdm/lightdm.conf 
+ls /usr/share/xsessions/
+sudo pacman -Syu gdk-pixbuf2
+vim .config/i3/config
+cd yogsoy_configs_scripts/
+ls
+ls scripts/
+ls ~
+ls scripts/misc/
+la scripts/misc/
+cd
+vim .config/i3/config
+cl
+ls
+cl
+vim .config/i3/config
+neofetch
+vim .config/i3/config
+pacman -Syu gnome-tweaks
+sudo pacman -Syu gnome-tweaks
+gnome-tweaks 
+sudo vim /etc/lsb-release
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+pacman -Ss neofetch
+yay -Ss neofetch
+yay -Syu neofetch-git
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+DISTRIB_DESCRIPTION="Huayra"; neofetch
+sudo vim /etc/lsb-release
+DISTRIB_DESCRIPTION="Huayra"; neofetch
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+echo $DIST
+echo $DISTRIB_DESCRIPTION
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+which neofetch
+vim /usr/bin/neofetch
+sudo vim /usr/bin/neofetch
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /usr/bin/neofetch
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+sudo vim /etc/lsb-release
+neofetch 
+man neofetch
+neofetch --ascii_distro raspbian
+cl
+cl
+vim .config/i3/config
+cl
+la
+cd ctf/
+ls
+cd htb/
+ls
+cd invite/
+ls
+vim pure
+vim purest.js 
+vim go.js 
+cdl
+vim .config/i3/config
+termite -e htop -r sys_monitor; i3-msg command for_window [role='sys_monitor'] scratchpad show
+termite -e htop -r sys_monitor; i3-msg command for_window [role='sys_monitor'] scratchpad show
+termite -e htop -r sys_monitor; i3-msg for_window [role='sys_monitor'] scratchpad show
+termite -e htop -r sys_monitor; i3-msg floating
+termite -e htop -r sys_monitor; i3-msg floating enable
+termite -e htop -r sys_monitor & i3-msg floating enable
+termite -e htop -r sys_monitor & i3-msg scratchpad
+termite -e htop -r sys_monitor & i3-msg scratchpad show
+termite -e htop -r sys_monitor & i3-msg move scratchpad
+exit
+man termite
+vim .config/termite/config 
+cd .config/termite/
+vim sys_monitor
+man termite
+termite -c sys_monitor 
+vim sys_monitor
+rf sys_monitor 
+man termite
+man termite.config
+man termite.config
+startx
+startx
+vim .config/i3/config
+vim .config/i3/config
+vim .config/termite/config 
+cl
+neofetch
+cl
+st
+sudo pacman -Syu speedtest-cli
+st
+ls scripts/
+cat scripts/wiktionary_selection.sh 
+vim .bashrc 
+vim scripts/wiktionary_selection.sh 
+vim scripts/browser_selection.sh 
+cd scripts/
+chx *
+./wiktionary_selection.sh 
+vim wiktionary_selection.sh 
+./wiktionary_selection.sh 
+vim wiktionary_selection.sh 
+vim wiktionary_selection.sh 
+./wiktionary_selection.sh 
+vim browser_selection.sh 
+cd
+cl
+sudo shutdown -h now
+pkill lightdm
+pkill lightdm
+sudo pkill lightdm
+sudo systemctl disable lightdm
+reboot
+sudo reboot
+startx
+wpa_supplicant
+wpa_supplicant -B -i wlan0
+wpa_supplicant -B -i wlan0 -c /etc/wpa_supplicant/wpa_supplicant-wlp60s0.conf 
+sudo shutdown -h now
+ip link
+ip link set wlan0 up
+sudo ip link set wlan0 up
+ip link
+lsusb
+lsmod
+pkill nm-applet
+sudo nm-applet &
+pkill nm-applet
+nmcli 
+nm
+nmtui
+sudo nmtui
+cat /etc/passwd
+grous
+groups
+ps aux
+ps aux | grep network
+groups
+sudo usermod -aG network elyshea
+cl
+neofetch
+vim .bash_history 
+vim .bash_history 
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/lsb-release
+neofetch
+sudo vim /etc/polkit-1/rules.d/50-org.freedesktop.NetworkManager.rules
+sudo vim /etc/lightdm/lightdm.conf 
+sudo vim /etc/lsb-release
+xinit
+man xinit
+man startx
+startx
+cl
+lightdm --test-mode --debug
+sudo chown el
+sudo chown elyshea /var/lib/lightdm-data/
+lightdm --test-mode --debug
+/usr/bin/X
+vim .local/share/xorg/Xorg.0.log
+mkfontdir /usr/share/fonts/misc/
+sudo mkfontdir /usr/share/fonts/misc/
+vim .local/share/xorg/Xorg.0.log
+pacman -Ss acpi fbdev vesa
+ping google.com
+pacman -Ss acpi
+vim .local/share/xorg/Xorg.0.log
+startx
+sudo su
+reboot
+sudo reboot
+sudo systemctl enable lightdm
+reboot
+sudo reboot
+sudo vim /etc/lightdm/lightdm.conf 
+reboot
+sudo reboot
+sudo vim /etc/mkinitcpio.conf 
+sudo reboot
+vim .xinitrc 
+cp .xinitrc .xprofile
+reboot
+sudo reboot
+xinit
+pkill lightdm
+sudo pkill lightdm
+sudo systemctl disable lightdm
+rbeoot
+sudo reboot
+sudo vim /etc/X11/Xsession.d/
+sudo su
+lsattr .xinitrc 
+./.xinitrc 
+sudo su
+sudo vim /etc/lightdm/lightdm.conf 
+reboot
+sudo reboot
+sudo systemctl disable lightdm
+sudo reboot
+xinitrcsession-helper 
+exit
+startx
+xinitrcsession-helper 
+cat .xinitrc 
+lightdm-settings 
+sudo lightdm-settings 
+sudo pacman -Syu lightdm-slick-greeter
+sudo su
+man picom
+exit
+oomox
+pacman -Ss gtk config
+sudo pacman -Syu lxappearance
+picom --no-fading-openclose
+vim .config/i3/config
+vim .config/i3/config
+cp /etc/xdg/picom.conf .config/
+vim .config/picom.conf 
+sudo howdy-test
+which howdy
+sudo su
+sudo chown /usr/bin/howdy elyshea
+sudo chown elyshea /usr/bin/howdy 
+howdy
+rl
+howdy
+blueman-applet 
+vim .config/i3/config
+pkill blueman-applet
+blueman-applet 
+bluemoon 
+blueman-assistant 
+blueman-adapters 
+blueman-tray
+bluemanctl
+bluetoothctl 
+yay -Syu bluez bluez-utils
+lsmod
+lsmod | grep blue
+sudo systemctl enable bluetooth
+sudo systemctl start bluetooth
+blueman-applet 
+scripts/nowshut.sh 
+howdy
+sudo howdy
+sudo shutdown -h now
+exit
+exit
+exit
+exit
+q
+cp .config/termite/config .config/termite/sys_monitor
+vim .config/termite/sys_monitor 
+exit
+sudo su
+cd Documents/work/admin/
+ls
+vim abn.txt 
+cd ..
+cdl
+man pacman
+pacman -Ss ttf
+pacman -Ss google fonts
+yay -Ss google fonts
+yay -Syu noto-fonts-extra noto-fonts ttf-google-sans ttf-share-gf ttf-google-fonts-git
+yay -Syu noto-fonts-extra noto-fonts ttf-google-sans ttf-share-gf ttf-google-fonts-git
+yay -Syu noto-fonts-extra noto-fonts ttf-share-gf ttf-google-fonts-git
+yay -Syu noto-fonts-extra noto-fonts ttf-share-gf ttf-google-fonts-git
+yay -Syu noto-fonts-extra noto-fonts ttf-share-gf ttf-google-fonts-git
+man termite
+ls .config/termite/
+man termite
+vim .config/termite/config 
+cd scripts/
+ls
+vim htop_terminal.sh
+chx htop_terminal.sh 
+./htop_terminal.sh 
+vim htop_terminal.sh
+./htop_terminal.sh 
+vim htop_terminal.sh
+./htop_terminal.sh 
+vim htop_terminal.sh
+cat htop_terminal.sh | cb
+$TERMINAL -e htop -r sys_monitor -c <(cat ~/.config/$TERMINAL/config | sed 's/rgba(0,0,0,0)/rgba(0,0,0,0.8)/')
+cat ~/.config/$TERMINAL/config | sed 's/rgba(0,0,0,0)/rgba(0,0,0,0.8)/'
+cat ~/.config/$TERMINAL/config | sed 's/rgba(0,0,0,0)/rgba(0,0,0,0.2)/'
+$TERMINAL -e htop -r sys_monitor -c <(cat ~/.config/$TERMINAL/config | sed 's/rgba(0,0,0,0)/rgba(0,0,0,0.1)/')
+vim ~/.config/termite/config 
+$TERMINAL -e htop -r sys_monitor --config=<(cat ~/.config/$TERMINAL/config | sed 's/rgba(0,0,0,0)/rgba(0,0,0,0.1)/')
+$TERMINAL -e htop -r sys_monitor --config="<(cat ~/.config/$TERMINAL/config | sed 's/rgba(0,0,0,0)/rgba(0,0,0,0.1)/')"
+$TERMINAL -e htop -r sys_monitor --config=<(cat ~/.config/$TERMINAL/config | sed 's/rgba(0,0,0,0)/rgba(0,0,0,0.1)/')
+cat ~/.config/$TERMINAL/config | sed 's/rgba(0,0,0,0)/rgba(0,0,0,0.2)/'
+cat ~/.config/$TERMINAL/config | sed 's/rgba(0,0,0,0)/rgba(0,0,0,0.8)/'
+termite -c <(cat ~/.config/$TERMINAL/config | sed 's/rgba(0,0,0,0)/rgba(0,0,0,0.8)/')
+termite
+termite -c
+termite -c ~/.config/termite/config 
+rf htop_terminal.sh 
+cdl
+vim .config/termite/sys_monitor 
+ls
+vim yogsoy_configs_scripts/configs/misc/.screenrc 
+ip link
+sudo pacman -Syu nload
+sudo pacman -Syu nload
+man nload
+nload wlan0
+vim .config/i3/config
+ls
+cl
+cmatrix
+yay -Syu cmatrix
+cmatrix
+sudo shutdown -h now
+sudo vim /etc/lightdm/lightdm.conf
+sudo vim /etc/lightdm/lightdm-mini-greeter.conf 
+ls Downloads/move_arch/
+ls Downloads/move_arch/etc
+sudo cp Downloads/move_arch/etc/lightdm/lightdm-mini-greeter.conf /etc/lightdm-mini-greeter.conf.n
+sudo su
+man termite
+yay -Syu lightdm-mini-greeter
+vim .config/i3/config
+sudo reboot
+exit
+ls
+cls -a
+exit
+simple-mtpfs 
+simple-mtpfs -l
+simple-mtpfs -l
+simple-mtpfs 1 Phone
+ls
+ls /
+ls /mnt
+mkdir Phone
+simple-mtpfs 1 Phone
+ls
+ls Phone/
+ls Phone/
+simple-mtpfs 1 Phone
+ls Phone/
+simple-mtpfs -l
+simple-mtpfs -l
+simple-mtpfs 1 Phone
+ls
+ls Phone/
+simple-mtpfs 1 Phone/
+ls Phone/
+simple-mtpfs 1 ./Phone/
+ls Phone/
+simple-mtpfs 1 ./Phone/ -d
+simple-mtpfs -d 1 ./Phone/
+simple-mtpfs -l
+simple-mtpfs -d
+simple-mtpfs -h
+simple-mtpfs -f
+simple-mtpfs -f 1
+simple-mtpfs -f 1 Phone/
+ls Phone/
+ls
+simple-mtpfs -f 1 Phone/
+ls Phone/
+yay -Syu nautilus
+exit
+pacman -R lightdm-mini-greeter
+yay -R lightdm-mini-greeter
+sudo rm /etc/lightdm/lightdm-mini-greeter.conf.pacsave 
+yay -Syu lightdm-mini-greeter
+man lightdm
+xclip -o | cc
+xclip -o | cc
+neofetch
+vim .config/termite/config 
+vim .config/termite/config 
+vim /usr/share/fonts/sharetech-mono/
+vim /usr/share/fonts/share-tech-mono/
+yay -Ss font gui
+yay -Ss font visualis
+yay -Ss font visuali
+yay -Ss font show
+yay -Ss font-manager
+yay -Syu font-manager
+font-manager 
+cl
+xset b
+echo \a
+echo -e \a
+man echo
+xset
+xset -q
+htop
+sudo su
+ls
+cd Music/
+ls
+mkdir Synced
+yay -Ss adb
+yay -Ss adb | grep '/' | sort
+nautilus
+pcmanfm
+yay -Ss simple-mtpfs
+yay -Syu simple-mtpfs
+man simple-mtpfs
+nautilus
+nautilus
+simple-mtpfs -l
+simple-mtpfs 1 ~/Phone/
+cd
+ls Phone/
+yay -Ss android
+lip
+vim .bash_aliases 
+lip
+rl
+lip
+vim .bash_aliases 
+rl
+man du
+a fs
+exit
+echo \a
+vim .config/termite/config 
+man cut
+man head
+exi
+exit
+ls
+exit
+font-manager
+ls
+cls
+cd Downloads/programs/
+./burpsuite_community_linux_v2020_4_1.sh 
+cdl
+ls
+rf BurpSuiteCommunity/
+which burpsuite
+which burp
+which burp*
+burpsuite
+ls
+echo $PATH
+exit
+exit
+ls
+exit
+man find
+man ls
+man find
+find . -printf "%T@ %Tc %p\n" | sort -n
+cd Audio/Music/
+find . -printf "%T@ %Tc %p\n" | sort -n
+find . -printf "%T@ %Tc %p\n" | sort -n
+find . -printf "%T@ %Tc %p\n" | sort -n
+find . -printf "%T@ %Tc %p\n" | sort -n
+find . -printf "%T@ %Tc %p\n" | sort -nr
+find . -printf "%T@ %Tc %p\n" | sort -nr
+find . -printf "%T@ %p\n" | sort -nr
+find . -printf "%T@ %p\n" | sort -nr | cut -f-1
+find . -printf "%T@ %p\n" | sort -nr | cut -f1
+find . -printf "%T@ %p\n" | sort -nr | cut -f2
+find . -printf "%T@ %p\n" | sort -nr | cut -f3
+find . -printf "%T@ %p\n" | sort -nr | cut -d' ' -f2
+find . -printf "%T@ %p\n" | sort -nr | cut -d' ' -f-1
+find . -printf "%T@ %p\n" | sort -nr | cut -d' ' -f-2
+find . -printf "%T@ %p\n" | sort -nr | cut -d' ' -f+1
+find . -printf "%T@ %p\n" | sort -nr | cut -d' ' -f23
+find . -printf "%T@ %p\n" | sort -nr | cut -d' ' -f2
+find . -printf "%T@ %p\n" | sort -nr | cut -d' ' -f2-1
+find . -printf "%T@ %p\n" | sort -nr | cut -d' ' -f2-3
+find . -printf "%T@ %p\n" | sort -nr | cut -d' ' -f2
+find . -printf "%T@ %p\n" | sort -nr | cut -d' ' -f1
+find . -printf "%T@ %p\n" | sort -nr
+find . -printf "%T@ %p\n" | sort -nr | cut -f2
+find . -printf "%T@ %p\n" | sort -nr | cut -d' ' -f2-
+man find
+man du
+cdl
+vim .XCompose 
+yay -Ss comic sans
+man yay
+man pacman
+man yay
+yay -Q ttf-sans-bullshit-sans
+yay -Ss dyslexia
+yay -Syu ttf-opendyslexic
+font-manager 
+vim .config/termite/config 
+vim .config/termite/config 
+exit
+yay -Ss xsettings
+yay -Syu kde-gtk-config
+yay -R kde-gtk-config
+la
+vim .gtkrc-2.0 
+exit
+ip link
+ifcfg 
+ifcfg wlan0
+iwconfig 
+kdeconnect-app 
+kdeconnect-settings 
+kdeconnect-settings 
+cd Music/
+mkdir Synced
+cd ..
+ls
+mv Music/ Audio
+cd Audio/
+ls
+mv Synced/ Music
+cd ..
+baobab
+fs Audio/
+cd Audio/
+cd Music/
+ls
+watch 'ls; fs .'
+watch 'ls; du -h .'
+watch 'ls; du -h .'
+watch 'du --si .'
+watch 'du -sh .'
+watch 'du -sh .;ls'
+watch 'du -sh .; printf "`ls|wc -l` folders transferred:"; ls'
+watch 'du -sh .; printf "`ls|wc -l` folders transferred:\n"; ls'
+watch 'printf "`ls|wc -l` folders `du -sh` transferred:\n"; ls'
+watch 'printf "`ls|wc -l` folders (`du -sh`) transferred:\n"; ls'
+watch 'printf "`ls|wc -l` folders (`du -sh | awk '{print $1}'`) transferred:\n"; ls'
+watch 'printf "`ls|wc -l` folders (`du -sh | awk \'{print $1}\'`) transferred:\n"; ls'
+watch 'printf "`ls|wc -l` folders (`du -sh | awk "{print $1}"`) transferred:\n"; ls'
+watch 'printf "`ls|wc -l` folders (`du -sh | cut -d "\s" -f1`) transferred:\n"; ls'
+watch 'printf "`ls|wc -l` folders (`du -sh | cut -d " " -f1`) transferred:\n"; ls'
+watch 'printf "`ls|wc -l` folders (`du -sh | cut -f1`) transferred:\n"; ls'
+watch 'echo `ls|wc -l` folders (`du -sh | cut -f1`) transferred:; ls'
+watch 'echo `ls|wc -l` folders (`du -sh | cut -f1`) transferred:; ls'
+watch 'printf "`ls|wc -l` folders (`du -sh | cut -f1`) transferred:\n"; ls'
+watch 'printf "`find -type f|wc -l` files (`du -sh | cut -f1`) transferred:\n"; ls -Rt'
+watch 'printf "`find -type f|wc -l` files (`du -sh | cut -f1`) transferred:\n"; ls -Rtr'
+watch 'printf "`find -type f|wc -l` files (`du -sh | cut -f1`) transferred:\n"; ls -R -t'
+watch 'printf "`find -type f|wc -l` files (`du -sh | cut -f1`) transferred:\n"; ls -R -t -r'
+watch 'printf "`find -type f|wc -l` files (`du -sh | cut -f1`) transferred:\n"; find . -printf "%T@ %p\n" | sort -nr | cut -d' ' -f2-'
+watch 'printf "`find -type f|wc -l` files (`du -sh | cut -f1`) transferred:\n"; find . -printf "%T@ %p\n" | sort -nr | cut -d' ' -f2-'
+watch 'printf "`find -type f|wc -l` files (`du -sh | cut -f1`) transferred:\n"; find . -printf "%T@ %p\n" | sort -nr | cut -d" " -f2-'
+watch 'printf "`find -type f|wc -l` files (`du -sh | cut -f1`) transferred:\n"; find . -printf "%T@ %p\n" | sort -nr | cut -d" " -f2- | grep -v ".syncthing"'
+watch 'printf "`find -type f|wc -l` files (`du -sh | cut -f1`) transferred:\n"; find . -printf "%T@ %p\n" | sort -nr | cut -d" " -f2- | grep -v "\.syncthing"'
+watch 'printf "`find -type f|wc -l` files (`du -sh | cut -f1`) transferred:\n"; find . -printf "%T@ %p\n" | sort -nr | cut -d" " -f2- | grep -v "/."'
+watch 'printf "`find -type f|wc -l` files (`du -sh | cut -f1`) transferred:\n"; find . -printf "%T@ %p\n" | sort -nr | cut -d" " -f2- | grep -v "/\."'
+watch 'printf "`find -type f|wc -l` files (`du -sh | cut -f1`) transferred:\n"; find . -printf "%T@ %p\n" | sort -nr | cut -d" " -f2- | grep -v "/\." | grep ".(flac,mp3)"'
+watch 'printf "`find -type f|wc -l` files (`du -sh | cut -f1`) transferred:\n"; find . -printf "%T@ %p\n" | sort -nr | cut -d" " -f2- | grep -v "/\." | grep ".flac"'
+watch 'printf "`find -type f|wc -l` files (`du -sh | cut -f1`) transferred:\n"; find . -printf "%T@ %p\n" | sort -nr | cut -d" " -f2- | grep -v "/\." | grep "\.flac"'
+watch 'printf "`find -type f|wc -l` files (`du -sh | cut -f1`) transferred:\n"; find . -printf "%T@ %p\n" | sort -nr | cut -d" " -f2- | grep "\.(flac|mp3)"'
+watch 'printf "`find -type f|wc -l` files (`du -sh | cut -f1`) transferred:\n"; find . -printf "%T@ %p\n" | sort -nr | cut -d" " -f2- | egrep "\.(flac|mp3)"'
+watch 'printf "`find -type f|wc -l` files (`du -sh | cut -f1`) transferred:\n"; find . -printf "%T@ %p\n" | sort -nr | cut -d" " -f2- | egrep "\.(flac|mp3)(?!.tmp)"'
+watch 'printf "`find -type f|wc -l` files (`du -sh | cut -f1`) transferred:\n"; find . -printf "%T@ %p\n" | sort -nr | cut -d" " -f2- | egrep "\.(flac|mp3)(!.tmp)"'
+watch 'printf "`find -type f|wc -l` files (`du -sh | cut -f1`) transferred:\n"; find . -printf "%T@ %p\n" | sort -nr | cut -d" " -f2- | egrep "\.(flac|mp3)(.tmp)"'
+watch 'printf "`find -type f|wc -l` files (`du -sh | cut -f1`) transferred:\n"; find . -printf "%T@ %p\n" | sort -nr | cut -d" " -f2- | egrep "\.(flac|mp3)!(.tmp)"'
+watch 'printf "`find -type f|wc -l` files (`du -sh | cut -f1`) transferred:\n"; find . -printf "%T@ %p\n" | sort -nr | cut -d" " -f2- | egrep "\.(flac|mp3)(^.tmp)"'
+watch 'printf "`find -type f|wc -l` files (`du -sh | cut -f1`) transferred:\n"; find . -printf "%T@ %p\n" | sort -nr | cut -d" " -f2- | egrep "\.(flac|mp3)"'
+watch 'printf "`find -type f|wc -l` files (`du -sh | cut -f1`) transferred:\n"; find . -printf "%T@ %p\n" | sort -nr | cut -d" " -f2- | egrep "\.(flac|mp3)[^.]"'
+watch 'printf "`find -type f|wc -l` files (`du -sh | cut -f1`) transferred:\n"; find . -printf "%T@ %p\n" | sort -nr | cut -d" " -f2- | egrep "\.(flac|mp3)[^\.]"'
+watch 'printf "`find -type f|wc -l` files (`du -sh | cut -f1`) transferred:\n"; find . -printf "%T@ %p\n" | sort -nr | cut -d" " -f2- | egrep "\.(flac|mp3)w"'
+watch 'printf "`find -type f|wc -l` files (`du -sh | cut -f1`) transferred:\n"; find . -printf "%T@ %p\n" | sort -nr | cut -d" " -f2- | egrep "\.(flac|mp3)^w"'
+watch 'printf "`find -type f|wc -l` files (`du -sh | cut -f1`) transferred:\n"; find . -printf "%T@ %p\n" | sort -nr | cut -d" " -f2- | egrep "\.(flac|mp3)"'
+watch 'printf "`find -type f|wc -l` files (`du -sh | cut -f1`) transferred:\n"; find . -printf "%T@ %p\n" | sort -nr | cut -d" " -f2- | egrep "^w\.(flac|mp3)"'
+watch 'printf "`find -type f|wc -l` files (`du -sh | cut -f1`) transferred:\n"; find . -printf "%T@ %p\n" | sort -nr | cut -d" " -f2- | egrep "\.(flac|mp3)" | grep -v "syncthing"'
+watch 'printf "`find -type f|wc -l` files (`du -sh | cut -f1`) transferred:\n"; find . -printf "%T@ %p\n" | sort -nr | cut -d" " -f2- | egrep "\.(flac|mp3)" | grep -v "(syncthing|tmp)"'
+watch 'printf "`find -type f|wc -l` files (`du -sh | cut -f1`) transferred:\n"; find . -printf "%T@ %p\n" | sort -nr | cut -d" " -f2- | egrep "\.(flac|mp3)" | grep -v "(syncthing)"'
+watch 'printf "`find -type f|wc -l` files (`du -sh | cut -f1`) transferred:\n"; find . -printf "%T@ %p\n" | sort -nr | cut -d" " -f2- | egrep "\.(flac|mp3)" | grep -v "syncthing"'
+watch 'printf "`find -type f|wc -l` files (`du -sh | cut -f1`) transferred:\n"; find . -printf "%T@ %p\n" | sort -nr | cut -d" " -f2- | egrep "\.(flac|mp3)" | grep -v "syncthing"'
+watch 'printf "`find -type f|wc -l` files (`du -sh | cut -f1`) transferred:\n"; find . -printf "%T@ %p\n" | sort -nr | cut -d" " -f2- | egrep "\.(flac|mp3)" | grep -v "syncthing"'
+watch 'printf "`find -type f|wc -l` files (`du -sh | cut -f1`) transferred:\n"; ls'
+watch 'printf "`find -type f|wc -l` files (`du -sh | cut -f1`) transferred:\n"; du -sh .'
+watch 'printf "`find -type f|wc -l` files (`du -sh | cut -f1`) transferred:\n"; du -sh *'
+watch 'printf "`find -type f|wc -l` files (`du -sh | cut -f1`) transferred:\n"; du -sh * | sort -h'
+watch 'printf "`find -type f|wc -l` files (`du -sh | cut -f1`) transferred:\n"; du -sh * | sort -hr'
+cdl
+rf yogsoy_configs_scripts/
+cd Documents/repositories/yogsoy_configs_scripts/
+git pull
+cdl
+cd Downloads/
+fs move_arch/
+ls
+ls move_arch/
+rf move_arch/
+ls
+cdl
+baobab
+cd Downloads/
+fs -r *
+fs * | sort -h
+lxappearance 
+yay -Syu fcitx config
+yay -Ss fcitx config
+yay -Syu fcitx-configtool
+yay -Ss mozc
+exit

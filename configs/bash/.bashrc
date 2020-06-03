@@ -63,7 +63,7 @@ fi
 if [ "$color_prompt" = yes ]; then
     # c u s t o m prompt, last edited 2019-03-13
     # "[username@hostname path]"
-    PS1='[\[\033[01;32m\]\u@\h\[\033[00m\] \[\033[01;34m\]\w\[\033[00m\]] '
+    PS1="[\[\033[01;32m\]\u@\h\[\033[00m\] \[\033[01;34m\]\w\[\033[00m\]] "
 
     # default prompt
     #PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ '
@@ -150,5 +150,6 @@ fi
 shopt -s dotglob
 
 export EDITOR=vim
+export BROWSER=chromium
 export PRINTER="EPSON_ET_4750_Series"
 export TERMINAL=termite

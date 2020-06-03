@@ -11,11 +11,12 @@ include "%L"
 <Multi_key> <a> <o> : "å"
 <Multi_key> <A> <o> : "Å"
 
+# oh cool you speak greek? did you learn that in greece? no? online... what the fuck is that? some island?
 <Multi_key> <a> <a> : "α"
 <Multi_key> <m> <m> : "µ"
 
-<Multi_key> <.> <colon> : "∴" # therefore
-<Multi_key> <colon> <.> : "∵" # because
+<Multi_key> <period> <colon> : "∴" # therefore
+<Multi_key> <colon> <period> : "∵" # because
 
 # ipa shit
 <Multi_key> <I> <I> : "ɪ"
@@ -26,6 +27,7 @@ include "%L"
 <Multi_key> <question> <question> : "ʔ"
 <Multi_key> <0> <minus> : "θ"
 <Multi_key> <B> <B> : "ʙ"
+<Multi_key> <r> <r> : "ɹ"
 
 # for science
 <Multi_key> <E> <E> : "ᴇ"
