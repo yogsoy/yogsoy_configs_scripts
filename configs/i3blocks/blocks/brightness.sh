@@ -3,4 +3,4 @@ case $BLOCK_BUTTON in
 	5) xbacklight -dec 5 -time 0;;
 esac
 
-echo "$(xbacklight | cut -f 1 -d ".")%"
+echo "$(xbacklight | cut -f1 -d'.')%"

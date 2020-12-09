@@ -9,5 +9,7 @@ function untargz () {
 		FILE_FOR_OUTPUT="$(echo "$1" | sed 's/\.gz$//;s/\.tar$//')"
 	fi
 
+	[ -f "$FILE_FOR_OUTPUT" ] || mkdir "$FILE_FOR_OUTPUT"
+
 	pv "$1" | tar xz -C "$FILE_FOR_OUTPUT"
 }

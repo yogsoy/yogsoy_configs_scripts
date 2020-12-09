@@ -11,91 +11,217 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~MSle0~/lip
+~MSle0/ize
 
 # Last Substitute Search Pattern:
-~MSle0&:\s*
+~MSle0~&-
 
 # Last Substitute String:
-$\ =\ 
+$
 
 # Command Line History (newest to oldest):
-:q!
-|2,0,1591202201,,"q!"
-:r
-|2,0,1591202199,,"r"
-:wq
-|2,0,1591201597,,"wq"
-:w
-|2,0,1591201594,,"w"
 :q
-|2,0,1591191668,,"q"
-:nohl
-|2,0,1591071735,,"nohl"
-:vsp .xprofile
-|2,0,1591070290,,"vsp .xprofile"
-:split config
-|2,0,1591035128,,"split config"
-:Q
-|2,0,1590891142,,"Q"
-:n
-|2,0,1590768317,,"n"
-:p
-|2,0,1590768228,,"p"
-:Wq
-|2,0,1590766978,,"Wq"
+|2,0,1607417227,,"q"
 :W
-|2,0,1590764012,,"W"
-:w help.png
-|2,0,1589805038,,"w help.png"
-:explore
-|2,0,1589798131,,"explore"
-:'<,'>s/:\s*/\ =\ /g
-|2,0,1589784323,,"'<,'>s/:\\s*/\\ =\\ /g"
-:vsplit .Xresources
-|2,0,1589783924,,"vsplit .Xresources"
-:w Documents/school/2020/japanese/2020-05-12.txt
-|2,0,1589237593,,"w Documents/school/2020/japanese/2020-05-12.txt"
-:vsplit generate_bearings.js
-|2,0,1588548751,,"vsplit generate_bearings.js"
+|2,0,1607351531,,"W"
+:wq
+|2,0,1607351437,,"wq"
+:w
+|2,0,1607351429,,"w"
+:q!
+|2,0,1607350398,,"q!"
+:'<,'>s/-//g
+|2,0,1606608357,,"'<,'>s/-//g"
+:s/-//g
+|2,0,1606608327,,"s/-//g"
+:w games_2020-11-29.txt
+|2,0,1606607714,,"w games_2020-11-29.txt"
+:Wq
+|2,0,1606129687,,"Wq"
+:w ~/Documents/wiicunt/michael/mac_address.txt
+|2,0,1605830063,,"w ~/Documents/wiicunt/michael/mac_address.txt"
+:Q
+|2,0,1605625175,,"Q"
+:CocDisable
+|2,0,1603925404,,"CocDisable"
+:QQ
+|2,0,1603262983,,"QQ"
+:AirlineTheme powerlineish
+|2,0,1603262684,,"AirlineTheme powerlineish"
+:AirlineTheme tmuxline
+|2,0,1603262671,,"AirlineTheme tmuxline"
+:n
+|2,0,1601623437,,"n"
+:CocDiagnostics
+|2,0,1601622588,,"CocDiagnostics"
+:CocAction('jumpDefinition')
+|2,0,1601204506,,"CocAction('jumpDefinition')"
+:delmarks!
+|2,0,1601204363,,"delmarks!"
+:marks
+|2,0,1601204310,,"marks"
+:'<,'>s/idx/pxl
+|2,0,1600902312,,"'<,'>s/idx/pxl"
+:vsp presentation.snt
+|2,0,1600384058,,"vsp presentation.snt"
+:vsp 
+|2,0,1600384049,,"vsp "
+:Q!
+|2,0,1600308391,,"Q!"
+:CocConfig
+|2,0,1600301212,,"CocConfig"
+:CocInstall coc-json
+|2,0,1600301199,,"CocInstall coc-json"
+:CocInstall json
+|2,0,1600301188,,"CocInstall json"
+:CocInstall
+|2,0,1600301184,,"CocInstall"
+:help register
+|2,0,1599620747,,"help register"
+:sp japanology_coffee_
+|2,0,1599528193,,"sp japanology_coffee_"
+:"w
+|2,0,1599368639,,"\"w"
+:w Documents/work/resume/resume_2020-09-06_draft.md
+|2,0,1599358639,,"w Documents/work/resume/resume_2020-09-06_draft.md"
+:we
+|2,0,1598381077,,"we"
+:files
+|2,0,1598327522,,"files"
+:vsp ~/.vimrc
+|2,0,1598251646,,"vsp ~/.vimrc"
+:sp song_translate.txt
+|2,0,1597292142,,"sp song_translate.txt"
+:vsp song_translated.txt
+|2,0,1597243155,,"vsp song_translated.txt"
+:2
+|2,0,1597016524,,"2"
+:1
+|2,0,1595459177,,"1"
+:help less
+|2,0,1595227708,,"help less"
+:sp .config/i3blocks/blocks/mem.sh
+|2,0,1594285853,,"sp .config/i3blocks/blocks/mem.sh"
+:sp mem.sh
+|2,0,1594285842,,"sp mem.sh"
+:qa
+|2,0,1593733854,,"qa"
+:PlugInstall
+|2,0,1593733849,,"PlugInstall"
+:PLugInstall
+|2,0,1593733844,,"PLugInstall"
+:Plu
+|2,0,1593733700,,"Plu"
+:Plug install
+|2,0,1593733502,,"Plug install"
+:Plug
+|2,0,1593733497,,"Plug"
+:w ~/sxhkdrc
+|2,0,1593733345,,"w ~/sxhkdrc"
+:w sxhkdrc
+|2,0,1593733332,,"w sxhkdrc"
 
 # Search String History (newest to oldest):
-?/lip
-|2,1,1591196261,47,"lip"
-?/scr
-|2,1,1591153508,47,"scr"
-?/scratch
-|2,1,1591150477,47,"scratch"
-?/htop
-|2,1,1591150345,47,"htop"
-?/back
-|2,1,1591148903,47,"back"
-?/blue
-|2,1,1591100812,47,"blue"
-?/picom
-|2,1,1591071784,47,"picom"
-?/Shift+c
-|2,1,1590761536,47,"Shift+c"
-? \<fi\>
-|2,1,1590750452,,"\\<fi\\>"
-?/mv
-|2,1,1590171311,47,"mv"
-?/CTF
-|2,1,1589802211,47,"CTF"
-?/bell
-|2,1,1589793256,47,"bell"
-? :\s*
-|2,1,1589784323,,":\\s*"
-?/noto
-|2,1,1589497120,47,"noto"
-?/emoji
-|2,1,1589497114,47,"emoji"
-?/dunst
-|2,1,1589414487,47,"dunst"
-?/terminal
-|2,1,1589321142,47,"terminal"
-?/|
-|2,1,1589318988,47,"|"
+? -
+|2,1,1606608357,,"-"
+?/ize
+|2,1,1605717058,47,"ize"
+?/ont
+|2,1,1605717055,47,"ont"
+?/glu
+|2,1,1604745425,47,"glu"
+?/gluT
+|2,1,1604745423,47,"gluT"
+?/laodpal
+|2,1,1604745419,47,"laodpal"
+?/LoadPal
+|2,1,1604745416,47,"LoadPal"
+?/glTexLoad
+|2,1,1604745268,47,"glTexLoad"
+?/gluTex
+|2,1,1604745263,47,"gluTex"
+?/gluTexLoad
+|2,1,1604745259,47,"gluTexLoad"
+?/glTextLoad
+|2,1,1604745244,47,"glTextLoad"
+?/glTex
+|2,1,1604745221,47,"glTex"
+?/glColorTable
+|2,1,1604744470,47,"glColorTable"
+?/@
+|2,1,1604017639,47,"@"
+?/advance
+|2,1,1603412531,47,"advance"
+?/void advance
+|2,1,1603412528,47,"void advance"
+?/eprintf(
+|2,1,1603412444,47,"eprintf("
+?/const
+|2,1,1603412435,47,"const"
+?/eprint
+|2,1,1603412428,47,"eprint"
+?/eprintf
+|2,1,1603412417,47,"eprintf"
+?/^(?!$)[^#@].+
+|2,1,1603410158,47,"^(?!$)[^#@].+"
+?/syn
+|2,1,1603410154,47,"syn"
+?/progressheight
+|2,1,1602801029,47,"progressheight"
+?/case 'v'
+|2,1,1602800787,47,"case 'v'"
+?/usage()
+|2,1,1602800752,47,"usage()"
+?/slides
+|2,1,1602800450,47,"slides"
+?/xdraw
+|2,1,1602800425,47,"xdraw"
+?/slides[idx].lines
+|2,1,1602800417,47,"slides[idx].lines"
+?/bold
+|2,1,1602233192,47,"bold"
+?/width
+|2,1,1601420787,47,"width"
+??run()
+|2,1,1601204592,63,"run()"
+?/mshortcuts
+|2,1,1601204270,47,"mshortcuts"
+??mshortcuts
+|2,1,1601204255,63,"mshortcuts"
+??mshorcuts
+|2,1,1601204250,63,"mshorcuts"
+??[
+|2,1,1600962895,63,"["
+? idx
+|2,1,1600902312,,"idx"
+?/mod+l
+|2,1,1599702241,47,"mod+l"
+??word
+|2,1,1599527428,63,"word"
+?/registry
+|2,1,1599374944,47,"registry"
+?/n
+|2,1,1598376197,47,"n"
+?/numfm
+|2,1,1598234790,47,"numfm"
+?/event_mask
+|2,1,1597467038,47,"event_mask"
+?/ev.type
+|2,1,1597467005,47,"ev.type"
+?/drawmenu
+|2,1,1597466936,47,"drawmenu"
+?/drawitem
+|2,1,1597464772,47,"drawitem"
+?/drawItem
+|2,1,1597464768,47,"drawItem"
+?/cist
+|2,1,1597464687,47,"cist"
+?/sensitive
+|2,1,1597462573,47,"sensitive"
+?/insensitive
+|2,1,1597462527,47,"insensitive"
+?/long
+|2,1,1595459123,47,"long"
 
 # Expression History (newest to oldest):
 
@@ -105,1134 +231,1805 @@ $\ =\
 
 # Registers:
 "0	LINE	0
-	font = ShareTech Mono 12
-|3,0,0,1,1,0,1591201358,"font = ShareTech Mono 12"
+	for_window [class="discord"] move container to workspace $ws3
+|3,0,0,1,1,0,1602799374,"for_window [class=\"discord\"] move container to workspace $ws3"
 "1	LINE	0
-	font = ShareTech 12
-|3,0,1,1,1,0,1591192215,"font = ShareTech 12"
-"2	LINE	0
-	bindsym $mod+Shift+equal move scratchpad
-|3,0,2,1,1,0,1591150106,"bindsym $mod+Shift+equal move scratchpad"
+	
+|3,0,1,1,1,0,1607064396,""
+"2	BLOCK	1
+	* 
+	* 
+	* 
+	* 
+	* 
+	* 
+	* 
+	* 
+	* 
+	* 
+	* 
+	* 
+	* 
+|3,0,2,2,13,1,1606738391,"* ","* ","* ","* ","* ","* ","* ","* ","* ","* ","* ","* ","* "
 "3	LINE	0
-	# make scratchpad
-|3,0,3,1,1,0,1591150106,"# make scratchpad"
+	wd: 0005000010140500
+	ac3: 000500001010F600
+	acbf: 0005000010138800
+	pokken: 00050000101DF500
+	hrm: 00050000101E1A00
+	byn: 0005000010157F00
+	byn2: 0005000010172700
+	wspc: 0005000010144E00
+	ssb dlc: 0005000C10145000
+	taiko dlc: 0005000C10192000
+	other taiko dlc: 0005000C10132200
+	wii fit u: 0005000010102400
+	ntdlnd: 0005000010102100
+	spirit tracks: 00050000101B8D00
+	phantom hourglass: 00050000101C3800
+	hyrule historia: 000500001014CA00
+	spider-man nostalgia edition: 0005000010128300
+	
+|3,0,3,1,18,0,1606738385,"wd: 0005000010140500","ac3: 000500001010F600","acbf: 0005000010138800","pokken: 00050000101DF500","hrm: 00050000101E1A00","byn: 0005000010157F00","byn2: 0005000010172700","wspc: 0005000010144E00","ssb dlc: 0005000C10145000","taiko dlc: 0005000C10192000","other taiko dlc: 0005000C10132200","wii fit u: 0005000010102400","ntdlnd: 0005000010102100","spirit tracks: 00050000101B8D00","phantom hourglass: 00050000101C3800",>35
+|<"hyrule historia: 000500001014CA00","spider-man nostalgia edition: 0005000010128300",""
 "4	LINE	0
-	
-|3,0,4,1,1,0,1591150078,""
+	* wiisports: 0005000010144E00
+|3,0,4,1,1,0,1606612877,"* wiisports: 0005000010144E00"
 "5	LINE	0
-	# open htop in a terminal
-	bindsym $mod+o exec "$TERM -e htop -r sys_monitor -c ~/.config/$TERM/sys_monitor"
-	# open nload in a floating terminal (wlan0)
-	bindsym $mod+n exec "$TERM -e 'nload wlan0' -r sys_monitor -c ~/.config/$TERM/sys_monitor"
-	
-|3,0,5,1,5,0,1591150070,"# open htop in a terminal","bindsym $mod+o exec \"$TERM -e htop -r sys_monitor -c ~/.config/$TERM/sys_monitor\"","# open nload in a floating terminal (wlan0)","bindsym $mod+n exec \"$TERM -e 'nload wlan0' -r sys_monitor -c ~/.config/$TERM/sys_monitor\"",""
+	Grade 1
+|3,0,5,1,1,0,1606129682,"Grade 1"
 "6	LINE	0
-	# open scratchpad terminal
-|3,0,6,1,1,0,1591150065,"# open scratchpad terminal"
+	Grade 2
+|3,0,6,1,1,0,1606129681,"Grade 2"
 "7	LINE	0
-	echo $BROWSER
-|3,0,7,1,1,0,1591039321,"echo $BROWSER"
+	Grade 3
+|3,0,7,1,1,0,1606129680,"Grade 3"
 "8	LINE	0
-	
-|3,0,8,1,1,0,1591035630,""
+	Grade 4
+|3,0,8,1,1,0,1606129679,"Grade 4"
 "9	LINE	0
-	# make scratchpad
-	bindsym $mod+Shift+equal move scratchpad
-|3,0,9,1,2,0,1591034559,"# make scratchpad","bindsym $mod+Shift+equal move scratchpad"
+	Grade 5
+|3,0,9,1,1,0,1606129678,"Grade 5"
+"i@	CHAR	0
+	f;a		
+|3,2,18,0,1,0,1592186371,"f;a		"
 "q	CHAR	0
-	€kd€kd€kd€kd€kd€kddd€ku€ku€ku€ku€ku€kupQ€kb€kb€kbvisual
-|3,0,26,0,1,0,1589784096,"€kd€kd€kd€kd€kd€kddd€ku€ku€ku€ku€ku€kupQ€kb€kb€kbvisual"
-"s@	CHAR	0
+	€kd€kd€kd€kd€kd€kddd€ku€ku€ku€ku€ku€kupQ€kb€kb€kbvisual€ýa
+|3,0,26,0,1,0,1589784096,"€kd€kd€kd€kd€kd€kddd€ku€ku€ku€ku€ku€kupQ€kb€kb€kbvisual€ýa"
+"s	CHAR	0
 	€kd€kd€kddd€ku€ku€kup
-|3,2,28,0,1,0,1589784279,"€kd€kd€kddd€ku€ku€kup"
+|3,0,28,0,1,0,1589784279,"€kd€kd€kddd€ku€ku€kup"
 ""-	CHAR	0
-	#
-|3,1,36,0,1,0,1591201575,"#"
+	 
+|3,1,36,0,1,0,1607064419," "
 
 # File marks:
-'0  1  0  ~/.config/fcitx/conf/fcitx-keyboard.config
-|4,48,1,0,1591204581,"~/.config/fcitx/conf/fcitx-keyboard.config"
-'1  1  0  ~/.config/fcitx/config
-|4,49,1,0,1591204569,"~/.config/fcitx/config"
-'2  1  0  ~/.config/fcitx/config
-|4,50,1,0,1591204569,"~/.config/fcitx/config"
-'3  8  0  ~/.gtkrc-2.0
-|4,51,8,0,1591202201,"~/.gtkrc-2.0"
-'4  12  27  ~/.config/termite/config
-|4,52,12,27,1591201597,"~/.config/termite/config"
-'5  11  0  ~/.config/termite/config
-|4,53,11,0,1591201576,"~/.config/termite/config"
-'6  11  0  ~/.config/termite/config
-|4,54,11,0,1591201576,"~/.config/termite/config"
-'7  30  25  ~/.XCompose
-|4,55,30,25,1591199309,"~/.XCompose"
-'8  28  18  ~/.bash_aliases
-|4,56,28,18,1591196286,"~/.bash_aliases"
-'9  28  17  ~/.bash_aliases
-|4,57,28,17,1591196267,"~/.bash_aliases"
+'0  32  0  /mnt/sd/FunKiiU/gameslist/2020-12-08.txt
+|4,48,32,0,1607417227,"/mnt/sd/FunKiiU/gameslist/2020-12-08.txt"
+'1  3  28  ~/.config/i3blocks/blocks/storage.sh
+|4,49,3,28,1607351539,"~/.config/i3blocks/blocks/storage.sh"
+'2  4  50  ~/.config/i3blocks/blocks/storage.sh
+|4,50,4,50,1607351437,"~/.config/i3blocks/blocks/storage.sh"
+'3  3  50  ~/.config/i3blocks/blocks/storage.sh
+|4,51,3,50,1607351437,"~/.config/i3blocks/blocks/storage.sh"
+'4  14  24  /mnt/sd/FunKiiU/gameslist/2020-12-08.txt
+|4,52,14,24,1607350398,"/mnt/sd/FunKiiU/gameslist/2020-12-08.txt"
+'5  14  24  /mnt/sd/FunKiiU/gameslist/2020-12-08.txt
+|4,53,14,24,1607350398,"/mnt/sd/FunKiiU/gameslist/2020-12-08.txt"
+'6  10  28  ~/.bashrc
+|4,54,10,28,1607075998,"~/.bashrc"
+'7  1  0  ~/Documents/work/doug_2020-11-20/info.txt
+|4,55,1,0,1607075007,"~/Documents/work/doug_2020-11-20/info.txt"
+'8  17  6  ~/Documents/work/doug_2020-11-20/info.txt
+|4,56,17,6,1607065629,"~/Documents/work/doug_2020-11-20/info.txt"
+'9  17  6  ~/Documents/work/doug_2020-11-20/info.txt
+|4,57,17,6,1607065629,"~/Documents/work/doug_2020-11-20/info.txt"
 
 # Jumplist (newest first):
--'  1  0  ~/.config/fcitx/conf/fcitx-keyboard.config
-|4,39,1,0,1591204581,"~/.config/fcitx/conf/fcitx-keyboard.config"
--'  1  0  ~/.config/fcitx/config
-|4,39,1,0,1591204569,"~/.config/fcitx/config"
--'  1  0  ~/.config/fcitx/config
-|4,39,1,0,1591204569,"~/.config/fcitx/config"
--'  1  0  ~/.config/fcitx/config
-|4,39,1,0,1591204569,"~/.config/fcitx/config"
--'  1  0  ~/.config/fcitx/config
-|4,39,1,0,1591204569,"~/.config/fcitx/config"
--'  8  0  ~/.gtkrc-2.0
-|4,39,8,0,1591202201,"~/.gtkrc-2.0"
--'  8  0  ~/.gtkrc-2.0
-|4,39,8,0,1591202201,"~/.gtkrc-2.0"
--'  8  0  ~/.gtkrc-2.0
-|4,39,8,0,1591202201,"~/.gtkrc-2.0"
--'  8  0  ~/.gtkrc-2.0
-|4,39,8,0,1591202201,"~/.gtkrc-2.0"
--'  8  0  ~/.gtkrc-2.0
-|4,39,8,0,1591202201,"~/.gtkrc-2.0"
--'  8  0  ~/.gtkrc-2.0
-|4,39,8,0,1591202201,"~/.gtkrc-2.0"
--'  1  0  ~/.gtkrc-2.0
-|4,39,1,0,1591202128,"~/.gtkrc-2.0"
--'  1  0  ~/.gtkrc-2.0
-|4,39,1,0,1591202128,"~/.gtkrc-2.0"
--'  1  0  ~/.gtkrc-2.0
-|4,39,1,0,1591202128,"~/.gtkrc-2.0"
--'  1  0  ~/.gtkrc-2.0
-|4,39,1,0,1591202128,"~/.gtkrc-2.0"
--'  1  0  ~/.gtkrc-2.0
-|4,39,1,0,1591202128,"~/.gtkrc-2.0"
--'  1  0  ~/.gtkrc-2.0
-|4,39,1,0,1591202128,"~/.gtkrc-2.0"
--'  12  27  ~/.config/termite/config
-|4,39,12,27,1591201597,"~/.config/termite/config"
--'  12  27  ~/.config/termite/config
-|4,39,12,27,1591201597,"~/.config/termite/config"
--'  12  27  ~/.config/termite/config
-|4,39,12,27,1591201597,"~/.config/termite/config"
--'  12  27  ~/.config/termite/config
-|4,39,12,27,1591201597,"~/.config/termite/config"
--'  12  27  ~/.config/termite/config
-|4,39,12,27,1591201597,"~/.config/termite/config"
--'  12  27  ~/.config/termite/config
-|4,39,12,27,1591201597,"~/.config/termite/config"
--'  12  27  ~/.config/termite/config
-|4,39,12,27,1591201597,"~/.config/termite/config"
--'  12  27  ~/.config/termite/config
-|4,39,12,27,1591201597,"~/.config/termite/config"
--'  12  27  ~/.config/termite/config
-|4,39,12,27,1591201597,"~/.config/termite/config"
--'  12  27  ~/.config/termite/config
-|4,39,12,27,1591201597,"~/.config/termite/config"
--'  12  27  ~/.config/termite/config
-|4,39,12,27,1591201597,"~/.config/termite/config"
--'  12  27  ~/.config/termite/config
-|4,39,12,27,1591201597,"~/.config/termite/config"
--'  1  0  ~/.config/termite/config
-|4,39,1,0,1591201590,"~/.config/termite/config"
--'  1  0  ~/.config/termite/config
-|4,39,1,0,1591201590,"~/.config/termite/config"
--'  1  0  ~/.config/termite/config
-|4,39,1,0,1591201590,"~/.config/termite/config"
--'  1  0  ~/.config/termite/config
-|4,39,1,0,1591201590,"~/.config/termite/config"
--'  1  0  ~/.config/termite/config
-|4,39,1,0,1591201590,"~/.config/termite/config"
--'  1  0  ~/.config/termite/config
-|4,39,1,0,1591201590,"~/.config/termite/config"
--'  1  0  ~/.config/termite/config
-|4,39,1,0,1591201590,"~/.config/termite/config"
--'  1  0  ~/.config/termite/config
-|4,39,1,0,1591201590,"~/.config/termite/config"
--'  1  0  ~/.config/termite/config
-|4,39,1,0,1591201590,"~/.config/termite/config"
--'  1  0  ~/.config/termite/config
-|4,39,1,0,1591201590,"~/.config/termite/config"
--'  1  0  ~/.config/termite/config
-|4,39,1,0,1591201590,"~/.config/termite/config"
--'  1  0  ~/.config/termite/config
-|4,39,1,0,1591201590,"~/.config/termite/config"
--'  11  0  ~/.config/termite/config
-|4,39,11,0,1591201576,"~/.config/termite/config"
--'  11  0  ~/.config/termite/config
-|4,39,11,0,1591201576,"~/.config/termite/config"
--'  11  0  ~/.config/termite/config
-|4,39,11,0,1591201576,"~/.config/termite/config"
--'  11  0  ~/.config/termite/config
-|4,39,11,0,1591201576,"~/.config/termite/config"
--'  11  0  ~/.config/termite/config
-|4,39,11,0,1591201576,"~/.config/termite/config"
--'  11  0  ~/.config/termite/config
-|4,39,11,0,1591201576,"~/.config/termite/config"
--'  11  0  ~/.config/termite/config
-|4,39,11,0,1591201576,"~/.config/termite/config"
--'  11  0  ~/.config/termite/config
-|4,39,11,0,1591201576,"~/.config/termite/config"
--'  11  0  ~/.config/termite/config
-|4,39,11,0,1591201576,"~/.config/termite/config"
--'  11  0  ~/.config/termite/config
-|4,39,11,0,1591201576,"~/.config/termite/config"
--'  11  0  ~/.config/termite/config
-|4,39,11,0,1591201576,"~/.config/termite/config"
--'  11  0  ~/.config/termite/config
-|4,39,11,0,1591201576,"~/.config/termite/config"
--'  11  0  ~/.config/termite/config
-|4,39,11,0,1591201576,"~/.config/termite/config"
--'  11  0  ~/.config/termite/config
-|4,39,11,0,1591201576,"~/.config/termite/config"
--'  11  0  ~/.config/termite/config
-|4,39,11,0,1591201576,"~/.config/termite/config"
--'  11  0  ~/.config/termite/config
-|4,39,11,0,1591201576,"~/.config/termite/config"
--'  11  0  ~/.config/termite/config
-|4,39,11,0,1591201576,"~/.config/termite/config"
--'  11  0  ~/.config/termite/config
-|4,39,11,0,1591201576,"~/.config/termite/config"
--'  11  0  ~/.config/termite/config
-|4,39,11,0,1591201576,"~/.config/termite/config"
--'  11  0  ~/.config/termite/config
-|4,39,11,0,1591201576,"~/.config/termite/config"
--'  11  0  ~/.config/termite/config
-|4,39,11,0,1591201576,"~/.config/termite/config"
--'  11  0  ~/.config/termite/config
-|4,39,11,0,1591201576,"~/.config/termite/config"
--'  11  0  ~/.config/termite/config
-|4,39,11,0,1591201576,"~/.config/termite/config"
--'  11  0  ~/.config/termite/config
-|4,39,11,0,1591201576,"~/.config/termite/config"
--'  1  0  ~/.config/termite/config
-|4,39,1,0,1591201353,"~/.config/termite/config"
--'  1  0  ~/.config/termite/config
-|4,39,1,0,1591201353,"~/.config/termite/config"
--'  1  0  ~/.config/termite/config
-|4,39,1,0,1591201353,"~/.config/termite/config"
--'  1  0  ~/.config/termite/config
-|4,39,1,0,1591201353,"~/.config/termite/config"
--'  1  0  ~/.config/termite/config
-|4,39,1,0,1591201353,"~/.config/termite/config"
--'  1  0  ~/.config/termite/config
-|4,39,1,0,1591201353,"~/.config/termite/config"
--'  1  0  ~/.config/termite/config
-|4,39,1,0,1591201353,"~/.config/termite/config"
--'  1  0  ~/.config/termite/config
-|4,39,1,0,1591201353,"~/.config/termite/config"
--'  1  0  ~/.config/termite/config
-|4,39,1,0,1591201353,"~/.config/termite/config"
--'  1  0  ~/.config/termite/config
-|4,39,1,0,1591201353,"~/.config/termite/config"
--'  1  0  ~/.config/termite/config
-|4,39,1,0,1591201353,"~/.config/termite/config"
--'  1  0  ~/.config/termite/config
-|4,39,1,0,1591201353,"~/.config/termite/config"
--'  30  25  ~/.XCompose
-|4,39,30,25,1591199309,"~/.XCompose"
--'  30  25  ~/.XCompose
-|4,39,30,25,1591199309,"~/.XCompose"
--'  30  25  ~/.XCompose
-|4,39,30,25,1591199309,"~/.XCompose"
--'  30  25  ~/.XCompose
-|4,39,30,25,1591199309,"~/.XCompose"
--'  30  25  ~/.XCompose
-|4,39,30,25,1591199309,"~/.XCompose"
--'  30  25  ~/.XCompose
-|4,39,30,25,1591199309,"~/.XCompose"
--'  30  25  ~/.XCompose
-|4,39,30,25,1591199309,"~/.XCompose"
--'  30  25  ~/.XCompose
-|4,39,30,25,1591199309,"~/.XCompose"
--'  30  25  ~/.XCompose
-|4,39,30,25,1591199309,"~/.XCompose"
--'  30  25  ~/.XCompose
-|4,39,30,25,1591199309,"~/.XCompose"
--'  30  25  ~/.XCompose
-|4,39,30,25,1591199309,"~/.XCompose"
--'  30  25  ~/.XCompose
-|4,39,30,25,1591199309,"~/.XCompose"
--'  30  25  ~/.XCompose
-|4,39,30,25,1591199309,"~/.XCompose"
--'  30  25  ~/.XCompose
-|4,39,30,25,1591199309,"~/.XCompose"
--'  30  25  ~/.XCompose
-|4,39,30,25,1591199309,"~/.XCompose"
--'  30  25  ~/.XCompose
-|4,39,30,25,1591199309,"~/.XCompose"
--'  30  25  ~/.XCompose
-|4,39,30,25,1591199309,"~/.XCompose"
--'  30  25  ~/.XCompose
-|4,39,30,25,1591199309,"~/.XCompose"
--'  30  25  ~/.XCompose
-|4,39,30,25,1591199309,"~/.XCompose"
--'  30  25  ~/.XCompose
-|4,39,30,25,1591199309,"~/.XCompose"
--'  30  25  ~/.XCompose
-|4,39,30,25,1591199309,"~/.XCompose"
--'  30  25  ~/.XCompose
-|4,39,30,25,1591199309,"~/.XCompose"
--'  30  25  ~/.XCompose
-|4,39,30,25,1591199309,"~/.XCompose"
+-'  32  0  /mnt/sd/FunKiiU/gameslist/2020-12-08.txt
+|4,39,32,0,1607417227,"/mnt/sd/FunKiiU/gameslist/2020-12-08.txt"
+-'  1  0  /mnt/sd/FunKiiU/gameslist/2020-12-08.txt
+|4,39,1,0,1607398568,"/mnt/sd/FunKiiU/gameslist/2020-12-08.txt"
+-'  3  28  ~/.config/i3blocks/blocks/storage.sh
+|4,39,3,28,1607351539,"~/.config/i3blocks/blocks/storage.sh"
+-'  3  28  ~/.config/i3blocks/blocks/storage.sh
+|4,39,3,28,1607351539,"~/.config/i3blocks/blocks/storage.sh"
+-'  1  0  ~/.config/i3blocks/blocks/storage.sh
+|4,39,1,0,1607351505,"~/.config/i3blocks/blocks/storage.sh"
+-'  1  0  ~/.config/i3blocks/blocks/storage.sh
+|4,39,1,0,1607351505,"~/.config/i3blocks/blocks/storage.sh"
+-'  4  50  ~/.config/i3blocks/blocks/storage.sh
+|4,39,4,50,1607351437,"~/.config/i3blocks/blocks/storage.sh"
+-'  3  50  ~/.config/i3blocks/blocks/storage.sh
+|4,39,3,50,1607351437,"~/.config/i3blocks/blocks/storage.sh"
+-'  4  50  ~/.config/i3blocks/blocks/storage.sh
+|4,39,4,50,1607351437,"~/.config/i3blocks/blocks/storage.sh"
+-'  3  50  ~/.config/i3blocks/blocks/storage.sh
+|4,39,3,50,1607351437,"~/.config/i3blocks/blocks/storage.sh"
+-'  1  0  ~/.config/i3blocks/blocks/storage.sh
+|4,39,1,0,1607351374,"~/.config/i3blocks/blocks/storage.sh"
+-'  1  0  ~/.config/i3blocks/blocks/storage.sh
+|4,39,1,0,1607351374,"~/.config/i3blocks/blocks/storage.sh"
+-'  14  24  /mnt/sd/FunKiiU/gameslist/2020-12-08.txt
+|4,39,14,24,1607350398,"/mnt/sd/FunKiiU/gameslist/2020-12-08.txt"
+-'  14  24  /mnt/sd/FunKiiU/gameslist/2020-12-08.txt
+|4,39,14,24,1607350398,"/mnt/sd/FunKiiU/gameslist/2020-12-08.txt"
+-'  14  24  /mnt/sd/FunKiiU/gameslist/2020-12-08.txt
+|4,39,14,24,1607350398,"/mnt/sd/FunKiiU/gameslist/2020-12-08.txt"
+-'  14  24  /mnt/sd/FunKiiU/gameslist/2020-12-08.txt
+|4,39,14,24,1607350398,"/mnt/sd/FunKiiU/gameslist/2020-12-08.txt"
+-'  14  24  /mnt/sd/FunKiiU/gameslist/2020-12-08.txt
+|4,39,14,24,1607350398,"/mnt/sd/FunKiiU/gameslist/2020-12-08.txt"
+-'  1  0  /mnt/sd/FunKiiU/gameslist/2020-12-08.txt
+|4,39,1,0,1607346629,"/mnt/sd/FunKiiU/gameslist/2020-12-08.txt"
+-'  1  0  /mnt/sd/FunKiiU/gameslist/2020-12-08.txt
+|4,39,1,0,1607346629,"/mnt/sd/FunKiiU/gameslist/2020-12-08.txt"
+-'  1  0  /mnt/sd/FunKiiU/gameslist/2020-12-08.txt
+|4,39,1,0,1607346629,"/mnt/sd/FunKiiU/gameslist/2020-12-08.txt"
+-'  1  0  /mnt/sd/FunKiiU/gameslist/2020-12-08.txt
+|4,39,1,0,1607346629,"/mnt/sd/FunKiiU/gameslist/2020-12-08.txt"
+-'  10  28  ~/.bashrc
+|4,39,10,28,1607075998,"~/.bashrc"
+-'  10  28  ~/.bashrc
+|4,39,10,28,1607075998,"~/.bashrc"
+-'  10  28  ~/.bashrc
+|4,39,10,28,1607075998,"~/.bashrc"
+-'  10  28  ~/.bashrc
+|4,39,10,28,1607075998,"~/.bashrc"
+-'  10  28  ~/.bashrc
+|4,39,10,28,1607075998,"~/.bashrc"
+-'  10  28  ~/.bashrc
+|4,39,10,28,1607075998,"~/.bashrc"
+-'  10  28  ~/.bashrc
+|4,39,10,28,1607075998,"~/.bashrc"
+-'  10  28  ~/.bashrc
+|4,39,10,28,1607075998,"~/.bashrc"
+-'  10  28  ~/.bashrc
+|4,39,10,28,1607075998,"~/.bashrc"
+-'  10  28  ~/.bashrc
+|4,39,10,28,1607075998,"~/.bashrc"
+-'  10  28  ~/.bashrc
+|4,39,10,28,1607075998,"~/.bashrc"
+-'  10  28  ~/.bashrc
+|4,39,10,28,1607075998,"~/.bashrc"
+-'  10  28  ~/.bashrc
+|4,39,10,28,1607075998,"~/.bashrc"
+-'  10  28  ~/.bashrc
+|4,39,10,28,1607075998,"~/.bashrc"
+-'  10  28  ~/.bashrc
+|4,39,10,28,1607075998,"~/.bashrc"
+-'  10  28  ~/.bashrc
+|4,39,10,28,1607075998,"~/.bashrc"
+-'  10  28  ~/.bashrc
+|4,39,10,28,1607075998,"~/.bashrc"
+-'  10  28  ~/.bashrc
+|4,39,10,28,1607075998,"~/.bashrc"
+-'  10  28  ~/.bashrc
+|4,39,10,28,1607075998,"~/.bashrc"
+-'  10  28  ~/.bashrc
+|4,39,10,28,1607075998,"~/.bashrc"
+-'  10  28  ~/.bashrc
+|4,39,10,28,1607075998,"~/.bashrc"
+-'  10  28  ~/.bashrc
+|4,39,10,28,1607075998,"~/.bashrc"
+-'  10  28  ~/.bashrc
+|4,39,10,28,1607075998,"~/.bashrc"
+-'  10  28  ~/.bashrc
+|4,39,10,28,1607075998,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1607075979,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1607075979,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1607075979,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1607075979,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1607075979,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1607075979,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1607075979,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1607075979,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1607075979,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1607075979,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1607075979,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1607075979,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1607075979,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1607075979,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1607075979,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1607075979,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1607075979,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1607075979,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1607075979,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1607075979,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1607075979,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1607075979,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1607075979,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1607075979,"~/.bashrc"
+-'  1  0  ~/Documents/work/doug_2020-11-20/info.txt
+|4,39,1,0,1607075007,"~/Documents/work/doug_2020-11-20/info.txt"
+-'  1  0  ~/Documents/work/doug_2020-11-20/info.txt
+|4,39,1,0,1607075007,"~/Documents/work/doug_2020-11-20/info.txt"
+-'  1  0  ~/Documents/work/doug_2020-11-20/info.txt
+|4,39,1,0,1607075007,"~/Documents/work/doug_2020-11-20/info.txt"
+-'  1  0  ~/Documents/work/doug_2020-11-20/info.txt
+|4,39,1,0,1607075007,"~/Documents/work/doug_2020-11-20/info.txt"
+-'  1  0  ~/Documents/work/doug_2020-11-20/info.txt
+|4,39,1,0,1607075007,"~/Documents/work/doug_2020-11-20/info.txt"
+-'  1  0  ~/Documents/work/doug_2020-11-20/info.txt
+|4,39,1,0,1607075007,"~/Documents/work/doug_2020-11-20/info.txt"
+-'  1  0  ~/Documents/work/doug_2020-11-20/info.txt
+|4,39,1,0,1607075007,"~/Documents/work/doug_2020-11-20/info.txt"
+-'  1  0  ~/Documents/work/doug_2020-11-20/info.txt
+|4,39,1,0,1607075007,"~/Documents/work/doug_2020-11-20/info.txt"
+-'  1  0  ~/Documents/work/doug_2020-11-20/info.txt
+|4,39,1,0,1607075007,"~/Documents/work/doug_2020-11-20/info.txt"
+-'  1  0  ~/Documents/work/doug_2020-11-20/info.txt
+|4,39,1,0,1607075007,"~/Documents/work/doug_2020-11-20/info.txt"
+-'  1  0  ~/Documents/work/doug_2020-11-20/info.txt
+|4,39,1,0,1607075007,"~/Documents/work/doug_2020-11-20/info.txt"
+-'  1  0  ~/Documents/work/doug_2020-11-20/info.txt
+|4,39,1,0,1607075007,"~/Documents/work/doug_2020-11-20/info.txt"
+-'  1  0  ~/Documents/work/doug_2020-11-20/info.txt
+|4,39,1,0,1607075007,"~/Documents/work/doug_2020-11-20/info.txt"
+-'  1  0  ~/Documents/work/doug_2020-11-20/info.txt
+|4,39,1,0,1607075007,"~/Documents/work/doug_2020-11-20/info.txt"
+-'  1  0  ~/Documents/work/doug_2020-11-20/info.txt
+|4,39,1,0,1607075007,"~/Documents/work/doug_2020-11-20/info.txt"
+-'  1  0  ~/Documents/work/doug_2020-11-20/info.txt
+|4,39,1,0,1607075007,"~/Documents/work/doug_2020-11-20/info.txt"
+-'  1  0  ~/Documents/work/doug_2020-11-20/info.txt
+|4,39,1,0,1607075007,"~/Documents/work/doug_2020-11-20/info.txt"
+-'  1  0  ~/Documents/work/doug_2020-11-20/info.txt
+|4,39,1,0,1607075007,"~/Documents/work/doug_2020-11-20/info.txt"
+-'  1  0  ~/Documents/work/doug_2020-11-20/info.txt
+|4,39,1,0,1607075007,"~/Documents/work/doug_2020-11-20/info.txt"
+-'  1  0  ~/Documents/work/doug_2020-11-20/info.txt
+|4,39,1,0,1607075007,"~/Documents/work/doug_2020-11-20/info.txt"
+-'  1  0  ~/Documents/work/doug_2020-11-20/info.txt
+|4,39,1,0,1607075007,"~/Documents/work/doug_2020-11-20/info.txt"
+-'  1  0  ~/Documents/work/doug_2020-11-20/info.txt
+|4,39,1,0,1607075007,"~/Documents/work/doug_2020-11-20/info.txt"
+-'  1  0  ~/Documents/work/doug_2020-11-20/info.txt
+|4,39,1,0,1607075007,"~/Documents/work/doug_2020-11-20/info.txt"
+-'  1  0  ~/Documents/work/doug_2020-11-20/info.txt
+|4,39,1,0,1607075007,"~/Documents/work/doug_2020-11-20/info.txt"
+-'  1  0  ~/Documents/work/doug_2020-11-20/info.txt
+|4,39,1,0,1607075007,"~/Documents/work/doug_2020-11-20/info.txt"
+-'  1  0  ~/Documents/work/doug_2020-11-20/info.txt
+|4,39,1,0,1607075007,"~/Documents/work/doug_2020-11-20/info.txt"
+-'  1  0  ~/Documents/work/doug_2020-11-20/info.txt
+|4,39,1,0,1607075007,"~/Documents/work/doug_2020-11-20/info.txt"
+-'  1  0  ~/Documents/work/doug_2020-11-20/info.txt
+|4,39,1,0,1607075007,"~/Documents/work/doug_2020-11-20/info.txt"
+-'  1  0  ~/Documents/work/doug_2020-11-20/info.txt
+|4,39,1,0,1607075007,"~/Documents/work/doug_2020-11-20/info.txt"
+-'  1  0  ~/Documents/work/doug_2020-11-20/info.txt
+|4,39,1,0,1607075007,"~/Documents/work/doug_2020-11-20/info.txt"
+-'  1  0  ~/Documents/work/doug_2020-11-20/info.txt
+|4,39,1,0,1607075007,"~/Documents/work/doug_2020-11-20/info.txt"
 
 # History of marks within files (newest to oldest):
 
-> ~/.config/fcitx/conf/fcitx-keyboard.config
-	*	1591204581	0
+> /mnt/sd/FunKiiU/gameslist/2020-12-08.txt
+	*	1607398581	0
+	"	32	0
+	^	14	25
+	.	15	0
+	+	4	35
+	+	15	0
+
+> ~/.config/i3blocks/blocks/storage.sh
+	*	1607351535	0
+	"	3	28
+	^	3	29
+	.	3	28
+	+	4	50
+	+	3	28
+
+> ~/.bashrc
+	*	1607075998	0
+	"	10	28
+	^	10	29
+	.	10	28
+	+	6	0
+	+	7	0
+	+	8	20
+	+	9	0
+	+	12	24
+	+	14	0
+	+	13	0
+	+	7	24
+	+	10	0
+	+	11	0
+	+	10	28
+
+> ~/Documents/work/doug_2020-11-20/info.txt
+	*	1607075001	0
 	"	1	0
-
-> ~/.gtkrc-2.0
-	*	1591202199	0
-	"	8	0
-	.	8	0
-	+	8	0
-
-> ~/.config/termite/config
-	*	1591201596	0
-	"	12	27
-	^	12	28
-	.	12	27
-	+	3	19
-	+	13	0
-	+	10	23
-	+	13	0
-	+	33	0
-	+	53	0
-	+	55	0
-	+	54	0
-	+	50	15
-	+	53	19
-	+	55	19
-	+	54	24
-	+	58	24
-	+	64	0
-	+	74	0
-	+	64	0
-	+	72	0
-	+	74	0
-	+	74	21
-	+	79	0
-	+	81	0
-	+	79	0
-	+	72	0
-	+	71	0
-	+	74	0
-	+	71	0
-	+	74	0
-	+	71	0
-	+	74	0
-	+	71	0
-	+	74	0
-	+	81	0
-	+	78	0
-	+	72	0
-	+	65	0
-	+	74	0
-	+	66	0
-	+	74	0
-	+	71	0
-	+	74	0
-	+	76	0
-	+	74	0
-	+	77	0
-	+	74	0
-	+	75	0
-	+	74	0
-	+	67	0
-	+	68	0
-	+	69	0
-	+	70	0
-	+	71	0
-	+	73	0
-	+	64	0
-	+	5	0
+	^	11	8
+	.	10	6
+	+	4	11
+	+	4	0
 	+	3	0
 	+	2	0
-	+	23	0
-	+	4	18
-	+	24	0
-	+	16	21
-	+	17	0
-	+	45	0
-	+	42	0
-	+	58	24
-	+	23	0
+	+	5	0
+	+	8	56
+	+	4	12
+	+	5	0
+	+	3	50
+	+	9	0
+	+	15	18
+	+	17	45
+	+	7	23
+	+	17	60
 	+	10	0
-	+	13	0
-	+	11	0
-	+	12	0
-	+	11	0
-	+	12	0
-	+	11	23
-	+	12	27
-
-> ~/.XCompose
-	*	1591199309	0
-	"	30	25
-	^	30	26
-	.	30	25
-	+	16	25
-	+	36	0
-	+	36	6
-	+	37	39
-	+	38	37
-	+	15	25
-	+	17	0
-	+	10	0
-	+	40	50
-	+	33	27
-	+	32	12
-	+	34	17
-	+	18	18
-	+	19	26
-	+	14	105
-	+	30	25
+	+	6	6
+	+	12	42
+	+	16	24
+	+	11	7
+	+	10	6
 
 > ~/.bash_aliases
-	*	1591196286	0
-	"	28	18
-	^	28	19
-	.	28	18
-	+	73	17
-	+	74	5
-	+	75	0
+	*	1606832539	0
+	"	4	0
+	^	88	1
+	.	88	0
+	+	74	17
+	+	75	5
+	+	76	0
 	+	5	0
 	+	23	36
 	+	28	18
+	+	76	43
+	+	7	0
+	+	31	0
+	+	80	14
+	+	81	16
+	+	69	72
+	+	76	0
+	+	82	70
+	+	30	10
+	+	83	7
+	+	74	16
+	+	66	5
+	+	83	7
+	+	19	13
+	+	84	18
+	+	85	12
+	+	70	47
+	+	87	23
+	+	86	19
+	+	87	33
+	+	87	35
+	+	88	0
 
-> /usr/share/fonts/share-tech-mono/ShareTechMono-Regular.ttf
-	*	1591191667	0
+> ~/Documents/work/doug_2020-11-20/notes.txt
+	*	1606828906	0
 	"	1	0
+	^	8	18
+	.	8	17
+	+	11	99
+	+	10	15
+	+	6	10
+	+	8	17
 
-> ~/NERD_tree_1
-	*	1591191666	0
-	"	7	0
+> ~/Documents/please_help_ds/rohan/readme.txt
+	*	1606778818	0
+	"	42	0
+
+> ~/games_2020-11-29.txt
+	*	1606738391	0
+	"	1	0
+	^	7	2
 	.	1	0
+	+	10	16
+	+	11	16
+	+	12	15
+	+	13	16
+	+	10	1
+	+	11	1
+	+	12	1
+	+	13	1
+	+	7	1
+	+	14	0
 	+	1	0
 
-> /usr/share/fonts/sharetech-mono/fonts.dir
-	*	1591191658	0
+> ~/Documents/testing/data/kanji.txt
+	*	1606129715	0
+	"	1	0
+	^	26	755
+	.	1	0
+	+	26	752
+	+	25	0
+	+	23	0
+	+	22	0
+	+	21	0
+	+	19	0
+	+	18	0
+	+	17	0
+	+	16	0
+	+	15	0
+	+	8	0
+	+	7	0
+	+	6	0
+	+	5	0
+	+	4	0
+	+	3	0
+	+	2	0
+	+	1	0
+
+> ~/.config/mirage/settings.json
+	*	1605717060	0
+	"	10	15
+	^	319	23
+	.	319	22
+	+	319	22
+
+> ~/Documents/work/bca/application_2020-11-18/application_2020-11-07.md
+	*	1605626020	0
+	"	14	0
+	^	28	61
+	.	28	60
+	+	1	15
+	+	26	59
+	+	27	0
+	+	28	60
+
+> ~/Documents/work/bca/application_2020-11-07.md
+	*	1605625330	0
+	"	1	0
+	^	23	60
+	.	24	0
+	+	2	15
+	+	12	62
+	+	16	104
+	+	12	39
+	+	13	1
+	+	16	104
+	+	13	0
+	+	16	104
+	+	13	77
+	+	16	104
+	+	13	110
+	+	16	105
+	+	12	23
+	+	16	120
+	+	13	76
+	+	16	121
+	+	15	171
+	+	12	23
+	+	15	188
+	+	14	67
+	+	15	186
+	+	16	104
+	+	14	62
+	+	15	183
+	+	16	104
+	+	17	0
+	+	4	0
+	+	9	0
+	+	4	193
+	+	4	52
+	+	5	0
+	+	6	107
+	+	7	0
+	+	8	262
+	+	9	0
+	+	17	0
+	+	18	187
+	+	10	111
+	+	10	16
+	+	19	0
+	+	20	8
+	+	24	0
+
+> ~/Documents/work/resume/resume_2020-09-06_draft.md
+	*	1605625317	0
+	"	1	0
+	^	5	67
+	.	5	66
+	+	5	8
+	+	5	0
+	+	6	65
+	+	7	0
+	+	5	0
+	+	7	0
+	+	5	0
+	+	6	0
+	+	5	66
+
+> ~/Documents/repositories/yogsoy.github.io/.git/COMMIT_EDITMSG
+	*	1605624769	0
+	"	1	21
+	^	1	22
+	.	1	21
+	+	1	21
+
+> ~/Documents/repositories/yogsoy.github.io/README.md
+	*	1605624758	0
+	"	3	65
+	^	3	66
+	.	3	65
+	+	2	0
+	+	3	65
+
+> ~/Documents/wiicunt/hackmii_installer_v1.2/README-BootMii.txt
+	*	1605392583	0
+	"	94	0
+
+> ~/Documents/wiicunt/hackmii_installer_v1.2/README-HBC.txt
+	*	1605392541	0
+	"	69	0
+
+> ~/Documents/wiicunt/hackmii_installer_v1.2/README.txt
+	*	1605392521	0
+	"	42	0
+
+> ~/Documents/toast.txt
+	*	1605390630	0
+	"	32	0
+
+> ~/Documents/vita_homebrew/config.txt
+	*	1604845063	0
+	"	8	0
+	.	24	0
+	+	23	0
+	+	10	0
+	+	8	0
+	+	23	0
+	+	24	0
+	+	9	0
+	+	24	0
+	+	15	0
+	+	23	0
+	+	24	0
+	+	15	0
+	+	24	0
+
+> ~/Documents/repositories/ctroller/3DS/ctroller.cfg
+	*	1604842179	0
+	"	1	11
+	^	1	12
+	.	1	11
+	+	1	11
+
+> ~/Documents/vita_homebrew/final/config.txt
+	*	1604833663	0
+	"	13	0
+
+> ~/Documents/repositories/finalhe/COPYING
+	*	1604829542	0
+	"	1	20
+
+> ~/Documents/repositories/osu-ds/arm9/source/Graphics/GraphicsManager.cpp
+	*	1604745585	0
+	"	2	0
+	.	2	0
+	+	45	0
+	+	203	0
+	+	2	0
+
+> /opt/devkitpro/libnds/include/nds/arm9/videoGL.h
+	*	1604745448	0
+	"	1	0
+
+> ~/Documents/repositories/osu-ds/arm9/source/Graphics/GraphicsManager.h
+	*	1604744582	0
+	"	4	28
+	^	4	29
+	.	4	28
+	+	5	0
+	+	4	28
+
+> ~/Documents/repositories/osu-ds/rebuild.bat
+	*	1604743256	0
+	"	1	0
+
+> ~/Documents/repositories/osu-ds/build.bat
+	*	1604742884	0
 	"	1	0
 
 > ~/.config/i3/config
-	*	1591153541	0
-	"	106	38
-	^	106	39
-	.	106	38
-	+	148	0
-	+	147	14
-	+	148	29
-	+	149	13
-	+	148	13
-	+	149	23
-	+	148	24
-	+	84	0
-	+	263	0
-	+	266	116
-	+	266	0
-	+	267	0
-	+	266	40
-	+	263	33
-	+	84	0
-	+	266	0
-	+	267	0
-	+	266	0
-	+	263	39
-	+	266	31
-	+	263	25
-	+	266	0
-	+	266	142
-	+	83	29
-	+	263	0
-	+	266	0
-	+	263	40
-	+	264	45
-	+	263	42
-	+	6	16
-	+	227	25
-	+	227	37
-	+	227	0
-	+	227	36
-	+	263	0
-	+	7	20
-	+	230	0
-	+	7	20
-	+	227	42
-	+	87	25
-	+	227	37
-	+	71	35
-	+	72	21
-	+	21	0
-	+	63	0
-	+	61	23
-	+	145	18
-	+	119	13
-	+	227	112
-	+	122	18
-	+	121	0
-	+	123	0
-	+	227	49
-	+	68	18
-	+	227	49
-	+	87	26
-	+	95	0
-	+	227	42
-	+	227	79
-	+	227	0
-	+	220	0
-	+	227	0
-	+	216	0
-	+	220	0
-	+	123	0
-	+	122	24
-	+	106	42
-	+	107	0
-	+	106	25
-	+	69	52
-	+	106	38
+	*	1604730402	0
+	"	40	3
+	^	40	4
+	.	40	3
+	+	59	17
+	+	14	0
+	+	13	0
+	+	14	0
+	+	13	0
+	+	73	0
+	+	87	41
+	+	255	41
+	+	256	0
+	+	286	56
+	+	288	59
+	+	88	0
+	+	85	44
+	+	298	0
+	+	264	0
+	+	298	0
+	+	264	0
+	+	183	0
+	+	184	0
+	+	185	0
+	+	186	0
+	+	187	0
+	+	188	0
+	+	189	0
+	+	190	0
+	+	191	0
+	+	183	0
+	+	127	11
+	+	127	0
+	+	238	24
+	+	238	0
+	+	127	11
+	+	127	5
+	+	126	0
+	+	127	0
+	+	127	29
+	+	87	0
+	+	87	28
+	+	87	19
+	+	142	0
+	+	127	0
+	+	238	0
+	+	142	13
+	+	88	41
+	+	83	0
+	+	76	0
+	+	88	0
+	+	83	0
+	+	78	0
+	+	76	0
+	+	75	52
+	+	78	0
+	+	88	0
+	+	271	60
+	+	273	60
+	+	272	66
+	+	274	66
+	+	281	87
+	+	281	0
+	+	121	28
+	+	118	0
+	+	119	0
+	+	271	60
+	+	272	66
+	+	273	60
+	+	274	66
+	+	271	60
+	+	273	60
+	+	272	66
+	+	274	66
+	+	79	0
+	+	83	0
+	+	81	0
+	+	82	19
+	+	81	27
+	+	82	27
+	+	80	75
+	+	237	0
+	+	234	104
+	+	232	20
+	+	117	0
+	+	70	0
+	+	71	0
+	+	205	0
+	+	203	0
+	+	205	0
+	+	204	0
+	+	205	0
+	+	204	0
+	+	205	0
+	+	204	0
+	+	193	0
+	+	157	34
+	+	73	0
+	+	39	0
+	+	40	0
+	+	39	32
+	+	38	4
+	+	39	0
+	+	40	3
 
-> ~/.config/termite/sys_monitor
-	*	1591149750	0
-	"	10	23
-	^	10	24
-	.	10	23
-	+	2	27
-	+	1	8
-	+	2	26
-	+	56	26
-	+	10	23
-
-> ~/scripts/htop_terminal.sh
-	*	1591149090	0
-	"	1	0
-	^	1	110
-	.	1	110
-	+	1	110
-
-> ~/yogsoy_configs_scripts/configs/misc/.screenrc
-	*	1591148573	0
-	"	1	0
+> ~/.vimrc
+	*	1604715970	0
+	"	42	0
 
 > ~/Documents/work/admin/abn.txt
-	*	1591148047	0
+	*	1604714222	0
 	"	1	0
 
-> ~/.config/picom.conf
-	*	1591071899	0
-	"	1	0
+> ~/Documents/bottom_gear.txt
+	*	1604527386	0
+	"	204	0
+	^	344	13
+	.	344	12
+	+	236	20
+	+	237	26
+	+	344	12
 
-> ~/.xprofile
-	*	1591070298	0
-	"	1	0
-
-> ~/.xinitrc
-	*	1591070295	0
-	"	1	0
-	.	29	0
-	+	11	2
-	+	2	0
-	+	9	9
-	+	8	9
-	+	11	0
-	+	11	6
-	+	2	0
-	+	11	0
-	+	8	0
-	+	3	0
-	+	29	0
-
-> ~/.local/share/xorg/Xorg.0.log
-	*	1591069381	0
-	"	101	0
-
-> ~/.bash_history
-	*	1591068642	0
-	"	9457	0
-
-> ~/scripts/browser_selection.sh
-	*	1591039349	0
-	"	1	7
-	^	1	8
-	.	1	7
-	+	1	7
-
-> ~/scripts/wiktionary_selection.sh
-	*	1591039331	0
-	"	3	7
-	^	3	8
-	.	3	7
-	+	3	7
-
-> ~/.bashrc
-	*	1591039238	0
-	"	153	22
-	^	153	23
-	.	153	22
-	+	155	14
-	+	156	10
-	+	66	75
-	+	153	22
-
-> ~/ctf/htb/invite/go.js
-	*	1591033991	0
-	"	38	0
-	^	3	43
-	.	3	42
-	+	6	16
-	+	2	26
-	+	6	13
-	+	6	10
-	+	6	0
-	+	6	17
-	+	6	44
-	+	6	2
-	+	6	20
-	+	6	0
-	+	6	13
-	+	6	32
-	+	6	3
-	+	6	28
-	+	6	14
-	+	6	0
-	+	38	9
-	+	4	0
-	+	6	19
-	+	10	25
-	+	12	28
-	+	3	42
-
-> ~/ctf/htb/invite/purest.js
-	*	1591033980	0
-	"	23	0
-	^	20	2
-	.	20	1
-	+	1	0
-	+	18	217
-	+	1	9
-	+	24	16
-	+	22	2
-	+	24	0
-	+	22	11
-	+	22	232
-	+	20	1
-
-> ~/ctf/htb/invite/pure
-	*	1591033971	0
-	"	1	0
-
-> /usr/bin/neofetch
-	*	1591033030	0
-	"	10302	0
-	.	10302	0
-	+	10302	0
-
-> /etc/pam.d/other
-	*	1591026952	0
-	"	10	0
-	^	10	1
-	.	10	0
-	+	10	0
-
-> ~/Documents/repositories/miraclecast/res/write-udev-rule.sh
-	*	1591020904	0
-	"	53	0
-
-> ~/ctf/htb/invite/ajax.json
-	*	1591017227	0
-	"	7	0
-	^	7	1
-	.	7	0
-	+	7	0
-
-> ~/ctf/htb/invite/pure_pain.js
-	*	1591016228	0
-	"	1	0
-
-> ~/ctf/htb/invite/benis.js
-	*	1591014649	0
-	"	1	470
-	^	1	471
-	.	1	470
-	+	1	470
-
-> ~/ctf/google/2019/misc/pwn/malvertising/metrics.beautiful.js
-	*	1591014228	0
-	"	130	12
-
-> ~/ctf/google/2019/misc/malvertising/metrics.beautiful.js
-	*	1591014132	0
-	"	312	0
-
-> ~/ctf/google/2019/misc/malvertising/metrics.js
-	*	1591013523	0
-	"	1	0
-
-> ~/ctf/google/2019/misc/jit/FancyJIT.java
-	*	1591013153	0
-	"	51	9
-
-> ~/ctf/google/2019/misc/jit/compiler.c
-	*	1591013141	0
-	"	16	4
-
-> ~/ctf/google/2019/misc/doomed_to_repeat_it/main.go
-	*	1591012884	0
-	"	101	0
-
-> ~/ctf/google/2019/misc/doomed_to_repeat_it/game/game.go
-	*	1591012846	0
-	"	6	0
-
-> ~/ctf/google/2019/misc/doomed_to_repeat_it/random/random.go
-	*	1591012687	0
-	"	124	0
-
-> ~/ctf/google/2019/misc/code_golf/challenge.md
-	*	1591012177	0
-	"	1	0
-
-> ~/ctf/thm/the_cod_caper/pingu_id_rsa
-	*	1590936251	0
-	"	27	28
-	^	27	29
-	.	27	28
-	+	1	31
-	+	27	28
-
-> ~/ctf/thm/the_cod_caper/pinga_id_rsa
-	*	1590935985	0
-	"	27	28
-	^	27	29
-	.	27	28
-	+	27	28
-
-> ~/ctf/thm/vulnversity/extensions.sh
-	*	1590931264	0
-	"	11	15
-	^	11	16
-	.	11	15
-	+	12	3
-	+	10	23
-	+	11	15
-
-> /usr/share/wordlists/wfuzz.txt
-	*	1590930585	0
-	"	1	0
-
-> ~/.local/share/applications/pcmanfm.desktop
-	*	1590903932	0
-	"	2	11
-	^	2	12
-	.	2	11
-	+	7	23
-	+	3	11
-	+	2	11
-
-> ~/lightdm.3.log
-	*	1590891824	0
-	"	46	0
-
-> ~/lightdm.2.log
-	*	1590891448	0
-	"	46	0
-
-> /usr/share/xsessions/i3.desktop
-	*	1590891375	0
-	"	1	0
-
-> ~/lightdm.log
-	*	1590891100	0
-	"	38	0
-
-> ~/Downloads/move_arch/etc/lightdm/users.conf
-	*	1590890382	0
-	"	1	0
-
-> ~/Downloads/move_arch/etc/lightdm/lightdm.conf
-	*	1590889450	0
+> ~/.fehbg
+	*	1604464594	0
 	"	2	0
 
-> ~/scripts/nowshut.sh
-	*	1590854445	0
-	"	1	0
+> ~/scripts/extdisp.sh
+	*	1604463757	0
+	"	2	19
+	^	1	9
+	.	2	19
+	+	2	20
+	+	1	8
+	+	2	19
 
-> /etc/lightdm/lightdm.conf
-	*	1590850097	0
-	"	62	0
-	.	62	0
-	+	62	0
-
-> /etc/X11/xorg.conf
-	*	1590849399	0
-	"	1	0
-	^	1	1
-	.	1	0
-	+	1	0
-
-> ~/.config/i3blocks/blocks/volume.sh
-	*	1590768317	0
-	"	8	0
-	^	3	28
-	.	3	27
-	+	10	0
-	+	7	0
-	+	4	0
-	+	6	0
-	+	5	2
-	+	4	29
-	+	5	29
-	+	2	28
-	+	1	21
-	+	2	29
-	+	4	31
-	+	5	29
-	+	4	29
-	+	3	27
-
-> ~/.config/i3blocks/blocks/timezones.sh
-	*	1590768312	0
-	"	13	10
-	^	13	11
-	.	13	10
-	+	13	10
-
-> ~/.config/i3blocks/blocks/temp.sh
-	*	1590768300	0
-	"	1	0
-
-> ~/.config/i3blocks/blocks/network.sh
-	*	1590768297	0
-	"	2	0
-	^	5	86
-	.	5	85
-	+	6	87
-	+	3	52
-	+	6	86
-	+	2	52
-	+	5	85
-
-> ~/.config/i3blocks/blocks/music.sh
-	*	1590768294	0
-	"	50	0
-	^	11	4
-	.	12	0
-	+	24	52
-	+	6	0
-	+	2	43
-	+	4	1
-	+	3	77
-	+	5	30
-	+	3	87
+> ~/.config/keyledsd.conf
+	*	1604400430	0
+	"	23	18
+	^	23	19
+	.	23	18
 	+	21	0
-	+	13	0
-	+	16	0
-	+	29	0
-	+	6	0
-	+	7	0
-	+	11	4
-	+	9	25
-	+	12	0
-
-> ~/.config/i3blocks/blocks/mem.sh
-	*	1590768286	0
-	"	2	0
-
-> ~/.config/i3blocks/blocks/cpu.sh
-	*	1590768281	0
-	"	1	3
-	^	1	4
-	.	1	3
-	+	1	3
-
-> ~/.config/i3blocks/blocks/brightness.sh
-	*	1590768272	0
-	"	6	38
-	^	6	39
-	.	6	38
-	+	3	21
-	+	5	30
-	+	6	3
-	+	8	0
-	+	1	10
-	+	8	3
-	+	6	38
-
-> ~/.config/i3blocks/blocks/bluetooth.sh
-	*	1590768261	0
-	"	1	0
-
-> ~/.config/i3blocks/blocks/battery.sh.bak
-	*	1590768259	0
-	"	1	0
+	+	22	0
+	+	21	6
+	+	23	20
+	+	22	1
+	+	23	18
 
 > ~/.config/i3blocks/blocks/battery.sh
-	*	1590768253	0
-	"	32	15
-	^	32	16
-	.	32	15
-	+	27	0
-	+	27	11
-	+	29	0
-	+	27	0
-	+	32	15
-
-> ~/.config/i3blocks/blocks/bar_time.sh
-	*	1590768234	0
+	*	1604396184	0
 	"	1	0
 
-> ~/.config/gtk-3.0/gtk.css
-	*	1590767381	0
-	"	11	0
-	^	11	1
-	.	11	0
-	+	11	0
+> ~/alphabet.txt
+	*	1604371673	0
+	"	1	0
+	^	26	1
+	.	27	0
+	+	27	0
 
-> .config/gtk-3.0/gtk.css
-	*	1590767368	0
-	"	11	0
-	^	11	1
-	.	11	0
-	+	11	0
+> ~/Documents/school/2020/robot/wordpress_pw
+	*	1604369909	0
+	"	1	0
+	^	1	33
+	.	1	32
+	+	1	32
 
-> ~/.dmrc
-	*	1590767055	0
+> ~/.config/alacritty/alacritty.yml
+	*	1604310821	0
+	"	15	0
+	.	29	0
+	+	7	14
+	+	33	7
+	+	59	23
+	+	60	0
+	+	37	24
+	+	42	0
+	+	7	0
+	+	17	0
+	+	14	38
+	+	7	17
+	+	15	0
+	+	16	22
+	+	18	0
+	+	26	0
+	+	19	16
+	+	20	14
+	+	19	17
+	+	21	0
+	+	21	18
+	+	25	24
+	+	19	23
+	+	20	15
+	+	19	17
+	+	20	15
+	+	29	0
+	+	27	7
+	+	29	0
+
+> ~/NERD_tree_1
+	*	1604310814	0
+	"	5	0
+	.	1	0
+	+	1	0
+
+> ~/.config/kitty/kitty.conf
+	*	1604308284	0
+	"	1	0
+	^	20	23
+	.	20	22
+	+	21	0
+	+	20	24
+	+	20	22
+
+> ~/.config/dunst/dunstrc
+	*	1604064557	0
+	"	373	0
+	^	373	1
+	.	373	0
+	+	273	0
+	+	371	0
+	+	370	0
+	+	371	0
+	+	372	0
+	+	373	0
+	+	371	14
+	+	373	34
+	+	32	17
+	+	273	29
+	+	183	21
+	+	371	0
+	+	372	0
+	+	373	0
+
+> ~/Downloads/programs/Attorney Online 2.8/base/(downloads)/PhoenixCC/soundlist.ini
+	*	1604056379	0
+	"	33	0
+
+> ~/Downloads/programs/Attorney Online 2.8/base/config.ini
+	*	1604048085	0
+	"	36	0
+
+> ~/.XCompose
+	*	1604044081	0
+	"	39	45
+	^	39	46
+	.	39	45
+	+	44	74
+	+	61	0
+	+	53	46
+	+	54	51
+	+	55	39
+	+	53	13
+	+	56	42
+	+	61	0
+	+	57	34
+	+	18	25
+	+	22	40
+	+	20	17
+	+	21	26
+	+	95	0
+	+	92	0
+	+	95	0
+	+	40	0
+	+	34	25
+	+	93	0
+	+	22	47
+	+	17	17
+	+	58	100
+	+	58	20
+	+	14	0
+	+	14	26
+	+	14	25
+	+	14	0
+	+	93	0
+	+	92	0
+	+	93	0
+	+	92	0
+	+	59	46
+	+	35	18
+	+	31	13
+	+	89	0
+	+	62	9
+	+	63	22
+	+	89	0
+	+	64	0
+	+	63	23
+	+	64	17
+	+	65	17
+	+	66	0
+	+	67	17
+	+	68	17
+	+	69	17
+	+	70	17
+	+	71	17
+	+	72	17
+	+	73	17
+	+	74	17
+	+	75	17
+	+	76	17
+	+	77	17
+	+	78	17
+	+	79	17
+	+	80	17
+	+	81	17
+	+	82	17
+	+	83	17
+	+	84	17
+	+	85	17
+	+	86	17
+	+	87	17
+	+	88	17
+	+	64	23
+	+	65	23
+	+	66	23
+	+	67	23
+	+	68	23
+	+	69	23
+	+	70	23
+	+	71	23
+	+	72	23
+	+	73	23
+	+	74	23
+	+	75	23
+	+	76	23
+	+	77	23
+	+	78	23
+	+	79	23
+	+	80	23
+	+	81	23
+	+	82	23
+	+	83	23
+	+	84	26
+	+	85	23
+	+	86	23
+	+	87	23
+	+	88	23
+	+	36	25
+	+	13	0
+	+	14	27
+	+	14	26
+	+	14	0
+	+	29	17
+	+	60	47
+	+	38	26
+	+	37	22
+	+	39	45
+
+> ~/Documents/school/2020/english/myth_roid_eyes/presentation.snt
+	*	1604017647	0
+	"	8	0
+	^	236	13
+	.	236	12
+	+	129	0
+	+	130	0
+	+	111	10
+	+	112	9
+	+	92	10
+	+	94	18
+	+	70	0
+	+	71	0
+	+	72	10
+	+	74	15
+	+	73	3
+	+	93	5
+	+	112	0
+	+	93	0
+	+	88	0
+	+	77	46
+	+	40	0
+	+	43	0
+	+	42	12
+	+	41	1
+	+	126	33
+	+	131	50
+	+	136	15
+	+	135	3
+	+	137	0
+	+	138	59
+	+	131	52
+	+	132	5
+	+	141	44
+	+	140	29
+	+	146	0
+	+	144	49
+	+	145	6
+	+	152	12
+	+	151	2
+	+	153	0
+	+	156	35
+	+	155	27
+	+	164	10
+	+	163	1
+	+	165	0
+	+	166	53
+	+	169	0
+	+	177	8
+	+	176	0
+	+	178	0
+	+	179	46
+	+	180	0
+	+	179	21
+	+	180	14
+	+	185	32
+	+	182	1
+	+	186	0
+	+	187	36
+	+	189	9
+	+	190	0
+	+	191	10
+	+	194	10
+	+	192	1
+	+	195	0
+	+	200	25
+	+	196	38
+	+	198	13
+	+	205	28
+	+	206	0
+	+	207	0
+	+	1	0
+	+	206	0
+	+	207	0
+	+	9	0
+	+	12	0
+	+	9	0
+	+	8	0
+	+	12	0
+	+	11	0
+	+	50	1
+	+	50	0
+	+	63	0
+	+	211	33
+	+	215	37
+	+	216	0
+	+	217	10
+	+	219	24
+	+	218	6
+	+	227	16
+	+	228	0
+	+	229	44
+	+	234	30
+	+	235	0
+	+	223	41
+	+	226	30
+	+	227	2
+	+	227	31
+	+	228	0
+	+	224	28
+	+	225	32
+	+	235	45
+	+	235	0
+	+	236	12
+
+> ~/Documents/school/2020/english/myth_roid_eyes/lyrics/L.L.L.txt
+	*	1604013193	0
+	"	25	0
+	^	59	43
+	.	59	42
+	+	59	42
+
+> ~/Documents/school/2020/english/myth_roid_eyes/lyrics/Crazy Scary Holy Fantasy.txt
+	*	1604012902	0
+	"	1	0
+	^	38	31
+	.	38	28
+	+	38	28
+
+> ~/Documents/smbshare-copy/smbshare/website/connectionlog.txt
+	*	1603926509	0
+	"	265754	0
+
+> ~/Documents/smbshare-copy/smbshare/website/site-server.js
+	*	1603925757	0
+	"	77	0
+
+> ~/Documents/smbshare-copy/smbshare/website/simplemessage/connectionlog.txt
+	*	1603925368	0
+	"	43	0
+
+> ~/Documents/smbshare-copy/smbshare/website/simplemessage/messages.txt
+	*	1603925194	0
+	"	97	0
+
+> ~/Documents/smbshare-copy/smbshare/website/sm/devchat.txt
+	*	1603924980	0
+	"	1	0
+
+> ~/Documents/smbshare-copy/smbshare/website/simplemessage/devchat.txt
+	*	1603924972	0
+	"	1	0
+
+> ~/Documents/smbshare-copy/smbshare/website/domains.json
+	*	1603924909	0
+	"	1	0
+
+> ~/Documents/SoySource/config/osu.json
+	*	1603923411	0
+	"	2	136
+	^	2	137
+	.	2	136
+	+	2	136
+
+> ~/Documents/SoySource/config/osu
+	*	1603923390	0
+	"	1	0
+
+> ~/Documents/SoySource/commands/exec.js
+	*	1603923356	0
+	"	15	0
+
+> ~/random_0-10_50.txt
+	*	1603923106	0
+	"	1	0
+
+> ~/Documents/repositories/EasyRP/build/config.ini
+	*	1603922889	0
+	"	27	12
+	^	32	15
+	.	32	14
+	+	27	13
+	+	26	21
+	+	24	25
+	+	30	14
+	+	32	14
+
+> ~/Documents/repositories/EasyRP/config.ini
+	*	1603922301	0
+	"	30	10
+	^	30	11
+	.	27	19
+	+	21	26
+	+	24	10
+	+	25	13
+	+	26	15
+	+	27	19
+
+> ~/Documents/repositories/EasyRP/config.
+	*	1603921923	0
+	"	1	0
+
+> ~/.config/ncmpc/config
+	*	1603882906	0
+	"	7	18
+	^	7	19
+	.	7	18
+	+	5	0
+	+	4	0
+	+	5	18
+	+	4	16
+	+	5	17
+	+	7	16
+	+	8	30
+	+	12	25
+	+	11	36
+	+	10	24
+	+	13	25
+	+	15	0
+	+	13	23
+	+	8	26
+	+	6	23
+	+	14	24
+	+	2	58
+	+	7	18
+
+> ~/.config/ncmpc/keys
+	*	1603877413	0
+	"	1	0
+
+> ~/Documents/josua/Report.md
+	*	1603874570	0
+	"	70	0
+	^	69	1
+	.	70	2
+	+	55	0
+	+	56	36
+	+	70	2
+
+> ~/Documents/josua/Report.txt
+	*	1603874464	0
+	"	54	2
+	^	54	3
+	.	39	2
+	+	26	0
+	+	41	86
+	+	22	0
+	+	26	0
+	+	15	0
+	+	16	0
+	+	17	135
+	+	21	40
+	+	1	15
+	+	2	9
+	+	5	0
+	+	9	17
+	+	10	17
+	+	12	0
+	+	15	0
+	+	16	0
+	+	44	80
+	+	14	97
+	+	30	48
+	+	28	0
+	+	32	35
+	+	12	54
+	+	13	85
+	+	45	0
+	+	46	76
+	+	47	75
+	+	48	0
+	+	49	122
+	+	51	114
+	+	50	77
+	+	49	90
+	+	23	0
+	+	24	0
+	+	23	41
+	+	52	0
+	+	53	119
+	+	54	162
+	+	1	1
+	+	2	1
+	+	4	1
+	+	5	1
+	+	7	0
+	+	8	1
+	+	27	1
+	+	35	1
+	+	36	1
+	+	39	2
+
+> ~/Documents/josua/Readme.txt
+	*	1603871605	0
+	"	1	0
+
+> ~/.config/sxhkd/sxhkdrc
+	*	1603869556	0
+	"	16	11
+	^	16	12
+	.	16	11
+	+	4	6
+	+	7	70
+	+	6	12
+	+	10	15
+	+	13	12
+	+	23	129
+	+	25	0
+	+	21	8
+	+	31	38
+	+	31	0
+	+	33	0
+	+	35	40
+	+	3	0
+	+	4	0
+	+	3	0
+	+	40	15
+	+	34	15
+	+	31	15
+	+	41	10
+	+	35	65
+	+	32	0
+	+	41	74
+	+	35	65
+	+	48	0
+	+	3	8
+	+	25	16
+	+	32	65
+	+	38	12
+	+	4	10
+	+	13	31
+	+	41	22
+	+	17	0
+	+	18	17
+	+	19	5
+	+	6	13
+	+	7	76
+	+	22	71
+	+	23	132
+	+	42	0
+	+	43	35
+	+	44	51
+	+	43	0
+	+	44	0
+	+	43	0
+	+	44	0
+	+	27	0
+	+	28	11
+	+	29	17
+	+	28	3
+	+	29	25
+	+	22	85
+	+	23	149
+	+	15	10
+	+	16	23
+	+	15	16
+	+	16	11
+
+> ~/Documents/repositories/ueberzug/README.md
+	*	1603868452	0
+	"	1	0
+
+> ~/Documents/repositories/flitter/README.md
+	*	1603868411	0
 	"	2	0
 
-> ~/scripts/go.sh
-	*	1590766977	0
-	"	4	76
-	^	4	77
-	.	4	76
-	+	4	76
-
-> ~/.config/rofi/config
-	*	1590766944	0
+> ~/Documents/repositories/PCRT/README.md
+	*	1603868369	0
 	"	1	0
 
-> ~/.bash_plugins/untargz.sh
-	*	1590765230	0
-	"	4	13
-	^	4	14
-	.	4	30
+> ~/Documents/repositories/epoptes/README.md
+	*	1603868345	0
+	"	1	0
+
+> ~/Documents/school/2020/english/myth_roid_eyes/lyrics/JINGO JUNGLE.txt
+	*	1603858258	0
+	"	40	29
+	^	40	30
+	.	40	29
+	+	40	29
+
+> ~/Documents/repositories/lasagnadothtml/index.html
+	*	1603665271	0
+	"	426	3
+	^	72	16
+	.	72	16
+	+	73	6
+	+	73	8
+	+	72	16
+	+	73	6
+	+	73	0
+	+	72	16
+
+> ~/Documents/repositories/sent/drw.c
+	*	1603412747	0
+	"	218	3
+
+> ~/Documents/repositories/sent/sent.c
+	*	1603412554	0
+	"	484	0
+	^	506	2
+	.	484	0
+	+	747	0
+	+	566	41
+	+	571	0
+	+	570	0
+	+	569	0
+	+	568	0
+	+	567	0
+	+	566	0
+	+	714	50
+	+	726	11
+	+	734	8
+	+	726	0
+	+	21	26
+	+	101	41
+	+	483	0
+	+	484	35
+	+	506	1
+	+	484	0
+
+> ~/Documents/repositories/sent/config.h
+	*	1603412382	0
+	"	51	40
+	^	51	41
+	.	51	40
+	+	5	16
+	+	4	16
+	+	13	8
+	+	14	8
 	+	1	0
-	+	13	37
-	+	1	14
-	+	13	63
-	+	1	20
-	+	1	1
-	+	13	78
-	+	1	9
-	+	1	0
-	+	10	0
-	+	13	7
-	+	10	18
-	+	10	40
-	+	10	0
-	+	13	0
-	+	13	76
-	+	10	1
-	+	2	0
-	+	10	2
-	+	10	0
-	+	13	59
-	+	13	0
-	+	12	17
-	+	10	10
-	+	10	19
-	+	10	0
-	+	10	19
-	+	10	0
+	+	20	35
+	+	21	36
+	+	22	0
+	+	23	45
+	+	24	0
+	+	51	40
+
+> ~/Documents/repositories/sent/config.def.h
+	*	1603412372	0
+	"	50	40
+	^	50	41
+	.	50	41
+	+	21	0
+	+	22	45
+	+	23	0
+	+	50	41
+
+> ~/.vim/syntax/sent.vim
+	*	1603412197	0
+	"	16	27
+	^	16	28
+	.	16	27
 	+	7	0
-	+	8	0
+	+	3	5
+	+	7	0
+	+	12	38
+	+	17	26
+	+	12	0
+	+	4	0
+	+	7	0
+	+	10	37
+	+	17	26
+	+	15	26
+	+	17	0
+	+	10	0
+	+	17	0
+	+	10	0
+	+	10	1
+	+	11	37
+	+	16	27
+	+	17	0
+	+	10	28
+	+	17	31
+	+	10	33
+	+	10	35
+	+	10	0
+	+	10	14
+	+	10	26
+	+	17	34
+	+	10	34
+	+	9	29
+	+	16	29
+	+	9	22
+	+	16	27
+	+	9	21
+	+	10	35
+	+	9	24
 	+	10	0
 	+	9	0
+	+	6	30
 	+	10	0
-	+	3	14
-	+	5	11
-	+	10	0
-	+	9	16
-	+	4	30
+	+	5	0
+	+	17	0
+	+	13	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	16	27
 
-> ~/.bash_plugins/targz.sh
-	*	1590763572	0
-	"	1	0
-	^	1	169
-	.	1	168
-	+	6	0
-	+	4	138
-	+	4	12
-	+	1	168
+> ~/.vim/ftdetect/sent.vim
+	*	1603405372	0
+	"	1	44
+	^	1	45
+	.	1	44
+	+	1	44
+	+	2	0
+	+	1	44
 
-> ~/Downloads/DiscordCanary/discord-canary.desktop
-	*	1590758807	0
-	"	1	0
-
-> ~/Downloads/DiscordCanary/discord
-	*	1590758804	0
-	"	1	0
-
-> ~/Downloads/DiscordCanary/postinst.sh
-	*	1590758781	0
-	"	1	0
-
-> ~/.config/fcitx/config
-	*	1590756506	0
-	"	5	0
-	.	4	3
-	+	1	1
+> ~/sent.vim
+	*	1603405262	0
+	"	9	28
+	^	9	29
+	.	9	28
+	+	3	4
 	+	1	0
-	+	4	3
+	+	4	0
+	+	5	17
+	+	7	0
+	+	5	20
+	+	7	0
+	+	8	34
+	+	9	0
+	+	8	23
+	+	6	26
+	+	9	28
+
+> ~/Documents/school/2020/english/myth_roid_eyes/test.snt
+	*	1603404915	0
+	"	1	30
+	^	1	31
+	.	1	30
+	+	1	30
 
 > ~/.config/i3blocks/config
-	*	1590755797	0
-	"	1	1
-	^	1	2
-	.	1	1
-	+	2	23
-	+	1	1
+	*	1603367015	0
+	"	28	0
+	^	30	13
+	.	30	12
+	+	27	0
+	+	28	9
+	+	29	11
+	+	31	0
+	+	30	12
 
-> ~/xinitrc
-	*	1590750255	0
-	"	36	6
-	^	36	7
-	.	36	6
+> ~/.config/i3blocks/blocks/timezones.sh
+	*	1603365137	0
+	"	2	0
+	.	9	0
+	+	9	26
+	+	9	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	9	44
+	+	11	32
+	+	13	44
+	+	14	0
+	+	13	0
+	+	7	46
+	+	11	0
+	+	4	0
+	+	1	21
+	+	3	0
+	+	2	60
+	+	9	0
+	+	10	0
 	+	11	0
 	+	12	0
-	+	19	0
-	+	20	0
-	+	35	0
-	+	36	6
-
-> /etc/wpa_supplicant/wpa_supplicant-wlp60s0.conf
-	*	1590748308	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	1	0
-
-> ~/connect_wifi.sh
-	*	1590747288	0
-	"	2	13
-	^	2	14
-	.	2	13
-	+	2	13
-
-> ~/Documents/repositories/yogsoy_configs_scripts/backup.sh
-	*	1590193658	0
-	"	13	98
-	^	13	99
-	.	13	98
-	+	17	131
-	+	13	98
-
-> ~/Documents/repositories/yogsoy_configs_scripts/.git/COMMIT_EDITMSG
-	*	1590171539	0
-	"	1	31
-	^	1	32
-	.	1	31
-	+	1	31
-
-> ~/.bash_plugins/etymology.sh
-	*	1590162786	0
-	"	1	0
-
-> ~/Documents/repositories/chicago-brick/README.md
-	*	1590067051	0
-	"	62	0
-
-> ~/Documents/testing/data/yandere_StudentScript_words_by_usages
-	*	1589884744	0
-	"	1	0
-
-> ~/Documents/nicklas_2020-05-19_electrons.txt
-	*	1589874340	0
-	"	29	4
-	^	20	5
-	.	20	4
-	+	5	13
-	+	2	8
-	+	16	11
-	+	15	5
-	+	14	16
-	+	15	29
-	+	32	15
-	+	31	14
-	+	36	25
-	+	35	14
-	+	36	26
-	+	39	21
-	+	20	4
-
-> ~/Documents/repositories/mpv-mpris/.gitignore
-	*	1589850619	0
-	"	1	0
-
-> ~/Documents/repositories/mpv-mpris/README.md
-	*	1589850606	0
-	"	18	0
-
-> ~/Documents/school/2020/japanese/2020-05-19.txt
-	*	1589849518	0
-	"	12	0
-	.	13	0
-	+	3	0
-	+	1	72
-	+	2	51
-	+	3	0
-	+	4	51
-	+	7	30
-	+	8	24
-	+	11	51
-	+	12	35
-	+	11	45
 	+	13	0
+	+	15	0
+	+	13	0
+	+	12	0
+	+	11	0
+	+	10	0
+	+	9	0
 
-> ~/Documents/school/2020/japanese/2020-05-19
-	*	1589843649	0
+> ~/Documents/school/2020/english/myth_roid_eyes/planning.md
+	*	1603251886	0
+	"	1	0
+	^	9	21
+
+> ~/Documents/school/2020/english/myth_roid_eyes/lyrics/STYX HELIX.txt
+	*	1603058958	0
+	"	1	0
+	^	32	46
+	.	32	45
+	+	32	45
+
+> ~/Documents/school/2020/english/myth_roid_eyes/lyrics/TRAGEDY:ETERNITY.txt
+	*	1602807569	0
 	"	1	0
 
-> ~/ctf/google/2019/beginner/5/console.c
-	*	1589807827	0
+> ~/Documents/school/2020/english/myth_roid_eyes/lyrics/sunny garden sunday.txt
+	*	1602803062	0
+	"	60	16
+	^	60	17
+	.	60	16
+	+	60	16
+
+> ~/Documents/school/2020/english/myth_roid_eyes/lyrics/TRAGEDY : ETERNITY.txt
+	*	1602802839	0
+	"	74	38
+	^	74	39
+	.	74	38
+	+	74	38
+
+> ~/Documents/school/2020/english/myth_roid_eyes/\-A beginning\-.txt
+	*	1602802648	0
+	"	17	79
+	^	17	80
+	.	17	79
+	+	3	46
+	+	4	48
+	+	17	79
+
+> ~/Documents/repositories/sent/sent.1
+	*	1602800729	0
+	"	27	0
+	^	34	47
+	.	27	0
+	+	8	16
+	+	10	0
+	+	9	0
+	+	27	17
+	+	34	46
+	+	27	0
+
+> ~/Documents/school/2020/english/jingo_jungle/planning.md
+	*	1602799151	0
+	"	11	0
+	^	14	9
+	.	14	9
+	+	6	0
+	+	1	16
+	+	6	0
+	+	13	51
+	+	4	13
+	+	13	0
+	+	13	71
+	+	13	0
+	+	13	9
+	+	13	0
+	+	17	35
+	+	54	19
+	+	16	0
+	+	15	33
+	+	13	12
+	+	15	9
+	+	16	0
+	+	17	60
+	+	15	2
+	+	42	0
+	+	43	15
+	+	55	0
+	+	56	26
+	+	98	29
+	+	57	32
+	+	58	0
+	+	13	71
+	+	13	0
+	+	13	14
+	+	14	115
+	+	16	0
+	+	13	0
+	+	7	0
+	+	13	1
+	+	13	2
+	+	15	2
+	+	17	2
+	+	43	2
+	+	56	2
+	+	17	0
+	+	9	84
+	+	13	27
+	+	13	23
+	+	13	0
+	+	13	117
+	+	13	0
+	+	18	14
+	+	18	0
+	+	19	0
+	+	18	0
+	+	51	33
+	+	10	139
+	+	59	32
+	+	13	74
+	+	99	0
+	+	103	62
+	+	6	0
+	+	7	65
+	+	9	21
+	+	10	0
+	+	13	13
+	+	11	0
+	+	12	167
+	+	13	0
+	+	14	14
+	+	18	13
+	+	29	14
+	+	19	18
+	+	20	17
+	+	13	0
+	+	30	0
+	+	31	0
+	+	34	0
+	+	13	0
+	+	11	0
+	+	32	0
+	+	14	2
+	+	32	14
+	+	14	9
+
+> ~/scripts/marquee.sh
+	*	1602721295	0
+	"	4	71
+	^	4	72
+	.	4	71
+	+	3	0
+	+	2	34
+	+	1	10
+	+	4	0
+	+	5	0
+	+	4	71
+
+> ~/test.sh
+	*	1602720899	0
+	"	10	3
+	^	10	4
+	.	10	3
+	+	10	3
+
+> ~/ctf/sunshine/brainmeat/brainfucked.bf
+	*	1602719836	0
 	"	1	0
 
-> ~/ctf/google/2019/beginner/5/console
-	*	1589807824	0
+> ~/Documents/school/2020/robot/kinect/js/main.js
+	*	1602718936	0
+	"	10	0
+	^	26	3
+	.	26	2
+	+	19	0
+	+	18	6
+	+	39	3
+	+	30	40
+	+	33	39
+	+	31	0
+	+	30	2
+	+	39	2
+	+	35	38
+	+	30	0
+	+	34	0
+	+	35	3
+	+	36	0
+	+	36	4
+	+	39	23
+	+	30	32
+	+	39	28
+	+	38	31
+	+	39	0
+	+	43	0
+	+	40	4
+	+	42	0
+	+	39	25
+	+	42	3
+	+	43	4
+	+	46	23
+	+	39	5
+	+	40	33
+	+	37	15
+	+	40	0
+	+	41	4
+	+	39	4
+	+	37	14
+	+	19	32
+	+	19	2
+	+	19	0
+	+	19	36
+	+	19	37
+	+	1	10
+	+	3	0
+	+	15	0
+	+	18	0
+	+	4	81
+	+	19	0
+	+	10	0
+	+	18	0
+	+	19	0
+	+	10	11
+	+	10	12
+	+	46	21
+	+	20	17
+	+	4	109
+	+	14	0
+	+	10	0
+	+	5	14
+	+	8	27
+	+	9	0
+	+	6	0
+	+	8	0
+	+	6	0
+	+	16	0
+	+	17	0
+	+	16	40
+	+	16	70
+	+	27	0
+	+	23	37
+	+	45	30
+	+	16	1
+	+	17	0
+	+	23	37
+	+	45	45
+	+	46	7
+	+	20	31
+	+	24	0
+	+	25	8
+	+	26	45
+	+	27	0
+	+	25	2
+	+	26	2
+
+> ~/Documents/school/2020/robot/kinect/readme.md
+	*	1602717163	0
+	"	1	0
+	^	12	0
+	.	12	0
+	+	7	62
+	+	8	0
+	+	13	36
+	+	3	0
+	+	4	0
+	+	3	30
+	+	12	0
+
+> ~/Documents/repositories/shamir_scavengerhunt/generate.sh
+	*	1602714709	0
+	"	52	0
+
+> ~/Documents/school/2020/english/jingo_jungle/presentation.snt
+	*	1602646513	0
 	"	1	0
 
-> ~/ctf/google/2019/beginner/5/bof
-	*	1589807493	0
+> ~/Documents/testing/projects/anagram/anagram.sh
+	*	1602557541	0
 	"	1	0
-
-> ~/ctf/google/2019/beginner/4/server.js
-	*	1589807208	0
-	"	12	15
-	^	12	16
-	.	5	49
-	+	8	41
-	+	12	15
-	+	11	9
-	+	5	49
-
-> ~/Documents/http server testing/server1.js
-	*	1589807119	0
-	"	1	0
-
-> ~/ctf/google/2019/beginner/4/admin
-	*	1589806270	0
-	"	1	0
-
-> ~/ctf/google/2019/beginner/4/eating.png
-	*	1589805787	0
-	"	4359	0
-
-> ~/ctf/google/2019/beginner/4/cauliflower.jpg
-	*	1589805740	0
-	"	1	0
-
-> ~/ctf/google/2019/beginner/3/family/Users/Family/Documents/helpme
-	*	1589805039	0
-	"	1	0
-	.	1	0
-	+	1	0
-
-> ~/ctf/google/2019/beginner/3/family/Users/Family/Documents/credentials.txt
-	*	1589804763	0
-	"	1	0
+	^	17	88
+	.	17	87
+	+	17	87

@@ -4,6 +4,17 @@
 " highlight all matches when searching (/[text])
 set hlsearch
 
+" fuck you work it out
+nnoremap <esc> :noh<return><esc>
+nnoremap <esc>^[ <esc>^[
+vnoremap <C-X> <Esc>`.``gvP``P
+
+nmap o o<esc>
+nmap O O<esc>
+
+" makes file searches and opens and saves case insensitive (tab complete)
+set wildignorecase
+
 " show trailing whitespace and tabs
 set list listchars=tab:\ \ ,trail:█
 
@@ -19,7 +30,8 @@ set number relativenumber
 " plugg
 call plug#begin()
 Plug 'ollykel/v-vim'
-Plug 'mboughaba/i3config.vim'
+"Plug 'mboughaba/i3config.vim'
+Plug 'kovetskiy/sxhkd-vim'
 call plug#end()
 
 " commands

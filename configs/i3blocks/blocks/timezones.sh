@@ -1,13 +1,15 @@
+case $BLOCK_BUTTON in
+	1) notify-send "Date" "$(cal | sed "s/\<`date +%d`\>/<b>█<\/b>/")";;
+esac
+
 DELIM=" "
-printf "$(TZ=":America/Los_Angeles" date +"%H:%M")<span foreground='grey'>-8</span>"
+
+# timezone names come from /usr/share/zoneinfo/
+
+printf "$(TZ=":America/Los_Angeles" date +"%R")<span foreground='grey'>-8</span>"
 printf "$DELIM"
-printf "$(TZ=":Etc/UTC" date +"%H:%M")<span foreground='grey'>+0</span>"
+printf "$(TZ=":UTC" date +"%R")<span foreground='grey'>+0</span>"
 printf "$DELIM"
-#printf "$(TZ=":Europe/Copenhagen" date +"%H:%M")<span foreground='grey'>+1</span>"
-#printf "$DELIM"
-#printf "$(TZ=":Africa/Johannesburg" date +"%H:%M")<span foreground='grey'>+2</span>"
-#printf "$DELIM"
-#printf "$(TZ=":Indian/Cocos" date +"%H:%M")<span foreground='grey'>+6.5</span>"
-#printf "$DELIM"
-printf "$(TZ=":Asia/Manila" date +"%H:%M")<span foreground='grey'>+8</span>"
+printf "$(TZ=":Africa/Johannesburg" date +"%R")<span foreground='grey'>+2</span>"
+
 printf "\n"

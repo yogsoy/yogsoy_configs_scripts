@@ -25,6 +25,10 @@ color=#ff6800
 interval=10
 color=#ffff00
 
+[storage]
+interval=30
+color=#ff0066
+
 [brightness]
 interval=once
 color=#ffffaa

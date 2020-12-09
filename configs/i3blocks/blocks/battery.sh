@@ -1,11 +1,8 @@
-LOW_BATTERY=20
-MED_LOW_BATTERY=40
 MED_BATTERY=60
+MED_LOW_BATTERY=40
+LOW_BATTERY=20
 
-#battery="$(acpi -b)"
-#level=$(echo $battery | awk '{print $4}' | egrep -o '[0-9]+')
 level=$(cat /sys/class/power_supply/BAT0/capacity)
-#status=$(echo $battery | awk '{print $3}' | tr -d "\n")
 status=$(cat /sys/class/power_supply/BAT0/status)
 
 printf "<span "

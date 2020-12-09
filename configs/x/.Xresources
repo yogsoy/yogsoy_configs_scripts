@@ -21,6 +21,8 @@ URxvt.keysym.Control-underscore: font-size:reset
 ! command that runs upon a bell
 urxvt.bell-command: aplay /home/elyshea/Music/sounds/bell/bell.wav
 
+Sxiv.font: ShareTechMono
+
 ! Fonts {{{
 Xft.antialias: true
 Xft.hinting:   true

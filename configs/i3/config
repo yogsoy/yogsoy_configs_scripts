@@ -1,9 +1,10 @@
 # vim: filetype=i3
+#exec mpv ~/Audio/fart.mp3
 
 ### Definition
 
 set $mod Mod4
-set $TERM termite
+set $TERM kitty
 set $BROWSER chromium
 
 ### Settings
@@ -34,6 +35,10 @@ workspace $ws1 output eDP1
 workspace $ws2 output DP1
 workspace $ws3 output DP1
 
+# yes
+#workspace_auto_back_and_forth yes
+# no
+
 # status bar
 bar {
 	tray_output primary
@@ -51,7 +56,7 @@ bar {
 }
 
 # window focus settings (works?)
-no_focus [title="Discord"]
+no_focus [class="discord"]
 no_focus [window_role="browser"]
 focus_on_window_activation focus
 focus_follows_mouse no
@@ -62,18 +67,31 @@ default_border normal 1
 # not show borders on edges
 hide_edge_borders both
 
-# auto-move windows
+## le for_window section, apparently
 for_window [window_role="browser"] move container to workspace $ws2
-for_window [title="Discord$"] move container to workspace $ws3
-for_window [window_role="sys_monitor"] floating enable
-for_window [window_role="scratchpad"] move scratchpad
+for_window [class="discord"] move container to workspace $ws3
+
+for_window [class="sys_monitor"] floating enable
+for_window [class="sys_monitor"] resize set 1920 1080
+
+for_window [class="pavucontrol"] floating enable
+for_window [class="pavucontrol"] resize set 1920 1080
+
+# makes flameshot (in general?) do floating and sticky - for screenshot pins
+for_window [class="flameshot"] floating enable
+for_window [class="flameshot"] sticky enable
+
+for_window [class="scratchpad"] move scratchpad
+for_window [class="scratchpad"] sticky enable
+
+for_window [floating] move position center
 
 # key held to move floating windows
 floating_modifier $mod
 
 ### Startup
 
-##fixes
+## fixes
 
 # automatically make monitor happen
 exec "~/scripts/extdisp.sh"
@@ -96,14 +114,16 @@ exec --no-startup-id blueman-applet
 # wifi (what)
 exec --no-startup-id nm-applet
 # transmission (torrents)
-#exec --no-startup-id "transmission-gtk -m"
+exec --no-startup-id "transmission-gtk -m"
 # syncthing (for music, mainly)
 exec --no-startup-id "syncthing-gtk -m"
+# keyboard LEDs
+exec --no-startup-id keyledsd
 
 ## programs
 exec $TERM
 # scratchpad
-exec "$TERM -r scratchpad -t Scratchpad -c ~/.config/$TERM/sys_monitor"
+exec ~/scripts/scratchpad.sh
 # role=browser is a chrome option, check this if you change browser
 exec $BROWSER --role=browser
 exec discord-canary
@@ -119,7 +139,7 @@ bindsym $mod+q kill
 bindsym $mod+f floating toggle
 
 # show scratchpad
-bindsym $mod+Shift+Return scratchpad show
+bindsym $mod+grave scratchpad show
 
 # focusing
 bindsym $mod+Left focus left
@@ -134,6 +154,7 @@ bindsym $mod+Shift+Left move left 15px
 bindsym $mod+Shift+Down move down 15px
 bindsym $mod+Shift+Up move up 15px
 bindsym $mod+Shift+Right move right 15px
+bindsym $mod+g move position center
 
 # splits
 bindsym $mod+h split h
@@ -169,7 +190,6 @@ bindsym mod2+KP_7 workspace $ws7
 bindsym mod2+KP_8 workspace $ws8
 bindsym mod2+KP_9 workspace $ws9
 
-
 # move container to workspace
 bindsym $mod+Shift+1 move container to workspace $ws1
 bindsym $mod+Shift+2 move container to workspace $ws2
@@ -189,8 +209,6 @@ bindsym $mod+Shift+c reload
 bindsym $mod+Shift+r restart
 # exit i3 (logout)
 bindsym $mod+Shift+l exit
-# lock screen (?)
-bindsym $mod+l exec dm-tool lock
 
 # resize mode
 bindsym $mod+r mode "resize"
@@ -211,59 +229,69 @@ mode "resize" {
 
 ## Scripts and Programs
 
-# open terminal
-bindsym $mod+Return exec $TERM
-# open htop in a terminal
-bindsym $mod+o exec "$TERM -e htop -r sys_monitor -c ~/.config/$TERM/sys_monitor"
-# open nload in a floating terminal (wlan0)
-bindsym $mod+n exec "$TERM -e 'nload wlan0' -r sys_monitor -c ~/.config/$TERM/sys_monitor"
+exec --no-startup-id sxhkd
 
-# dmenu (but good - runs things in bash)
-bindsym $mod+d exec ~/scripts/go.sh
+# 2020-07-03 from this point in the file onwards i have added a single # to the lines so i can test sxhkd
 
-# pavucontrol because im bad at typing and dont like my history cluttered with `pavucontrol` every six seconds whenever i plug in my shit
-bindsym $mod+p exec pavucontrol
-
-# yes
-bindsym $mod+c exec $BROWSER
-
-# scripts
-bindsym $mod+t exec ~/scripts/speak_time.sh
-#bindsym $mod+Shift+t exec ~/scripts/speak_time_12.sh
-bindsym $mod+Shift+t exec ~/scripts/speak_date.sh
-bindsym $mod+b exec ~/scripts/speak_battery.sh
-bindsym $mod+w exec ~/scripts/wiktionary_selection.sh
-bindsym $mod+Shift+w exec ~/scripts/browser_selection.sh
-bindsym $mod+s exec ~/scripts/speak_selection.sh
-bindsym $mod+Shift+d exec ~/scripts/date_to_clipboard.sh
-bindsym $mod+Shift+m exec ~/scripts/extdisp.sh
-
-## Hotkeys
-
-# volume
-bindsym XF86AudioRaiseVolume exec "pamixer --allow-boost -i 1; pkill i3blocks -RTMIN+2"
-bindsym Shift+XF86AudioRaiseVolume exec "pamixer --allow-boost -i 5; pkill i3blocks -RTMIN+2"
-bindsym XF86AudioLowerVolume exec "pamixer --allow-boost -d 1; pkill i3blocks -RTMIN+2"
-bindsym Shift+XF86AudioLowerVolume exec "pamixer --allow-boost -d 5; pkill i3blocks -RTMIN+2"
-bindsym XF86AudioMute exec "pamixer --allow-boost -t; pkill i3blocks -RTMIN+2"
-bindsym Shift+XF86AudioMute exec "pamixer --set-volume 0; pkill i3blocks -RTMIN+2"
-
-# media
-bindsym XF86AudioPlay exec "playerctl -a play-pause; pkill i3blocks -RTMIN+4"
-bindsym XF86AudioNext exec "playerctl -a next; pkill i3blocks -RTMIN+4"
-bindsym XF86AudioPrev exec "playerctl -a previous; pkill i3blocks -RTMIN+4"
-
-# brightness
-bindsym XF86MonBrightnessUp exec "xbacklight -inc 5 -time 0; pkill i3blocks -RTMIN+5"
-bindsym Shift+XF86MonBrightnessUp exec "xbacklight -inc 20 -time 0; pkill i3blocks -RTMIN+5"
-bindsym XF86MonBrightnessDown exec "xbacklight -dec 5 -time 0; pkill i3blocks -RTMIN+5"
-bindsym Shift+XF86MonBrightnessDown exec "xbacklight -dec 20 -time 0; pkill i3blocks -RTMIN+5"
-
-# screenshots
-bindsym Control+F11 exec "flameshot full -c"
-bindsym Control+Shift+F11 exec "flameshot gui"
-#bindsym Control+F11 exec "scrot -m ~/Pictures/screenshots/$(date +%F_%T).png -e 'xclip -selection clipboard -t image/png < $f'"
-#bindsym Control+Shift+F11 --release exec "scrot -sf ~/Pictures/screenshots/$(date +%F_%T).png -e 'xclip -selection clipboard -t image/png < $f'"
-
-# repeat previous command in terminal
-bindsym mod2+KP_0 exec "xdotool key Up Return"
+## open terminal
+#bindsym $mod+Return exec $TERM
+## open htop in a terminal
+#bindsym $mod+o exec "$TERM -o background_opacity=0.8 --class sys_monitor htop"
+## open nload in a floating terminal (wlan0)
+#bindsym $mod+n exec "$TERM -o background_opacity=0.8 --class sys_monitor nload wlan0"
+#
+## dmenu (but good - runs things in bash)
+#bindsym $mod+d exec ~/scripts/go.sh
+#
+## pavucontrol because im bad at typing and dont like my history cluttered with `pavucontrol` every six seconds whenever i plug in my shit
+#bindsym $mod+p exec "pavucontrol --class=pavucontrol"
+#
+## yes
+#bindsym $mod+c exec $BROWSER
+#
+## scripts
+#bindsym $mod+t exec ~/scripts/speak_time.sh
+##bindsym $mod+Shift+t exec ~/scripts/speak_time_12.sh
+#bindsym $mod+Shift+t exec ~/scripts/tor.sh
+##bindsym $mod+Shift+t exec ~/scripts/speak_date.sh
+#bindsym $mod+b exec ~/scripts/speak_battery.sh
+#bindsym $mod+w exec ~/scripts/wiktionary_selection.sh
+#bindsym $mod+Shift+w exec ~/scripts/browser_selection.sh
+#bindsym $mod+s exec ~/scripts/speak_selection.sh
+#bindsym $mod+Shift+d exec ~/scripts/date_to_clipboard.sh
+#bindsym $mod+Shift+m exec ~/scripts/extdisp.sh
+#bindsym $mod+Shift+h exec ~/scripts/man.sh
+#
+### Hotkeys
+#
+## make test notification
+#bindsym Control+Mod1+space exec "notify-send $RANDOM"
+#
+## volume
+#bindsym XF86AudioRaiseVolume exec "pamixer --allow-boost -i 5; pkill i3blocks -RTMIN+2"
+#bindsym Shift+XF86AudioRaiseVolume exec "pamixer --allow-boost -i 1; pkill i3blocks -RTMIN+2"
+#bindsym XF86AudioLowerVolume exec "pamixer --allow-boost -d 5; pkill i3blocks -RTMIN+2"
+#bindsym Shift+XF86AudioLowerVolume exec "pamixer --allow-boost -d 1; pkill i3blocks -RTMIN+2"
+#bindsym XF86AudioMute exec "pamixer --allow-boost -t; pkill i3blocks -RTMIN+2"
+#bindsym Shift+XF86AudioMute exec "pamixer --set-volume 0; pkill i3blocks -RTMIN+2"
+#
+## media
+#bindsym XF86AudioPlay exec "playerctl -a play-pause; pkill i3blocks -RTMIN+4"
+#bindsym XF86AudioNext exec "playerctl -a next; pkill i3blocks -RTMIN+4"
+#bindsym XF86AudioStop exec "playerctl -a stop; pkill i3blocks -RTMIN+4"
+#bindsym XF86AudioPrev exec "playerctl -a previous; pkill i3blocks -RTMIN+4"
+#
+## brightness
+#bindsym XF86MonBrightnessUp exec "xbacklight -inc 5 -time 0; pkill i3blocks -RTMIN+5"
+#bindsym Shift+XF86MonBrightnessUp exec "xbacklight -inc 10 -time 0; pkill i3blocks -RTMIN+5"
+#bindsym XF86MonBrightnessDown exec "xbacklight -dec 5 -time 0; pkill i3blocks -RTMIN+5"
+#bindsym Shift+XF86MonBrightnessDown exec "xbacklight -dec 10 -time 0; pkill i3blocks -RTMIN+5"
+#
+## screenshots
+#bindsym Control+F11 exec "flameshot full -c"
+#bindsym Control+Shift+F11 exec "flameshot gui"
+##bindsym Control+F11 exec "scrot -m ~/Pictures/screenshots/$(date +%F_%T).png -e 'xclip -selection clipboard -t image/png < $f'"
+##bindsym Control+Shift+F11 --release exec "scrot -sf ~/Pictures/screenshots/$(date +%F_%T).png -e 'xclip -selection clipboard -t image/png < $f'"
+#
+## repeat previous command in terminal
+#bindsym mod2+KP_0 exec "xdotool key Up Return"

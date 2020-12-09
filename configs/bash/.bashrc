@@ -2,6 +2,17 @@
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples
 
+export EDITOR=vim
+#export BROWSER=chromium
+export PRINTER="EPSON_ET-4750_Series"
+export TERMINAL=kitty
+
+export OPENCV_LOG_LEVEL=ERROR
+
+export DEVKITPRO=/opt/devkitpro
+export DEVKITARM=/opt/devkitpro/devkitARM
+export DEVKITPPC=/opt/devkitpro/devkitPPC
+
 # If not running interactively, don't do anything
 case $- in
     *i*) ;;
@@ -63,13 +74,13 @@ fi
 if [ "$color_prompt" = yes ]; then
     # c u s t o m prompt, last edited 2019-03-13
     # "[username@hostname path]"
-    PS1="[\[\033[01;32m\]\u@\h\[\033[00m\] \[\033[01;34m\]\w\[\033[00m\]] "
+    PS1="[\[\033[01;32m\]\u@\h\[\033[00m\] \[\033[01;34m\]\w\[\033[00m\]]\n$ "
 
     # default prompt
     #PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ '
 else
     # "[username@hostname path] "
-    PS1='[\u@\h \w] '
+    PS1="[\u@\h \w]\n$ "
 
     # default prompt
     #PS1='${debian_chroot:+($debian_chroot)}\u@\h\w\$ '
@@ -148,8 +159,3 @@ fi
 
 # include .files in globs (*)
 shopt -s dotglob
-
-export EDITOR=vim
-export BROWSER=chromium
-export PRINTER="EPSON_ET_4750_Series"
-export TERMINAL=termite

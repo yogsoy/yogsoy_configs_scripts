@@ -1,1 +1,1 @@
-echo "$(sensors | grep 'Package' | awk '{print $4}')"
+sensors | grep 'Package' | awk '{print $4}'

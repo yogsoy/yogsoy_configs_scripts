@@ -11,33 +11,81 @@ include "%L"
 <Multi_key> <a> <o> : "å"
 <Multi_key> <A> <o> : "Å"
 
-# oh cool you speak greek? did you learn that in greece? no? online... what the fuck is that? some island?
+# oh cool you speak greek? did you learn that in greece? no? "online"... what the fuck is that? some island?
 <Multi_key> <a> <a> : "α"
 <Multi_key> <m> <m> : "µ"
+<Multi_key> <m> <u> : "µ"
+<Multi_key> <l> <l> : "λ"
 
-<Multi_key> <period> <colon> : "∴" # therefore
-<Multi_key> <colon> <period> : "∵" # because
+<Multi_key> <colon> <period> : "∴" # therefore
+<Multi_key> <period> <colon> : "∵" # because
+<Multi_key> <exclam> <equal> : "≠" # not equal
 
 # ipa shit
 <Multi_key> <I> <I> : "ɪ"
 <Multi_key> <colon> <colon> : "ː"
 <Multi_key> <n> <slash> : "ŋ"
 <Multi_key> <s> <h> : "ʃ"
-<Multi_key> <d> <z> : "ʒ"
+<Multi_key> <z> <h> : "ʒ"
 <Multi_key> <question> <question> : "ʔ"
-<Multi_key> <0> <minus> : "θ"
+<Multi_key> <o> <minus> : "θ"
 <Multi_key> <B> <B> : "ʙ"
 <Multi_key> <r> <r> : "ɹ"
+<Multi_key> <h> <h> : "ɥ"
+<Multi_key> <asciicircum> <h> : "ʰ"
+<Multi_key> <u> <u> : "ʊ"
+# ah yes of course, ipa
+<Multi_key> <w> <o> : "我"
+<Multi_key> <b> <l> : "‎" # blank character?
 
 # for science
 <Multi_key> <E> <E> : "ᴇ"
 <Multi_key> <W> <W> : "Ω"
+<Multi_key> <3> <3> : "ε" # epsilon ("an number what is bigger than zero")
 
 # anime
 <Multi_key> <f> <p> : "🤦" # facepalm
 <Multi_key> <o> <k> : "👌" # ok hand
 <Multi_key> <t> <u> : "👍" # thumbs up
 <Multi_key> <s> <a> : "🤷" # shrug ("shrug arms")
+<Multi_key> <p> <r> : "🙏" # pray
+<Multi_key> <h> <e> : "❤️ " # heart (sorta fucked up fsr so theres the emoji and a space inside those quotes)
+<Multi_key> <n> <o> : "❌" # cross mark ("no")
+<Multi_key> <l> <m> : "😂" # tears of joy ("lmao")
+<Multi_key> <1> <0> : "💯" # 100 emoji
+<Multi_key> <s> <p> : "💦" # sweat splash
+<Multi_key> <k> <s> : "💋" # kiss
+<Multi_key> <B> <plus> : "🅱️ " # B blood type (another one with a space) (B+, as in the blood type)
+<Multi_key> <m> <o> : "🗿" # moyai/moai emoji
+<Multi_key> <g> <b> : "👺" # "japanese goblin"
+
+# Braille
+<Multi_key> <B> <a> : "⠁"
+<Multi_key> <B> <b> : "⠃"
+<Multi_key> <B> <c> : "⠉"
+<Multi_key> <B> <d> : "⠙"
+<Multi_key> <B> <e> : "⠑"
+<Multi_key> <B> <f> : "⠋"
+<Multi_key> <B> <g> : "⠛"
+<Multi_key> <B> <h> : "⠓"
+<Multi_key> <B> <i> : "⠊"
+<Multi_key> <B> <j> : "⠚"
+<Multi_key> <B> <k> : "⠅"
+<Multi_key> <B> <l> : "⠇"
+<Multi_key> <B> <m> : "⠍"
+<Multi_key> <B> <n> : "⠫"
+<Multi_key> <B> <o> : "⠕"
+<Multi_key> <B> <p> : "⠏"
+<Multi_key> <B> <q> : "⠟"
+<Multi_key> <B> <r> : "⠗"
+<Multi_key> <B> <s> : "⠎"
+<Multi_key> <B> <t> : "⠞"
+<Multi_key> <B> <u> : "⠥"
+<Multi_key> <B> <v> : "⠧"
+<Multi_key> <B> <w> : "⠺"
+<Multi_key> <B> <x> : "⠭"
+<Multi_key> <B> <y> : "⠽"
+<Multi_key> <B> <z> : "⠵"
 
 ### very scary things
 

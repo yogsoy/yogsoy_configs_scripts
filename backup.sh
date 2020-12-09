@@ -14,7 +14,7 @@ cp -r ~/.Xauthority ~/.xinitrc ~/.xinputrc ~/.Xmodmap ~/.Xresources ~/.xscreensa
 # vim configs (+ plugins)
 cp -r ~/.vim* ./configs/vim/
 # misc configs
-cp -r ~/.bcrc ~/.inputrc ~/.profile ~/.screenrc ~/.selected_editor ~/.config/htop/htoprc ~/.config/screenkey.json ~/.config/termite ./configs/misc/
+cp -r ~/.bcrc ~/.inputrc ~/.profile ~/.screenrc ~/.selected_editor ~/.config/htop/htoprc ~/.config/screenkey.json ~/.config/kitty ~/.config/keyledsd.conf ./configs/misc/
 
 ### Scripts
 

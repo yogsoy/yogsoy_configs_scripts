@@ -4,7 +4,7 @@
 alias a=alias
 a mv="mv -i"
 a ns=notify-send
-a apti="sudo apt install"
+#a apti="sudo apt install"
 # send to clipboard
 a cb="xclip -i -selection clipboard"
 a rf="rm -rf"
@@ -16,7 +16,7 @@ a lc="wc -l"
 # character count
 a cc="wc -m"
 a cl=clear
-a ch="google-chrome 1>/dev/null 2>/dev/null"
+a ch="chromium 1>/dev/null 2>/dev/null"
 a am="ch --app=https://messages.google.com/web"
 # clear empty lines
 a cel="grep -v ^[[:space:]]*$"
@@ -27,8 +27,8 @@ a debi="sudo dpkg -i"
 # local ip
 #a lip="hostname -I"
 a bc="bc -q"
-a st=speedtest-cli
-a apts="apt search"
+a speedtest=speedtest-cli
+#a apts="apt search"
 a ety=etymology
 a weather="curl wttr.in 2>/dev/null | sed 7q"
 a cp="rsync --progress -s -r -h"
@@ -63,12 +63,26 @@ a sl="sl -e"
 a sxiv="sxiv -a"
 a sc=sc-im
 a chx="chmod +x"
-a :q="exit"
+a :q=exit
 a g=egrep
 a gitc="git clone"
-a sr="du -a ~/.config/* ~/scripts/* ~/Documents/testing/code/* | awk '{print \$2}' | fzf | xargs -ro $EDITOR"
+a sr="find ~/.config/* ~/scripts/* ~/Documents/testing/code/* -type f | fzf | xargs -ro $EDITOR"
+# reset terminal output (xc = something colour?)
 a xc="tput reset"
 a cdls="cd;cl;ls"
 a zoom="env QT_SCALE_FACTOR=2 zoom"
-a pctl="playerctl"
+a pctl=playerctl
 a cv=cacaview
+a tor="sudo chown elyshea /var/lib/tor; tor"
+a psyu="sudo pacman -Syu"
+a pss="pacman -Ss"
+a ysyu="yay -Syu"
+a yss="yay -Ss"
+a svim="sudo vim"
+a discord_tor="discord-canary --proxy-server='socks5://127.0.0.1:9050'"
+a q=qalc
+a slaughter=killall
+a tg=tungsten
+# "big in directory"
+a bid="fs * 2>/dev/null | sort -hr"
+a sudocp="sudo rsync --progress -s -r -h"
